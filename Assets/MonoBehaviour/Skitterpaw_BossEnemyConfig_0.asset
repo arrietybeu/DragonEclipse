@@ -1,0 +1,911 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -445349715, guid: 2c2fad6e12bde213441ca9711c1f22fd, type: 3}
+  m_Name: Skitterpaw_BossEnemyConfig
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  SkeletonCombat: {fileID: 1640300886239803, guid: 4f8b9f7cd48fd9a48814085b896e61d7, type: 3}
+  IsImmortal: 0
+  Health: f4010000f4010000f4010000f401000058020000
+  StartingPhase: 0
+  IsImmovable: 0
+  BlockRevive: 0
+  CantAttack: 0
+  CantActivate: 0
+  Blessings:
+  - {fileID: 11400000, guid: 6b015f5d4909f97499be912d78ea0f07, type: 2}
+  Name:
+    m_TableReference:
+      m_TableCollectionName: GUID:393d391f6bc0c1c42b4132039abdefa2
+    m_TableEntryReference:
+      m_KeyId: 41239606510821377
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  PassiveDescription:
+    m_TableReference:
+      m_TableCollectionName: 
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  Tooltips: []
+  BattleAudio: {fileID: 11400000, guid: 820054d45fa4d5143a9d921982395d69, type: 2}
+  ReviveParticles: {fileID: 0}
+  BuildupParticles: {fileID: 0}
+  PassiveSkill:
+    CasterAnim: 0
+    TargetAnim: 0
+    Tooltips: []
+    Effects: []
+  UltimateDescription:
+    m_TableReference:
+      m_TableCollectionName: 
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  UltimateAction:
+    Actions: []
+  ActionGroups:
+    StartOnSpecificGroup: 0
+    StartGroupIndex: 0
+    Groups:
+    - Weight: 1
+      MaxRepeat: 0
+      Phases: 00000000
+      Packs:
+      - Actions:
+        - <Conditions>k__BackingField: []
+          <Config>k__BackingField: {fileID: 11400000, guid: ed6094f70149ee3408cf28e9dadcaebb, type: 2}
+          <Phase>k__BackingField: 0
+          <DifficultyLevels>k__BackingField: 
+          <PowerValue>k__BackingField:
+            ValueType: 0
+            ValueInt: 7
+            Percentage: 100
+            AdditionalValueInt: 0
+            ValueStatus: 0
+            ValueString: 
+            ValueBool: 0
+            CombatBarkData:
+              LocalizedString:
+                m_TableReference:
+                  m_TableCollectionName: 
+                m_TableEntryReference:
+                  m_KeyId: 0
+                  m_Key: 
+                m_FallbackState: 0
+                m_WaitForCompletion: 0
+                m_LocalVariables: []
+              Duration: 0
+            AdditionalValueString: 
+          <Effects>k__BackingField:
+            CasterAnim: 0
+            TargetAnim: 0
+            Effects: []
+            Tooltips: []
+          Breakthrough: 0
+        - <Conditions>k__BackingField: []
+          <Config>k__BackingField: {fileID: 11400000, guid: ac26522c83112cd48b18ff2070b08006, type: 2}
+          <Phase>k__BackingField: 0
+          <DifficultyLevels>k__BackingField: 
+          <PowerValue>k__BackingField:
+            ValueType: 0
+            ValueInt: 0
+            Percentage: 100
+            AdditionalValueInt: 0
+            ValueStatus: 0
+            ValueString: 
+            ValueBool: 0
+            CombatBarkData:
+              LocalizedString:
+                m_TableReference:
+                  m_TableCollectionName: 
+                m_TableEntryReference:
+                  m_KeyId: 0
+                  m_Key: 
+                m_FallbackState: 0
+                m_WaitForCompletion: 0
+                m_LocalVariables: []
+              Duration: 0
+            AdditionalValueString: 
+          <Effects>k__BackingField:
+            CasterAnim: 2
+            TargetAnim: 0
+            Effects:
+            - <Config>k__BackingField: {fileID: 11400000, guid: 6b83e35e52036094d90f9e6e4122c935, type: 2}
+              <DifficultyLevel>k__BackingField: 0
+              <IgnoreOnHigherDifficulty>k__BackingField: 0
+              <EffectValue>k__BackingField:
+                ValueType: 0
+                ValueInt: 1
+                Percentage: 100
+                AdditionalValueInt: 1
+                ValueStatus: 0
+                ValueString: 
+                ValueBool: 0
+                CombatBarkData:
+                  LocalizedString:
+                    m_TableReference:
+                      m_TableCollectionName: 
+                    m_TableEntryReference:
+                      m_KeyId: 0
+                      m_Key: 
+                    m_FallbackState: 0
+                    m_WaitForCompletion: 0
+                    m_LocalVariables: []
+                  Duration: 0
+                AdditionalValueString: 
+              <CustomAttackData>k__BackingField:
+                PowerModifier:
+                  ModifyPower: 0
+                  PowerModifier: 100
+                  IncreasePowerByCountCard: 0
+                  CardID: 
+                OverrideTarget: 0
+                Target: 0
+                OverrideTargetRange: 0
+                TargetRange: 0
+                OverrideRepeat: 0
+                Repeat:
+                  ValueType: 0
+                  ValueInt: 0
+                  Percentage: 100
+                  AdditionalValueInt: 0
+                  ValueStatus: 0
+                  ValueString: 
+                  ValueBool: 0
+                  CombatBarkData:
+                    LocalizedString:
+                      m_TableReference:
+                        m_TableCollectionName: 
+                      m_TableEntryReference:
+                        m_KeyId: 0
+                        m_Key: 
+                      m_FallbackState: 0
+                      m_WaitForCompletion: 0
+                      m_LocalVariables: []
+                    Duration: 0
+                  AdditionalValueString: 
+                OverridePower: 0
+                Power:
+                  ValueType: 0
+                  ValueInt: 0
+                  Percentage: 100
+                  AdditionalValueInt: 0
+                  ValueStatus: 0
+                  ValueString: 
+                  ValueBool: 0
+                  CombatBarkData:
+                    LocalizedString:
+                      m_TableReference:
+                        m_TableCollectionName: 
+                      m_TableEntryReference:
+                        m_KeyId: 0
+                        m_Key: 
+                      m_FallbackState: 0
+                      m_WaitForCompletion: 0
+                      m_LocalVariables: []
+                    Duration: 0
+                  AdditionalValueString: 
+                OverrideBreakthrough: 0
+                Breakthrough: 0
+                BreakthroughTarget: 0
+                OverrideParticlesOnTarget: 0
+                ParticlesOnTarget: {fileID: 0}
+              <CustomStrikeData>k__BackingField:
+                PowerModifier:
+                  ModifyPower: 0
+                  PowerModifier: 100
+                  IncreasePowerByCountCard: 0
+                  CardID: 
+                OverrideTarget: 0
+                Target: 0
+                OverrideTargetRange: 0
+                TargetRange: 0
+                OverrideRepeat: 0
+                Repeat:
+                  ValueType: 0
+                  ValueInt: 0
+                  Percentage: 100
+                  AdditionalValueInt: 0
+                  ValueStatus: 0
+                  ValueString: 
+                  ValueBool: 0
+                  CombatBarkData:
+                    LocalizedString:
+                      m_TableReference:
+                        m_TableCollectionName: 
+                      m_TableEntryReference:
+                        m_KeyId: 0
+                        m_Key: 
+                      m_FallbackState: 0
+                      m_WaitForCompletion: 0
+                      m_LocalVariables: []
+                    Duration: 0
+                  AdditionalValueString: 
+                OverridePower: 0
+                Power:
+                  ValueType: 0
+                  ValueInt: 0
+                  Percentage: 100
+                  AdditionalValueInt: 0
+                  ValueStatus: 0
+                  ValueString: 
+                  ValueBool: 0
+                  CombatBarkData:
+                    LocalizedString:
+                      m_TableReference:
+                        m_TableCollectionName: 
+                      m_TableEntryReference:
+                        m_KeyId: 0
+                        m_Key: 
+                      m_FallbackState: 0
+                      m_WaitForCompletion: 0
+                      m_LocalVariables: []
+                    Duration: 0
+                  AdditionalValueString: 
+                OverrideParticlesOnTarget: 0
+                ParticlesOnTarget: {fileID: 0}
+              <IgnoreDelay>k__BackingField: 0
+              <IgnoreAudio>k__BackingField: 0
+            Tooltips: []
+          Breakthrough: 0
+      - Actions:
+        - <Conditions>k__BackingField: []
+          <Config>k__BackingField: {fileID: 11400000, guid: cdaeda3270f535244be58b47962bda86, type: 2}
+          <Phase>k__BackingField: 0
+          <DifficultyLevels>k__BackingField: 
+          <PowerValue>k__BackingField:
+            ValueType: 0
+            ValueInt: 6
+            Percentage: 100
+            AdditionalValueInt: 0
+            ValueStatus: 0
+            ValueString: 
+            ValueBool: 0
+            CombatBarkData:
+              LocalizedString:
+                m_TableReference:
+                  m_TableCollectionName: 
+                m_TableEntryReference:
+                  m_KeyId: 0
+                  m_Key: 
+                m_FallbackState: 0
+                m_WaitForCompletion: 0
+                m_LocalVariables: []
+              Duration: 0
+            AdditionalValueString: 
+          <Effects>k__BackingField:
+            CasterAnim: 0
+            TargetAnim: 0
+            Effects: []
+            Tooltips: []
+          Breakthrough: 0
+        - <Conditions>k__BackingField: []
+          <Config>k__BackingField: {fileID: 11400000, guid: f113b31114c69f74dab4d9b240e74667, type: 2}
+          <Phase>k__BackingField: 0
+          <DifficultyLevels>k__BackingField: 
+          <PowerValue>k__BackingField:
+            ValueType: 0
+            ValueInt: 0
+            Percentage: 100
+            AdditionalValueInt: 0
+            ValueStatus: 0
+            ValueString: 
+            ValueBool: 0
+            CombatBarkData:
+              LocalizedString:
+                m_TableReference:
+                  m_TableCollectionName: 
+                m_TableEntryReference:
+                  m_KeyId: 0
+                  m_Key: 
+                m_FallbackState: 0
+                m_WaitForCompletion: 0
+                m_LocalVariables: []
+              Duration: 0
+            AdditionalValueString: 
+          <Effects>k__BackingField:
+            CasterAnim: 2
+            TargetAnim: 0
+            Effects:
+            - <Config>k__BackingField: {fileID: 11400000, guid: fd10f9e75e939274fab563e6a31ffe58, type: 2}
+              <DifficultyLevel>k__BackingField: 0
+              <IgnoreOnHigherDifficulty>k__BackingField: 0
+              <EffectValue>k__BackingField:
+                ValueType: 0
+                ValueInt: -1
+                Percentage: 100
+                AdditionalValueInt: 1
+                ValueStatus: 0
+                ValueString: 
+                ValueBool: 0
+                CombatBarkData:
+                  LocalizedString:
+                    m_TableReference:
+                      m_TableCollectionName: 
+                    m_TableEntryReference:
+                      m_KeyId: 0
+                      m_Key: 
+                    m_FallbackState: 0
+                    m_WaitForCompletion: 0
+                    m_LocalVariables: []
+                  Duration: 0
+                AdditionalValueString: 
+              <CustomAttackData>k__BackingField:
+                PowerModifier:
+                  ModifyPower: 0
+                  PowerModifier: 100
+                  IncreasePowerByCountCard: 0
+                  CardID: 
+                OverrideTarget: 0
+                Target: 0
+                OverrideTargetRange: 0
+                TargetRange: 0
+                OverrideRepeat: 0
+                Repeat:
+                  ValueType: 0
+                  ValueInt: 0
+                  Percentage: 100
+                  AdditionalValueInt: 0
+                  ValueStatus: 0
+                  ValueString: 
+                  ValueBool: 0
+                  CombatBarkData:
+                    LocalizedString:
+                      m_TableReference:
+                        m_TableCollectionName: 
+                      m_TableEntryReference:
+                        m_KeyId: 0
+                        m_Key: 
+                      m_FallbackState: 0
+                      m_WaitForCompletion: 0
+                      m_LocalVariables: []
+                    Duration: 0
+                  AdditionalValueString: 
+                OverridePower: 0
+                Power:
+                  ValueType: 0
+                  ValueInt: 0
+                  Percentage: 100
+                  AdditionalValueInt: 0
+                  ValueStatus: 0
+                  ValueString: 
+                  ValueBool: 0
+                  CombatBarkData:
+                    LocalizedString:
+                      m_TableReference:
+                        m_TableCollectionName: 
+                      m_TableEntryReference:
+                        m_KeyId: 0
+                        m_Key: 
+                      m_FallbackState: 0
+                      m_WaitForCompletion: 0
+                      m_LocalVariables: []
+                    Duration: 0
+                  AdditionalValueString: 
+                OverrideBreakthrough: 0
+                Breakthrough: 0
+                BreakthroughTarget: 0
+                OverrideParticlesOnTarget: 0
+                ParticlesOnTarget: {fileID: 0}
+              <CustomStrikeData>k__BackingField:
+                PowerModifier:
+                  ModifyPower: 0
+                  PowerModifier: 100
+                  IncreasePowerByCountCard: 0
+                  CardID: 
+                OverrideTarget: 0
+                Target: 0
+                OverrideTargetRange: 0
+                TargetRange: 0
+                OverrideRepeat: 0
+                Repeat:
+                  ValueType: 0
+                  ValueInt: 0
+                  Percentage: 100
+                  AdditionalValueInt: 0
+                  ValueStatus: 0
+                  ValueString: 
+                  ValueBool: 0
+                  CombatBarkData:
+                    LocalizedString:
+                      m_TableReference:
+                        m_TableCollectionName: 
+                      m_TableEntryReference:
+                        m_KeyId: 0
+                        m_Key: 
+                      m_FallbackState: 0
+                      m_WaitForCompletion: 0
+                      m_LocalVariables: []
+                    Duration: 0
+                  AdditionalValueString: 
+                OverridePower: 0
+                Power:
+                  ValueType: 0
+                  ValueInt: 0
+                  Percentage: 100
+                  AdditionalValueInt: 0
+                  ValueStatus: 0
+                  ValueString: 
+                  ValueBool: 0
+                  CombatBarkData:
+                    LocalizedString:
+                      m_TableReference:
+                        m_TableCollectionName: 
+                      m_TableEntryReference:
+                        m_KeyId: 0
+                        m_Key: 
+                      m_FallbackState: 0
+                      m_WaitForCompletion: 0
+                      m_LocalVariables: []
+                    Duration: 0
+                  AdditionalValueString: 
+                OverrideParticlesOnTarget: 0
+                ParticlesOnTarget: {fileID: 0}
+              <IgnoreDelay>k__BackingField: 0
+              <IgnoreAudio>k__BackingField: 0
+            Tooltips: []
+          Breakthrough: 0
+      - Actions:
+        - <Conditions>k__BackingField: []
+          <Config>k__BackingField: {fileID: 11400000, guid: 621fec00665aefe47b683df72108ab7e, type: 2}
+          <Phase>k__BackingField: 0
+          <DifficultyLevels>k__BackingField: 
+          <PowerValue>k__BackingField:
+            ValueType: 0
+            ValueInt: 2
+            Percentage: 100
+            AdditionalValueInt: 0
+            ValueStatus: 0
+            ValueString: 
+            ValueBool: 0
+            CombatBarkData:
+              LocalizedString:
+                m_TableReference:
+                  m_TableCollectionName: 
+                m_TableEntryReference:
+                  m_KeyId: 0
+                  m_Key: 
+                m_FallbackState: 0
+                m_WaitForCompletion: 0
+                m_LocalVariables: []
+              Duration: 0
+            AdditionalValueString: 
+          <Effects>k__BackingField:
+            CasterAnim: 0
+            TargetAnim: 0
+            Effects: []
+            Tooltips: []
+          Breakthrough: 0
+        - <Conditions>k__BackingField: []
+          <Config>k__BackingField: {fileID: 11400000, guid: b57d701836b29a4489cd382328ee8634, type: 2}
+          <Phase>k__BackingField: 0
+          <DifficultyLevels>k__BackingField: 
+          <PowerValue>k__BackingField:
+            ValueType: 0
+            ValueInt: 0
+            Percentage: 100
+            AdditionalValueInt: 0
+            ValueStatus: 0
+            ValueString: 
+            ValueBool: 0
+            CombatBarkData:
+              LocalizedString:
+                m_TableReference:
+                  m_TableCollectionName: 
+                m_TableEntryReference:
+                  m_KeyId: 0
+                  m_Key: 
+                m_FallbackState: 0
+                m_WaitForCompletion: 0
+                m_LocalVariables: []
+              Duration: 0
+            AdditionalValueString: 
+          <Effects>k__BackingField:
+            CasterAnim: 2
+            TargetAnim: 0
+            Effects:
+            - <Config>k__BackingField: {fileID: 11400000, guid: 12a16c42468c13b40ba69b2819fbde05, type: 2}
+              <DifficultyLevel>k__BackingField: 0
+              <IgnoreOnHigherDifficulty>k__BackingField: 0
+              <EffectValue>k__BackingField:
+                ValueType: 0
+                ValueInt: 20
+                Percentage: 100
+                AdditionalValueInt: 0
+                ValueStatus: 0
+                ValueString: 
+                ValueBool: 0
+                CombatBarkData:
+                  LocalizedString:
+                    m_TableReference:
+                      m_TableCollectionName: 
+                    m_TableEntryReference:
+                      m_KeyId: 0
+                      m_Key: 
+                    m_FallbackState: 0
+                    m_WaitForCompletion: 0
+                    m_LocalVariables: []
+                  Duration: 0
+                AdditionalValueString: 
+              <CustomAttackData>k__BackingField:
+                PowerModifier:
+                  ModifyPower: 0
+                  PowerModifier: 100
+                  IncreasePowerByCountCard: 0
+                  CardID: 
+                OverrideTarget: 0
+                Target: 0
+                OverrideTargetRange: 0
+                TargetRange: 0
+                OverrideRepeat: 0
+                Repeat:
+                  ValueType: 0
+                  ValueInt: 0
+                  Percentage: 100
+                  AdditionalValueInt: 0
+                  ValueStatus: 0
+                  ValueString: 
+                  ValueBool: 0
+                  CombatBarkData:
+                    LocalizedString:
+                      m_TableReference:
+                        m_TableCollectionName: 
+                      m_TableEntryReference:
+                        m_KeyId: 0
+                        m_Key: 
+                      m_FallbackState: 0
+                      m_WaitForCompletion: 0
+                      m_LocalVariables: []
+                    Duration: 0
+                  AdditionalValueString: 
+                OverridePower: 0
+                Power:
+                  ValueType: 0
+                  ValueInt: 0
+                  Percentage: 100
+                  AdditionalValueInt: 0
+                  ValueStatus: 0
+                  ValueString: 
+                  ValueBool: 0
+                  CombatBarkData:
+                    LocalizedString:
+                      m_TableReference:
+                        m_TableCollectionName: 
+                      m_TableEntryReference:
+                        m_KeyId: 0
+                        m_Key: 
+                      m_FallbackState: 0
+                      m_WaitForCompletion: 0
+                      m_LocalVariables: []
+                    Duration: 0
+                  AdditionalValueString: 
+                OverrideBreakthrough: 0
+                Breakthrough: 0
+                BreakthroughTarget: 0
+                OverrideParticlesOnTarget: 0
+                ParticlesOnTarget: {fileID: 0}
+              <CustomStrikeData>k__BackingField:
+                PowerModifier:
+                  ModifyPower: 0
+                  PowerModifier: 100
+                  IncreasePowerByCountCard: 0
+                  CardID: 
+                OverrideTarget: 0
+                Target: 0
+                OverrideTargetRange: 0
+                TargetRange: 0
+                OverrideRepeat: 0
+                Repeat:
+                  ValueType: 0
+                  ValueInt: 0
+                  Percentage: 100
+                  AdditionalValueInt: 0
+                  ValueStatus: 0
+                  ValueString: 
+                  ValueBool: 0
+                  CombatBarkData:
+                    LocalizedString:
+                      m_TableReference:
+                        m_TableCollectionName: 
+                      m_TableEntryReference:
+                        m_KeyId: 0
+                        m_Key: 
+                      m_FallbackState: 0
+                      m_WaitForCompletion: 0
+                      m_LocalVariables: []
+                    Duration: 0
+                  AdditionalValueString: 
+                OverridePower: 0
+                Power:
+                  ValueType: 0
+                  ValueInt: 0
+                  Percentage: 100
+                  AdditionalValueInt: 0
+                  ValueStatus: 0
+                  ValueString: 
+                  ValueBool: 0
+                  CombatBarkData:
+                    LocalizedString:
+                      m_TableReference:
+                        m_TableCollectionName: 
+                      m_TableEntryReference:
+                        m_KeyId: 0
+                        m_Key: 
+                      m_FallbackState: 0
+                      m_WaitForCompletion: 0
+                      m_LocalVariables: []
+                    Duration: 0
+                  AdditionalValueString: 
+                OverrideParticlesOnTarget: 0
+                ParticlesOnTarget: {fileID: 0}
+              <IgnoreDelay>k__BackingField: 0
+              <IgnoreAudio>k__BackingField: 0
+            Tooltips: []
+          Breakthrough: 0
+        - <Conditions>k__BackingField: []
+          <Config>k__BackingField: {fileID: 11400000, guid: 61163e9acf6a2c241b19570bbb4e897e, type: 2}
+          <Phase>k__BackingField: 0
+          <DifficultyLevels>k__BackingField: 
+          <PowerValue>k__BackingField:
+            ValueType: 0
+            ValueInt: 0
+            Percentage: 100
+            AdditionalValueInt: 0
+            ValueStatus: 0
+            ValueString: 
+            ValueBool: 0
+            CombatBarkData:
+              LocalizedString:
+                m_TableReference:
+                  m_TableCollectionName: 
+                m_TableEntryReference:
+                  m_KeyId: 0
+                  m_Key: 
+                m_FallbackState: 0
+                m_WaitForCompletion: 0
+                m_LocalVariables: []
+              Duration: 0
+            AdditionalValueString: 
+          <Effects>k__BackingField:
+            CasterAnim: 2
+            TargetAnim: 0
+            Effects:
+            - <Config>k__BackingField: {fileID: 11400000, guid: 9403bc7927ca97c41b3dee069a991925, type: 2}
+              <DifficultyLevel>k__BackingField: 0
+              <IgnoreOnHigherDifficulty>k__BackingField: 0
+              <EffectValue>k__BackingField:
+                ValueType: 0
+                ValueInt: 2
+                Percentage: 100
+                AdditionalValueInt: 0
+                ValueStatus: 0
+                ValueString: 
+                ValueBool: 0
+                CombatBarkData:
+                  LocalizedString:
+                    m_TableReference:
+                      m_TableCollectionName: 
+                    m_TableEntryReference:
+                      m_KeyId: 0
+                      m_Key: 
+                    m_FallbackState: 0
+                    m_WaitForCompletion: 0
+                    m_LocalVariables: []
+                  Duration: 0
+                AdditionalValueString: 
+              <CustomAttackData>k__BackingField:
+                PowerModifier:
+                  ModifyPower: 0
+                  PowerModifier: 100
+                  IncreasePowerByCountCard: 0
+                  CardID: 
+                OverrideTarget: 0
+                Target: 0
+                OverrideTargetRange: 0
+                TargetRange: 0
+                OverrideRepeat: 0
+                Repeat:
+                  ValueType: 0
+                  ValueInt: 0
+                  Percentage: 100
+                  AdditionalValueInt: 0
+                  ValueStatus: 0
+                  ValueString: 
+                  ValueBool: 0
+                  CombatBarkData:
+                    LocalizedString:
+                      m_TableReference:
+                        m_TableCollectionName: 
+                      m_TableEntryReference:
+                        m_KeyId: 0
+                        m_Key: 
+                      m_FallbackState: 0
+                      m_WaitForCompletion: 0
+                      m_LocalVariables: []
+                    Duration: 0
+                  AdditionalValueString: 
+                OverridePower: 0
+                Power:
+                  ValueType: 0
+                  ValueInt: 0
+                  Percentage: 100
+                  AdditionalValueInt: 0
+                  ValueStatus: 0
+                  ValueString: 
+                  ValueBool: 0
+                  CombatBarkData:
+                    LocalizedString:
+                      m_TableReference:
+                        m_TableCollectionName: 
+                      m_TableEntryReference:
+                        m_KeyId: 0
+                        m_Key: 
+                      m_FallbackState: 0
+                      m_WaitForCompletion: 0
+                      m_LocalVariables: []
+                    Duration: 0
+                  AdditionalValueString: 
+                OverrideBreakthrough: 0
+                Breakthrough: 0
+                BreakthroughTarget: 0
+                OverrideParticlesOnTarget: 0
+                ParticlesOnTarget: {fileID: 0}
+              <CustomStrikeData>k__BackingField:
+                PowerModifier:
+                  ModifyPower: 0
+                  PowerModifier: 100
+                  IncreasePowerByCountCard: 0
+                  CardID: 
+                OverrideTarget: 0
+                Target: 0
+                OverrideTargetRange: 0
+                TargetRange: 0
+                OverrideRepeat: 0
+                Repeat:
+                  ValueType: 0
+                  ValueInt: 0
+                  Percentage: 100
+                  AdditionalValueInt: 0
+                  ValueStatus: 0
+                  ValueString: 
+                  ValueBool: 0
+                  CombatBarkData:
+                    LocalizedString:
+                      m_TableReference:
+                        m_TableCollectionName: 
+                      m_TableEntryReference:
+                        m_KeyId: 0
+                        m_Key: 
+                      m_FallbackState: 0
+                      m_WaitForCompletion: 0
+                      m_LocalVariables: []
+                    Duration: 0
+                  AdditionalValueString: 
+                OverridePower: 0
+                Power:
+                  ValueType: 0
+                  ValueInt: 0
+                  Percentage: 100
+                  AdditionalValueInt: 0
+                  ValueStatus: 0
+                  ValueString: 
+                  ValueBool: 0
+                  CombatBarkData:
+                    LocalizedString:
+                      m_TableReference:
+                        m_TableCollectionName: 
+                      m_TableEntryReference:
+                        m_KeyId: 0
+                        m_Key: 
+                      m_FallbackState: 0
+                      m_WaitForCompletion: 0
+                      m_LocalVariables: []
+                    Duration: 0
+                  AdditionalValueString: 
+                OverrideParticlesOnTarget: 0
+                ParticlesOnTarget: {fileID: 0}
+              <IgnoreDelay>k__BackingField: 0
+              <IgnoreAudio>k__BackingField: 0
+            Tooltips: []
+          Breakthrough: 0
+      - Actions:
+        - <Conditions>k__BackingField:
+          - Condition: 8
+            Value: 0
+            StartingValue: 0
+            BoolValue: 1
+            StatusType: 0
+          <Config>k__BackingField: {fileID: 11400000, guid: 9e2b0a8c70dcb224791d450cd00babc0, type: 2}
+          <Phase>k__BackingField: 0
+          <DifficultyLevels>k__BackingField: 
+          <PowerValue>k__BackingField:
+            ValueType: 0
+            ValueInt: 10
+            Percentage: 100
+            AdditionalValueInt: 0
+            ValueStatus: 0
+            ValueString: 
+            ValueBool: 0
+            CombatBarkData:
+              LocalizedString:
+                m_TableReference:
+                  m_TableCollectionName: 
+                m_TableEntryReference:
+                  m_KeyId: 0
+                  m_Key: 
+                m_FallbackState: 0
+                m_WaitForCompletion: 0
+                m_LocalVariables: []
+              Duration: 0
+            AdditionalValueString: 
+          <Effects>k__BackingField:
+            CasterAnim: 0
+            TargetAnim: 0
+            Effects: []
+            Tooltips: []
+          Breakthrough: 0
+        - <Conditions>k__BackingField:
+          - Condition: 8
+            Value: 0
+            StartingValue: 0
+            BoolValue: 0
+            StatusType: 0
+          <Config>k__BackingField: {fileID: 11400000, guid: ca2f75bc31bd3f64f8b7c171e778d9f6, type: 2}
+          <Phase>k__BackingField: 0
+          <DifficultyLevels>k__BackingField: 
+          <PowerValue>k__BackingField:
+            ValueType: 0
+            ValueInt: 25
+            Percentage: 100
+            AdditionalValueInt: 0
+            ValueStatus: 0
+            ValueString: 
+            ValueBool: 0
+            CombatBarkData:
+              LocalizedString:
+                m_TableReference:
+                  m_TableCollectionName: 
+                m_TableEntryReference:
+                  m_KeyId: 0
+                  m_Key: 
+                m_FallbackState: 0
+                m_WaitForCompletion: 0
+                m_LocalVariables: []
+              Duration: 0
+            AdditionalValueString: 
+          <Effects>k__BackingField:
+            CasterAnim: 0
+            TargetAnim: 0
+            Effects: []
+            Tooltips: []
+          Breakthrough: 0
+  AchievementOnKill: 0
+  references:
+    version: 2
+    RefIds: []

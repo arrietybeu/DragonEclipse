@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 367809107, guid: f2325286c8ff32a08e8500d52084862a, type: 3}
+  m_Name: power_no_revive_BlessingConfig
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  IconBig: {fileID: 21300000, guid: db0d6159c600ce641893c557c66d1a29, type: 2}
+  IconSmall: {fileID: 21300000, guid: a215d63756c4ba94fa2e5783e36c1a8f, type: 2}
+  Name:
+    m_TableReference:
+      m_TableCollectionName: GUID:26ec341239d7bef4fa85be2a5a7d0e80
+    m_TableEntryReference:
+      m_KeyId: 13353743697428480
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables:
+    - name: charges
+      variable:
+        rid: 3265474060633506199
+  Desc:
+    m_TableReference:
+      m_TableCollectionName: GUID:26ec341239d7bef4fa85be2a5a7d0e80
+    m_TableEntryReference:
+      m_KeyId: 13353743722594304
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  Tooltips:
+  - {fileID: 11400000, guid: 315f0ff9eaed6234badc5df1632ee420, type: 2}
+  IsDisabled: 0
+  IsRewardFromQuest: 0
+  Rarity: 0
+  IsCombatBlessing: 1
+  IsMapBlessing: 1
+  BlockDuplicate: 1
+  RemoveBlessingOnEvolution: 0
+  Effects: []
+  MapBlessingEffects:
+  - Type: 6
+    Value: 12
+  UnlockCost: 0
+  Charges: 1
+  <DifficultyLevel>k__BackingField: 0
+  <IgnoreOnHigherDifficulty>k__BackingField: 0
+  EvolveAfterAcquired: 0
+  DamageReduction: 0
+  PowerIncrease: 0
+  DuplicateNextBlessing: 0
+  DuplicatePreviousBlessing: 0
+  BlockBlessingAcqusitionAfterAcquired: 0
+  BlockReviveAfterAcquired: 1
+  ReduceReviveCost: 0
+  ReviveCost: 0
+  UseToReviveInBattle: 0
+  ReviveAmount: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: 3265474060633506199
+      type: {class: IntVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 1

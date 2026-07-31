@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 769407866, guid: 6c432e59202d98e269ff5dacb33d8319, type: 3}
+  m_Name: TamerWalk_AudioEventData
+  m_EditorClassIdentifier:
+  <AudioType>k__BackingField: 0
+  <UseList>k__BackingField: 1
+  <Clip>k__BackingField: {fileID: 8300000, guid: c8dff8ebd105b414daf6099483eb25e2, type: 3}
+  <ListPlayType>k__BackingField: 2
+  <ClipList>k__BackingField:
+  - <Clip>k__BackingField: {fileID: 8300000, guid: c8dff8ebd105b414daf6099483eb25e2, type: 3}
+    <OverrideVolume>k__BackingField: 0
+    <VolumeOverride>k__BackingField: 1
+    <OverridePitch>k__BackingField: 0
+    <PitchOverride>k__BackingField: {x: 1, y: 1}
+  - <Clip>k__BackingField: {fileID: 8300000, guid: b13d905e69c31204481b115b0ce64425, type: 3}
+    <OverrideVolume>k__BackingField: 0
+    <VolumeOverride>k__BackingField: 1
+    <OverridePitch>k__BackingField: 0
+    <PitchOverride>k__BackingField: {x: 1, y: 1}
+  - <Clip>k__BackingField: {fileID: 8300000, guid: 8b7e367004d00324986425ae7e695112, type: 3}
+    <OverrideVolume>k__BackingField: 0
+    <VolumeOverride>k__BackingField: 1
+    <OverridePitch>k__BackingField: 0
+    <PitchOverride>k__BackingField: {x: 1, y: 1}
+  - <Clip>k__BackingField: {fileID: 8300000, guid: f64dc7f55fed9d749bb8368488574b44, type: 3}
+    <OverrideVolume>k__BackingField: 0
+    <VolumeOverride>k__BackingField: 1
+    <OverridePitch>k__BackingField: 0
+    <PitchOverride>k__BackingField: {x: 1, y: 1}
+  <Loop>k__BackingField: 0
+  <Volume>k__BackingField: 0.4
+  <Pitch>k__BackingField: {x: 0.6, y: 1.3}
+  <UseFadeIn>k__BackingField: 0
+  <FadeInTime>k__BackingField: 0
+  <UseFadeOut>k__BackingField: 0
+  <FadeOutTime>k__BackingField: 0

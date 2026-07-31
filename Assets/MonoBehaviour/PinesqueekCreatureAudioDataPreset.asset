@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -312422400, guid: 6c432e59202d98e269ff5dacb33d8319, type: 3}
+  m_Name: PinesqueekCreatureAudioDataPreset
+  m_EditorClassIdentifier: 
+  <AttackAudioData>k__BackingField: {fileID: 11400000, guid: ab93d8b68005cfa449ea3e6ff7fb8bda, type: 2}
+  <ActivateAudioData>k__BackingField: {fileID: 11400000, guid: a7126f7309908e747894be63483fcf17, type: 2}
+  <HurtAudioData>k__BackingField: {fileID: 11400000, guid: bd3d0073567aa024cbeadc8f4aeb69be, type: 2}
+  <DeathAudioData>k__BackingField: {fileID: 11400000, guid: 3c1d4d2981ea26a46b86002a8b20a0f8, type: 2}
+  <DodgeAudioData>k__BackingField: {fileID: 11400000, guid: 83a8899aed95d81428a25919983dde4a, type: 2}
+  <BlockAudioData>k__BackingField: {fileID: 11400000, guid: 624d59c94dbdf974ea09759a1face53e, type: 2}
+  <BreakBlockAudioData>k__BackingField: {fileID: 11400000, guid: fc35c4341af7f2248a0dfaf5edf1133d, type: 2}
+  <ReviveAudioData>k__BackingField: {fileID: 11400000, guid: f26a3f7a35d26a84e8c2e2298859e7dc, type: 2}

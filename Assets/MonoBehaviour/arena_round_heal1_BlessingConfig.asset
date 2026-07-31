@@ -1,0 +1,214 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 367809107, guid: f2325286c8ff32a08e8500d52084862a, type: 3}
+  m_Name: arena_round_heal1_BlessingConfig
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  IconBig: {fileID: 0}
+  IconSmall: {fileID: 21300000, guid: c9eda44c8c500d842ab77dcf42a2d776, type: 2}
+  Name:
+    m_TableReference:
+      m_TableCollectionName: GUID:f359012d094cbf44c89ceb9066ec1334
+    m_TableEntryReference:
+      m_KeyId: 47819478028853251
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables:
+    - name: charges
+      variable:
+        rid: 3265474333984686095
+  Desc:
+    m_TableReference:
+      m_TableCollectionName: GUID:f359012d094cbf44c89ceb9066ec1334
+    m_TableEntryReference:
+      m_KeyId: 47827012764639239
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  Tooltips: []
+  IsDisabled: 0
+  IsRewardFromQuest: 0
+  Rarity: 2
+  IsCombatBlessing: 1
+  IsMapBlessing: 0
+  BlockDuplicate: 0
+  RemoveBlessingOnEvolution: 0
+  Effects:
+  - <Config>k__BackingField: {fileID: 11400000, guid: 174ed1babf1b2d14293585ff997ee9cf, type: 2}
+    <DifficultyLevel>k__BackingField: 0
+    <IgnoreOnHigherDifficulty>k__BackingField: 0
+    <EffectValue>k__BackingField:
+      ValueType: 0
+      ValueInt: 2
+      Percentage: 100
+      AdditionalValueInt: 0
+      ValueStatus: 0
+      ValueString: 
+      ValueBool: 0
+      CombatBarkData:
+        LocalizedString:
+          m_TableReference:
+            m_TableCollectionName: 
+          m_TableEntryReference:
+            m_KeyId: 0
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        Duration: 0
+      AdditionalValueString: 
+    <CustomAttackData>k__BackingField:
+      PowerModifier:
+        ModifyPower: 0
+        PowerModifier: 100
+        IncreasePowerByCountCard: 0
+        CardID: 
+      OverrideTarget: 0
+      Target: 0
+      OverrideTargetRange: 0
+      TargetRange: 0
+      OverrideRepeat: 0
+      Repeat:
+        ValueType: 0
+        ValueInt: 0
+        Percentage: 100
+        AdditionalValueInt: 0
+        ValueStatus: 0
+        ValueString: 
+        ValueBool: 0
+        CombatBarkData:
+          LocalizedString:
+            m_TableReference:
+              m_TableCollectionName: 
+            m_TableEntryReference:
+              m_KeyId: 0
+              m_Key: 
+            m_FallbackState: 0
+            m_WaitForCompletion: 0
+            m_LocalVariables: []
+          Duration: 0
+        AdditionalValueString: 
+      OverridePower: 0
+      Power:
+        ValueType: 0
+        ValueInt: 0
+        Percentage: 100
+        AdditionalValueInt: 0
+        ValueStatus: 0
+        ValueString: 
+        ValueBool: 0
+        CombatBarkData:
+          LocalizedString:
+            m_TableReference:
+              m_TableCollectionName: 
+            m_TableEntryReference:
+              m_KeyId: 0
+              m_Key: 
+            m_FallbackState: 0
+            m_WaitForCompletion: 0
+            m_LocalVariables: []
+          Duration: 0
+        AdditionalValueString: 
+      OverrideBreakthrough: 0
+      Breakthrough: 0
+      BreakthroughTarget: 0
+      OverrideParticlesOnTarget: 0
+      ParticlesOnTarget: {fileID: 0}
+    <CustomStrikeData>k__BackingField:
+      PowerModifier:
+        ModifyPower: 0
+        PowerModifier: 100
+        IncreasePowerByCountCard: 0
+        CardID: 
+      OverrideTarget: 0
+      Target: 0
+      OverrideTargetRange: 0
+      TargetRange: 0
+      OverrideRepeat: 0
+      Repeat:
+        ValueType: 0
+        ValueInt: 0
+        Percentage: 100
+        AdditionalValueInt: 0
+        ValueStatus: 0
+        ValueString: 
+        ValueBool: 0
+        CombatBarkData:
+          LocalizedString:
+            m_TableReference:
+              m_TableCollectionName: 
+            m_TableEntryReference:
+              m_KeyId: 0
+              m_Key: 
+            m_FallbackState: 0
+            m_WaitForCompletion: 0
+            m_LocalVariables: []
+          Duration: 0
+        AdditionalValueString: 
+      OverridePower: 0
+      Power:
+        ValueType: 0
+        ValueInt: 0
+        Percentage: 100
+        AdditionalValueInt: 0
+        ValueStatus: 0
+        ValueString: 
+        ValueBool: 0
+        CombatBarkData:
+          LocalizedString:
+            m_TableReference:
+              m_TableCollectionName: 
+            m_TableEntryReference:
+              m_KeyId: 0
+              m_Key: 
+            m_FallbackState: 0
+            m_WaitForCompletion: 0
+            m_LocalVariables: []
+          Duration: 0
+        AdditionalValueString: 
+      OverrideParticlesOnTarget: 0
+      ParticlesOnTarget: {fileID: 0}
+    <IgnoreDelay>k__BackingField: 0
+    <IgnoreAudio>k__BackingField: 0
+  MapBlessingEffects: []
+  UnlockCost: 0
+  Charges: 1
+  <DifficultyLevel>k__BackingField: 0
+  <IgnoreOnHigherDifficulty>k__BackingField: 0
+  EvolveAfterAcquired: 0
+  DamageReduction: 0
+  PowerIncrease: 0
+  DuplicateNextBlessing: 0
+  DuplicatePreviousBlessing: 0
+  BlockBlessingAcqusitionAfterAcquired: 0
+  BlockReviveAfterAcquired: 0
+  ReduceReviveCost: 0
+  ReviveCost: 0
+  UseToReviveInBattle: 0
+  ReviveAmount: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: 3265474333984686095
+      type: {class: IntVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 1

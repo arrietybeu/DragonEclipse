@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2010634852, guid: ee109d92073b3f19bcc85222df44ca58, type: 3}
+  m_Name: onPhaseTransition_remove_Lifesteal100_EffectConfig
+  m_EditorClassIdentifier: 
+  Type: 60
+  PileType: 0
+  OneTimeUse: 0
+  SpawnEnemyData:
+    <EnemiesToSpawn>k__BackingField: []
+    <Martyrdom>k__BackingField: 0
+    <SlotNumber>k__BackingField: 0
+    <SpawnRandomly>k__BackingField: 0
+    <AmountToSpawn>k__BackingField: 0
+  StatusType: 32
+  ExpirationDatas: []
+  TargetRange: 9
+  Target: 0
+  TargetNotSelf: 0
+  Conditions:
+  - Condition: 7
+    Value: 0
+    StartingValue: 0
+    BoolValue: 0
+    StatusType: 0
+  Trigger: 35
+  TriggerTarget: 1
+  TriggerStatus: 0
+  DelayTriggerToOnRoundStarted: 0
+  ParticlesOnTarget: {fileID: 0}
+  ParticlesOnTargetRelative: 0

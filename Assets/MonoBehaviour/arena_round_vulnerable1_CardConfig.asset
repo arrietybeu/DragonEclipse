@@ -1,0 +1,204 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1677869568, guid: b85001d6aea735e26eee6fb2178a3ba2, type: 3}
+  m_Name: arena_round_vulnerable1_CardConfig
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Illustration: {fileID: 21300000, guid: 420d403ba95701e44b24983b915b014c, type: 2}
+  Name:
+    m_TableReference:
+      m_TableCollectionName: GUID:f359012d094cbf44c89ceb9066ec1334
+    m_TableEntryReference:
+      m_KeyId: 47819478028853249
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  Description:
+    m_TableReference:
+      m_TableCollectionName: GUID:f359012d094cbf44c89ceb9066ec1334
+    m_TableEntryReference:
+      m_KeyId: 47827012764639236
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  Tooltips:
+  - {fileID: 11400000, guid: 40daa69c91350d343ba0df6c7027acd9, type: 2}
+  IsDisabled: 0
+  Upgrade: {fileID: 0}
+  Rarity: 3
+  EnergyCost: 1
+  HasDurability: 0
+  MaxDurability: 0
+  Keywords: 1032
+  Accumulate: 0
+  LimitAccumulate: 0
+  AccumulateLimit: 0
+  Deacumulate: 0
+  OverrideBlessingScreenCost: 0
+  BlessingScreenCost: {x: 0, y: 0}
+  OverrideShopCost: 0
+  ShopCost: {x: 0, y: 0}
+  UnlockCost: 0
+  OnCardPlayedAudio: {fileID: 0}
+  FrameRegular: {fileID: 21300000, guid: 459a92aeac3e2824eaa7191948044605, type: 2}
+  EffectsPack:
+    AnimationForTarget: 0
+    Effects:
+    - <Config>k__BackingField: {fileID: 11400000, guid: c354374b4d78664489599d984d160191, type: 2}
+      <DifficultyLevel>k__BackingField: 0
+      <IgnoreOnHigherDifficulty>k__BackingField: 0
+      <EffectValue>k__BackingField:
+        ValueType: 13
+        ValueInt: 0
+        Percentage: 100
+        AdditionalValueInt: 0
+        ValueStatus: 0
+        ValueString: arena_round_vulnerable1_BlessingConfig
+        ValueBool: 0
+        CombatBarkData:
+          LocalizedString:
+            m_TableReference:
+              m_TableCollectionName: 
+            m_TableEntryReference:
+              m_KeyId: 0
+              m_Key: 
+            m_FallbackState: 0
+            m_WaitForCompletion: 0
+            m_LocalVariables: []
+          Duration: 0
+        AdditionalValueString: 
+      <CustomAttackData>k__BackingField:
+        PowerModifier:
+          ModifyPower: 0
+          PowerModifier: 100
+          IncreasePowerByCountCard: 0
+          CardID: 
+        OverrideTarget: 0
+        Target: 0
+        OverrideTargetRange: 0
+        TargetRange: 0
+        OverrideRepeat: 0
+        Repeat:
+          ValueType: 0
+          ValueInt: 0
+          Percentage: 100
+          AdditionalValueInt: 0
+          ValueStatus: 0
+          ValueString: 
+          ValueBool: 0
+          CombatBarkData:
+            LocalizedString:
+              m_TableReference:
+                m_TableCollectionName: 
+              m_TableEntryReference:
+                m_KeyId: 0
+                m_Key: 
+              m_FallbackState: 0
+              m_WaitForCompletion: 0
+              m_LocalVariables: []
+            Duration: 0
+          AdditionalValueString: 
+        OverridePower: 0
+        Power:
+          ValueType: 0
+          ValueInt: 0
+          Percentage: 100
+          AdditionalValueInt: 0
+          ValueStatus: 0
+          ValueString: 
+          ValueBool: 0
+          CombatBarkData:
+            LocalizedString:
+              m_TableReference:
+                m_TableCollectionName: 
+              m_TableEntryReference:
+                m_KeyId: 0
+                m_Key: 
+              m_FallbackState: 0
+              m_WaitForCompletion: 0
+              m_LocalVariables: []
+            Duration: 0
+          AdditionalValueString: 
+        OverrideBreakthrough: 0
+        Breakthrough: 0
+        BreakthroughTarget: 0
+        OverrideParticlesOnTarget: 0
+        ParticlesOnTarget: {fileID: 0}
+      <CustomStrikeData>k__BackingField:
+        PowerModifier:
+          ModifyPower: 0
+          PowerModifier: 100
+          IncreasePowerByCountCard: 0
+          CardID: 
+        OverrideTarget: 0
+        Target: 0
+        OverrideTargetRange: 0
+        TargetRange: 0
+        OverrideRepeat: 0
+        Repeat:
+          ValueType: 0
+          ValueInt: 0
+          Percentage: 100
+          AdditionalValueInt: 0
+          ValueStatus: 0
+          ValueString: 
+          ValueBool: 0
+          CombatBarkData:
+            LocalizedString:
+              m_TableReference:
+                m_TableCollectionName: 
+              m_TableEntryReference:
+                m_KeyId: 0
+                m_Key: 
+              m_FallbackState: 0
+              m_WaitForCompletion: 0
+              m_LocalVariables: []
+            Duration: 0
+          AdditionalValueString: 
+        OverridePower: 0
+        Power:
+          ValueType: 0
+          ValueInt: 0
+          Percentage: 100
+          AdditionalValueInt: 0
+          ValueStatus: 0
+          ValueString: 
+          ValueBool: 0
+          CombatBarkData:
+            LocalizedString:
+              m_TableReference:
+                m_TableCollectionName: 
+              m_TableEntryReference:
+                m_KeyId: 0
+                m_Key: 
+              m_FallbackState: 0
+              m_WaitForCompletion: 0
+              m_LocalVariables: []
+            Duration: 0
+          AdditionalValueString: 
+        OverrideParticlesOnTarget: 0
+        ParticlesOnTarget: {fileID: 0}
+      <IgnoreDelay>k__BackingField: 0
+      <IgnoreAudio>k__BackingField: 0
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2043918471, guid: e00efddacf0691ae597734b46c97ccdb, type: 3}
+  m_Name: Skitterpaw_DealDamageToAllMystlings_ActionConfig
+  m_EditorClassIdentifier: 
+  Type: 1
+  Description:
+    m_TableReference:
+      m_TableCollectionName: GUID:393d391f6bc0c1c42b4132039abdefa2
+    m_TableEntryReference:
+      m_KeyId: 3202074980499480
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  Tooltips: []
+  ForeshadowIconType: 0
+  TargetRange: 2
+  Target: 1
+  RepeatValue:
+    ValueType: 0
+    ValueInt: 1
+    Percentage: 100
+    AdditionalValueInt: 0
+    ValueStatus: 0
+    ValueString: 
+    ValueBool: 0
+    CombatBarkData:
+      LocalizedString:
+        m_TableReference:
+          m_TableCollectionName: 
+        m_TableEntryReference:
+          m_KeyId: 0
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      Duration: 0
+    AdditionalValueString: 
+  BreakthroughTarget: 0
+  ParticlesOnTarget: {fileID: 1344724572950153, guid: 623a57f77cd68b84ab76a7c6b844cf04, type: 3}
+  references:
+    version: 2
+    RefIds: []

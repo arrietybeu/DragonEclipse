@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1497261852, guid: ebe353a9e51fc6708625f16edcb81e06, type: 3}
+  m_Name: TestTamer_Atlas
+  m_EditorClassIdentifier:
+  textureLoadingMode: 0
+  onDemandTextureLoader: {fileID: 0}
+  atlasFile: {fileID: 4900000, guid: 94036f72b3b5eac4a93fb48d69d9b38c, type: 3}
+  materials:
+  - {fileID: 2100000, guid: f9ef464c9917129459d68cc38efa7143, type: 2}
+  - {fileID: 2100000, guid: 9c3a565e88bd7c84f919f1e05338fa08, type: 2}
+  - {fileID: 2100000, guid: 80e785f1983bbfb469f202e910093694, type: 2}
