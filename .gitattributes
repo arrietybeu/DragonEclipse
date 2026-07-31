@@ -1,0 +1,62 @@
+# ---------------------------------------------------------------------------
+# Line endings — normalize to LF in the repository.
+# Silences the "LF will be replaced by CRLF" warnings on Windows.
+# ---------------------------------------------------------------------------
+* text=auto eol=lf
+
+# Unity YAML / text assets
+*.meta   text eol=lf
+*.asset  text eol=lf
+*.prefab text eol=lf
+*.mat    text eol=lf
+*.anim   text eol=lf
+*.controller         text eol=lf
+*.overridecontroller text eol=lf
+*.physicMaterial     text eol=lf
+*.cs      text eol=lf diff=csharp
+*.shader  text eol=lf
+*.hlsl    text eol=lf
+*.cginc   text eol=lf
+*.compute text eol=lf
+*.asmdef  text eol=lf
+*.json    text eol=lf
+*.uxml    text eol=lf
+*.uss     text eol=lf
+*.md      text eol=lf
+
+# Binary formats — keep out of text/eol conversion, but NOT in LFS.
+*.png  -text
+*.jpg  -text
+*.jpeg -text
+*.gif  -text
+*.bmp  -text
+*.tga  -text
+*.psd  -text
+*.exr  -text
+*.ogg  -text
+*.wav  -text
+*.mp3  -text
+*.mp4  -text
+*.mov  -text
+*.webm -text
+*.fbx  -text
+*.obj  -text
+*.ttf  -text
+*.otf  -text
+*.dll  -text
+*.so   -text
+*.bytes -text
+*.zip  -text
+*.bundle -text
+
+# ---------------------------------------------------------------------------
+# Git LFS — ONLY the files that exceed GitHub's hard 100 MB per-file limit.
+# Keeping the list this narrow holds total LFS usage at ~737 MB, inside the
+# 1 GB free tier. Everything else goes into regular Git objects.
+#
+# If a new file ever grows past 100 MB, add it here BEFORE committing it —
+# GitHub rejects the push otherwise, and rewriting history afterwards is ugly.
+# ---------------------------------------------------------------------------
+Assets/Scenes/Map.unity filter=lfs diff=lfs merge=lfs -text
+Assets/StreamingAssets/aa/StandaloneWindows64/packedassets_assets_all_f5d056d1fe037ac95356de290ae5d67f.bundle filter=lfs diff=lfs merge=lfs -text
+Assets/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_f9a85963761aff5f88d8d3910df43e17.bundle filter=lfs diff=lfs merge=lfs -text
