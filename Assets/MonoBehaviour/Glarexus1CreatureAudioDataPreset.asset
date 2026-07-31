@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -312422400, guid: 6c432e59202d98e269ff5dacb33d8319, type: 3}
+  m_Name: Glarexus1CreatureAudioDataPreset
+  m_EditorClassIdentifier: 
+  <AttackAudioData>k__BackingField: {fileID: 11400000, guid: 74337d950327db945a6665086a0d3c78, type: 2}
+  <ActivateAudioData>k__BackingField: {fileID: 11400000, guid: e79eb959ba40b5a4fb4345da157d0ed1, type: 2}
+  <HurtAudioData>k__BackingField: {fileID: 11400000, guid: 9cf06706168eb1c4689318d4ee3e0f5d, type: 2}
+  <DeathAudioData>k__BackingField: {fileID: 11400000, guid: aaa6359f1358235488354127ae15c6ab, type: 2}
+  <DodgeAudioData>k__BackingField: {fileID: 11400000, guid: 83a8899aed95d81428a25919983dde4a, type: 2}
+  <BlockAudioData>k__BackingField: {fileID: 11400000, guid: 624d59c94dbdf974ea09759a1face53e, type: 2}
+  <BreakBlockAudioData>k__BackingField: {fileID: 11400000, guid: fc35c4341af7f2248a0dfaf5edf1133d, type: 2}
+  <ReviveAudioData>k__BackingField: {fileID: 11400000, guid: f26a3f7a35d26a84e8c2e2298859e7dc, type: 2}

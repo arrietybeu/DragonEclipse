@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1627039570, guid: 6c432e59202d98e269ff5dacb33d8319, type: 3}
+  m_Name: BolbMystlingAudioDataPreset
+  m_EditorClassIdentifier: 
+  <UIChooseMystlingAudioData>k__BackingField: {fileID: 11400000, guid: 80fcd928969f26c449f1a792b83c37f4, type: 2}
+  <UIFeedMystlingAudioData>k__BackingField: {fileID: 11400000, guid: 30f976930d676e741b86dda94c3cf6e5, type: 2}
+  <UIReviveMystlingAudioData>k__BackingField: {fileID: 11400000, guid: abf3246a81c81d148b622da2660399d2, type: 2}
+  <UIHealMystlingAudioData>k__BackingField: {fileID: 11400000, guid: 9f680efaa5538484880453986c336b83, type: 2}
+  <UILevelUpMystlingAudioData>k__BackingField: {fileID: 11400000, guid: a86cb63cb35dbab4d9f3dd31d15d6427, type: 2}
+  <UIEvolveMystlingAudioData>k__BackingField: {fileID: 11400000, guid: a403861f476b3cf48ae1d12508d7b03b, type: 2}
+  <UIAttackUpMystlingAudioData>k__BackingField: {fileID: 11400000, guid: c27bd77c1b414f744b5f446b264a9e2d, type: 2}
+  <UIHealthUpMystlingAudioData>k__BackingField: {fileID: 11400000, guid: a974e58d89d23a743a868335c20dd269, type: 2}

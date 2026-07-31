@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 691607763, guid: 9b9661c2100c16ffe067e59fe88e0f99, type: 3}
+  m_Name: Group ShadowRealm Hard 2
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _type: 2
+  _energyCost: 1
+  _isDoneForever: 0
+  <IncrementQuestProgress>k__BackingField: 0
+  <Backgrounds>k__BackingField:
+  - {fileID: 1510915227481463, guid: 23f5ae4f70353d14bb7bbe79e3ead202, type: 3}
+  - {fileID: 1005726046459641, guid: 1167459b39985c64396d8a5c47c5278b, type: 3}
+  <BattleType>k__BackingField: 5
+  <LastBattle>k__BackingField: 0
+  <HasReward>k__BackingField: 1
+  <ShowTutorial>k__BackingField: 0
+  <StoryGraphOnVictory>k__BackingField: {fileID: 0}
+  <StoryGraphOnDefeat>k__BackingField: {fileID: 0}
+  <RewardEggs>k__BackingField: []
+  _rewardEmberSeeds: {x: 15, y: 30}
+  _rewardMoney: {x: 60, y: 100}
+  <CardsRewardOverrides>k__BackingField: []
+  <CardsRewardChances>k__BackingField:
+    Chances:
+    - Enum: 0
+      Chance: 100
+  <BlessingsRewardChances>k__BackingField:
+    Chances:
+    - Enum: 0
+      Chance: 100
+  <BattlePacks>k__BackingField:
+  - _pack: {fileID: 11400000, guid: 25bae3a1e9265404e9d5b1157029cfb8, type: 2}
+    _difficulty: 16
+  - _pack: {fileID: 11400000, guid: cae88017edb43da4aa1915cfede223f4, type: 2}
+    _difficulty: 16
+  - _pack: {fileID: 11400000, guid: a79ed73a0607dc541aed15133e8c7c2c, type: 2}
+    _difficulty: 16
+  - _pack: {fileID: 11400000, guid: 60161f146db2f2e4e99f1b2b2dcce6fd, type: 2}
+    _difficulty: 16
+  - _pack: {fileID: 11400000, guid: 25ecb75154caaa64cbfdf2612a052229, type: 2}
+    _difficulty: 16
+  - _pack: {fileID: 11400000, guid: c9c6c700ebe671f4ba9505224b3b5407, type: 2}
+    _difficulty: 16
+  - _pack: {fileID: 11400000, guid: e7132e62d727ed249a1cbac2223c5d29, type: 2}
+    _difficulty: 16
+  - _pack: {fileID: 11400000, guid: 69b76f2e3413f684c86b8e8ff2f3e1b2, type: 2}
+    _difficulty: 16

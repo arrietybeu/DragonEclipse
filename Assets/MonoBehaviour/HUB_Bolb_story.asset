@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 365054156, guid: 9b9661c2100c16ffe067e59fe88e0f99, type: 3}
+  m_Name: HUB_Bolb_story
+  m_EditorClassIdentifier: 
+  <StoryGraph>k__BackingField: {fileID: 11400000, guid: 28e097d4adc1a3244a06df7b71679898, type: 2}
+  <RegularView>k__BackingField: {fileID: 1074905645471620, guid: 1a8750559e875094e9d3175cc2c9163a, type: 3}
+  <DoneView>k__BackingField: {fileID: 1501697563855992, guid: 7d493ac2a8ad4d24b9135359baa9de51, type: 3}

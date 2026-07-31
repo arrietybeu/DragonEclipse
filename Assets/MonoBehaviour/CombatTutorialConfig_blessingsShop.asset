@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1584404140, guid: 02d4f3c92de568b3cdde557f143e8eb3, type: 3}
+  m_Name: CombatTutorialConfig_blessingsShop
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  <Groups>k__BackingField:
+  - <Pages>k__BackingField:
+    - <MainText>k__BackingField:
+        m_TableReference:
+          m_TableCollectionName: GUID:87b4fdbe5fba1bb478affbd29435ccc4
+        m_TableEntryReference:
+          m_KeyId: 37707288547368962
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      <Note>k__BackingField: Opis sklepu
+      <NextPageOnObjectivesDone>k__BackingField: 1
+      <Objectives>k__BackingField:
+      - LocName:
+          m_TableReference:
+            m_TableCollectionName: GUID:87b4fdbe5fba1bb478affbd29435ccc4
+          m_TableEntryReference:
+            m_KeyId: 37707288547368963
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        Note: Kliknij wybranego Mystlinga
+        Objective:
+          <Type>k__BackingField: 19
+          <CurrencyType>k__BackingField: 0
+          <StatusType>k__BackingField: 0
+          <CreatureType>k__BackingField: 0
+          <CreatureDatas>k__BackingField: []
+          <CardType>k__BackingField: {fileID: 0}
+          <Value>k__BackingField: 1
+      - LocName:
+          m_TableReference:
+            m_TableCollectionName: GUID:87b4fdbe5fba1bb478affbd29435ccc4
+          m_TableEntryReference:
+            m_KeyId: 37707288547368964
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        Note: Kliknij Blessing
+        Objective:
+          <Type>k__BackingField: 20
+          <CurrencyType>k__BackingField: 0
+          <StatusType>k__BackingField: 0
+          <CreatureType>k__BackingField: 0
+          <CreatureDatas>k__BackingField: []
+          <CardType>k__BackingField: {fileID: 0}
+          <Value>k__BackingField: 1
+      - LocName:
+          m_TableReference:
+            m_TableCollectionName: GUID:87b4fdbe5fba1bb478affbd29435ccc4
+          m_TableEntryReference:
+            m_KeyId: 37707288547368965
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        Note: Kliknij "Buy"
+        Objective:
+          <Type>k__BackingField: 21
+          <CurrencyType>k__BackingField: 0
+          <StatusType>k__BackingField: 0
+          <CreatureType>k__BackingField: 0
+          <CreatureDatas>k__BackingField: []
+          <CardType>k__BackingField: {fileID: 0}
+          <Value>k__BackingField: 1
+  - <Pages>k__BackingField:
+    - <MainText>k__BackingField:
+        m_TableReference:
+          m_TableCollectionName: GUID:87b4fdbe5fba1bb478affbd29435ccc4
+        m_TableEntryReference:
+          m_KeyId: 37707288547368960
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      <Note>k__BackingField: Opis sklepu
+      <NextPageOnObjectivesDone>k__BackingField: 1
+      <Objectives>k__BackingField:
+      - LocName:
+          m_TableReference:
+            m_TableCollectionName: GUID:87b4fdbe5fba1bb478affbd29435ccc4
+          m_TableEntryReference:
+            m_KeyId: 37707288547368961
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        Note: "Odbierz darmow\u0105  kart\u0119"
+        Objective:
+          <Type>k__BackingField: 22
+          <CurrencyType>k__BackingField: 0
+          <StatusType>k__BackingField: 0
+          <CreatureType>k__BackingField: 0
+          <CreatureDatas>k__BackingField: []
+          <CardType>k__BackingField: {fileID: 0}
+          <Value>k__BackingField: 1
+  references:
+    version: 2
+    RefIds: []

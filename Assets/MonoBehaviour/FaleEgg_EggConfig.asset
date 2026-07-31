@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1684217331, guid: f10e5688e4e344868651eca72bfed910, type: 3}
+  m_Name: FaleEgg_EggConfig
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Icon: {fileID: 21300000, guid: 9dc54d50a1f92eb468618ca7da92fbaa, type: 2}
+  IconForUnlockBar: {fileID: 21300000, guid: 9dc54d50a1f92eb468618ca7da92fbaa, type: 2}
+  CrackedIcon: {fileID: 21300000, guid: bd36ba56c25905f4bbb2de68a72718f8, type: 2}
+  SpritesForHatch:
+  - {fileID: 21300000, guid: bd36ba56c25905f4bbb2de68a72718f8, type: 2}
+  - {fileID: 21300000, guid: 2402bdbd2a48a6440b8e6cd26700767e, type: 2}
+  - {fileID: 21300000, guid: 61ac76f6ce2808147a4ed10ec0f83320, type: 2}
+  - {fileID: 21300000, guid: 673985b615b17bf42ae4290c95fc18f6, type: 2}
+  LocName:
+    m_TableReference:
+      m_TableCollectionName: GUID:4b2372c5539925d4d8643f5f0eb45be4
+    m_TableEntryReference:
+      m_KeyId: 5776446912053313
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  Mystling: {fileID: 11400000, guid: f29af380611ac7b4d8f96967b6de518a, type: 2}
+  ObjectiveConfig:
+    <Type>k__BackingField: 12
+    <CurrencyType>k__BackingField: 0
+    <StatusType>k__BackingField: 4
+    <CreatureType>k__BackingField: 0
+    <CreatureDatas>k__BackingField:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    <CardType>k__BackingField: {fileID: 0}
+    <Value>k__BackingField: 100
+  ShowProgressBar: 1
+  references:
+    version: 2
+    RefIds: []

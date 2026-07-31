@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 691607763, guid: 9b9661c2100c16ffe067e59fe88e0f99, type: 3}
+  m_Name: Group Quest Golomo 1
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _type: 2
+  _energyCost: 1
+  _isDoneForever: 0
+  <IncrementQuestProgress>k__BackingField: 0
+  <Backgrounds>k__BackingField:
+  - {fileID: 1510915227481463, guid: 23f5ae4f70353d14bb7bbe79e3ead202, type: 3}
+  <BattleType>k__BackingField: 5
+  <LastBattle>k__BackingField: 0
+  <HasReward>k__BackingField: 0
+  <ShowTutorial>k__BackingField: 0
+  <StoryGraphOnVictory>k__BackingField: {fileID: 0}
+  <StoryGraphOnDefeat>k__BackingField: {fileID: 0}
+  <RewardEggs>k__BackingField: []
+  _rewardEmberSeeds: {x: 0, y: 0}
+  _rewardMoney: {x: 0, y: 0}
+  <CardsRewardOverrides>k__BackingField: []
+  <CardsRewardChances>k__BackingField:
+    Chances:
+    - Enum: 0
+      Chance: 100
+  <BlessingsRewardChances>k__BackingField:
+    Chances:
+    - Enum: 0
+      Chance: 100
+  <BattlePacks>k__BackingField:
+  - _pack: {fileID: 11400000, guid: 9ca0fde486fabc7498ccaf1a7a03205b, type: 2}
+    _difficulty: 63

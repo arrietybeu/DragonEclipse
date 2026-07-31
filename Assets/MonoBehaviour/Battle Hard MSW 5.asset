@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1900461677, guid: 9b9661c2100c16ffe067e59fe88e0f99, type: 3}
+  m_Name: Battle Hard MSW 5
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _type: 2
+  _energyCost: 1
+  _isDoneForever: 0
+  _enemies:
+  - {fileID: 11400000, guid: 642f8f7490d83f84a8b001334cf23981, type: 2}
+  - {fileID: 11400000, guid: 7bb193870573ebe459c839041572c642, type: 2}
+  - {fileID: 11400000, guid: 5b688f2f904523549a17ed577a562cea, type: 2}
+  _AchievementOnVictory: 0

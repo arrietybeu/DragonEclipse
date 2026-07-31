@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1594600529, guid: c902693b3886520723f8a307bc2d1c7c, type: 3}
+  m_Name: MainStory_act_4_0_elder
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[{"key":null,"label":null,"summary":null,"hideLabel":false}],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":-1012.145,"y":132.8035},"zoom":1.0,"elements":[{"coroutine":true,"defaultValues":{},"position":{"x":-1106.0,"y":-247.0},"guid":"900a4590-2a38-4087-b458-d8bc204e447b","$version":"A","$type":"Unity.VisualScripting.Start","$id":"10"},{"defaultValues":{"completed":{"$content":true,"$type":"System.Boolean"}},"position":{"x":-935.0,"y":345.0},"guid":"d83d8b43-f9fb-4a74-b610-60e719896939","$version":"A","$type":"Awaken.Story.StoryCloseNode","$id":"12"},{"output":{"unit":{"$ref":"14"}},"defaultValues":{"text":{"$content":"What\u2019s
+      wrong little one?","$type":"System.String"},"visible":{"$content":true,"$type":"System.Boolean"},"enabled":{"$content":true,"$type":"System.Boolean"}},"position":{"x":-1192.0,"y":96.0},"guid":"76913c5a-3a4b-4549-b83a-86955d99128f","$version":"A","$type":"Awaken.Story.StoryButton","$id":"14"},{"defaultValues":{"locKey":{"$content":"T3_Elder_talk_2","$type":"System.String"},"table":{"$content":"NewTutorial","$type":"System.String"}},"position":{"x":-1570.0,"y":108.0},"guid":"25080752-63c8-45ec-b1fc-3e4cb1b1d80b","$version":"A","$type":"Awaken.Story.GetLocalizedText","$id":"17"},{"defaultValues":{"title":{"$content":"","$type":"System.String"},"content":{"$content":"This
+      baby Pinequeek is all by himself crying. ","$type":"System.String"},"leftSprite":{"$content":0,"$type":"UnityEngine.Object"},"rightSprite":{"$content":1,"$type":"UnityEngine.Object"},"hidePageAfterDone":{"$content":true,"$type":"System.Boolean"}},"position":{"x":-945.0,"y":-63.0},"guid":"5500552c-8777-4a88-91f5-60fcacf910a7","$version":"A","$type":"Awaken.Story.StoryPageNode","$id":"19"},{"defaultValues":{"locKey":{"$content":"T3_Elder_talk_1","$type":"System.String"},"table":{"$content":"NewTutorial","$type":"System.String"}},"position":{"x":-1261.0,"y":-50.0},"guid":"356f532d-8b42-4256-841e-d598b6cb421d","$version":"A","$type":"Awaken.Story.GetLocalizedText","$id":"21"},{"defaultValues":{"locKey":{"$content":"village_elder_name","$type":"System.String"},"table":{"$content":"NewTutorial","$type":"System.String"}},"position":{"x":-1655.0,"y":-90.0},"guid":"bc0a97a4-d2d5-4192-ad96-21d02483dcce","$version":"A","$type":"Awaken.Story.GetLocalizedText","$id":"23"},{"sourceUnit":{"$ref":"10"},"sourceKey":"trigger","destinationUnit":{"$ref":"19"},"destinationKey":"inputTrigger","guid":"e38e1c63-e469-493c-bb0a-06f4c59e4aba","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"14"},"sourceKey":"output","destinationUnit":{"$ref":"12"},"destinationKey":"inputTrigger","guid":"00df7e22-c34b-498a-b57d-f7d6d62e8855","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"14"},"sourceKey":"result","destinationUnit":{"$ref":"19"},"destinationKey":"buttonA","guid":"721affe0-fc2c-4add-aa9b-8b8651c6cd96","$type":"Unity.VisualScripting.ValueConnection"},{"sourceUnit":{"$ref":"17"},"sourceKey":"result","destinationUnit":{"$ref":"14"},"destinationKey":"text","guid":"0bc68a1f-5e79-46f2-bcd8-fd6bee694b62","$type":"Unity.VisualScripting.ValueConnection"},{"sourceUnit":{"$ref":"21"},"sourceKey":"result","destinationUnit":{"$ref":"19"},"destinationKey":"content","guid":"65e69224-987d-429d-b18a-d5ad9bd2955b","$type":"Unity.VisualScripting.ValueConnection"},{"sourceUnit":{"$ref":"23"},"sourceKey":"result","destinationUnit":{"$ref":"19"},"destinationKey":"title","guid":"1277a409-8203-4351-870a-65a58222498a","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 21300000, guid: 8de9a4891e651674788b2ed661c6e32d, type: 2}
+    - {fileID: 21300000, guid: b191d5d0376ca7f4daeb268cc227a8fc, type: 2}

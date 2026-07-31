@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1833752747, guid: 89ec6891e7650e08b2dc7e88c90a30f6, type: 3}
+  m_Name: New Gamepad Button Icons Provider
+  m_EditorClassIdentifier:
+  XboxIcons:
+  - ButtonType: 0
+    Sprite: {fileID: 21300000, guid: 2355aa1835619b84798b27a62433e912, type: 2}
+  - ButtonType: 1
+    Sprite: {fileID: 21300000, guid: 29285eb43e69c7c4eb03db1e128a5d2a, type: 2}
+  - ButtonType: 2
+    Sprite: {fileID: 21300000, guid: e380ae49a907cda40b98cd2ed79d99db, type: 2}
+  - ButtonType: 3
+    Sprite: {fileID: 21300000, guid: 0612a30b55b77f348a889362951b36e5, type: 2}
+  - ButtonType: 4
+    Sprite: {fileID: 21300000, guid: b7f8fbda4f53ea64eb8e1d05b638fbcf, type: 2}
+  - ButtonType: 5
+    Sprite: {fileID: 21300000, guid: 209a98b34e911d942a5b120e0c4fb948, type: 2}
+  - ButtonType: 6
+    Sprite: {fileID: 21300000, guid: a7c80a137c506e34ba2aa42397d2d91c, type: 2}
+  - ButtonType: 7
+    Sprite: {fileID: 21300000, guid: 5fbd85f377e202d4ea3f3a97c0cc4957, type: 2}
+  - ButtonType: 8
+    Sprite: {fileID: 21300000, guid: 5d58f48782c65c243bd2f1390adb87f5, type: 2}
+  - ButtonType: 9
+    Sprite: {fileID: 21300000, guid: 09eb685ac347a0b46a0d3476797b91c9, type: 2}
+  - ButtonType: 10
+    Sprite: {fileID: 21300000, guid: bc11b3341590890458f7f19fe3a5379d, type: 2}
+  - ButtonType: 12
+    Sprite: {fileID: 21300000, guid: 24d2eca4bbabc85429ac3830eb18ca92, type: 2}
+  - ButtonType: 13
+    Sprite: {fileID: 21300000, guid: fed27648cb155534da569f9252def46c, type: 2}
+  - ButtonType: 15
+    Sprite: {fileID: 21300000, guid: ee8663981f74ad34aad78d98bab94ab1, type: 2}
+  - ButtonType: 16
+    Sprite: {fileID: 21300000, guid: 5f38ac7c7c1159143b455df5ef8a6871, type: 2}
+  - ButtonType: 17
+    Sprite: {fileID: 21300000, guid: 18c7ebcceb4474447a99612c3830bc5d, type: 2}
+  - ButtonType: 18
+    Sprite: {fileID: 21300000, guid: 4844aee2114e1cc4e8e4e5df90c944a7, type: 2}
+  PsIcons:
+  - ButtonType: 0
+    Sprite: {fileID: 21300000, guid: 94d6386723dced246b78dd49dd96a0e0, type: 2}
+  - ButtonType: 1
+    Sprite: {fileID: 21300000, guid: 786440336897a054fbe1ac426a8f602a, type: 2}
+  - ButtonType: 2
+    Sprite: {fileID: 21300000, guid: 86a57564aae90c94989e62e321fdb4bb, type: 2}
+  - ButtonType: 3
+    Sprite: {fileID: 21300000, guid: c51b1ca73180a8c44add38e467000152, type: 2}
+  - ButtonType: 4
+    Sprite: {fileID: 21300000, guid: 73d6a2b9f7fff174782766c0b4a0dce0, type: 2}
+  - ButtonType: 5
+    Sprite: {fileID: 21300000, guid: c89b24143b59eb7438b8237f9d599159, type: 2}
+  - ButtonType: 6
+    Sprite: {fileID: 21300000, guid: 2ae85725ef12b894d9647982f91ad59e, type: 2}
+  - ButtonType: 7
+    Sprite: {fileID: 21300000, guid: 411d1d5261adf4d4886ea951e0b7e021, type: 2}
+  - ButtonType: 8
+    Sprite: {fileID: 21300000, guid: 52c14e35fe99eb24ab3e8ce482df1438, type: 2}
+  - ButtonType: 9
+    Sprite: {fileID: 21300000, guid: ffacd0b5084d7584787e5766448b7dc3, type: 2}
+  - ButtonType: 10
+    Sprite: {fileID: 21300000, guid: 75bcaf4a57c03de4996687208ff279e0, type: 2}
+  - ButtonType: 12
+    Sprite: {fileID: 21300000, guid: 24d2eca4bbabc85429ac3830eb18ca92, type: 2}
+  - ButtonType: 13
+    Sprite: {fileID: 21300000, guid: fed27648cb155534da569f9252def46c, type: 2}
+  - ButtonType: 15
+    Sprite: {fileID: 21300000, guid: ee8663981f74ad34aad78d98bab94ab1, type: 2}
+  - ButtonType: 16
+    Sprite: {fileID: 21300000, guid: 5f38ac7c7c1159143b455df5ef8a6871, type: 2}
+  - ButtonType: 17
+    Sprite: {fileID: 21300000, guid: 18c7ebcceb4474447a99612c3830bc5d, type: 2}
+  - ButtonType: 18
+    Sprite: {fileID: 21300000, guid: 4844aee2114e1cc4e8e4e5df90c944a7, type: 2}

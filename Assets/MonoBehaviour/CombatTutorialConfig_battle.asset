@@ -1,0 +1,211 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1584404140, guid: 02d4f3c92de568b3cdde557f143e8eb3, type: 3}
+  m_Name: CombatTutorialConfig_battle
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  <Groups>k__BackingField:
+  - <Pages>k__BackingField:
+    - <MainText>k__BackingField:
+        m_TableReference:
+          m_TableCollectionName: GUID:87b4fdbe5fba1bb478affbd29435ccc4
+        m_TableEntryReference:
+          m_KeyId: 35532752194895872
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      <Note>k__BackingField: "Wyt\u0142umaczenie ataku"
+      <NextPageOnObjectivesDone>k__BackingField: 1
+      <Objectives>k__BackingField:
+      - LocName:
+          m_TableReference:
+            m_TableCollectionName: GUID:87b4fdbe5fba1bb478affbd29435ccc4
+          m_TableEntryReference:
+            m_KeyId: 35532752173924352
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        Note: Play Card on a Mystling
+        Objective:
+          <Type>k__BackingField: 23
+          <CurrencyType>k__BackingField: 0
+          <StatusType>k__BackingField: 0
+          <CreatureType>k__BackingField: 0
+          <CreatureDatas>k__BackingField: []
+          <CardType>k__BackingField: {fileID: 0}
+          <Value>k__BackingField: 1
+      - LocName:
+          m_TableReference:
+            m_TableCollectionName: GUID:87b4fdbe5fba1bb478affbd29435ccc4
+          m_TableEntryReference:
+            m_KeyId: 35532752194895873
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        Note: Spend 3 Energy
+        Objective:
+          <Type>k__BackingField: 16
+          <CurrencyType>k__BackingField: 0
+          <StatusType>k__BackingField: 0
+          <CreatureType>k__BackingField: 0
+          <CreatureDatas>k__BackingField: []
+          <CardType>k__BackingField: {fileID: 0}
+          <Value>k__BackingField: 3
+    - <MainText>k__BackingField:
+        m_TableReference:
+          m_TableCollectionName: GUID:87b4fdbe5fba1bb478affbd29435ccc4
+        m_TableEntryReference:
+          m_KeyId: 35532752194895875
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      <Note>k__BackingField: "Wyt\u0142umaczenie ko\u0144ca tury oraz kolejno\u015Bci
+        wykonywania akcji"
+      <NextPageOnObjectivesDone>k__BackingField: 0
+      <Objectives>k__BackingField: []
+  - <Pages>k__BackingField:
+    - <MainText>k__BackingField:
+        m_TableReference:
+          m_TableCollectionName: GUID:87b4fdbe5fba1bb478affbd29435ccc4
+        m_TableEntryReference:
+          m_KeyId: 35532752194895876
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      <Note>k__BackingField: "Wyt\u0142umaczenie foreshadowowania + obrony"
+      <NextPageOnObjectivesDone>k__BackingField: 0
+      <Objectives>k__BackingField:
+      - LocName:
+          m_TableReference:
+            m_TableCollectionName: GUID:87b4fdbe5fba1bb478affbd29435ccc4
+          m_TableEntryReference:
+            m_KeyId: 35532752194895877
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        Note: Highlight Foreshadow
+        Objective:
+          <Type>k__BackingField: 17
+          <CurrencyType>k__BackingField: 0
+          <StatusType>k__BackingField: 0
+          <CreatureType>k__BackingField: 0
+          <CreatureDatas>k__BackingField: []
+          <CardType>k__BackingField: {fileID: 0}
+          <Value>k__BackingField: 1
+      - LocName:
+          m_TableReference:
+            m_TableCollectionName: GUID:87b4fdbe5fba1bb478affbd29435ccc4
+          m_TableEntryReference:
+            m_KeyId: 35532752194895878
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        Note: Play Shield on Fron Mystling
+        Objective:
+          <Type>k__BackingField: 23
+          <CurrencyType>k__BackingField: 0
+          <StatusType>k__BackingField: 4
+          <CreatureType>k__BackingField: 0
+          <CreatureDatas>k__BackingField: []
+          <CardType>k__BackingField: {fileID: 11400000, guid: fcf11211274912245bec57facefd20e7, type: 2}
+          <Value>k__BackingField: 1
+  - <Pages>k__BackingField:
+    - <MainText>k__BackingField:
+        m_TableReference:
+          m_TableCollectionName: GUID:87b4fdbe5fba1bb478affbd29435ccc4
+        m_TableEntryReference:
+          m_KeyId: 35532752194895880
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      <Note>k__BackingField: "Wyt\u0142umaczenie przesuwania Mystling\xF3w"
+      <NextPageOnObjectivesDone>k__BackingField: 1
+      <Objectives>k__BackingField:
+      - LocName:
+          m_TableReference:
+            m_TableCollectionName: GUID:87b4fdbe5fba1bb478affbd29435ccc4
+          m_TableEntryReference:
+            m_KeyId: 35532752194895879
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        Note: "Przesu\u0144 Glaxerus aby by\u0142 na przodzie"
+        Objective:
+          <Type>k__BackingField: 15
+          <CurrencyType>k__BackingField: 0
+          <StatusType>k__BackingField: 0
+          <CreatureType>k__BackingField: 0
+          <CreatureDatas>k__BackingField: []
+          <CardType>k__BackingField: {fileID: 0}
+          <Value>k__BackingField: 1
+    - <MainText>k__BackingField:
+        m_TableReference:
+          m_TableCollectionName: GUID:87b4fdbe5fba1bb478affbd29435ccc4
+        m_TableEntryReference:
+          m_KeyId: 35532752194895881
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      <Note>k__BackingField: "Wyt\u0142umaczenie Status\xF3w"
+      <NextPageOnObjectivesDone>k__BackingField: 1
+      <Objectives>k__BackingField:
+      - LocName:
+          m_TableReference:
+            m_TableCollectionName: GUID:87b4fdbe5fba1bb478affbd29435ccc4
+          m_TableEntryReference:
+            m_KeyId: 35532752194895882
+            m_Key: 
+          m_FallbackState: 0
+          m_WaitForCompletion: 0
+          m_LocalVariables: []
+        Note: Highlight na status Golomo
+        Objective:
+          <Type>k__BackingField: 18
+          <CurrencyType>k__BackingField: 0
+          <StatusType>k__BackingField: 0
+          <CreatureType>k__BackingField: 0
+          <CreatureDatas>k__BackingField: []
+          <CardType>k__BackingField: {fileID: 0}
+          <Value>k__BackingField: 1
+    - <MainText>k__BackingField:
+        m_TableReference:
+          m_TableCollectionName: GUID:87b4fdbe5fba1bb478affbd29435ccc4
+        m_TableEntryReference:
+          m_KeyId: 35532752194895883
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+      <Note>k__BackingField: Koniec tutoriala
+      <NextPageOnObjectivesDone>k__BackingField: 0
+      <Objectives>k__BackingField: []
+  references:
+    version: 2
+    RefIds: []

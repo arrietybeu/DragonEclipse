@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1497261852, guid: ebe353a9e51fc6708625f16edcb81e06, type: 3}
+  m_Name: Boss_Umbra_Atlas
+  m_EditorClassIdentifier:
+  textureLoadingMode: 0
+  onDemandTextureLoader: {fileID: 0}
+  atlasFile: {fileID: 4900000, guid: f45be708cd087ac49b0a63e53ec81be4, type: 3}
+  materials:
+  - {fileID: 2100000, guid: d790847758561514cb76b4219ea58d01, type: 2}

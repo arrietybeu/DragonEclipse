@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 691607763, guid: 9b9661c2100c16ffe067e59fe88e0f99, type: 3}
+  m_Name: Group Boss MSW
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _type: 2
+  _energyCost: 0
+  _isDoneForever: 0
+  <IncrementQuestProgress>k__BackingField: 0
+  <Backgrounds>k__BackingField:
+  - {fileID: 1570301020798156, guid: bb3c6227597c28640b039396e4d2cf84, type: 3}
+  <BattleType>k__BackingField: 2
+  <LastBattle>k__BackingField: 1
+  <HasReward>k__BackingField: 0
+  <ShowTutorial>k__BackingField: 0
+  <StoryGraphOnVictory>k__BackingField: {fileID: 0}
+  <StoryGraphOnDefeat>k__BackingField: {fileID: 0}
+  <RewardEggs>k__BackingField: []
+  _rewardEmberSeeds: {x: 0, y: 0}
+  _rewardMoney: {x: 0, y: 0}
+  <CardsRewardOverrides>k__BackingField: []
+  <CardsRewardChances>k__BackingField:
+    Chances:
+    - Enum: 0
+      Chance: 100
+  <BlessingsRewardChances>k__BackingField:
+    Chances:
+    - Enum: 0
+      Chance: 100
+  <BattlePacks>k__BackingField:
+  - _pack: {fileID: 11400000, guid: b8221193bb6ab7947bbc7ccde022cbc3, type: 2}
+    _difficulty: 9
+  - _pack: {fileID: 11400000, guid: 9cb19c823f789664c9638180a7f65df2, type: 2}
+    _difficulty: 10
+  - _pack: {fileID: 11400000, guid: 504a8a3d8d3168449b514ba2251797e9, type: 2}
+    _difficulty: 12
+  - _pack: {fileID: 11400000, guid: 1f641eeec75077a41838fdf27740fc54, type: 2}
+    _difficulty: 16

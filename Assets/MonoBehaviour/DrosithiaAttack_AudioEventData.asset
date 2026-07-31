@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 769407866, guid: 6c432e59202d98e269ff5dacb33d8319, type: 3}
+  m_Name: DrosithiaAttack_AudioEventData
+  m_EditorClassIdentifier: 
+  <AudioType>k__BackingField: 0
+  <UseList>k__BackingField: 0
+  <Clip>k__BackingField: {fileID: 8300000, guid: bf394e2c6e9a10543af1fa5ecf63f133, type: 3}
+  <ListPlayType>k__BackingField: 2
+  <ClipList>k__BackingField:
+  - <Clip>k__BackingField: {fileID: 8300000, guid: 8021d5fd76c5de44eb83dfd0ac530912, type: 3}
+    <OverrideVolume>k__BackingField: 0
+    <VolumeOverride>k__BackingField: 1
+    <OverridePitch>k__BackingField: 0
+    <PitchOverride>k__BackingField: {x: 1, y: 1}
+  - <Clip>k__BackingField: {fileID: 8300000, guid: 06460c3614a52ed4896a22056e537adf, type: 3}
+    <OverrideVolume>k__BackingField: 0
+    <VolumeOverride>k__BackingField: 1
+    <OverridePitch>k__BackingField: 0
+    <PitchOverride>k__BackingField: {x: 1, y: 1}
+  - <Clip>k__BackingField: {fileID: 8300000, guid: 97b31bbbbf2f9bc4a98844ad5f999a63, type: 3}
+    <OverrideVolume>k__BackingField: 0
+    <VolumeOverride>k__BackingField: 1
+    <OverridePitch>k__BackingField: 0
+    <PitchOverride>k__BackingField: {x: 1, y: 1}
+  <Loop>k__BackingField: 0
+  <Volume>k__BackingField: 1
+  <Pitch>k__BackingField: {x: 1, y: 1}
+  <UseFadeIn>k__BackingField: 0
+  <FadeInTime>k__BackingField: 0
+  <UseFadeOut>k__BackingField: 0
+  <FadeOutTime>k__BackingField: 0

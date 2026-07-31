@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -401201602, guid: 77200cdd01cf31db6370f0abc6f0febb, type: 3}
+  m_Name: ButtonOnHover_AudioEventObject
+  m_EditorClassIdentifier:
+  _eventData: {fileID: 11400000, guid: 99c18202497a6754dbbdf85dfd1db177, type: 2}
+  AllowSingleInstance: 1

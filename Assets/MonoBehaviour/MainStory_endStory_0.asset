@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 365054156, guid: 9b9661c2100c16ffe067e59fe88e0f99, type: 3}
+  m_Name: MainStory_endStory
+  m_EditorClassIdentifier: 
+  <StoryGraph>k__BackingField: {fileID: 11400000, guid: 759f51bbcbf595a45b25d68aee48980f, type: 2}
+  <RegularView>k__BackingField: {fileID: 1372069364625738, guid: 01a8c45b4fe588f4bad9a8e552ea4923, type: 3}
+  <DoneView>k__BackingField: {fileID: 1842418190932815, guid: f84b462f04cc28c4ab8adec94a1a95c0, type: 3}

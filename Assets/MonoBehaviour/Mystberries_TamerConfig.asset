@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1551164947, guid: 53515fc75a07e38e5c001f0f70acb308, type: 3}
+  m_Name: Mystberries_TamerConfig
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Avatar: {fileID: 21300000, guid: d75209e7a5f3e5b4097e820a83bebb2a, type: 2}
+  IconForUnlockBar: {fileID: 21300000, guid: d75209e7a5f3e5b4097e820a83bebb2a, type: 2}
+  TamerSkeletonUI: {fileID: 1290902569945748, guid: 6645526a730bdff439cf379c1cba2a3f, type: 3}
+  LocName:
+    m_TableReference:
+      m_TableCollectionName: GUID:3ff1859342fb87b4991ebcc4b41de820
+    m_TableEntryReference:
+      m_KeyId: 54659618073292803
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  LocDesc:
+    m_TableReference:
+      m_TableCollectionName: GUID:3ff1859342fb87b4991ebcc4b41de820
+    m_TableEntryReference:
+      m_KeyId: 54659618073292804
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  LocDescShort:
+    m_TableReference:
+      m_TableCollectionName: GUID:3ff1859342fb87b4991ebcc4b41de820
+    m_TableEntryReference:
+      m_KeyId: 68455510805913600
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  DefaultMoney: 0
+  DefaultEmberSeeds: 0
+  DefaultUnlocked: 0
+  <PickQuoteAudioData>k__BackingField: {fileID: 11400000, guid: 6cfdf27fb094e494c980ef59d323cacb, type: 2}
+  LevelsData:
+  - <MaxExp>k__BackingField: 0
+    <Cards>k__BackingField: []
+    <Blessings>k__BackingField: []
+  - <MaxExp>k__BackingField: 250
+    <Cards>k__BackingField:
+    - {fileID: 11400000, guid: 9b4fabae13db86d49965a65d7a1c10b5, type: 2}
+    - {fileID: 11400000, guid: cefc0c3380d9d974bad216a194f6770a, type: 2}
+    - {fileID: 11400000, guid: 4fca9ba5838cd914b85ac9232acc2536, type: 2}
+    <Blessings>k__BackingField:
+    - {fileID: 0}
+    - {fileID: 0}
+  - <MaxExp>k__BackingField: 500
+    <Cards>k__BackingField:
+    - {fileID: 11400000, guid: 9b4fabae13db86d49965a65d7a1c10b5, type: 2}
+    - {fileID: 11400000, guid: cefc0c3380d9d974bad216a194f6770a, type: 2}
+    - {fileID: 11400000, guid: 4fca9ba5838cd914b85ac9232acc2536, type: 2}
+    <Blessings>k__BackingField:
+    - {fileID: 0}
+    - {fileID: 0}
+  Cards:
+  - {fileID: 11400000, guid: 9b4fabae13db86d49965a65d7a1c10b5, type: 2}
+  - {fileID: 11400000, guid: cefc0c3380d9d974bad216a194f6770a, type: 2}
+  - {fileID: 11400000, guid: cefc0c3380d9d974bad216a194f6770a, type: 2}
+  - {fileID: 11400000, guid: fcf11211274912245bec57facefd20e7, type: 2}
+  - {fileID: 11400000, guid: fcf11211274912245bec57facefd20e7, type: 2}
+  - {fileID: 11400000, guid: fcf11211274912245bec57facefd20e7, type: 2}
+  FreeFirstCardInBlessingScreen: 0
+  CombatEnergy: 3
+  RunEnergy: 0b0000000a0000000a0000000900000009000000
+  TeamSize: 3
+  StartingMystberries: 20
+  EvolveMystlingOnStart: 0
+  GoldAfterCombatMultiplier: 1
+  PassiveEffects:
+    CasterAnim: 0
+    TargetAnim: 0
+    Tooltips: []
+    Effects: []
+  references:
+    version: 2
+    RefIds: []

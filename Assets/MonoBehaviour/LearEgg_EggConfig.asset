@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1684217331, guid: f10e5688e4e344868651eca72bfed910, type: 3}
+  m_Name: LearEgg_EggConfig
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Icon: {fileID: 21300000, guid: 0c66a4a3f2ffa2943a982644bebb60a3, type: 2}
+  IconForUnlockBar: {fileID: 21300000, guid: 0c66a4a3f2ffa2943a982644bebb60a3, type: 2}
+  CrackedIcon: {fileID: 21300000, guid: 19bbc99db6d5aa347b2e9d2c9317fc74, type: 2}
+  SpritesForHatch:
+  - {fileID: 21300000, guid: 19bbc99db6d5aa347b2e9d2c9317fc74, type: 2}
+  - {fileID: 21300000, guid: b06bf25cb0703684da83e23f394f5c4c, type: 2}
+  - {fileID: 21300000, guid: 2e90dcd1bf51b874cb5281c8d1af0ae7, type: 2}
+  - {fileID: 21300000, guid: 499441abb986afe4a86201b73a487d76, type: 2}
+  LocName:
+    m_TableReference:
+      m_TableCollectionName: GUID:4b2372c5539925d4d8643f5f0eb45be4
+    m_TableEntryReference:
+      m_KeyId: 55722999269105673
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  Mystling: {fileID: 11400000, guid: 2dc53ad45074d50429c0d35f9bbfe1db, type: 2}
+  ObjectiveConfig:
+    <Type>k__BackingField: 14
+    <CurrencyType>k__BackingField: 0
+    <StatusType>k__BackingField: 20
+    <CreatureType>k__BackingField: 0
+    <CreatureDatas>k__BackingField:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    <CardType>k__BackingField: {fileID: 0}
+    <Value>k__BackingField: 200
+  ShowProgressBar: 1
+  references:
+    version: 2
+    RefIds: []

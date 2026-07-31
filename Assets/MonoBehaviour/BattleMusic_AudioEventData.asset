@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 769407866, guid: 6c432e59202d98e269ff5dacb33d8319, type: 3}
+  m_Name: BattleMusic_AudioEventData
+  m_EditorClassIdentifier: 
+  <AudioType>k__BackingField: 2
+  <UseList>k__BackingField: 1
+  <Clip>k__BackingField: {fileID: 0}
+  <ListPlayType>k__BackingField: 1
+  <ClipList>k__BackingField:
+  - <Clip>k__BackingField: {fileID: 8300000, guid: 9e0372478947c5e468e1b6408e37b26c, type: 3}
+    <OverrideVolume>k__BackingField: 1
+    <VolumeOverride>k__BackingField: 0.522
+    <OverridePitch>k__BackingField: 0
+    <PitchOverride>k__BackingField: {x: 1, y: 1}
+  - <Clip>k__BackingField: {fileID: 8300000, guid: 04fec861b7e98014285b79fee2dad2db, type: 3}
+    <OverrideVolume>k__BackingField: 1
+    <VolumeOverride>k__BackingField: 1
+    <OverridePitch>k__BackingField: 0
+    <PitchOverride>k__BackingField: {x: 1, y: 1}
+  - <Clip>k__BackingField: {fileID: 8300000, guid: cd229fda1ff25eb409ff5a8cafd911cd, type: 3}
+    <OverrideVolume>k__BackingField: 1
+    <VolumeOverride>k__BackingField: 1
+    <OverridePitch>k__BackingField: 0
+    <PitchOverride>k__BackingField: {x: 1, y: 1}
+  - <Clip>k__BackingField: {fileID: 8300000, guid: 8707bdeea01f3e44880b8dd64a1b401b, type: 3}
+    <OverrideVolume>k__BackingField: 0
+    <VolumeOverride>k__BackingField: 1
+    <OverridePitch>k__BackingField: 0
+    <PitchOverride>k__BackingField: {x: 1, y: 1}
+  <Loop>k__BackingField: 1
+  <Volume>k__BackingField: 0.754
+  <Pitch>k__BackingField: {x: 1, y: 1}
+  <UseFadeIn>k__BackingField: 1
+  <FadeInTime>k__BackingField: 2
+  <UseFadeOut>k__BackingField: 1
+  <FadeOutTime>k__BackingField: 1

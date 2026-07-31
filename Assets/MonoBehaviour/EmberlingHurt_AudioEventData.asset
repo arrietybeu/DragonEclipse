@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 769407866, guid: 6c432e59202d98e269ff5dacb33d8319, type: 3}
+  m_Name: EmberlingHurt_AudioEventData
+  m_EditorClassIdentifier: 
+  <AudioType>k__BackingField: 0
+  <UseList>k__BackingField: 1
+  <Clip>k__BackingField: {fileID: 8300000, guid: f2cdb0e7eae24cb4eb978b84f643d2a4, type: 3}
+  <ListPlayType>k__BackingField: 2
+  <ClipList>k__BackingField:
+  - <Clip>k__BackingField: {fileID: 8300000, guid: f2cdb0e7eae24cb4eb978b84f643d2a4, type: 3}
+    <OverrideVolume>k__BackingField: 0
+    <VolumeOverride>k__BackingField: 1
+    <OverridePitch>k__BackingField: 0
+    <PitchOverride>k__BackingField: {x: 1, y: 1}
+  - <Clip>k__BackingField: {fileID: 8300000, guid: d491c03484384cd42a5d6bcfa6220ce9, type: 3}
+    <OverrideVolume>k__BackingField: 0
+    <VolumeOverride>k__BackingField: 1
+    <OverridePitch>k__BackingField: 0
+    <PitchOverride>k__BackingField: {x: 1, y: 1}
+  - <Clip>k__BackingField: {fileID: 8300000, guid: 69d785ff3cecb714ba9c5d4356fe8326, type: 3}
+    <OverrideVolume>k__BackingField: 0
+    <VolumeOverride>k__BackingField: 1
+    <OverridePitch>k__BackingField: 0
+    <PitchOverride>k__BackingField: {x: 1, y: 1}
+  <Loop>k__BackingField: 0
+  <Volume>k__BackingField: 1
+  <Pitch>k__BackingField: {x: 1, y: 1}
+  <UseFadeIn>k__BackingField: 0
+  <FadeInTime>k__BackingField: 0
+  <UseFadeOut>k__BackingField: 0
+  <FadeOutTime>k__BackingField: 0

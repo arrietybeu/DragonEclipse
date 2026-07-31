@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 769407866, guid: 6c432e59202d98e269ff5dacb33d8319, type: 3}
+  m_Name: MapAmbient_dark_AudioEventData
+  m_EditorClassIdentifier: 
+  <AudioType>k__BackingField: 0
+  <UseList>k__BackingField: 0
+  <Clip>k__BackingField: {fileID: 8300000, guid: 9ff768811787b03409588171c10b97d7, type: 3}
+  <ListPlayType>k__BackingField: 0
+  <ClipList>k__BackingField: []
+  <Loop>k__BackingField: 1
+  <Volume>k__BackingField: 0.408
+  <Pitch>k__BackingField: {x: 1, y: 1}
+  <UseFadeIn>k__BackingField: 1
+  <FadeInTime>k__BackingField: 2
+  <UseFadeOut>k__BackingField: 1
+  <FadeOutTime>k__BackingField: 1

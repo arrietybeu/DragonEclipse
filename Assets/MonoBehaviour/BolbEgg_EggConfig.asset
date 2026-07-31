@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1684217331, guid: f10e5688e4e344868651eca72bfed910, type: 3}
+  m_Name: BolbEgg_EggConfig
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Icon: {fileID: 21300000, guid: 3b62612446e79a74a80ea8c95a6d7201, type: 2}
+  IconForUnlockBar: {fileID: 21300000, guid: 3b62612446e79a74a80ea8c95a6d7201, type: 2}
+  CrackedIcon: {fileID: 21300000, guid: 29b40994525501e4db63d718b7a0bc05, type: 2}
+  SpritesForHatch:
+  - {fileID: 21300000, guid: 29b40994525501e4db63d718b7a0bc05, type: 2}
+  - {fileID: 21300000, guid: 8455b782f80fca74285ad47888724f2d, type: 2}
+  - {fileID: 21300000, guid: 21c6d91992958394c9f438919e998a45, type: 2}
+  - {fileID: 21300000, guid: b1a56cf5eab755e4cba7ea86cabb134a, type: 2}
+  LocName:
+    m_TableReference:
+      m_TableCollectionName: GUID:4b2372c5539925d4d8643f5f0eb45be4
+    m_TableEntryReference:
+      m_KeyId: 5776446912053346
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  Mystling: {fileID: 11400000, guid: 60cbea61d8a2d95438139bd59d9e4e48, type: 2}
+  ObjectiveConfig:
+    <Type>k__BackingField: 13
+    <CurrencyType>k__BackingField: 0
+    <StatusType>k__BackingField: 4
+    <CreatureType>k__BackingField: 0
+    <CreatureDatas>k__BackingField:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    <CardType>k__BackingField: {fileID: 0}
+    <Value>k__BackingField: 50
+  ShowProgressBar: 1
+  references:
+    version: 2
+    RefIds: []

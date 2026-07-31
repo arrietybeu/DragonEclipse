@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 691607763, guid: 9b9661c2100c16ffe067e59fe88e0f99, type: 3}
+  m_Name: Group Regular MSW 8
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _type: 2
+  _energyCost: 1
+  _isDoneForever: 0
+  <IncrementQuestProgress>k__BackingField: 0
+  <Backgrounds>k__BackingField:
+  - {fileID: 1562694270956728, guid: 24178bca049970841bf379a3215a4d86, type: 3}
+  - {fileID: 1671526480051066, guid: 17204997c2de3f6458552f58c4afa3b0, type: 3}
+  <BattleType>k__BackingField: 0
+  <LastBattle>k__BackingField: 0
+  <HasReward>k__BackingField: 1
+  <ShowTutorial>k__BackingField: 0
+  <StoryGraphOnVictory>k__BackingField: {fileID: 0}
+  <StoryGraphOnDefeat>k__BackingField: {fileID: 0}
+  <RewardEggs>k__BackingField: []
+  _rewardEmberSeeds: {x: 6, y: 7}
+  _rewardMoney: {x: 20, y: 40}
+  <CardsRewardOverrides>k__BackingField: []
+  <CardsRewardChances>k__BackingField:
+    Chances:
+    - Enum: 0
+      Chance: 100
+  <BlessingsRewardChances>k__BackingField:
+    Chances:
+    - Enum: 0
+      Chance: 100
+  <BattlePacks>k__BackingField:
+  - _pack: {fileID: 11400000, guid: d3235e6f7cc7bc8418bca4e9cb04808d, type: 2}
+    _difficulty: 1
+  - _pack: {fileID: 11400000, guid: 38fbf493638e96b43bfe152dc747b478, type: 2}
+    _difficulty: 1
+  - _pack: {fileID: 11400000, guid: f5941d2bf11d17445be857801f118d0a, type: 2}
+    _difficulty: 3
+  - _pack: {fileID: 11400000, guid: 270585fc37573c84a852ae917440a87f, type: 2}
+    _difficulty: 3
+  - _pack: {fileID: 11400000, guid: 385586fa6e82b8d4090b68cadf25cdad, type: 2}
+    _difficulty: 3
+  - _pack: {fileID: 11400000, guid: bd803425f0fdafc49bf8c81efc13a7ff, type: 2}
+    _difficulty: 3
+  - _pack: {fileID: 11400000, guid: b0cc22770e612924a833225e6842040d, type: 2}
+    _difficulty: 2
+  - _pack: {fileID: 11400000, guid: efadb1cd3e394f844a5cebe61181329e, type: 2}
+    _difficulty: 2
+  - _pack: {fileID: 11400000, guid: b2e93ac21734bff48a3c6e8cc21d0fe1, type: 2}
+    _difficulty: 2
+  - _pack: {fileID: 11400000, guid: f974c44fb8e49984fb25b8893e258bd0, type: 2}
+    _difficulty: 12
+  - _pack: {fileID: 11400000, guid: f339410f19141a6439d1984d06ef5c32, type: 2}
+    _difficulty: 12
+  - _pack: {fileID: 11400000, guid: 9404e117fd8e6d84db5b7c63b23b5c42, type: 2}
+    _difficulty: 12
+  - _pack: {fileID: 11400000, guid: da4c33fd978337e4db6133f781af31b2, type: 2}
+    _difficulty: 12
+  - _pack: {fileID: 11400000, guid: aee87eaf0fa478744b0a1c66a4871861, type: 2}
+    _difficulty: 12
+  - _pack: {fileID: 11400000, guid: b252cf6e93252cb4f8e26adfbc5cd831, type: 2}
+    _difficulty: 12
+  - _pack: {fileID: 11400000, guid: eafd99f846a2cdb45ae5c7ff3e3bbd3f, type: 2}
+    _difficulty: 12
+  - _pack: {fileID: 11400000, guid: a1ac43cbf4e4f15499d03ba60f77d8b0, type: 2}
+    _difficulty: 12
+  - _pack: {fileID: 11400000, guid: cdce61334a846974ea298dc63f39aa36, type: 2}
+    _difficulty: 12
+  - _pack: {fileID: 11400000, guid: 6b4e48cf62875814fb904c18d6f784e8, type: 2}
+    _difficulty: 12
+  - _pack: {fileID: 11400000, guid: 9e0a29aa3e4f7cd43adcc3361ee2dd83, type: 2}
+    _difficulty: 12
+  - _pack: {fileID: 11400000, guid: b09190c2c24eb6046ab8147d61feaf73, type: 2}
+    _difficulty: 12
+  - _pack: {fileID: 11400000, guid: ba44aa09039c65e4387cc7ce8bca4775, type: 2}
+    _difficulty: 16
+  - _pack: {fileID: 11400000, guid: a30bec797791b5d43af4a282f95de026, type: 2}
+    _difficulty: 16
+  - _pack: {fileID: 11400000, guid: 664e28ecceb8c994aa1bf9ca3afa3146, type: 2}
+    _difficulty: 16
+  - _pack: {fileID: 11400000, guid: acb21687b3865de46bbefc8a331325bc, type: 2}
+    _difficulty: 16
+  - _pack: {fileID: 11400000, guid: 0792d4b31dcb4fc479e206551b4a8b83, type: 2}
+    _difficulty: 16
+  - _pack: {fileID: 11400000, guid: 5b88dac9bfc132e4e811ae459bf29c4f, type: 2}
+    _difficulty: 16
+  - _pack: {fileID: 11400000, guid: 8f80a59f1779cf0479d459b4455acc58, type: 2}
+    _difficulty: 16
+  - _pack: {fileID: 11400000, guid: 420eb4e253273c04f8a911d090551489, type: 2}
+    _difficulty: 16

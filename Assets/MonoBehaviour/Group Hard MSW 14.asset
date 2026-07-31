@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 691607763, guid: 9b9661c2100c16ffe067e59fe88e0f99, type: 3}
+  m_Name: Group Hard MSW 14
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _type: 2
+  _energyCost: 1
+  _isDoneForever: 0
+  <IncrementQuestProgress>k__BackingField: 0
+  <Backgrounds>k__BackingField:
+  - {fileID: 1562694270956728, guid: 24178bca049970841bf379a3215a4d86, type: 3}
+  - {fileID: 1671526480051066, guid: 17204997c2de3f6458552f58c4afa3b0, type: 3}
+  <BattleType>k__BackingField: 5
+  <LastBattle>k__BackingField: 0
+  <HasReward>k__BackingField: 1
+  <ShowTutorial>k__BackingField: 0
+  <StoryGraphOnVictory>k__BackingField: {fileID: 0}
+  <StoryGraphOnDefeat>k__BackingField: {fileID: 0}
+  <RewardEggs>k__BackingField: []
+  _rewardEmberSeeds: {x: 8, y: 10}
+  _rewardMoney: {x: 30, y: 50}
+  <CardsRewardOverrides>k__BackingField: []
+  <CardsRewardChances>k__BackingField:
+    Chances:
+    - Enum: 0
+      Chance: 100
+  <BlessingsRewardChances>k__BackingField:
+    Chances:
+    - Enum: 0
+      Chance: 100
+  <BattlePacks>k__BackingField:
+  - _pack: {fileID: 11400000, guid: f3bfd0c57bd6dc744877e541a399238a, type: 2}
+    _difficulty: 1
+  - _pack: {fileID: 11400000, guid: 75d1cec687466cc4e9d1e3483ea4b0c9, type: 2}
+    _difficulty: 1
+  - _pack: {fileID: 11400000, guid: 122034646401e7f449d78a1479d7cbbb, type: 2}
+    _difficulty: 1
+  - _pack: {fileID: 11400000, guid: 4807959068b37d44097aaada1df0475f, type: 2}
+    _difficulty: 3
+  - _pack: {fileID: 11400000, guid: 98f99d0382e901b4298b55861ba9d008, type: 2}
+    _difficulty: 3
+  - _pack: {fileID: 11400000, guid: 8de6a6759464cb54aa408db8502fc34d, type: 2}
+    _difficulty: 3
+  - _pack: {fileID: 11400000, guid: 8735dbe469db77f4ab35fc9dfd7a6568, type: 2}
+    _difficulty: 3
+  - _pack: {fileID: 11400000, guid: 3c8c4197596c1d0418505d9d96e1ff89, type: 2}
+    _difficulty: 3
+  - _pack: {fileID: 11400000, guid: b020c6ee70a1f764aa21d5195ec455a6, type: 2}
+    _difficulty: 3
+  - _pack: {fileID: 11400000, guid: 9216274c713edb7449463698e25b4ba4, type: 2}
+    _difficulty: 3
+  - _pack: {fileID: 11400000, guid: 85cb8bf0701696044af75e26c8b27c56, type: 2}
+    _difficulty: 2
+  - _pack: {fileID: 11400000, guid: 2fec3198891def24799e98d05b57287d, type: 2}
+    _difficulty: 2
+  - _pack: {fileID: 11400000, guid: 209709c562ba8fa46bf758302e107af2, type: 2}
+    _difficulty: 2
+  - _pack: {fileID: 11400000, guid: 2732da6c801a412438d91717163d85eb, type: 2}
+    _difficulty: 2
+  - _pack: {fileID: 11400000, guid: a7df93102c6e1a5468974b1d7c252beb, type: 2}
+    _difficulty: 12
+  - _pack: {fileID: 11400000, guid: a7df93102c6e1a5468974b1d7c252beb, type: 2}
+    _difficulty: 12
+  - _pack: {fileID: 11400000, guid: b5e75f117f099624ab19558fc1db6b48, type: 2}
+    _difficulty: 12
+  - _pack: {fileID: 11400000, guid: 7153e2ef4de98204aa533c6d832a9f53, type: 2}
+    _difficulty: 12
+  - _pack: {fileID: 11400000, guid: 7c482702c5ec74243a078bddc82c2577, type: 2}
+    _difficulty: 12
+  - _pack: {fileID: 11400000, guid: c7b6c283f4c76bc4ea374b81ea6ea624, type: 2}
+    _difficulty: 12
+  - _pack: {fileID: 11400000, guid: 8190ec13a0be108418dfbcf29de7dbf5, type: 2}
+    _difficulty: 12
+  - _pack: {fileID: 11400000, guid: 3a8af7be94f8a4c44b41258428887e33, type: 2}
+    _difficulty: 12
+  - _pack: {fileID: 11400000, guid: 40a81cb46a375c14f9d26466d390db06, type: 2}
+    _difficulty: 12
+  - _pack: {fileID: 11400000, guid: 1f12aef08d287824f8dcb8971d7681cb, type: 2}
+    _difficulty: 12
+  - _pack: {fileID: 11400000, guid: 29986427a859f8b4aab03812cfa27218, type: 2}
+    _difficulty: 12
+  - _pack: {fileID: 11400000, guid: 715ec412ae7b3744c8700965f961c5af, type: 2}
+    _difficulty: 12
+  - _pack: {fileID: 11400000, guid: 7d0950b14e5622f41abf0e58427e88bd, type: 2}
+    _difficulty: 12
+  - _pack: {fileID: 11400000, guid: 509a7a03b7e9f214daf9e322b4a8cc4f, type: 2}
+    _difficulty: 12
+  - _pack: {fileID: 11400000, guid: 9161f5327c4b95342941730cc855c9e4, type: 2}
+    _difficulty: 12
+  - _pack: {fileID: 11400000, guid: 25bae3a1e9265404e9d5b1157029cfb8, type: 2}
+    _difficulty: 16
+  - _pack: {fileID: 11400000, guid: cae88017edb43da4aa1915cfede223f4, type: 2}
+    _difficulty: 16
+  - _pack: {fileID: 11400000, guid: a79ed73a0607dc541aed15133e8c7c2c, type: 2}
+    _difficulty: 16
+  - _pack: {fileID: 11400000, guid: 60161f146db2f2e4e99f1b2b2dcce6fd, type: 2}
+    _difficulty: 16
+  - _pack: {fileID: 11400000, guid: 25ecb75154caaa64cbfdf2612a052229, type: 2}
+    _difficulty: 16
+  - _pack: {fileID: 11400000, guid: c9c6c700ebe671f4ba9505224b3b5407, type: 2}
+    _difficulty: 16
+  - _pack: {fileID: 11400000, guid: e7132e62d727ed249a1cbac2223c5d29, type: 2}
+    _difficulty: 16
+  - _pack: {fileID: 11400000, guid: 69b76f2e3413f684c86b8e8ff2f3e1b2, type: 2}
+    _difficulty: 16
