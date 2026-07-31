@@ -1,0 +1,87 @@
+Spider_rig.png
+size:2048,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+back leg L 1
+bounds:346,71,103,117
+offsets:1,0,105,117
+rotate:90
+back leg L back
+bounds:1628,323,89,193
+offsets:0,2,89,195
+rotate:90
+back leg L foot
+bounds:727,404,106,398
+offsets:1,0,107,399
+rotate:90
+back leg R 1
+bounds:1954,188,91,122
+offsets:0,1,92,124
+back leg R back
+bounds:1519,232,107,180
+offsets:1,0,108,180
+back leg R foot
+bounds:1127,402,108,379
+rotate:90
+body
+bounds:1024,215,185,245
+rotate:90
+front leg L 1
+bounds:727,195,207,295
+rotate:90
+front leg L back
+bounds:172,52,108,78
+offsets:22,1,130,80
+front leg L foot
+bounds:172,132,172,378
+front leg R 1
+bounds:1508,414,96,317
+offsets:0,0,102,317
+rotate:90
+front leg R back
+bounds:731,128,78,65
+offsets:1,2,80,68
+front leg R foot
+bounds:346,370,140,379
+rotate:90
+head
+bounds:2,4,88,106
+offsets:0,0,88,107
+rotate:90
+mid leg L 1
+bounds:1827,312,198,219
+offsets:1,0,203,220
+rotate:90
+mid leg L back
+bounds:465,60,116,114
+offsets:1,1,118,116
+mid leg L foot
+bounds:2,94,168,416
+mid leg R 1
+bounds:1271,225,175,246
+offsets:0,0,175,247
+rotate:90
+mid leg R back
+bounds:583,65,107,109
+offsets:1,1,109,110
+mid leg R foot
+bounds:346,233,135,377
+rotate:90
+teeth L
+bounds:692,87,37,87
+offsets:0,2,39,90
+teeth L exterior
+bounds:1628,215,106,163
+rotate:90
+teeth R
+bounds:110,2,32,90
+offsets:1,1,34,92
+teeth R exterior
+bounds:1793,202,108,159
+offsets:1,0,109,159
+rotate:90
+web
+bounds:346,176,55,374
+offsets:0,4,55,378
+rotate:90

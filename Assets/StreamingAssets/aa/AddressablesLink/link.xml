@@ -1,0 +1,455 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Awaken.Audio.Tools.SelectableAudioHandler" preserve="all" />
+    <type fullname="Awaken.Audio.Tools.SimpleAudioPlayer" preserve="all" />
+  </assembly>
+  <assembly fullname="Awaken.Audio.Base, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Awaken.Audio.Base.AudioEventObject" preserve="all" />
+  </assembly>
+  <assembly fullname="Awaken.Battlefield.Arena, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Awaken.Battlefield.Arena.BattleCinemachineController" preserve="all" />
+    <type fullname="Awaken.Battlefield.Arena.View.ArenaGameObject" preserve="all" />
+    <type fullname="Awaken.Battlefield.Arena.View.ArenaSlot" preserve="all" />
+  </assembly>
+  <assembly fullname="Awaken.Battlefield.Blessings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Awaken.Battlefield.Blessings.View.BlessingIcon" preserve="all" />
+    <type fullname="Awaken.Battlefield.Blessings.View.BlessingTooltip" preserve="all" />
+  </assembly>
+  <assembly fullname="Awaken.Battlefield.CardsDeck, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Awaken.Battlefield.CardsDeck.Internal.DestroyPile" preserve="all" />
+    <type fullname="Awaken.Battlefield.CardsDeck.Internal.DiscardPile" preserve="all" />
+    <type fullname="Awaken.Battlefield.CardsDeck.Internal.DrawPile" preserve="all" />
+    <type fullname="Awaken.Battlefield.CardsDeck.Internal.ExhaustPile" preserve="all" />
+    <type fullname="Awaken.Battlefield.CardsDeck.Internal.PileModifiers" preserve="all" />
+    <type fullname="Awaken.Battlefield.CardsDeck.Internal.PileModifiersView" preserve="all" />
+    <type fullname="Awaken.Battlefield.CardsDeck.Internal.PlayModifiers" preserve="all" />
+    <type fullname="Awaken.Battlefield.CardsDeck.View.CreationCardsContainer" preserve="all" />
+    <type fullname="Awaken.Battlefield.CardsDeck.View.DeckGameObject" preserve="all" />
+    <type fullname="Awaken.Battlefield.CardsDeck.View.HandGameObject" preserve="all" />
+    <type fullname="Awaken.Battlefield.CardsDeck.View.SelectDecisionGameObject" preserve="all" />
+    <type fullname="Awaken.Battlefield.CardsDeck.View.SelectedForDiscardContainer" preserve="all" />
+  </assembly>
+  <assembly fullname="Awaken.Battlefield.Energy, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Awaken.Battlefield.Energy.View.EnergyGameObject" preserve="all" />
+    <type fullname="Awaken.Battlefield.Energy.View.EnergyModifierView" preserve="all" />
+  </assembly>
+  <assembly fullname="Awaken.Battlefield.Rounds, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Awaken.Battlefield.Rounds.View.NewRoundToast" preserve="all" />
+    <type fullname="Awaken.Battlefield.Rounds.View.RoundGameObject" preserve="all" />
+  </assembly>
+  <assembly fullname="Awaken.Battlefield.Status, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Awaken.Battlefield.Status.Internal.View.StatusIcon" preserve="all" />
+  </assembly>
+  <assembly fullname="Awaken.Battlefield.Targets, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Awaken.Battlefield.Targets.TargetPointer" preserve="all" />
+  </assembly>
+  <assembly fullname="Awaken.Cards, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Awaken.Cards.View.BattleCardView" preserve="all" />
+  </assembly>
+  <assembly fullname="Awaken.Creatures, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Awaken.Creatures.Internal.Tooltip.EnemyCreatureTooltip" preserve="all" />
+    <type fullname="Awaken.Creatures.Internal.Tooltip.MystlingCreatureTooltip" preserve="all" />
+    <type fullname="Awaken.Creatures.Internal.View.ActionTooltip" preserve="all" />
+    <type fullname="Awaken.Creatures.Internal.View.CombatBarkPrompt" preserve="all" />
+    <type fullname="Awaken.Creatures.Internal.View.CreatureGameObject" preserve="all" />
+    <type fullname="Awaken.Creatures.Internal.View.EnemyCreatureGui" preserve="all" />
+    <type fullname="Awaken.Creatures.Internal.View.EnemyLeaderboardCreatureGui" preserve="all" />
+    <type fullname="Awaken.Creatures.Internal.View.ForeshadowIcon" preserve="all" />
+    <type fullname="Awaken.Creatures.Internal.View.MystlingCreatureGui" preserve="all" />
+    <type fullname="Awaken.Creatures.Internal.View.TooltipHover" preserve="all" />
+  </assembly>
+  <assembly fullname="Awaken.Data.Achievements, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Awaken.Data.Achievements.AchievementConfig" preserve="all" />
+    <type fullname="Awaken.Data.Achievements.AchievementsContainer" preserve="all" />
+    <type fullname="Awaken.Data.Achievements.AchievementStat" preserve="all" />
+  </assembly>
+  <assembly fullname="Awaken.Data.Actions, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Awaken.Data.Actions.ActionConfig" preserve="all" />
+    <type fullname="Awaken.Data.Actions.ForeshadowIconConfig" preserve="all" />
+    <type fullname="Awaken.Data.Actions.ActionData" preserve="nothing" serialized="true" />
+    <type fullname="Awaken.Data.Actions.ForeshadowInfo" preserve="nothing" serialized="true" />
+    <type fullname="Awaken.Data.Actions.ForeshadowVisuals" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Awaken.Data.Audio, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Awaken.Data.Audio.AudioConfig" preserve="all" />
+    <type fullname="Awaken.Data.Audio.AudioEventData" preserve="all" />
+    <type fullname="Awaken.Data.Audio.BattleAudioConfig" preserve="all" />
+    <type fullname="Awaken.Data.Audio.CreatureAudioDataPreset" preserve="all" />
+    <type fullname="Awaken.Data.Audio.MystlingAudioDataPreset" preserve="all" />
+    <type fullname="Awaken.Data.Audio.AudioClipData" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Awaken.Data.Blessings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Awaken.Data.Blessings.BlessingConfig" preserve="all" />
+    <type fullname="Awaken.Data.Blessings.BlessingsContainer" preserve="all" />
+    <type fullname="Awaken.Data.Blessings.MapBlessingEffect" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Awaken.Data.Camera, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Awaken.Data.Camera.CameraConfig" preserve="all" />
+  </assembly>
+  <assembly fullname="Awaken.Data.Cards, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Awaken.Data.Cards.CardConfig" preserve="all" />
+    <type fullname="Awaken.Data.Cards.CardsContainer" preserve="all" />
+    <type fullname="Awaken.Data.Cards.KeywordsConfig" preserve="all" />
+    <type fullname="Awaken.Data.Cards.KeywordInfo" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Awaken.Data.CloudData, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Awaken.Data.Cloud.CloudConfig" preserve="all" />
+  </assembly>
+  <assembly fullname="Awaken.Data.Combat, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Awaken.Data.Combat.CombatConfig" preserve="all" />
+  </assembly>
+  <assembly fullname="Awaken.Data.CombatTutorial, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Awaken.Data.CombatTutorial.CombatTutorialConfig" preserve="all" />
+    <type fullname="Awaken.Data.CombatTutorial.CombatTutorialContainer" preserve="all" />
+    <type fullname="Awaken.Data.CombatTutorial.CombatTutorialContainer/CombatTutorialObjective" preserve="nothing" serialized="true" />
+    <type fullname="Awaken.Data.CombatTutorial.CombatTutorialContainer/Group" preserve="nothing" serialized="true" />
+    <type fullname="Awaken.Data.CombatTutorial.CombatTutorialContainer/Page" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Awaken.Data.Consumable, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Awaken.Data.Consumables.ConsumableConfig" preserve="all" />
+    <type fullname="Awaken.Data.Consumables.ConsumableContainer" preserve="all" />
+  </assembly>
+  <assembly fullname="Awaken.Data.Creatures, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Awaken.Data.Creatures.ActionsHelperConfig" preserve="all" />
+    <type fullname="Awaken.Data.Creatures.BossConfig" preserve="all" />
+    <type fullname="Awaken.Data.Creatures.CreaturesContainer" preserve="all" />
+    <type fullname="Awaken.Data.Creatures.EnemyConfig" preserve="all" />
+    <type fullname="Awaken.Data.Creatures.MystlingConfig" preserve="all" />
+    <type fullname="Awaken.Data.Creatures.ActionGroup" preserve="nothing" serialized="true" />
+    <type fullname="Awaken.Data.Creatures.ActionGroups" preserve="nothing" serialized="true" />
+    <type fullname="Awaken.Data.Creatures.ActionPack" preserve="nothing" serialized="true" />
+    <type fullname="Awaken.Data.Creatures.ActionsHelperConfig/ActionDataHelper" preserve="nothing" serialized="true" />
+    <type fullname="Awaken.Data.Creatures.CreatureTriviaLocalizations" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Awaken.Data.DynamicValue, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Awaken.Data.DynamicValue.ValuesHelperConfig" preserve="all" />
+    <type fullname="Awaken.Data.DynamicValue.CombatBarkData" preserve="nothing" serialized="true" />
+    <type fullname="Awaken.Data.DynamicValue.ValueData" preserve="nothing" serialized="true" />
+    <type fullname="Awaken.Data.DynamicValue.ValueDataHelper" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Awaken.Data.Effects, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Awaken.Data.Effects.EffectConfig" preserve="all" />
+    <type fullname="Awaken.Data.Effects.EffectsHelperConfig" preserve="all" />
+    <type fullname="Awaken.Data.Effects.Statuses.StatusesConfig" preserve="all" />
+    <type fullname="Awaken.Data.Effects.TargetsHelperConfig" preserve="all" />
+    <type fullname="Awaken.Data.Effects.TriggersHelperConfig" preserve="all" />
+    <type fullname="Awaken.Data.Effects.CardEffectData.CardEffectData" preserve="nothing" serialized="true" />
+    <type fullname="Awaken.Data.Effects.CardEffectsPack" preserve="nothing" serialized="true" />
+    <type fullname="Awaken.Data.Effects.ConditionData" preserve="nothing" serialized="true" />
+    <type fullname="Awaken.Data.Effects.CustomAttackData" preserve="nothing" serialized="true" />
+    <type fullname="Awaken.Data.Effects.CustomStrikeData" preserve="nothing" serialized="true" />
+    <type fullname="Awaken.Data.Effects.PassiveSkillEffectData.PassiveSkillEffectData" preserve="nothing" serialized="true" />
+    <type fullname="Awaken.Data.Effects.PassiveSkillEffectsPack" preserve="nothing" serialized="true" />
+    <type fullname="Awaken.Data.Effects.PowerModifierData" preserve="nothing" serialized="true" />
+    <type fullname="Awaken.Data.Effects.SpawnEnemyData" preserve="nothing" serialized="true" />
+    <type fullname="Awaken.Data.Effects.Statuses.ExpirationData" preserve="nothing" serialized="true" />
+    <type fullname="Awaken.Data.Effects.ActionEffectData.ActionEffectData" preserve="nothing" serialized="true" />
+    <type fullname="Awaken.Data.Effects.ActionEffectsPack" preserve="nothing" serialized="true" />
+    <type fullname="Awaken.Data.Effects.ActiveSkillEffectData.ActiveSkillEffectData" preserve="nothing" serialized="true" />
+    <type fullname="Awaken.Data.Effects.ActiveSkillEffectsPack" preserve="nothing" serialized="true" />
+    <type fullname="Awaken.Data.Effects.ConditionDataHelper" preserve="nothing" serialized="true" />
+    <type fullname="Awaken.Data.Effects.EffectDataHelper" preserve="nothing" serialized="true" />
+    <type fullname="Awaken.Data.Effects.ExpirationDataHelper" preserve="nothing" serialized="true" />
+    <type fullname="Awaken.Data.Effects.Statuses.StatusData" preserve="nothing" serialized="true" />
+    <type fullname="Awaken.Data.Effects.TargetDataHelper" preserve="nothing" serialized="true" />
+    <type fullname="Awaken.Data.Effects.TargetRangeDataHelper" preserve="nothing" serialized="true" />
+    <type fullname="Awaken.Data.Effects.TriggerDataHelper" preserve="nothing" serialized="true" />
+    <type fullname="Awaken.Data.Effects.TriggerTargetDataHelper" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Awaken.Data.Eggs, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Awaken.Data.Eggs.EggConfig" preserve="all" />
+    <type fullname="Awaken.Data.Eggs.EggsContainer" preserve="all" />
+  </assembly>
+  <assembly fullname="Awaken.Data.GameSpeed, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Awaken.Data.GameSpeed.GameSpeedSetup" preserve="all" />
+    <type fullname="Awaken.Data.GameSpeed.GameSpeedData" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Awaken.Data.Links, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Awaken.Data.WebLinks.WebLinkConfig" preserve="all" />
+    <type fullname="Awaken.Data.WebLinks.WebLink" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Awaken.Data.Map, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Awaken.Data.Map.BarksMapItem" preserve="all" />
+    <type fullname="Awaken.Data.Map.BattleDataItem" preserve="all" />
+    <type fullname="Awaken.Data.Map.BattleMapItem" preserve="all" />
+    <type fullname="Awaken.Data.Map.BuyConsumableMapItem" preserve="all" />
+    <type fullname="Awaken.Data.Map.CardUpgraderMapItem" preserve="all" />
+    <type fullname="Awaken.Data.Map.CareCenterMapItem" preserve="all" />
+    <type fullname="Awaken.Data.Map.HealMapItem" preserve="all" />
+    <type fullname="Awaken.Data.Map.MapConfig" preserve="all" />
+    <type fullname="Awaken.Data.Map.MapContainer" preserve="all" />
+    <type fullname="Awaken.Data.Map.RewardMapItem" preserve="all" />
+    <type fullname="Awaken.Data.Map.ShopMapItem" preserve="all" />
+    <type fullname="Awaken.Data.Map.StoryData" preserve="all" />
+    <type fullname="Awaken.Data.Map.StoryMapItem" preserve="all" />
+    <type fullname="Awaken.Data.Map.TrainingMapItem" preserve="all" />
+    <type fullname="Awaken.Data.Map.BattleMapItem/BattlePack" preserve="nothing" serialized="true" />
+    <type fullname="Awaken.Data.Map.CareCenterMapItem/Pack" preserve="nothing" serialized="true" />
+    <type fullname="Awaken.Data.Map.RewardMapItem/RewardPack" preserve="nothing" serialized="true" />
+    <type fullname="Awaken.Data.Map.ShopMapItem/Pack" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Awaken.Data.Objectives, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Awaken.Data.Objectives.ObjectiveLocalizationConfig" preserve="all" />
+    <type fullname="Awaken.Data.Objectives.ObjectiveConfig" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Awaken.Data.Player, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Awaken.Data.Player.PlayerConfig" preserve="all" />
+    <type fullname="Awaken.Data.Player.PlayerProgressConfig" preserve="all" />
+  </assembly>
+  <assembly fullname="Awaken.Data.Quests, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Awaken.Data.Quests.QuestConfig" preserve="all" />
+    <type fullname="Awaken.Data.Quests.QuestsContainer" preserve="all" />
+  </assembly>
+  <assembly fullname="Awaken.Data.State, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Awaken.Data.State.StateConfig" preserve="all" />
+    <type fullname="Awaken.Data.State.StateConfig/FadeRule" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Awaken.Data.Tamers, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Awaken.Data.Tamers.TamerConfig" preserve="all" />
+    <type fullname="Awaken.Data.Tamers.TamersContainer" preserve="all" />
+    <type fullname="Awaken.Data.Tamers.TamerLevel" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Awaken.Data.TextTags, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Awaken.Data.TextTags.TextTagsConfig" preserve="all" />
+    <type fullname="Awaken.Data.TextTags.TextTagsConfig/Rule" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Awaken.Data.Versions, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Awaken.Data.Versions.VersionsConfig" preserve="all" />
+  </assembly>
+  <assembly fullname="Awaken.Difficulty, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Awaken.Difficulty.DifficultyConfig" preserve="all" />
+    <type fullname="Awaken.Difficulty.DifficultyData" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Awaken.Input, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Awaken.Input.Internal.DisableNavigation" preserve="all" />
+    <type fullname="Awaken.Input.View.GamepadButton" preserve="all" />
+    <type fullname="Awaken.Input.View.GamepadButtonHold" preserve="all" />
+    <type fullname="Awaken.Input.View.GamepadButtonIconsProvider" preserve="all" />
+    <type fullname="Awaken.Input.View.GamepadButtonTypeSpritePair" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Awaken.State, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Awaken.State.SkipLeaderboardButton" preserve="all" />
+  </assembly>
+  <assembly fullname="Awaken.ThirdParty.Spine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Spine.Unity.Examples.RenderExistingMesh" preserve="all" />
+    <type fullname="Spine.Unity.Examples.RenderExistingMesh/MaterialReplacement" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Awaken.UI.Panels, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Awaken.UI.Panels.Cards.MystlingSkeletonUI" preserve="all" />
+    <type fullname="Awaken.UI.Panels.SelectableElement" preserve="all" />
+    <type fullname="Awaken.UI.Panels.SelectTamerPopup.TamerSkeletonUI" preserve="all" />
+  </assembly>
+  <assembly fullname="Awaken.UI.Tooltips, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Awaken.UI.Tooltips.SmallTooltip" preserve="all" />
+    <type fullname="Awaken.UI.Tooltips.TooltipInfo" preserve="all" />
+  </assembly>
+  <assembly fullname="Awaken.Utility, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Awaken.Utility.AnimationOffsetRandomizer" preserve="all" />
+  </assembly>
+  <assembly fullname="Cinemachine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Cinemachine.CinemachineImpulseListener" preserve="all" />
+    <type fullname="Cinemachine.CinemachineImpulseSource" preserve="all" />
+    <type fullname="Cinemachine.CinemachinePipeline" preserve="all" />
+    <type fullname="Cinemachine.CinemachineVirtualCamera" preserve="all" />
+    <type fullname="Cinemachine.CinemachineBrain/VcamActivatedEvent" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.CinemachineImpulseDefinition" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.CinemachineImpulseListener/ImpulseReaction" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.CinemachineImpulseManager/EnvelopeDefinition" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.CinemachineVirtualCameraBase/TransitionParams" preserve="nothing" serialized="true" />
+    <type fullname="Cinemachine.LensSettings" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="DamageNumbersPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="DamageNumbersPro.DamageNumberGUI" preserve="all" />
+    <type fullname="DamageNumbersPro.DamageNumberMesh" preserve="all" />
+    <type fullname="DamageNumbersPro.CollisionSettings" preserve="nothing" serialized="true" />
+    <type fullname="DamageNumbersPro.ColorByNumberSettings" preserve="nothing" serialized="true" />
+    <type fullname="DamageNumbersPro.CombinationMethod" preserve="nothing" serialized="true" />
+    <type fullname="DamageNumbersPro.CombinationSettings" preserve="nothing" serialized="true" />
+    <type fullname="DamageNumbersPro.DestructionSettings" preserve="nothing" serialized="true" />
+    <type fullname="DamageNumbersPro.DigitSettings" preserve="nothing" serialized="true" />
+    <type fullname="DamageNumbersPro.DistanceScalingSettings" preserve="nothing" serialized="true" />
+    <type fullname="DamageNumbersPro.FollowSettings" preserve="nothing" serialized="true" />
+    <type fullname="DamageNumbersPro.LerpSettings" preserve="nothing" serialized="true" />
+    <type fullname="DamageNumbersPro.PushSettings" preserve="nothing" serialized="true" />
+    <type fullname="DamageNumbersPro.ScaleByNumberSettings" preserve="nothing" serialized="true" />
+    <type fullname="DamageNumbersPro.ShakeSettings" preserve="nothing" serialized="true" />
+    <type fullname="DamageNumbersPro.TextSettings" preserve="nothing" serialized="true" />
+    <type fullname="DamageNumbersPro.VelocitySettings" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="spine-unity, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Spine.Unity.BoneFollower" preserve="all" />
+    <type fullname="Spine.Unity.SkeletonDataAsset" preserve="all" />
+    <type fullname="Spine.Unity.SkeletonGraphic" preserve="all" />
+    <type fullname="Spine.Unity.SkeletonMecanim" preserve="all" />
+    <type fullname="Spine.Unity.SkeletonPartsRenderer" preserve="all" />
+    <type fullname="Spine.Unity.SkeletonRenderSeparator" preserve="all" />
+    <type fullname="Spine.Unity.SkeletonSubmeshGraphic" preserve="all" />
+    <type fullname="Spine.Unity.SpineAtlasAsset" preserve="all" />
+    <type fullname="Spine.Unity.BlendModeMaterials" preserve="nothing" serialized="true" />
+    <type fullname="Spine.Unity.MeshGenerator" preserve="nothing" serialized="true" />
+    <type fullname="Spine.Unity.MeshGenerator/Settings" preserve="nothing" serialized="true" />
+    <type fullname="Spine.Unity.SkeletonMecanim/MecanimTranslator" preserve="nothing" serialized="true" />
+    <type fullname="Spine.Unity.SkeletonRenderer/SpriteMaskInteractionMaterials" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.Localization, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Localization.Components.LocalizeStringEvent" preserve="all" />
+    <type fullname="UnityEngine.Localization.Locale" preserve="all" />
+    <type fullname="UnityEngine.Localization.Tables.SharedTableData" preserve="all" />
+    <type fullname="UnityEngine.Localization.Tables.StringTable" preserve="all" />
+    <type fullname="UnityEngine.Localization.LocaleIdentifier" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Metadata.MetadataCollection" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Metadata.SmartFormatTag" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Tables.TableEntryData" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Events.UnityEventString" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.LocalizedString" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.SmartFormat.PersistentVariables.IntVariable" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.SmartFormat.PersistentVariables.VariableNameValuePair" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Tables.TableEntryReference" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Tables.TableReference" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.SmartFormat.PersistentVariables.BoolVariable" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.SmartFormat.PersistentVariables.StringVariable" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Tables.DistributedUIDGenerator" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Tables.SharedTableData/SharedTableEntry" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.RenderPipelines.Core.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Rendering.Volume" preserve="all" />
+    <type fullname="UnityEngine.Rendering.VolumeProfile" preserve="all" />
+    <type fullname="UnityEngine.Rendering.BoolParameter" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.ClampedFloatParameter" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.ClampedIntParameter" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.ColorParameter" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.FloatParameter" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.MinFloatParameter" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.TextureParameter" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Rendering.Universal.Bloom" preserve="all" />
+    <type fullname="UnityEngine.Rendering.Universal.ColorAdjustments" preserve="all" />
+    <type fullname="UnityEngine.Rendering.Universal.DownscaleParameter" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="TMPro.TextMeshPro" preserve="all" />
+    <type fullname="TMPro.TextMeshProUGUI" preserve="all" />
+    <type fullname="TMPro.TMP_FontAsset" preserve="all" />
+    <type fullname="TMPro.FaceInfo_Legacy" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.GlyphAnchorPoint" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.KerningTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.LigatureSubstitutionRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.MarkPositionAdjustment" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.MarkToBaseAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Character" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.VisualScripting.Flow, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Unity.VisualScripting.ScriptGraphAsset" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEditor.Audio.AudioMixerSnapshotController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Animation" preserve="all" />
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+    <type fullname="UnityEngine.Animator" preserve="all" />
+    <type fullname="UnityEngine.AnimatorOverrideController" preserve="all" />
+    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Audio.AudioMixer" preserve="all" />
+    <type fullname="UnityEngine.Audio.AudioMixerGroup" preserve="all" />
+    <type fullname="UnityEngine.AudioClip" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.LineRenderer" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Mesh" preserve="all" />
+    <type fullname="UnityEngine.MeshFilter" preserve="all" />
+    <type fullname="UnityEngine.MeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.RectTransform" preserve="all" />
+    <type fullname="UnityEngine.Rendering.SortingGroup" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
+    <type fullname="UnityEngine.TextAsset" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.ParticleSystem" preserve="all" />
+    <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.Physics2DModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.BoxCollider2D" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Font" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.UI.Button" preserve="all" />
+    <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
+    <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
+    <type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.Image" preserve="all" />
+    <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
+    <type fullname="UnityEngine.UI.Mask" preserve="all" />
+    <type fullname="UnityEngine.UI.Selectable" preserve="all" />
+    <type fullname="UnityEngine.UI.Slider" preserve="all" />
+    <type fullname="UnityEngine.UI.ToggleGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Slider/SliderEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Toggle/ToggleEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Canvas" preserve="all" />
+    <type fullname="UnityEngine.CanvasGroup" preserve="all" />
+    <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="Awaken.Data">
+    <type fullname="EnumChances`1/EnumChance[Awaken.Data.Enums.CardRarity]" preserve="nothing" serialized="true" />
+    <type fullname="EnumChances`1/EnumChance[Awaken.Data.Enums.Rarity]" preserve="nothing" serialized="true" />
+    <type fullname="EnumChances`1[Awaken.Data.Enums.CardRarity]" preserve="nothing" serialized="true" />
+    <type fullname="EnumChances`1[Awaken.Data.Enums.Rarity]" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Sirenix.Serialization">
+    <type fullname="Sirenix.Serialization.SerializationData" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.VisualScripting.Core">
+    <type fullname="Unity.VisualScripting.SerializationData" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextCoreFontEngineModule">
+    <type fullname="UnityEngine.TextCore.FaceInfo" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.Glyph" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphMetrics" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphRect" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.LowLevel.GlyphAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.LowLevel.GlyphPairAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.LowLevel.GlyphValueRecord" preserve="nothing" serialized="true" />
+  </assembly>
+</linker>
