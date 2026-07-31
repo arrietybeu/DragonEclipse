@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1556107726, guid: 155d8fd314ddaeb874c10f10bea6c703, type: 3}
+  m_Name: CameraConfig
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _isActive: 1
+  DefaultPos: {x: -8, y: 0, z: 0}
+  OrtoSize: 10
+  CharacterPosOffset: {x: 0, y: 0, z: 0}
+  FollowSpeed: 4
+  FollowMinDistance: 0.25
+  PosMinX: -8
+  PosMaxX: 8

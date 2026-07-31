@@ -1,0 +1,2358 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -186505695, guid: ee109d92073b3f19bcc85222df44ca58, type: 3}
+  m_Name: EffectsHelperConfig
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _isActive: 1
+  Effects:
+  - Type: 1
+    Name:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Desc:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 2947843897004032
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables:
+      - name: subject-plural
+        variable:
+          rid: 8540156816255877206
+      - name: customAttack-target
+        variable:
+          rid: 8540156816255877207
+      - name: customAttack-powerModifier
+        variable:
+          rid: 8540156816255877208
+      - name: statusType
+        variable:
+          rid: 8540156816255877209
+      - name: target
+        variable:
+          rid: 8540156816255877210
+      - name: target-not-self
+        variable:
+          rid: 8540156816255877211
+      - name: valueInt
+        variable:
+          rid: 8540156816255877212
+      - name: valueStatusType
+        variable:
+          rid: 8540156816255877213
+      - name: valueBool
+        variable:
+          rid: 8540156816255877214
+      - name: trigger
+        variable:
+          rid: 8540156816255877215
+      - name: trigger-target
+        variable:
+          rid: 8540156816255877216
+      - name: trigger-status
+        variable:
+          rid: 8540156816255877217
+  - Type: 2
+    Name:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Desc:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 2947843897004033
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - Type: 3
+    Name:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Desc:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 1962925964496896
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables:
+      - name: trigger
+        variable:
+          rid: 8540156816255877360
+      - name: trigger-target
+        variable:
+          rid: 8540156816255877361
+      - name: trigger-status
+        variable:
+          rid: 8540156816255877362
+      - name: subject-plural
+        variable:
+          rid: 3994124975729017037
+      - name: customAttack-useModifier
+        variable:
+          rid: 3994124975729017038
+      - name: customAttack-powerModifier
+        variable:
+          rid: 3994124975729017039
+      - name: customAttack-target
+        variable:
+          rid: 3994124975729017040
+      - name: customAttack-showRepeat
+        variable:
+          rid: 3994124975729017041
+      - name: customAttack-repeat
+        variable:
+          rid: 3994124975729017042
+      - name: customAttack-showPower
+        variable:
+          rid: 3994124975729017043
+      - name: customAttack-power
+        variable:
+          rid: 3994124975729017044
+      - name: statusType
+        variable:
+          rid: 3994124975729017045
+      - name: expirations
+        variable:
+          rid: 3994124975729017046
+      - name: target
+        variable:
+          rid: 3994124975729017047
+      - name: target-not-self
+        variable:
+          rid: 3994124975729017048
+      - name: valueInt
+        variable:
+          rid: 3994124975729017049
+      - name: valueStatusType
+        variable:
+          rid: 3994124975729017050
+      - name: valueBool
+        variable:
+          rid: 3994124975729017051
+  - Type: 4
+    Name:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 1054703992832
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Desc:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 1106876940288
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 1409138203922432
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables:
+      - name: customAttack-target
+        variable:
+          rid: 8540156816255877364
+      - name: customAttack-powerModifier
+        variable:
+          rid: 8540156816255877365
+      - name: trigger
+        variable:
+          rid: 8540156816255877372
+      - name: trigger-target
+        variable:
+          rid: 8540156816255877373
+      - name: trigger-status
+        variable:
+          rid: 8540156816255877374
+      - name: subject-plural
+        variable:
+          rid: 3994124542477337351
+      - name: statusType
+        variable:
+          rid: 3994124542477337352
+      - name: expirations
+        variable:
+          rid: 3994124542477337353
+      - name: target
+        variable:
+          rid: 3994124542477337354
+      - name: target-not-self
+        variable:
+          rid: 3994124542477337355
+      - name: valueInt
+        variable:
+          rid: 3994124542477337356
+      - name: valueStatusType
+        variable:
+          rid: 3994124542477337357
+      - name: valueBool
+        variable:
+          rid: 3994124542477337358
+  - Type: 5
+    Name:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Desc:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 2947843897004034
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - Type: 6
+    Name:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 1137247895552
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Desc:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 1167065202688
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 2947843901198336
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - Type: 7
+    Name:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Desc:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 2934529028624384
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables:
+      - name: customAttack-target
+        variable:
+          rid: 8540156816255877280
+      - name: customAttack-powerModifier
+        variable:
+          rid: 8540156816255877281
+      - name: trigger
+        variable:
+          rid: 8540156816255877288
+      - name: trigger-target
+        variable:
+          rid: 8540156816255877289
+      - name: trigger-status
+        variable:
+          rid: 8540156816255877290
+      - name: subject-plural
+        variable:
+          rid: 3994124542477336872
+      - name: statusType
+        variable:
+          rid: 3994124542477336873
+      - name: expirations
+        variable:
+          rid: 3994124542477336874
+      - name: target
+        variable:
+          rid: 3994124542477336875
+      - name: target-not-self
+        variable:
+          rid: 3994124542477336876
+      - name: valueInt
+        variable:
+          rid: 3994124542477336877
+      - name: valueStatusType
+        variable:
+          rid: 3994124542477336878
+      - name: valueBool
+        variable:
+          rid: 3994124542477336879
+  - Type: 8
+    Name:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Desc:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 2947843901198337
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - Type: 9
+    Name:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 1203266240512
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Desc:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 1233293262848
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 2934091889872896
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables:
+      - name: customAttack-target
+        variable:
+          rid: 8540156816255877292
+      - name: customAttack-powerModifier
+        variable:
+          rid: 8540156816255877293
+      - name: trigger
+        variable:
+          rid: 8540156816255877300
+      - name: trigger-target
+        variable:
+          rid: 8540156816255877301
+      - name: trigger-status
+        variable:
+          rid: 8540156816255877302
+      - name: subject-plural
+        variable:
+          rid: 3994124542477336598
+      - name: statusType
+        variable:
+          rid: 3994124542477336599
+      - name: expirations
+        variable:
+          rid: 3994124542477336600
+      - name: target
+        variable:
+          rid: 3994124542477336601
+      - name: target-not-self
+        variable:
+          rid: 3994124542477336602
+      - name: valueInt
+        variable:
+          rid: 3994124542477336603
+      - name: valueStatusType
+        variable:
+          rid: 3994124542477336604
+      - name: valueBool
+        variable:
+          rid: 3994124542477336605
+  - Type: 10
+    Name:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Desc:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 2947843901198338
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables:
+      - name: subject-plural
+        variable:
+          rid: 8540156838604178197
+      - name: statusType
+        variable:
+          rid: 8540156838604178198
+      - name: expirations
+        variable:
+          rid: 8540156838604178199
+      - name: target
+        variable:
+          rid: 8540156838604178200
+      - name: target-not-self
+        variable:
+          rid: 8540156838604178201
+      - name: valueInt
+        variable:
+          rid: 8540156838604178202
+      - name: valueStatusType
+        variable:
+          rid: 8540156838604178203
+      - name: valueBool
+        variable:
+          rid: 8540156838604178204
+  - Type: 11
+    Name:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 1266516344832
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Desc:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 1311223431168
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 2947843901198339
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables:
+      - name: subject-plural
+        variable:
+          rid: 5093883696751313581
+      - name: statusType
+        variable:
+          rid: 5093883696751313582
+      - name: expirations
+        variable:
+          rid: 5093883696751313583
+      - name: target
+        variable:
+          rid: 5093883696751313584
+      - name: target-not-self
+        variable:
+          rid: 5093883696751313585
+      - name: valueInt
+        variable:
+          rid: 5093883696751313586
+      - name: valueStatusType
+        variable:
+          rid: 5093883696751313587
+      - name: valueBool
+        variable:
+          rid: 5093883696751313588
+  - Type: 12
+    Name:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Desc:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 1416914611310592
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables:
+      - name: trigger
+        variable:
+          rid: 8540156816255877384
+      - name: trigger-target
+        variable:
+          rid: 8540156816255877385
+      - name: trigger-status
+        variable:
+          rid: 8540156816255877386
+      - name: customAttack-target
+        variable:
+          rid: 8540156816255877503
+      - name: customAttack-powerModifier
+        variable:
+          rid: 8540156816255877504
+      - name: subject-plural
+        variable:
+          rid: 5093883696751313625
+      - name: statusType
+        variable:
+          rid: 5093883696751313626
+      - name: expirations
+        variable:
+          rid: 5093883696751313627
+      - name: target
+        variable:
+          rid: 5093883696751313628
+      - name: target-not-self
+        variable:
+          rid: 5093883696751313629
+      - name: valueInt
+        variable:
+          rid: 5093883696751313630
+      - name: valueStatusType
+        variable:
+          rid: 5093883696751313631
+      - name: valueBool
+        variable:
+          rid: 5093883696751313632
+  - Type: 13
+    Name:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Desc:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 2947843901198340
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables:
+      - name: trigger
+        variable:
+          rid: 8540156816255877396
+      - name: trigger-target
+        variable:
+          rid: 8540156816255877397
+      - name: trigger-status
+        variable:
+          rid: 8540156816255877398
+      - name: customAttack-target
+        variable:
+          rid: 8540156816255877521
+      - name: customAttack-powerModifier
+        variable:
+          rid: 8540156816255877522
+      - name: subject-plural
+        variable:
+          rid: 3994124975729016933
+      - name: statusType
+        variable:
+          rid: 3994124975729016934
+      - name: expirations
+        variable:
+          rid: 3994124975729016935
+      - name: target
+        variable:
+          rid: 3994124975729016936
+      - name: target-not-self
+        variable:
+          rid: 3994124975729016937
+      - name: valueInt
+        variable:
+          rid: 3994124975729016938
+      - name: valueStatusType
+        variable:
+          rid: 3994124975729016939
+      - name: valueBool
+        variable:
+          rid: 3994124975729016940
+  - Type: 14
+    Name:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Desc:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 2947843901198341
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - Type: 15
+    Name:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Desc:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 2947843901198342
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables:
+      - name: subject-plural
+        variable:
+          rid: 8540156816255877327
+      - name: customAttack-target
+        variable:
+          rid: 8540156816255877328
+      - name: customAttack-powerModifier
+        variable:
+          rid: 8540156816255877329
+      - name: statusType
+        variable:
+          rid: 8540156816255877330
+      - name: target
+        variable:
+          rid: 8540156816255877331
+      - name: target-not-self
+        variable:
+          rid: 8540156816255877332
+      - name: valueInt
+        variable:
+          rid: 8540156816255877333
+      - name: valueStatusType
+        variable:
+          rid: 8540156816255877334
+      - name: valueBool
+        variable:
+          rid: 8540156816255877335
+      - name: trigger
+        variable:
+          rid: 8540156816255877336
+      - name: trigger-target
+        variable:
+          rid: 8540156816255877337
+      - name: trigger-status
+        variable:
+          rid: 8540156816255877338
+  - Type: 16
+    Name:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Desc:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 2947843901198343
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables:
+      - name: trigger-target
+        variable:
+          rid: 8540156816255877410
+      - name: trigger-status
+        variable:
+          rid: 8540156816255877411
+      - name: customAttack-target
+        variable:
+          rid: 8540156816255877530
+      - name: customAttack-powerModifier
+        variable:
+          rid: 8540156816255877531
+      - name: trigger
+        variable:
+          rid: 8540156816255877539
+      - name: subject-plural
+        variable:
+          rid: 5093883696751313633
+      - name: statusType
+        variable:
+          rid: 5093883696751313634
+      - name: expirations
+        variable:
+          rid: 5093883696751313635
+      - name: target
+        variable:
+          rid: 5093883696751313636
+      - name: target-not-self
+        variable:
+          rid: 5093883696751313637
+      - name: valueInt
+        variable:
+          rid: 5093883696751313638
+      - name: valueStatusType
+        variable:
+          rid: 5093883696751313639
+      - name: valueString
+        variable:
+          rid: 5093883696751313640
+      - name: valueBool
+        variable:
+          rid: 5093883696751313641
+  - Type: 17
+    Name:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Desc:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 2947843901198344
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - Type: 18
+    Name:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Desc:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 2947843901198345
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables:
+      - name: subject-plural
+        variable:
+          rid: 3994124975729017052
+      - name: statusType
+        variable:
+          rid: 3994124975729017053
+      - name: expirations
+        variable:
+          rid: 3994124975729017054
+      - name: target
+        variable:
+          rid: 3994124975729017055
+      - name: target-not-self
+        variable:
+          rid: 3994124975729017056
+      - name: valueInt
+        variable:
+          rid: 3994124975729017057
+      - name: valueStatusType
+        variable:
+          rid: 3994124975729017058
+      - name: valueBool
+        variable:
+          rid: 3994124975729017059
+  - Type: 19
+    Name:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Desc:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 2947843901198346
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - Type: 20
+    Name:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Desc:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 2947843901198347
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - Type: 21
+    Name:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Desc:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 2947843901198348
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - Type: 22
+    Name:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Desc:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 2947843901198349
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables:
+      - name: subject-plural
+        variable:
+          rid: 8540156816255877339
+      - name: customAttack-target
+        variable:
+          rid: 8540156816255877340
+      - name: customAttack-powerModifier
+        variable:
+          rid: 8540156816255877341
+      - name: statusType
+        variable:
+          rid: 8540156816255877342
+      - name: target
+        variable:
+          rid: 8540156816255877343
+      - name: target-not-self
+        variable:
+          rid: 8540156816255877344
+      - name: valueInt
+        variable:
+          rid: 8540156816255877345
+      - name: valueStatusType
+        variable:
+          rid: 8540156816255877346
+      - name: valueBool
+        variable:
+          rid: 8540156816255877347
+      - name: trigger
+        variable:
+          rid: 8540156816255877348
+      - name: trigger-target
+        variable:
+          rid: 8540156816255877349
+      - name: trigger-status
+        variable:
+          rid: 8540156816255877350
+  - Type: 23
+    Name:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 1349962022912
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Desc:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 1396862730240
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 2947843901198350
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables:
+      - name: customAttack-target
+        variable:
+          rid: 8540156816255877413
+      - name: customAttack-powerModifier
+        variable:
+          rid: 8540156816255877414
+      - name: trigger
+        variable:
+          rid: 8540156816255877421
+      - name: trigger-target
+        variable:
+          rid: 8540156816255877422
+      - name: trigger-status
+        variable:
+          rid: 8540156816255877423
+      - name: subject-plural
+        variable:
+          rid: 7011294517900869645
+      - name: statusType
+        variable:
+          rid: 7011294517900869646
+      - name: expirations
+        variable:
+          rid: 7011294517900869647
+      - name: target
+        variable:
+          rid: 7011294517900869648
+      - name: target-not-self
+        variable:
+          rid: 7011294517900869649
+      - name: valueInt
+        variable:
+          rid: 7011294517900869650
+      - name: valueStatusType
+        variable:
+          rid: 7011294517900869651
+      - name: valueBool
+        variable:
+          rid: 7011294517900869652
+  - Type: 24
+    Name:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Desc:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 2947843901198351
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - Type: 25
+    Name:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Desc:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 2947843901198352
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - Type: 26
+    Name:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Desc:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 2947843901198353
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - Type: 27
+    Name:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Desc:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 2947843901198354
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - Type: 28
+    Name:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Desc:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 2947843901198355
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - Type: 29
+    Name:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Desc:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 9556761368694784
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - Type: 30
+    Name:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Desc:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 9557006844530688
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - Type: 31
+    Name:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Desc:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 10126498431602688
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - Type: 32
+    Name:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 12301384671113216
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Desc:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 12301419358007296
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 12016009204686848
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - Type: 57
+    Name:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 71045737244336128
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Desc:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 71045737273696256
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - Type: 59
+    Name:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 1203266240512
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Desc:
+      m_TableReference:
+        m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+      m_TableEntryReference:
+        m_KeyId: 1233293262848
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  Conditions:
+  - Type: 1
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:cf9dbb46bacbecd47a977576ba2f76c8
+      m_TableEntryReference:
+        m_KeyId: 2435935364288512
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - Type: 2
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:cf9dbb46bacbecd47a977576ba2f76c8
+      m_TableEntryReference:
+        m_KeyId: 2436058546802688
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables:
+      - name: value
+        variable:
+          rid: 7011294517900869655
+  - Type: 3
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:cf9dbb46bacbecd47a977576ba2f76c8
+      m_TableEntryReference:
+        m_KeyId: 2436256480202752
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - Type: 4
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:cf9dbb46bacbecd47a977576ba2f76c8
+      m_TableEntryReference:
+        m_KeyId: 2436453738319872
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  Expirations:
+  - Type: 0
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:f7acd477019783246800186fb11636a8
+      m_TableEntryReference:
+        m_KeyId: 758134444032
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - Type: 1
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:f7acd477019783246800186fb11636a8
+      m_TableEntryReference:
+        m_KeyId: 758163804160
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - Type: 2
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:f7acd477019783246800186fb11636a8
+      m_TableEntryReference:
+        m_KeyId: 758163804161
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - Type: 3
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:f7acd477019783246800186fb11636a8
+      m_TableEntryReference:
+        m_KeyId: 758163804162
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - Type: 7
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:f7acd477019783246800186fb11636a8
+      m_TableEntryReference:
+        m_KeyId: 758163804163
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - Type: 8
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:f7acd477019783246800186fb11636a8
+      m_TableEntryReference:
+        m_KeyId: 758163804164
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - Type: 9
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:f7acd477019783246800186fb11636a8
+      m_TableEntryReference:
+        m_KeyId: 758163804165
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - Type: 10
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:f7acd477019783246800186fb11636a8
+      m_TableEntryReference:
+        m_KeyId: 758163804166
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - Type: 12
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:f7acd477019783246800186fb11636a8
+      m_TableEntryReference:
+        m_KeyId: 758163804167
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - Type: 13
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:f7acd477019783246800186fb11636a8
+      m_TableEntryReference:
+        m_KeyId: 758163804168
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - Type: 14
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:f7acd477019783246800186fb11636a8
+      m_TableEntryReference:
+        m_KeyId: 758163804169
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - Type: 15
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:f7acd477019783246800186fb11636a8
+      m_TableEntryReference:
+        m_KeyId: 758163804170
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - Type: 16
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:f7acd477019783246800186fb11636a8
+      m_TableEntryReference:
+        m_KeyId: 758163804171
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  ConditionConnector:
+    m_TableReference:
+      m_TableCollectionName: GUID:4aacb33d96238e145b16ecaf1105da02
+    m_TableEntryReference:
+      m_KeyId: 3571067173310464
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 3994124542477336598
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 3994124542477336599
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 3994124542477336600
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 3994124542477336601
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 'Self '
+    - rid: 3994124542477336602
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 3994124542477336603
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 1
+    - rid: 3994124542477336604
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 3994124542477336605
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 3994124542477336872
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 3994124542477336873
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 3994124542477336874
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 3994124542477336875
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: ' Combat'
+    - rid: 3994124542477336876
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 3994124542477336877
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 3
+    - rid: 3994124542477336878
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 3994124542477336879
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 3994124542477337351
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 3994124542477337352
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 3994124542477337353
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 3994124542477337354
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: Selected Mystling
+    - rid: 3994124542477337355
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 3994124542477337356
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 1
+    - rid: 3994124542477337357
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 3994124542477337358
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 3994124975729016933
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 3994124975729016934
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 3994124975729016935
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 3994124975729016936
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: ' Combat'
+    - rid: 3994124975729016937
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 3994124975729016938
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 4
+    - rid: 3994124975729016939
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 3994124975729016940
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 3994124975729017037
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 3994124975729017038
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 3994124975729017039
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 100%
+    - rid: 3994124975729017040
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: Random Enemy
+    - rid: 3994124975729017041
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 1
+    - rid: 3994124975729017042
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: X
+    - rid: 3994124975729017043
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 3994124975729017044
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: X
+    - rid: 3994124975729017045
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 3994124975729017046
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 3994124975729017047
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 'Self '
+    - rid: 3994124975729017048
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 3994124975729017049
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 1
+    - rid: 3994124975729017050
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 3994124975729017051
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 3994124975729017052
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 3994124975729017053
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 3994124975729017054
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 3994124975729017055
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 'Self '
+    - rid: 3994124975729017056
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 3994124975729017057
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 2
+    - rid: 3994124975729017058
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 3994124975729017059
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 5093883696751313581
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 5093883696751313582
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: Shield
+    - rid: 5093883696751313583
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: On Round Started
+    - rid: 5093883696751313584
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 'Self '
+    - rid: 5093883696751313585
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 5093883696751313586
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 5093883696751313587
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: Shield
+    - rid: 5093883696751313588
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 5093883696751313625
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 5093883696751313626
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: Strength
+    - rid: 5093883696751313627
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 5093883696751313628
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 'Self '
+    - rid: 5093883696751313629
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 5093883696751313630
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 3
+    - rid: 5093883696751313631
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: Strength
+    - rid: 5093883696751313632
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 5093883696751313633
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 5093883696751313634
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 5093883696751313635
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 5093883696751313636
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: ' Combat'
+    - rid: 5093883696751313637
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 5093883696751313638
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 1
+    - rid: 5093883696751313639
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 5093883696751313640
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: Blind Anger
+    - rid: 5093883696751313641
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 7011294517900869645
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 7011294517900869646
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 7011294517900869647
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 7011294517900869648
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: ' '
+    - rid: 7011294517900869649
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 7011294517900869650
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 7011294517900869651
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 7011294517900869652
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 7011294517900869655
+      type: {class: IntVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 6
+    - rid: 8540156816255877206
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 8540156816255877207
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: ' '
+    - rid: 8540156816255877208
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0%
+    - rid: 8540156816255877209
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 8540156816255877210
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: Selected Mystling
+    - rid: 8540156816255877211
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 8540156816255877212
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: X (Cards Played In Round)
+    - rid: 8540156816255877213
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 8540156816255877214
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 8540156816255877215
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: None
+    - rid: 8540156816255877216
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 8540156816255877217
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 8540156816255877280
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: ' '
+    - rid: 8540156816255877281
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0%
+    - rid: 8540156816255877288
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: None
+    - rid: 8540156816255877289
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 8540156816255877290
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 8540156816255877292
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: ' '
+    - rid: 8540156816255877293
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0%
+    - rid: 8540156816255877300
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: None
+    - rid: 8540156816255877301
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 8540156816255877302
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 8540156816255877327
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 8540156816255877328
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: ' '
+    - rid: 8540156816255877329
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0%
+    - rid: 8540156816255877330
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 8540156816255877331
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: ' Combat'
+    - rid: 8540156816255877332
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 8540156816255877333
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 2
+    - rid: 8540156816255877334
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 8540156816255877335
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 8540156816255877336
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: None
+    - rid: 8540156816255877337
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 8540156816255877338
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 8540156816255877339
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 8540156816255877340
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: ' '
+    - rid: 8540156816255877341
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0%
+    - rid: 8540156816255877342
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 8540156816255877343
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: ' Combat'
+    - rid: 8540156816255877344
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 8540156816255877345
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 1
+    - rid: 8540156816255877346
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 8540156816255877347
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 8540156816255877348
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: None
+    - rid: 8540156816255877349
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 8540156816255877350
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 8540156816255877360
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: None
+    - rid: 8540156816255877361
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 8540156816255877362
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 8540156816255877364
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: ' '
+    - rid: 8540156816255877365
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0%
+    - rid: 8540156816255877372
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: StartOfBattle
+    - rid: 8540156816255877373
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: Self
+    - rid: 8540156816255877374
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 8540156816255877384
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: RoundStarted
+    - rid: 8540156816255877385
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: Self
+    - rid: 8540156816255877386
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: Thorns
+    - rid: 8540156816255877396
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: None
+    - rid: 8540156816255877397
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 8540156816255877398
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 8540156816255877410
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: Self
+    - rid: 8540156816255877411
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 8540156816255877413
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: ' '
+    - rid: 8540156816255877414
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0%
+    - rid: 8540156816255877421
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: RoundStarted
+    - rid: 8540156816255877422
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: Self
+    - rid: 8540156816255877423
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 8540156816255877503
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: ' '
+    - rid: 8540156816255877504
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0%
+    - rid: 8540156816255877521
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: ' '
+    - rid: 8540156816255877522
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0%
+    - rid: 8540156816255877530
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: Random Enemy
+    - rid: 8540156816255877531
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 100%
+    - rid: 8540156816255877539
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 'On {target} Hurt: '
+    - rid: 8540156838604178197
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 8540156838604178198
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: Shield
+    - rid: 8540156838604178199
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 
+    - rid: 8540156838604178200
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 'Self '
+    - rid: 8540156838604178201
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 0
+    - rid: 8540156838604178202
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 10
+    - rid: 8540156838604178203
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: Shield
+    - rid: 8540156838604178204
+      type: {class: BoolVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: 1

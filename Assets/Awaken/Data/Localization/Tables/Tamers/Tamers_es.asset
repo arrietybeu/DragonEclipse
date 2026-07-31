@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Tamers_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 4bdcaf64e4a5916478186f30c14ef387, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2105433060097654831
+  m_TableData:
+  - m_Id: 10119456537821184
+    m_Localized: No disponible
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654831
+  - m_Id: 10119527421558784
+    m_Localized: "No est\xE1 disponible en la demo."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654831
+  - m_Id: 54659618039738368
+    m_Localized: Arcana DeFault
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654831
+  - m_Id: 54659618073292800
+    m_Localized: "Una de las mejores domadoras de la regi\xF3n. Tiene un v\xEDnculo
+      especial con los mystlings."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654831
+  references:
+    version: 2
+    RefIds:
+    - rid: 2105433060097654831
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 10119456537821184
+        - id: 10119527421558784
+        - id: 54659618039738368
+        - id: 54659618073292800

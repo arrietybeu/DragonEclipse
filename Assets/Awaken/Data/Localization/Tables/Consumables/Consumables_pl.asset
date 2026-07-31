@@ -1,0 +1,150 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Consumables_pl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl
+  m_SharedData: {fileID: 11400000, guid: e4ecad868d5af854a938ee182106f444, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2105433060097654787
+  m_TableData:
+  - m_Id: 43425364957011968
+    m_Localized: Surowy stek
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654787
+  - m_Id: 43425364990566400
+    m_Localized: "Wskazany mystling otrzymuje {Effect0.ValueInt} p. <style=\"Blue\">si\u0142y</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654787
+  - m_Id: 43425364990566401
+    m_Localized: Sernik malinowy
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654787
+  - m_Id: 43425364990566402
+    m_Localized: "Wskazany mystling otrzymuje {Effect0.ValueInt} p. <style=\"Blue\">os\u0142ony</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654787
+  - m_Id: 43425364990566403
+    m_Localized: "Po\u017Cywna zupa"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654787
+  - m_Id: 43425364990566404
+    m_Localized: Leczy wskazanemu mystlingowi {Effect0.ValueInt} PZ
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654787
+  - m_Id: 43425364990566405
+    m_Localized: "Wymy\u015Blny deser"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654787
+  - m_Id: 43425364990566406
+    m_Localized: "Wskazany mystling otrzymuje {Effect0.ValueInt} p. <style=\"Blue\">o\u017Cywienia</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654787
+  - m_Id: 43425364990566407
+    m_Localized: "Zr\xF3wnowa\u017Cony posi\u0142ek"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654787
+  - m_Id: 43425364990566408
+    m_Localized: "Zyskujesz {Effect0.ValueInt} losowych przedmiot\xF3w jednorazowych"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654787
+  - m_Id: 43425364990566409
+    m_Localized: "Gor\u0105cy napar"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654787
+  - m_Id: 43425364990566410
+    m_Localized: "Na sta\u0142e zwi\u0119ksza moc wskazanego mystlinga o {Effect0.ValueInt}"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654787
+  - m_Id: 43425364990566411
+    m_Localized: "Sa\u0142atka owocowa"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654787
+  - m_Id: 43425364990566412
+    m_Localized: "Na sta\u0142e zwi\u0119ksza maks. zdrowie wskazanego mystlinga
+      o {Effect0.ValueInt}"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654787
+  - m_Id: 43425364990566413
+    m_Localized: "\u015Awie\u017Ca zielenina"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654787
+  - m_Id: 43425364990566414
+    m_Localized: Wskazany mystling otrzymuje {Effect0.ValueInt} p. <style="Blue">uniku</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654787
+  - m_Id: 43425364990566415
+    m_Localized: Miska czosnku
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654787
+  - m_Id: 43425364990566416
+    m_Localized: "Dobierasz {Effect0.ValueInt} {Effect0.ValueIntInt:p:kart\u0119|karty|kart}"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654787
+  - m_Id: 43425364990566417
+    m_Localized: Mocna herbata
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654787
+  - m_Id: 43425364990566418
+    m_Localized: +{Effect0.ValueInt} p. energii
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654787
+  references:
+    version: 2
+    RefIds:
+    - rid: 2105433060097654787
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 43425364957011968
+        - id: 43425364990566400
+        - id: 43425364990566401
+        - id: 43425364990566402
+        - id: 43425364990566403
+        - id: 43425364990566404
+        - id: 43425364990566405
+        - id: 43425364990566406
+        - id: 43425364990566407
+        - id: 43425364990566408
+        - id: 43425364990566409
+        - id: 43425364990566410
+        - id: 43425364990566411
+        - id: 43425364990566412
+        - id: 43425364990566413
+        - id: 43425364990566414
+        - id: 43425364990566415
+        - id: 43425364990566416
+        - id: 43425364990566417
+        - id: 43425364990566418

@@ -1,0 +1,185 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Tamers_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 4bdcaf64e4a5916478186f30c14ef387, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2105433060097654827
+  m_TableData:
+  - m_Id: 10119456537821184
+    m_Localized: Unavailable
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654827
+  - m_Id: 10119527421558784
+    m_Localized: Unlock this Tamer during your gameplay!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654827
+  - m_Id: 54659618039738368
+    m_Localized: Arcana DeFault
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654827
+  - m_Id: 54659618073292800
+    m_Localized: First card bought on the reward screen after each battle is free
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654827
+  - m_Id: 54659618073292801
+    m_Localized: Randy the Reckless
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654827
+  - m_Id: 54659618073292803
+    m_Localized: Maya Bloomberry
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654827
+  - m_Id: 54659618073292804
+    m_Localized: Begin with {Tamer.EmberSeeds} Mystberries
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654827
+  - m_Id: 54659618073292805
+    m_Localized: Deckard Cardwell
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654827
+  - m_Id: 54659618073292806
+    m_Localized: Team is limited to {Tamer.TeamSize} Mystlings, but Energy pool is
+      increased to {Tamer.CombatEnergy}
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654827
+  - m_Id: 54659618073292807
+    m_Localized: Philip Phillips
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654827
+  - m_Id: 54659618073292808
+    m_Localized: Mystlings that activate at the end of Round activate twice. Earn
+      {Tamer.GoldAfterCombatMultiplier}% less Gold after winning a Battle
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654827
+  - m_Id: 54659618073292809
+    m_Localized: Barbara Prime
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654827
+  - m_Id: 54659618073292810
+    m_Localized: Mystlings deal double damage during the first round of Battle. Lose
+      {Tamer.LoseMystberryEveryRound} Mystberry every Round during Battle
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654827
+  - m_Id: 68455510805913600
+    m_Localized: Begin with more Mystberries
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654827
+  - m_Id: 68455510805913601
+    m_Localized: Team is limited to {Tamer.TeamSize} Mystlings, but Energy pool is
+      increased
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654827
+  - m_Id: 68455510805913602
+    m_Localized: Mystlings that activate at the end of Round activate twice
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654827
+  - m_Id: 68455510805913603
+    m_Localized: Mystlings deal double damage during the first round of Battle
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654827
+  - m_Id: 69538106172317696
+    m_Localized: Starting Evolution
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654827
+  - m_Id: 69538106197483520
+    m_Localized: Started adventure with Evolution. Max Health is reduced by half.
+      Can't be healed
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654827
+  - m_Id: 69538106197483521
+    m_Localized: Double Activation
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654827
+  - m_Id: 69538106197483522
+    m_Localized: If this Mystling activates at the end of Round, activate twice
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654827
+  - m_Id: 69538106197483523
+    m_Localized: Strong Start
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654827
+  - m_Id: 69538106197483524
+    m_Localized: Damage is doubled during the first round of Battle
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654827
+  - m_Id: 78626348725248000
+    m_Localized: One random Mystling is evolved from the start. This Mystling can't
+      be healed and has its Max Health reduced by half
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654827
+  - m_Id: 78626348750413824
+    m_Localized: One random Mystling is evolved from the start
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654827
+  references:
+    version: 2
+    RefIds:
+    - rid: 2105433060097654827
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 10119456537821184
+        - id: 10119527421558784
+        - id: 54659618039738368
+        - id: 54659618073292800
+        - id: 54659618073292801
+        - id: 54659618073292803
+        - id: 54659618073292804
+        - id: 54659618073292805
+        - id: 54659618073292806
+        - id: 54659618073292807
+        - id: 54659618073292808
+        - id: 54659618073292809
+        - id: 54659618073292810
+        - id: 68455510805913600
+        - id: 68455510805913601
+        - id: 68455510805913602
+        - id: 68455510805913603
+        - id: 69538106172317696
+        - id: 69538106197483520
+        - id: 69538106197483521
+        - id: 69538106197483522
+        - id: 69538106197483523
+        - id: 69538106197483524
+        - id: 78626348725248000
+        - id: 78626348750413824

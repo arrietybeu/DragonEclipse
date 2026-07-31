@@ -1,0 +1,988 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -299433217, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: UI Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI
+  m_TableCollectionNameGuidString: 6e3106873b42fe44ebc42ba41e335806
+  m_Entries:
+  - m_Id: 25514065920
+    m_Key: UI_Button_Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426048
+    m_Key: UI_Button_Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426049
+    m_Key: UI_Button_Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426050
+    m_Key: UI_Button_Close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426051
+    m_Key: UI_Button_Proceed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426052
+    m_Key: UI_Button_Ready
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426053
+    m_Key: UI_Button_Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426054
+    m_Key: UI_Button_Take
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426055
+    m_Key: UI_Button_Skip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2468229490524160
+    m_Key: UI_Button_NewRun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 96361969112301568
+    m_Key: UI_Button_Leave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2468229519884288
+    m_Key: UI_Button_ContinueRun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2468229519884289
+    m_Key: UI_Button_AbandonRun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89406086252433408
+    m_Key: UI_Button_LeaderboardBattle_Skip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426059
+    m_Key: UI_Button_Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426060
+    m_Key: UI_Button_Credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426061
+    m_Key: UI_Button_ExitGame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426062
+    m_Key: UI_Button_Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426063
+    m_Key: UI_Button_Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2496299475779584
+    m_Key: UI_MainMenu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2468229519884290
+    m_Key: UI_Discord
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2468229519884291
+    m_Key: UI_AwakenSteam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426064
+    m_Key: UI_GameTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2468229519884292
+    m_Key: UI_Label_AbandonRun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2468229519884293
+    m_Key: UI_Label_StartNewRunWarning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2468229519884294
+    m_Key: UI_AbandonRunContent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426069
+    m_Key: UI_Label_Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426070
+    m_Key: UI_Label_VolumeGeneral
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426071
+    m_Key: UI_Label_VolumeMusic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426072
+    m_Key: UI_Label_VolumeEffects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426073
+    m_Key: UI_Label_VolumeUI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426074
+    m_Key: UI_Label_Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426075
+    m_Key: UI_Label_Fullscreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426076
+    m_Key: UI_Label_Resolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426077
+    m_Key: UI_Label_TamerLevel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426078
+    m_Key: UI_Label_TamerExp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426079
+    m_Key: UI_Button_ShowDeckButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426082
+    m_Key: UI_Label_MystActive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426083
+    m_Key: UI_Label_MystPassive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426084
+    m_Key: UI_Label_MystBlessing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426085
+    m_Key: UI_Label_MystHealth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426086
+    m_Key: UI_Label_MystPower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426087
+    m_Key: UI_Label_MystTriviaName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426091
+    m_Key: UI_Label_Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426093
+    m_Key: UI_MapLabel_Battle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426094
+    m_Key: UI_MapLabel_Boss
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426095
+    m_Key: UI_MapLabel_Treasure
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2468229524078592
+    m_Key: UI_MapLabel_Adventure
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426096
+    m_Key: UI_MapLabel_Merchant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426097
+    m_Key: UI_MapLabel_CardFroge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426098
+    m_Key: UI_MapLabel_CareCenter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426099
+    m_Key: UI_MapLabel_Catching
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426100
+    m_Key: UI_Label_RoundCounter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426101
+    m_Key: UI_Label_Objective
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426103
+    m_Key: UI_Label_BattleVictory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2496299505139712
+    m_Key: UI_Label_BattleCollected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426104
+    m_Key: UI_Label_BattleVictoryCard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426105
+    m_Key: UI_Label_BattleVictoryEmberSeed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426106
+    m_Key: UI_Label_BattleVictoryEmberExtra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426107
+    m_Key: UI_Label_BattleVictoryGold
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2496299505139713
+    m_Key: UI_Label_BattleVictoryExtraGold
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426108
+    m_Key: UI_Label_NewMystling
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426109
+    m_Key: UI_Label_ChooseCard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426112
+    m_Key: UI_Button_Revive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426113
+    m_Key: UI_Label_ChooseBlessing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426114
+    m_Key: UI_Label_Evolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426115
+    m_Key: UI_Label_EvolutionCard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426116
+    m_Key: UI_Label_EvolutionPassive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426117
+    m_Key: UI_Label_EvolutionSummary
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426118
+    m_Key: UI_Label_CareCenter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426119
+    m_Key: UI_Button_Train
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426120
+    m_Key: UI_Button_Heal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426121
+    m_Key: UI_Button_EmberSeed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426122
+    m_Key: UI_Label_Heal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426123
+    m_Key: UI_Label_Train
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426124
+    m_Key: UI_Label_CardForge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426125
+    m_Key: UI_Button_DuplicateCard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426126
+    m_Key: UI_Button_UpgradeCard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25547620352
+    m_Key: UI_Button_RemoveCard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25547620353
+    m_Key: UI_Label_DuplicateCard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25547620354
+    m_Key: UI_Label_UpgradeCard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25547620355
+    m_Key: UI_Label_UpgradeCardChosen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25547620356
+    m_Key: UI_Button_UpgradeCardChosen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25547620357
+    m_Key: UI_Label_RemoveCard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25547620358
+    m_Key: UI_Label_Treasure
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25547620362
+    m_Key: UI_Label_MerchantCardRemoveItem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25547620363
+    m_Key: UI_Label_Victory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25547620364
+    m_Key: UI_Label_Defeat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25547620365
+    m_Key: UI_Label_VisitedPlaces
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41271086445309952
+    m_Key: UI_Label_EliteEnemiesDefeated
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25547620367
+    m_Key: UI_Label_BossesDefeated
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69089139299000320
+    m_Key: UI_Label_DifficultyBonus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25547620368
+    m_Key: UI_Label_TotalScore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25547620369
+    m_Key: UI_Label_TamerLevelUp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57895615610298368
+    m_Key: UI_Header_ProgressReset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57895615635464192
+    m_Key: UI_Text_ProgressReset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57895615635464195
+    m_Key: UI_Header_EAContentUnlocked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57895615635464196
+    m_Key: UI_Text_EAContentUnlocked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3248386778185728
+    m_Key: UI_Feedback
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3533659088994304
+    m_Key: UI_Label_AllowAnalytics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5026439959265280
+    m_Key: UI_Label_NoEnergy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5063668266049536
+    m_Key: UI_Tooltip_MerchantEmber
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7163912407597056
+    m_Key: UI_Label_PrivacyPolicy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8343911995129856
+    m_Key: UI_Blank
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25009818515390464
+    m_Key: UI_HubLabel_UnlockCards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25009818515390465
+    m_Key: UI_HubLabel_UnlockBlessings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25009818515390466
+    m_Key: UI_HubLabel_RandomConsumable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27844684529385472
+    m_Key: UI_Button_GetRandomConsumable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57944457445711872
+    m_Key: UI_HubLabel_Trainer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57946303618949120
+    m_Key: UI_HubLabel_Chef
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57945295408930816
+    m_Key: UI_HubLabel_Kitchen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65917110429925376
+    m_Key: UI_HubLabel_Elder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25014404613521408
+    m_Key: UI_Button_Reroll
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27483601553702912
+    m_Key: UI_Label_WholeDeck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27483601574674432
+    m_Key: UI_Label_DiscardDeck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27483601574674433
+    m_Key: UI_Label_DrawDeck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27483601574674434
+    m_Key: UI_Label_ExhaustDeck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27483601574674435
+    m_Key: UI_Label_DestroyDeck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27483601574674436
+    m_Key: UI_Label_TamerDeck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27485437551558656
+    m_Key: UI_Label_CardDiscardDecision
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30414726505771008
+    m_Key: UI_ResetUpdate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30414726543519744
+    m_Key: UI_ResetUpdateText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32880758041460736
+    m_Key: UI_Currency_Gold
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32880758041460737
+    m_Key: UI_Currency_EmberSeed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55334710864326656
+    m_Key: UI_MapPlaceLabel_EasyBattle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43003040915070976
+    m_Key: UI_MapPlaceLabel_Battle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43003040931848192
+    m_Key: UI_MapPlaceLabel_HardBattle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43003040931848193
+    m_Key: UI_MapPlaceLabel_EliteBattle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43003040931848194
+    m_Key: UI_MapPlaceLabel_BossBattle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43003040931848195
+    m_Key: UI_MapPlaceLabel_CardForge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43003040931848196
+    m_Key: UI_MapPlaceLabel_Merchant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43003040931848197
+    m_Key: UI_MapPlaceLabel_CareCenter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43003040931848198
+    m_Key: UI_MapPlaceLabel_HealingPond
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43004000253059072
+    m_Key: UI_MapPlaceLabel_Training
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43003040931848200
+    m_Key: UI_MapPlaceLabel_Treasure
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43003040931848201
+    m_Key: UI_HubPlaceLabel_Blessings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43003040931848202
+    m_Key: UI_HubPlaceLabel_Cards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43003040931848203
+    m_Key: UI_HubPlaceLabel_Mystlings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43003040931848204
+    m_Key: UI_HubPlaceLabel_StartRun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43003040931848205
+    m_Key: UI_HubPlaceLabel_Consumable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43003040931848206
+    m_Key: UI_HubPlaceLabel_Hatching
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43061790419005440
+    m_Key: UI_GameSpeed_Normal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43061790419005441
+    m_Key: UI_GameSpeed_Fast
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87262139168837632
+    m_Key: UI_GameSpeed_VeryFast
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43061790419005442
+    m_Key: UI_Label_GameSpeed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43061790419005443
+    m_Key: UI_Interact
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45584566202777600
+    m_Key: UI_TimerWarning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50705766868434944
+    m_Key: UI_EclipseWarning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52902852804354048
+    m_Key: UI_Button_Buy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55334710897881088
+    m_Key: UI_Button_Choose
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56084385773387776
+    m_Key: UI_Label_NewEgg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56084385790164992
+    m_Key: UI_Label_Hatching
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56085848704679936
+    m_Key: UI_Label_TamerUnlocked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56471210140631040
+    m_Key: UI_Label_Choose_you
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58663897720233984
+    m_Key: difficulty_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58663897745399808
+    m_Key: difficulty_0_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58663897745399809
+    m_Key: difficulty_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58663897745399810
+    m_Key: difficulty_1_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58663897745399811
+    m_Key: difficulty_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58663897745399812
+    m_Key: difficulty_2_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66277700972650496
+    m_Key: difficulty_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66277701002010624
+    m_Key: difficulty_3_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83334956624977920
+    m_Key: difficulty_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83334956650143744
+    m_Key: difficulty_4_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68042996217532416
+    m_Key: UI_Button_Unlock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68090245530243072
+    m_Key: UI_Button_Freeze
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71302802550280192
+    m_Key: UI_Button_LeaderBoard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71334537195409408
+    m_Key: UI_Button_Refresh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71334537207992320
+    m_Key: UI_Label_Loading
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71706790756229120
+    m_Key: UI_Button_LeaderBoardTop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71706790785589248
+    m_Key: UI_Button_LeaderBoardPlayer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73204834027421696
+    m_Key: button_compendium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73479797837209600
+    m_Key: select_attack_target
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73542654880632832
+    m_Key: UI_Label_LeaderboardBattle_Damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73542654901604352
+    m_Key: UI_Label_LeaderboardBattle_Round
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77091346304716800
+    m_Key: UI_Label_HardBattlesWon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77091346317299712
+    m_Key: UI_Label_EasyBattlesWon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77092546836156416
+    m_Key: UI_Label_RegularBattlesWon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84410561432985600
+    m_Key: UI_MapPlaceLabel_Quest_Battle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84410561453957120
+    m_Key: UI_MapPlaceLabel_Quest_Item
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87262139189809152
+    m_Key: UI_Label_BattleStart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87262139189809153
+    m_Key: UI_Label_CardPhase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87262139189809154
+    m_Key: UI_Label_CombatPhase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110071458889318400
+    m_Key: UI_Label_MoveMystling
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110071458910289920
+    m_Key: UI_Label_DropMystling
+    m_Metadata:
+      m_Items: []
+  - m_Id: 116314341423063040
+    m_Key: UI_Label_Eclipse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 116314341456617472
+    m_Key: UI_Label_GameOver_AllDone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 116314341456617473
+    m_Key: UI_Label_StoryAct
+    m_Metadata:
+      m_Items: []
+  - m_Id: 116314341456617474
+    m_Key: UI_Label_EggHatchPopUp1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 116314341456617475
+    m_Key: UI_Label_EggHatchPopUp2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 116314341456617476
+    m_Key: UI_Label_EggHatchPopUp3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 116314341456617477
+    m_Key: UI_Label_RewardPopup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 116314341456617478
+    m_Key: UI_Label_Energy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 116314341456617479
+    m_Key: UI_Label_EndTurn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 116314341456617480
+    m_Key: UI_Label_BattleDraw
+    m_Metadata:
+      m_Items: []
+  - m_Id: 116314341456617481
+    m_Key: UI_Label_BattleDiscard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 116314341456617482
+    m_Key: UI_Label_BattleExhaust
+    m_Metadata:
+      m_Items: []
+  - m_Id: 116314341456617483
+    m_Key: UI_Label_Battle_Power
+    m_Metadata:
+      m_Items: []
+  - m_Id: 116314341456617484
+    m_Key: UI_Label_Leaderboard_Place
+    m_Metadata:
+      m_Items: []
+  - m_Id: 116314341456617485
+    m_Key: UI_Label_Leaderboard_Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 116314341456617486
+    m_Key: UI_Label_Leaderboard_Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 116314341456617487
+    m_Key: UI_Label_Allergic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 116314341456617488
+    m_Key: UI_Label_Sold
+    m_Metadata:
+      m_Items: []
+  - m_Id: 116674886805602304
+    m_Key: UI_Label_FaintAllergic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 116674886839156736
+    m_Key: UI_Label_BuySkip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 116965285130518528
+    m_Key: UI_Label_RewardOneCard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426080
+    m_Key: UI_Label_MystSelect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426081
+    m_Key: UI_Label_MystInfo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426088
+    m_Key: UI_Label_MystTriviaType
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426089
+    m_Key: UI_Label_MystTriviaHeight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426090
+    m_Key: UI_Label_MystTriviaWeight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426110
+    m_Key: UI_Label_FeedEmberSeed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25543426111
+    m_Key: UI_Button_Feed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25547620359
+    m_Key: UI_Label_Merchant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25547620360
+    m_Key: UI_Label_MerchantPowerItem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25547620361
+    m_Key: UI_Label_MerchantHealthItem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25547620366
+    m_Key: UI_Label_EnemiesDefeated
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25547620370
+    m_Key: UI_Label_TamerLevelRewards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57895615635464193
+    m_Key: UI_Header_FirstRunVictory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57895615635464194
+    m_Key: UI_Text_FirstRunVictory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2468229524078593
+    m_Key: UI_Label_NotAvailable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5063578138845184
+    m_Key: UI_Tooltip_MerchantPower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5063640562671616
+    m_Key: UI_Tooltip_MerchantHealth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5367309547978752
+    m_Key: UI_Label_EnemyUltimate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5766595981946880
+    m_Key: UI_Label_Wishlist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21007831473963008
+    m_Key: UI_Button_ResetProgress
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21007831494934528
+    m_Key: UI_Label_ResetProgress
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25009818494418944
+    m_Key: UI_HubLabel_EggHatch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25009818515390467
+    m_Key: UI_HubLabel_BiomeSelect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25009818515390468
+    m_Key: UI_Rarity_Common
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25009818515390469
+    m_Key: UI_Rarity_Uncommon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25009818515390470
+    m_Key: UI_Rarity_Rare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25012459114971136
+    m_Key: UI_Button_Hatch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27485300448149505
+    m_Key: UI_Label_CardExhaustDecision
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27485300448149506
+    m_Key: UI_Label_CardDestroyDecision
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27485300448149507
+    m_Key: UI_Label_CardMoveDrawDecision
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32880758016294912
+    m_Key: UI_Currency_DragonEssence
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56843005608443904
+    m_Key: UI_MapPlaceLabel_MaxHPTotem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43003040931848199
+    m_Key: UI_MapPlaceLabel_Event
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56084385790164993
+    m_Key: UI_Label_UnlockedAllContent
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 1719563835141783562
+  references:
+    version: 2
+    RefIds:
+    - rid: 1719563835141783562
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1704809212596

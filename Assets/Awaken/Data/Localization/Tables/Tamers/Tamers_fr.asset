@@ -1,0 +1,194 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Tamers_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 4bdcaf64e4a5916478186f30c14ef387, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2105433060097654829
+  m_TableData:
+  - m_Id: 10119456537821184
+    m_Localized: Non disponible
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654829
+  - m_Id: 10119527421558784
+    m_Localized: "D\xE9bloquez ce dompteur en jouant\_!"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654829
+  - m_Id: 54659618039738368
+    m_Localized: Arcana DeFault
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654829
+  - m_Id: 54659618073292800
+    m_Localized: "La premi\xE8re carte achet\xE9e \xE0 l'\xE9cran des r\xE9compenses
+      apr\xE8s chaque combat est gratuite."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654829
+  - m_Id: 54659618073292801
+    m_Localized: "Randy l'Intr\xE9pide"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654829
+  - m_Id: 78626348725248000
+    m_Localized: "Un Mystling au hasard est \xE9volu\xE9 d\xE8s le d\xE9part. Notez
+      toutefois que ce Mystling ne peut pas \xEAtre soign\xE9 et que son maximum
+      de <style=\"Blue\">sant\xE9</style> est r\xE9duit de moiti\xE9."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654829
+  - m_Id: 78626348750413824
+    m_Localized: "Un Mystling au hasard est \xE9volu\xE9 d\xE8s le d\xE9part."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654829
+  - m_Id: 69538106172317696
+    m_Localized: "\xC9volution de d\xE9part"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654829
+  - m_Id: 69538106197483520
+    m_Localized: "Commence l'aventure en ayant d\xE9j\xE0 \xE9volu\xE9. Maximum de
+      <style=\"Blue\">sant\xE9</style> r\xE9duit de moiti\xE9, ne peut pas \xEAtre
+      soign\xE9."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654829
+  - m_Id: 54659618073292803
+    m_Localized: Maya Millebaie
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654829
+  - m_Id: 54659618073292804
+    m_Localized: "Commence la partie avec {Tamer.EmberSeeds}\_Mystibaies."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654829
+  - m_Id: 68455510805913600
+    m_Localized: Commence la partie avec plus de Mystibaies.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654829
+  - m_Id: 54659618073292805
+    m_Localized: Cartolin Descartes
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654829
+  - m_Id: 54659618073292806
+    m_Localized: "\xC9quipe limit\xE9e \xE0 {Tamer.TeamSize}\_Mystlings, mais r\xE9serve
+      d'\xE9nergie \xE9gale \xE0 {Tamer.CombatEnergy}."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654829
+  - m_Id: 68455510805913601
+    m_Localized: "\xC9quipe limit\xE9e \xE0 {Tamer.TeamSize}\_Mystlings, mais r\xE9serve
+      d'\xE9nergie augment\xE9e."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654829
+  - m_Id: 54659618073292807
+    m_Localized: Philippe Phillips
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654829
+  - m_Id: 54659618073292808
+    m_Localized: "Les Mystlings qui s'activent \xE0 la fin du round le font deux
+      fois, mais vous gagnez {Tamer.GoldAfterCombatMultiplier}\_% d'or en moins apr\xE8s
+      avoir remport\xE9 un combat."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654829
+  - m_Id: 68455510805913602
+    m_Localized: "Les Mystlings qui s'activent \xE0 la fin du round le font deux
+      fois."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654829
+  - m_Id: 69538106197483521
+    m_Localized: Double activation
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654829
+  - m_Id: 69538106197483522
+    m_Localized: "Si ce Mystling s'active \xE0 la fin du round, il le fait \xE0 deux
+      reprises."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654829
+  - m_Id: 54659618073292809
+    m_Localized: Barbara Prime
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654829
+  - m_Id: 54659618073292810
+    m_Localized: "Les Mystlings infligent deux fois plus de <style=\"Blue\">d\xE9g\xE2ts</style>
+      pendant le premier round de combat, mais vous perdez {Tamer.LoseMystberryEveryRound}\_Mystibaie
+      par round de combat."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654829
+  - m_Id: 68455510805913603
+    m_Localized: "Les Mystlings infligent deux fois plus de <style=\"Blue\">d\xE9g\xE2ts</style>
+      pendant le premier round de combat."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654829
+  - m_Id: 69538106197483523
+    m_Localized: "Excellent d\xE9part"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654829
+  - m_Id: 69538106197483524
+    m_Localized: "<style=\"Blue\">D\xE9g\xE2ts</style> doubl\xE9s durant le premier
+      round de combat."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654829
+  references:
+    version: 2
+    RefIds:
+    - rid: 2105433060097654829
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 10119456537821184
+        - id: 10119527421558784
+        - id: 54659618039738368
+        - id: 54659618073292800
+        - id: 54659618073292801
+        - id: 78626348725248000
+        - id: 78626348750413824
+        - id: 69538106172317696
+        - id: 69538106197483520
+        - id: 54659618073292803
+        - id: 54659618073292804
+        - id: 68455510805913600
+        - id: 54659618073292805
+        - id: 54659618073292806
+        - id: 68455510805913601
+        - id: 54659618073292807
+        - id: 54659618073292808
+        - id: 68455510805913602
+        - id: 69538106197483521
+        - id: 69538106197483522
+        - id: 54659618073292809
+        - id: 54659618073292810
+        - id: 68455510805913603
+        - id: 69538106197483523
+        - id: 69538106197483524

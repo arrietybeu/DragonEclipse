@@ -1,0 +1,234 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: NewEnemies_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: adcfc443eb956b24bacf98517e3ba782, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2105433060097654813
+  m_TableData:
+  - m_Id: 3202074980499459
+    m_Localized: Eftus oscuro
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654813
+  - m_Id: 3202074980499460
+    m_Localized: Terok
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654813
+  - m_Id: 3202074980499463
+    m_Localized: Eldrithia
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654813
+  - m_Id: 3202074980499466
+    m_Localized: Pinequeak fantasma
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654813
+  - m_Id: 3202074980499467
+    m_Localized: Iceling fantasma
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654813
+  - m_Id: 3202074980499468
+    m_Localized: Golomo fantasma
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654813
+  - m_Id: 3202074980499469
+    m_Localized: Glarexus fantasma
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654813
+  - m_Id: 3202074980499470
+    m_Localized: Prowler fantasma
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654813
+  - m_Id: 3202074980499471
+    m_Localized: "Da\xF1o"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654813
+  - m_Id: 3202074980499472
+    m_Localized: "Debilitaci\xF3n"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654813
+  - m_Id: 3202074980499473
+    m_Localized: Descanso
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654813
+  - m_Id: 3202074980499474
+    m_Localized: Aturdimiento
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654813
+  - m_Id: 3202074980499475
+    m_Localized: "Se inflige {Effect0.ValueInt} de da\xF1o."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654813
+  - m_Id: 3202074980499477
+    m_Localized: "Se inflige {Effect0.ValueInt} de da\xF1o al \xFAltimo mystling."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654813
+  - m_Id: 3202074980499478
+    m_Localized: "Se inflige {Effect0.ValueInt} de da\xF1o a un mystling al azar."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654813
+  - m_Id: 3202074980499479
+    m_Localized: "Se inflige {Effect0.ValueInt} de da\xF1o a un mystling al azar
+      {Effect1.ValueInt} veces."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654813
+  - m_Id: 3202074980499480
+    m_Localized: "Se inflige {Effect0.ValueInt} de da\xF1o a todos los mystlings."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654813
+  - m_Id: 3202074980499481
+    m_Localized: "Se inflige un da\xF1o equivalente a la salud."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654813
+  - m_Id: 3202074980499482
+    m_Localized: Descanso.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654813
+  - m_Id: 3202074980499483
+    m_Localized: Se aplica una mejora.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654813
+  - m_Id: 3202074980499484
+    m_Localized: "Se aplica una debilitaci\xF3n."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654813
+  - m_Id: 3202074980499485
+    m_Localized: Se mueve un mystling al frente.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654813
+  - m_Id: 3202074980499486
+    m_Localized: Invoca a una criatura.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654813
+  - m_Id: 14838014429700096
+    m_Localized: Mejora
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654813
+  - m_Id: 18375964392235008
+    m_Localized: Se mueve un mystling al frente.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654813
+  - m_Id: 30040975212617728
+    m_Localized: Necroworm
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654813
+  - m_Id: 30040975221006336
+    m_Localized: Necroworm de pantano
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654813
+  - m_Id: 30040975221006339
+    m_Localized: Shadeclaw
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654813
+  - m_Id: 30040975221006340
+    m_Localized: Ghostclaw
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654813
+  - m_Id: 30040975221006341
+    m_Localized: Darktailen
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654813
+  - m_Id: 30040975221006342
+    m_Localized: Fourtailen
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654813
+  - m_Id: 32864254604419072
+    m_Localized: Phantamer
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654813
+  - m_Id: 33956972290187264
+    m_Localized: "Se inflige {Effect0.ValueInt} de da\xF1o {Effect1.ValueInt} veces."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654813
+  - m_Id: 69187890315378688
+    m_Localized: Uttur
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654813
+  references:
+    version: 2
+    RefIds:
+    - rid: 2105433060097654813
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 3202074980499459
+        - id: 3202074980499460
+        - id: 3202074980499463
+        - id: 3202074980499466
+        - id: 3202074980499467
+        - id: 3202074980499468
+        - id: 3202074980499469
+        - id: 3202074980499470
+        - id: 3202074980499471
+        - id: 3202074980499472
+        - id: 3202074980499473
+        - id: 3202074980499474
+        - id: 3202074980499475
+        - id: 3202074980499477
+        - id: 3202074980499478
+        - id: 3202074980499479
+        - id: 3202074980499480
+        - id: 3202074980499481
+        - id: 3202074980499482
+        - id: 3202074980499483
+        - id: 3202074980499484
+        - id: 3202074980499485
+        - id: 3202074980499486
+        - id: 14838014429700096
+        - id: 18375964392235008
+        - id: 30040975212617728
+        - id: 30040975221006336
+        - id: 30040975221006339
+        - id: 30040975221006340
+        - id: 30040975221006341
+        - id: 30040975221006342
+        - id: 32864254604419072
+        - id: 33956972290187264
+        - id: 69187890315378688

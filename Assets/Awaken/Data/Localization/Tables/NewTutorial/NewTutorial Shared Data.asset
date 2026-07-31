@@ -1,0 +1,800 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -299433217, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: NewTutorial Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: NewTutorial
+  m_TableCollectionNameGuidString: 87b4fdbe5fba1bb478affbd29435ccc4
+  m_Entries:
+  - m_Id: 451756015616
+    m_Key: controls_h
+    m_Metadata:
+      m_Items: []
+  - m_Id: 451785375744
+    m_Key: controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 451785375745
+    m_Key: tamer_select_1_h
+    m_Metadata:
+      m_Items: []
+  - m_Id: 451785375746
+    m_Key: tamer_select_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 451789570048
+    m_Key: tamer_select_2_h
+    m_Metadata:
+      m_Items: []
+  - m_Id: 451789570049
+    m_Key: tamer_select_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 451789570050
+    m_Key: mystling_select_1_h
+    m_Metadata:
+      m_Items: []
+  - m_Id: 451789570051
+    m_Key: mystling_select_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 451789570073
+    m_Key: progress_h
+    m_Metadata:
+      m_Items: []
+  - m_Id: 451789570074
+    m_Key: progress
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391828
+    m_Key: hatchery_h
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391829
+    m_Key: hatchery_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 451789570077
+    m_Key: timer_h
+    m_Metadata:
+      m_Items: []
+  - m_Id: 451789570078
+    m_Key: timer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391831
+    m_Key: village_elder_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391832
+    m_Key: village_friend_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391833
+    m_Key: empty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391834
+    m_Key: story_start_event_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391835
+    m_Key: story_start_event_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391836
+    m_Key: story_start_event_2-1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391837
+    m_Key: story_start_event_2-2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391838
+    m_Key: story_start_event_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391839
+    m_Key: story_start_event_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391840
+    m_Key: story_start_event_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391841
+    m_Key: story_start_event_6_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391842
+    m_Key: story_start_event_6_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391843
+    m_Key: skip_tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391844
+    m_Key: skip_tutorial_a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391845
+    m_Key: after_tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391846
+    m_Key: after_tutorial_a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391847
+    m_Key: friend_start_bark_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391848
+    m_Key: friend_start_bark_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391849
+    m_Key: friend_start_bark_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391850
+    m_Key: friend_start_bark_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391851
+    m_Key: friend_start_bark_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391852
+    m_Key: friend_start_bark_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391853
+    m_Key: ceremony_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391854
+    m_Key: ceremony_1a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391855
+    m_Key: ceremony_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391856
+    m_Key: ceremony_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391857
+    m_Key: ceremony_3a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391858
+    m_Key: ceremony_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391859
+    m_Key: ceremony_4a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391860
+    m_Key: ceremony_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391861
+    m_Key: ceremony_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391862
+    m_Key: ceremony_7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391863
+    m_Key: ceremony_8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391864
+    m_Key: ceremony_9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391865
+    m_Key: ceremony_10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391866
+    m_Key: ceremony_10a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391867
+    m_Key: ceremony_11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391868
+    m_Key: ceremony_12
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391869
+    m_Key: ceremony_13
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391870
+    m_Key: ceremony_14
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391871
+    m_Key: ceremony_15
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391872
+    m_Key: ceremony_15a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391873
+    m_Key: ceremony_16
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391874
+    m_Key: ceremony_16a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391875
+    m_Key: ceremony_17
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391876
+    m_Key: ceremony_17a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391877
+    m_Key: elder_ceremony_bark_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391878
+    m_Key: elder_ceremony_bark_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391879
+    m_Key: elder_ceremony_bark_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391880
+    m_Key: elder_ceremony_bark_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391881
+    m_Key: elder_ceremony_bark_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391882
+    m_Key: elder_ceremony_bark_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391883
+    m_Key: choose_mystling_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391884
+    m_Key: choose_mystling_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391885
+    m_Key: choose_mystling_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391886
+    m_Key: choose_mystling_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391887
+    m_Key: choose_mystling_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391888
+    m_Key: choose_mystling_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45304894210514947
+    m_Key: elder_portal_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45304894210514948
+    m_Key: elder_portal_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45304894210514959
+    m_Key: final_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45304894210514960
+    m_Key: final_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45304894210514961
+    m_Key: final_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45304894210514962
+    m_Key: final_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45304894210514963
+    m_Key: final_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45304894210514966
+    m_Key: thankyou_popup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391913
+    m_Key: tamer_unlocked_h
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45300613990391914
+    m_Key: tamer_unlocked_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13009066783744000
+    m_Key: leaderboard_h
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13009066808909824
+    m_Key: leaderboard_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35532752173924352
+    m_Key: Combat_tutorial_PlayCard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35532752194895872
+    m_Key: Combat_tutorial_MystlingsPower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35532752194895873
+    m_Key: Combat_tutorial_SpendEnergy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35532752194895874
+    m_Key: Combat_tutorial_EndTurn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35532752194895875
+    m_Key: Combat_tutorial_MystlingsTurn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35532752194895876
+    m_Key: Combat_tutorial_EnemiesForeshadow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35532752194895877
+    m_Key: Combat_tutorial_HighlightForeshadow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35532752194895878
+    m_Key: Combat_tutorial_PlayShields
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35532752194895879
+    m_Key: Combat_tutorial_MoveMystling
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35532752194895880
+    m_Key: Combat_tutorial_MoveMystling_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35532752194895881
+    m_Key: Combat_tutorial_Statuses
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35532752194895882
+    m_Key: Combat_tutorial_HighlightStatus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35532752194895883
+    m_Key: Combat_tutorial_FinishCombat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37707288547368960
+    m_Key: Blessing_tutorial_General_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37707288547368961
+    m_Key: Blessing_tutorial_TakeCard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37707288547368962
+    m_Key: Blessing_tutorial_General_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37707288547368963
+    m_Key: Blessing_tutorial_SelectMystling
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37707288547368964
+    m_Key: Blessing_tutorial_SelectBlessing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37707288547368965
+    m_Key: Blessing_tutorial_BuyBlessing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37705988774502400
+    m_Key: T1_graveNews_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42406671578546176
+    m_Key: T1_graveNews_1_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37705988774502401
+    m_Key: T1_graveNews_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42424946089771008
+    m_Key: T1_graveNews_2a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42406671599517696
+    m_Key: T1_graveNews_2_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37705988774502402
+    m_Key: T1_graveNews_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42424946089771009
+    m_Key: T1_graveNews_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37705988774502403
+    m_Key: T1_graveNews_4_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37705988774502404
+    m_Key: T1_graveNews_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42424946089771010
+    m_Key: T1_graveNews_5a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42406671599517697
+    m_Key: T1_graveNews_5_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37705988774502405
+    m_Key: T1_graveNews_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42424946089771011
+    m_Key: T1_graveNews_7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37705988774502407
+    m_Key: T1_Ordos_talk_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42415937366507520
+    m_Key: T1_Ordos_talk_1a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42406671599517699
+    m_Key: T1_Ordos_talk_1_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37705988774502408
+    m_Key: T1_Ordos_talk_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37705988774502410
+    m_Key: T1_Ordos_talk_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42415937366507521
+    m_Key: T1_Ordos_talk_4a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37705988774502411
+    m_Key: T1_Ordos_talk_5_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37705988774502412
+    m_Key: T1_Ordos_talk_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37705988774502414
+    m_Key: T1_Ordos_talk_8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42406671599517700
+    m_Key: T1_Ordos_talk_8_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37705988774502415
+    m_Key: T1_Ordos_talk_9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42406671599517701
+    m_Key: T1_Ordos_talk_9_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37705988774502416
+    m_Key: T1_Ordos_talk_10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37705988774502417
+    m_Key: T1_Ordos_talk_11_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37705988774502418
+    m_Key: T1_Ordos_talk_12
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42415937366507522
+    m_Key: T1_Ordos_talk_12a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38046161593167872
+    m_Key: T1_Ordos_talk_13_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37705988774502420
+    m_Key: T1_Ordos_talk_14
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42406671599517702
+    m_Key: T1_Ordos_talk_14_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37705988774502421
+    m_Key: T1_Ordos_talk_15
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37705988774502426
+    m_Key: T2_elder_talk_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42406671599517704
+    m_Key: T2_elder_talk_1a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42406671599517705
+    m_Key: T2_elder_talk_1a_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37705988774502427
+    m_Key: T2_elder_talk_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42406671599517706
+    m_Key: T2_elder_talk_2_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42406671599517707
+    m_Key: T2_elder_talk_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37705988774502428
+    m_Key: T2_elder_talk_3_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37705988774502429
+    m_Key: T2_elder_talk_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42406671599517708
+    m_Key: T2_elder_talk_4_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42406671599517709
+    m_Key: T2_elder_talk_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37705988774502435
+    m_Key: T2_Ordos_talk_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37705988774502436
+    m_Key: T2_Ordos_talk_2_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37705988774502437
+    m_Key: T2_Ordos_talk_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42406671599517710
+    m_Key: T2_Ordos_talk_3_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37705988774502439
+    m_Key: T2_Ordos_talk_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42438740392263680
+    m_Key: T2_Ordos_talk_5a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42406671599517712
+    m_Key: T2_Ordos_talk_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37705988774502441
+    m_Key: T2_Ordos_talk_7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42406671599517713
+    m_Key: T2_Ordos_talk_7_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42406671599517714
+    m_Key: T2_Ordos_talk_8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37705988774502449
+    m_Key: T3_Elder_talk_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37705988774502450
+    m_Key: T3_Elder_talk_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37705988774502451
+    m_Key: T3_Ordos_talk_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37705988774502452
+    m_Key: T3_Ordos_talk_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42406671599517716
+    m_Key: T3_Ordos_talk_2_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42416728437407744
+    m_Key: T3_Ordos_talk_2a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42406671599517717
+    m_Key: T3_Ordos_talk_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37705988774502453
+    m_Key: T3_Ordos_talk_3_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37705988774502454
+    m_Key: T3_Ordos_talk_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42406671599517718
+    m_Key: T3_Ordos_talk_4_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42406671599517719
+    m_Key: T3_Ordos_talk_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37705988774502455
+    m_Key: T3_Ordos_talk_5_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37705988774502456
+    m_Key: T3_Ordos_talk_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37707288551563264
+    m_Key: T4_Lyanne_talk_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42406671599517720
+    m_Key: T4_Lyanne_talk_1_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37707288551563265
+    m_Key: T4_Lyanne_talk_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42406671599517721
+    m_Key: T4_Lyanne_talk_2_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42406671599517722
+    m_Key: T4_Lyanne_talk_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37712648813355008
+    m_Key: T4_Lyanne_talk_3_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37707288551563267
+    m_Key: T4_Lyanne_talk_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42406671599517723
+    m_Key: T4_Lyanne_talk_4_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42406671599517724
+    m_Key: T4_Lyanne_talk_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37712648834326528
+    m_Key: T4_Lyanne_talk_5_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37707288551563277
+    m_Key: StoryEnd_talk_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42406671599517725
+    m_Key: StoryEnd_talk_1_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42406671599517726
+    m_Key: StoryEnd_talk_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37712648834326533
+    m_Key: StoryEnd_talk_2_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37707288551563279
+    m_Key: StoryEnd_talk_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37707288551563280
+    m_Key: StoryEnd_talk_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42406671599517728
+    m_Key: StoryEnd_talk_4_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37707288551563281
+    m_Key: StoryEnd_talk_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42406671599517730
+    m_Key: StoryEnd_talk_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37712648834326534
+    m_Key: StoryEnd_talk_6_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37707288551563283
+    m_Key: StoryEnd_talk_7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42406671599517731
+    m_Key: StoryEnd_talk_8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42410027705417728
+    m_Key: StoryEnd_talk_8_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39865059588440064
+    m_Key: village_ordos_name
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7490789244244590757
+  references:
+    version: 2
+    RefIds:
+    - rid: 7490789244244590757
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1717673137615

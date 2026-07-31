@@ -1,0 +1,454 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Quests_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 7da6eead7207e9142bcf8d54df453f90, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2105433060097654825
+  m_TableData:
+  - m_Id: 4674111479809
+    m_Localized: The Heart of Winter, huh? Where did you hear about that?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 4674111479808
+    m_Localized: <i>Iceling jumps up with excitement as soon as he sees you.</i><br><br><wave>Liiiiing!</wave>
+      Ling Ling?<br><br><i>He starts gesticulating wildly, clearly trying to tell
+      you something important.</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 4674111479810
+    m_Localized: <i>The Heart of Winter is a legendary jewel holding the very essence
+      of the elemental power of ice. <br><br>This powerful artifact is said to have
+      been lost centuries ago... if it ever existed in the first place.</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 4674111479811
+    m_Localized: <i>Continue</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 4674111479812
+    m_Localized: 'Ling Ling! <br><br><i>Iceling starts pulling at your hand, pointing
+      towards the forest.</i> <br><br><wave>LING! LING!</wave> '
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 4674111479813
+    m_Localized: I don't think we'll find a legendary artifact in our backyard, buddy...
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 4674111479819
+    m_Localized: <bounce>LING LING!</bounce> <br><br><i>It looks like it was exactly
+      what Iceling was after. You can already see the Mystling glowing with a power
+      you've never seen in him before... not to mention radiating with joy!</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 4674111479820
+    m_Localized: <i>Continue</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 1037743229444096
+    m_Localized: Return to the Village to collect your reward!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 1037743258804224
+    m_Localized: Heart of Winter
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 1037743258804225
+    m_Localized: Obtain the Ice Crystal, the Heart of Winter
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 1040631225851904
+    m_Localized: Seeds of Power
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 1040631246823424
+    m_Localized: Find 3 Flowers
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 1040631246823438
+    m_Localized: Pinequeak's New Stick
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 1040631246823439
+    m_Localized: Obtain a new stick for Pinequeak
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 1040631246823425
+    m_Localized: "<i>You spot Golomo carefully setting up a pile of sticks. He then
+      takes a step back, and with a big inhale...</i><br><br>Gooo\u2013<wiggle>LOMO!</wiggle><br><br><i>The
+      creature's powerful attack sends the sticks flying, but... Golomo seems oddly
+      dissappointed and flops to the ground with a frown.</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 1040631246823426
+    m_Localized: Why are you upset, bud? That was quite a show!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 1040631246823427
+    m_Localized: <shake>Golomo! GO. LO. MO!</shake> <br><br><i>He does a frantic
+      little pantomime, flexing his arm, then making an exaggerated grimace. He needs
+      to be stronger! <b>Way stronger!</b><br><br>He's clearly frustrated he has
+      to explain such basics to you.</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 1040631246823428
+    m_Localized: You wanna be stronger. Got it. Can I help you in any way?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 1040631246823429
+    m_Localized: <bounce>Lomo LOMO!</bounce><br><br><i>He nods his head energetically
+      with a stone serious expression.<br><br><font="Rounded-Black SDF">Seeds in
+      forest. Earth magic.</font> That's about all you can understand from his agitated
+      ramblings.</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 1040631246823430
+    m_Localized: "Alright, I\u2019ll start looking then!"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 1040631246823436
+    m_Localized: <i>He eyes the seeds for a second... then quickly shoves all of
+      them into his mouth. <br><br>You hear a deep rumble from the pit of his stomach
+      as the fire in his eyes grows blindingly bright.</i><br><br>Go.. Lo... <shake>MOOOOO!</shake>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 1040631246823437
+    m_Localized: Woah, that's some powerful stuff, buddy!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 1040631246823440
+    m_Localized: <i>Your Pinequeak rushes towards you, absolutely <shake><b>fuming</b></shake>.
+      He seems really intense, even for a Pinequeak.</i><br><br>Queek <shake>QUEEEEEK!</shake>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 1040631246823441
+    m_Localized: What's got you so riled up, little pinecone?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 1040631246823442
+    m_Localized: <i>Pinequeak squints at you with exasperation.<br><br>He slowly
+      raises his stick, points at it, then goes</i> <wave>"Blah!"</wave><i> pretending
+      to throw up.</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 1040631246823443
+    m_Localized: You don't like your stick anymore?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 1040631246823444
+    m_Localized: <i>He squints his eyes even more, emphasizing just <b>how much</b>
+      he doesn't like it.</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 1040631246823445
+    m_Localized: Okay, I'll go find you a better stick...
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 1040631246823451
+    m_Localized: <i>As you realize that Pinequeak won't likely be giving you full-length
+      speeches of gratitude anytime soon he blows a raspberry at you and runs away
+      with the stick.<br><br>He stops after a few steps, glances towards you and
+      shyly nods in acknowledgement.</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 1040631246823452
+    m_Localized: Wow... Did he almost... <i>thank me</i>? I might be tearing up...
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 2558930710503424
+    m_Localized: You spot a lone Pinequeak toying idly with a stick. Dragon Gods
+      above - it is <font="Rounded-Black SDF">a really awesome stick.</font>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 2558930735669248
+    m_Localized: That's a glorious stick you've got there, bud.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 2558930735669249
+    m_Localized: <bounce>Queek queek!</bounce><br><br><i>The Pinequeak holds out
+      the stick for you with a friendly smile. Something isn't right...</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 2558930735669250
+    m_Localized: <i>Take the stick.</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 2558930735669251
+    m_Localized: <i>As soon as your hand touches the stick you hear rustling coming
+      from the bushes behind you.<br><br>As a mob of frenzied Pinequeaks jumps towards
+      you, you realize you have been ambushed.</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 2558930735669252
+    m_Localized: Ehh... Why am I so easy to bamboozle?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 2558930735669253
+    m_Localized: <i>The Pinequeaks look at you with respect as they try to catch
+      their breath.<br><br>You've proven to be worthy of <font="Rounded-Black SDF">The
+      Stick</font>.</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 2558930735669254
+    m_Localized: "<i>Take The Stick\u2122 (for real this time).</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 2558930735669255
+    m_Localized: The Pinequeaks look at you with disdain. You are clearly not worthy
+      of The Stick.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 2558930735669256
+    m_Localized: Keep your stupid stick. You know where you can <i>stick</i> it.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 2579197784563712
+    m_Localized: <i>Iceling jumps to his feet as soon as he sees you.</i> <br><br><wave>Ling?</wave>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 2579197784563713
+    m_Localized: Found you this. It may not be the Heart of Winter, but it still
+      feels quite powerful.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 2579197784563714
+    m_Localized: Ling ling... <shake>LING</shake> ling!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 2579197784563715
+    m_Localized: "I\u2019m still looking for it, I am!"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 2579197784563716
+    m_Localized: <i>The creature nods in understanding, aware that you have more
+      important matters to attend to.<br><br>He's not good at hiding his disappointment
+      though...</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 2579197784563717
+    m_Localized: I won't let you down, I promise.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 2579197784563718
+    m_Localized: <i>You tap Golomo on the shoulder and show him the seeds you found.</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 2579197784563719
+    m_Localized: Are those the right ones?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 2579197784563720
+    m_Localized: Go...<wiggle>LOMO!</wiggle> <br><br><i>You see Golomo obliterate
+      another pile of sticks, then shake his head in disappointment as he returns
+      to set up a new pile. Seems his training isn't going too well without those
+      seeds...</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 2579197784563721
+    m_Localized: "I'll get them for you.<br>Just don\u2019t hurt yourself, ok?"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 2579197784563722
+    m_Localized: <i>Golomo side-eyes you doubtfully, then turns his attention back
+      to his sticks with a sour expression on his face.</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 2579197784563723
+    m_Localized: I'll get them! Pinky promise!<br><size=75%><i>Does he even have
+      a pinky?</i></size>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 2579197784563724
+    m_Localized: <i>Pinequeak spots the stick you're carrying way before he spots
+      you. It's the coolest stick he's ever seen!<br><br>He rushes towards you, barreling
+      through anyone who happens to be in his way, then jumps up to snatch it from
+      your hand.</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 2579197784563725
+    m_Localized: Hey now! What do we say when someone brings us a gift?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 2579197784563726
+    m_Localized: <i>Pinequeak looks at you expectantly.</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 2579197784563727
+    m_Localized: Sorry, I haven't found a good enough stick yet.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 2579197784563728
+    m_Localized: <i>Hearing this, his expression immediately sours and he walks away,
+      mubling to himself and scolding his old stick for being so ugly.</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 2579197784563729
+    m_Localized: Always a delight talking to you...
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 3633746967789568
+    m_Localized: LING <b><shake>LING!</shake></b><br><br><i>He does a little stomp
+      to emphasize his point.</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 3633746980372480
+    m_Localized: "Ok, ok - I\u2019ll look for it. But no promises!"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 3633746980372481
+    m_Localized: Goooolomo... :)<br><br><i>He gives you a very hard-edged hug, then
+      turns around and returns to his sticks. You can see that they now grow some
+      nasty-looking thorns.</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  - m_Id: 3633746980372482
+    m_Localized: Glad they worked!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654825
+  references:
+    version: 2
+    RefIds:
+    - rid: 2105433060097654825
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 4674111479809
+        - id: 4674111479808
+        - id: 4674111479810
+        - id: 4674111479811
+        - id: 4674111479812
+        - id: 4674111479813
+        - id: 4674111479819
+        - id: 4674111479820
+        - id: 1037743229444096
+        - id: 1037743258804224
+        - id: 1037743258804225
+        - id: 1040631225851904
+        - id: 1040631246823424
+        - id: 1040631246823438
+        - id: 1040631246823439
+        - id: 1040631246823425
+        - id: 1040631246823426
+        - id: 1040631246823427
+        - id: 1040631246823428
+        - id: 1040631246823429
+        - id: 1040631246823430
+        - id: 1040631246823436
+        - id: 1040631246823437
+        - id: 1040631246823440
+        - id: 1040631246823441
+        - id: 1040631246823442
+        - id: 1040631246823443
+        - id: 1040631246823444
+        - id: 1040631246823445
+        - id: 1040631246823451
+        - id: 1040631246823452
+        - id: 2558930710503424
+        - id: 2558930735669248
+        - id: 2558930735669249
+        - id: 2558930735669250
+        - id: 2558930735669251
+        - id: 2558930735669252
+        - id: 2558930735669253
+        - id: 2558930735669254
+        - id: 2558930735669255
+        - id: 2558930735669256
+        - id: 2579197784563712
+        - id: 2579197784563713
+        - id: 2579197784563714
+        - id: 2579197784563715
+        - id: 2579197784563716
+        - id: 2579197784563717
+        - id: 2579197784563718
+        - id: 2579197784563719
+        - id: 2579197784563720
+        - id: 2579197784563721
+        - id: 2579197784563722
+        - id: 2579197784563723
+        - id: 2579197784563724
+        - id: 2579197784563725
+        - id: 2579197784563726
+        - id: 2579197784563727
+        - id: 2579197784563728
+        - id: 2579197784563729
+        - id: 3633746967789568
+        - id: 3633746980372480
+        - id: 3633746980372481
+        - id: 3633746980372482

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Compendium_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 98a8d947820b5a3448a76aaf025ea69e, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 264007820933885952
+    m_Localized: Mystling Eggs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 264007820933885953
+    m_Localized: 'To gain a new Mystling, you need to hatch its Egg first. Every
+      new unlocked Egg will show up in the Hatchery building in your village.
+
+      To
+      hatch it you will have to complete a challenge. You can check your progress
+      in the Hatchery building in between runs.
+
+      Once your challenge is completed
+      your Egg will hatch a new Mystlign will be available for a new run.'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

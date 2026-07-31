@@ -1,0 +1,562 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Compendium_pl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl
+  m_SharedData: {fileID: 11400000, guid: 98a8d947820b5a3448a76aaf025ea69e, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 8829885829830410404
+  m_TableData:
+  - m_Id: 54475884666880
+    m_Localized: Podstawy walki
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 17316704231424
+    m_Localized: "Wsp\xF3\u0142czynniki"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 17316704231425
+    m_Localized: "Zar\xF3wno mystlingi, jak i wrogowie s\u0105 uwa\u017Cani za stwory.\n<b>Zdrowie:</b>
+      Kiedy zdrowie stwora spadnie do zera, omdleje i zostanie usuni\u0119ty z walki.
+      Zdrowie maj\u0105 zar\xF3wno mystlingi, jak i wrogowie.\n<b>Moc:</b> Okre\u015Bla,
+      ile obra\u017Ce\u0144 zada mystling swoim atakiem. Ten wsp\xF3\u0142czynnik
+      skaluje si\u0119 z innymi efektami, jak cho\u0107by dzia\u0142anie kart czy
+      efekt\xF3w stanu. Moc\u0105 dysponuj\u0105 tylko mystlingi.\n<b>Aktywacja:</b>
+      Ka\u017Cdy mystling ma swoj\u0105 specjaln\u0105 zdolno\u015B\u0107, aktywowan\u0105
+      tylko w fazie stwor\xF3w, ale tylko wtedy, gdy dany mystling nie znajduje si\u0119
+      z przodu.\n<b>Talent:</b> Ka\u017Cdy mystling ma specjaln\u0105 zdolno\u015B\u0107
+      pasywn\u0105, kt\xF3ra mo\u017Ce zadzia\u0142a\u0107 w r\xF3\u017Cnych okoliczno\u015Bciach,
+      takich jak otrzymanie obra\u017Ce\u0144 czy pokonanie wroga."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 17316704231426
+    m_Localized: Karty i energia
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 17316704231427
+    m_Localized: "Karty s\u0142u\u017C\u0105 do wydawania mystlingom rozkaz\xF3w
+      i pokonywania wrog\xF3w. \u017Beby skorzysta\u0107 z efektu dzia\u0142ania
+      karty, przeci\u0105gnij j\u0105 na mystlinga lub wroga.\nDo zagrywania kart
+      potrzebna jest energia. Ka\u017Cd\u0105 rund\u0119 rozpoczynasz z 3 punktami.
+      Je\u015Bli nie b\u0119dziesz mie\u0107 do\u015B\u0107 energii, by zagra\u0107
+      kart\u0119 ze swojej r\u0119ki, czas zako\u0144czy\u0107 rund\u0119.\nNa pocz\u0105tku
+      ka\u017Cdej rundy odzyskujesz punkty energii i dobierasz nowe karty."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055488
+    m_Localized: Faza rundy
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055489
+    m_Localized: "Ka\u017Cda runda dzieli si\u0119 na faz\u0119 gracza i faz\u0119
+      stwor\xF3w."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 17316704231430
+    m_Localized: Faza gracza
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 17316704231431
+    m_Localized: "W tej fazie mo\u017Cesz zagrywa\u0107 karty, przemieszcza\u0107
+      swoje mystlingi i korzysta\u0107 z przedmiot\xF3w jednorazowych. Kiedy naci\u015Bniesz
+      przycisk ko\u0144ca rundy, zako\u0144czysz faz\u0119 gracza i przejdziesz do
+      fazy stwor\xF3w."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 17316704231432
+    m_Localized: "Przemieszczanie mystling\xF3w"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 17316704231433
+    m_Localized: "W trakcie walki mo\u017Cesz dowolnie przemieszcza\u0107 swoje mystlingi.
+      W tym celu z\u0142ap jednego z nich i przeci\u0105gnij na now\u0105 pozycj\u0119.
+      Pami\u0119taj, \u017Ce ich ustawienie wp\u0142ywa na to, kt\xF3ry mystling
+      u\u017Cyje swojej zdolno\u015Bci aktywacji, a kt\xF3ry zaatakuje.\n\nUstawienie
+      mystling\xF3w mo\u017Cesz te\u017C zmienia\u0107 na mapie \u015Bwiata \u2013
+      s\u0142u\u017C\u0105 do tego strza\u0142ki przy ich portretach."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 17316704231434
+    m_Localized: "Faza stwor\xF3w"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 17316704231435
+    m_Localized: "Kiedy zako\u0144czysz swoj\u0105 rund\u0119, wszystkie stwory podejm\u0105
+      dzia\u0142ania samodzielnie: najpierw wrogowie, a potem mystlingi.\n\nNad g\u0142owami
+      przeciwnik\xF3w wy\u015Bwietlane s\u0105 ich zamiary. Je\u015Bli chcesz zdoby\u0107
+      wi\u0119cej informacji, przesu\u0144 kursor na ten znacznik: cel planowanego
+      dzia\u0142ania zostanie pod\u015Bwietlony.\n\nWszyscy wrogowie wykonaj\u0105
+      swoje zamiary po kolei od ostatniego (PO PRAWEJ) do tego na przedzie (PO LEWEJ).\n\nNast\u0119pnie
+      do dzia\u0142ania przyst\u0105pi\u0105 twoje mystlingi, kolejno od ostatniego
+      (PO LEWEJ) do tego na przedzie (PO PRAWEJ). Mystling stoj\u0105cy z przodu
+      wykona atak, podczas gdy pozosta\u0142e wykorzystaj\u0105 swoj\u0105 zdolno\u015B\u0107
+      aktywacji."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 17316704231436
+    m_Localized: "Aktywacja b\u0142ogos\u0142awie\u0144stw"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 17316704231437
+    m_Localized: "Aktywacja b\u0142ogos\u0142awie\u0144stw i talent\xF3w wymaga zaistnienia
+      konkretnych warunk\xF3w. Mog\u0105 przy tym przerwa\u0107 naturalny przebieg
+      rundy.\nZapoznaj si\u0119 dok\u0142adnie z opisami poszczeg\xF3lnych b\u0142ogos\u0142awie\u0144stw,
+      by m\xF3c je jak najlepiej wykorzysta\u0107!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 17316704231438
+    m_Localized: Przedmioty jednorazowe
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 17316704231439
+    m_Localized: "Przedmioty jednorazowe wywo\u0142uj\u0105 r\xF3\u017Cne efekty.
+      Mo\u017Cna ich u\u017Cy\u0107 tylko podczas walki \u2013 poprzez przeci\u0105gni\u0119cie
+      na wybrany cel (je\u015Bli dany przedmiot nie wymaga wskazania celu, wystarczy
+      go klikn\u0105\u0107)."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 17316704231440
+    m_Localized: "Zdolno\u015B\u0107 tresera"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 17316704231441
+    m_Localized: "Ka\u017Cdy treser ma specjaln\u0105 zdolno\u015B\u0107. Cz\u0119\u015B\u0107
+      z nich dzia\u0142a w czasie walki, a inne poza ni\u0105. Kiedy treser ma zdolno\u015B\u0107
+      pierwszego rodzaju, twoje mystlingi otrzymaj\u0105 specjalny efekt stanu przedstawiony
+      w postaci ikony na zielonym tle."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055490
+    m_Localized: "Post\u0119py"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055491
+    m_Localized: Waluty
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055492
+    m_Localized: "W grze funkcjonuj\u0105 dwie podstawowe waluty, z\u0142oto i mystjagody,
+      kt\xF3re mo\u017Cna znale\u017A\u0107 w skrzyniach ze skarbami b\u0105d\u017A
+      otrzyma\u0107 w nagrod\u0119 za wygranie walki.\n<b>Z\u0142oto:</b> Mo\u017Cna
+      za nie kupowa\u0107 w sklepie na mapie nowe karty i przedmioty jednorazowe.
+      Z\u0142otem zap\u0142acisz te\u017C w szk\xF3\u0142ce mystling\xF3w za uzdrowienie,
+      o\u017Cywienie i wytrenowanie swoich stwor\xF3w.\n<b>Mystjagody:</b> Mo\u017Cesz
+      je wydawa\u0107 tylko po zako\u0144czeniu walki na nowe karty i b\u0142ogos\u0142awie\u0144stwa
+      dla swoich mystling\xF3w, a tak\u017Ce na o\u017Cywienie omdla\u0142ych stwor\xF3w."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055493
+    m_Localized: "B\u0142ogos\u0142awie\u0144stwa"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055494
+    m_Localized: "B\u0142ogos\u0142awie\u0144stwa to specjalne zdolno\u015Bci pasywne,
+      kt\xF3re mo\u017Cna kupi\u0107 za mystjagody. Ka\u017Cde b\u0142ogos\u0142awie\u0144stwo
+      ma inny efekt oraz inny warunek wyzwolenia.\n\nCena b\u0142ogos\u0142awie\u0144stw
+      b\u0119dzie ros\u0142a o 2 za ka\u017Cde b\u0142ogos\u0142awie\u0144stwo ju\u017C
+      wykupione dla danego mystlinga."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055495
+    m_Localized: Ewolucja
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055496
+    m_Localized: "Kiedy mystling otrzyma cztery b\u0142ogos\u0142awie\u0144stwa,
+      przekszta\u0142ci si\u0119 w pot\u0119\u017Cniejsz\u0105 posta\u0107.\n\nKarta
+      takiego mystlinga zostanie ulepszona, a dodatkowo wybierzesz jeden z trzech
+      mo\u017Cliwych talent\xF3w (niekt\xF3re z nich mog\u0105 zast\u0105pi\u0107
+      pierwotny talent stwora)."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055497
+    m_Localized: "Zdobywanie poziom\xF3w"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055498
+    m_Localized: "Po ka\u017Cdej grze \u2013 niezale\u017Cnie od tego, czy zako\u0144czy\u0142a
+      si\u0119 sukcesem \u2013 dostajesz punkty do\u015Bwiadczenia. Kiedy zbierzesz
+      ich do\u015B\u0107, awansujesz na nowy poziom i odblokujesz nowe mystlingi,
+      treser\xF3w, karty i b\u0142ogos\u0142awie\u0144stwa.\n\nOdblokowane mystlingi
+      i nowi treserzy mog\u0105 zosta\u0107 wybrani przed rozpocz\u0119ciem nowej
+      gry. Nowe karty i b\u0142ogos\u0142awie\u0144stwa pojawi\u0105 si\u0119 w sklepach
+      ju\u017C podczas rozgrywki."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055499
+    m_Localized: "Czas pozosta\u0142y do za\u0107mienia"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055500
+    m_Localized: "Ka\u017Cda rozgrywka jest ograniczona czasowo. Liczba walk, kt\xF3re
+      mo\u017Cesz stoczy\u0107 przed nadej\u015Bciem za\u0107mienia, zale\u017Cy
+      od poziomu trudno\u015Bci. Kiedy licznik czasu dojdzie do zera, rozpocznie
+      si\u0119 walka z ko\u0144cowym bossem."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055501
+    m_Localized: Wioska
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055502
+    m_Localized: Swobodna eksploracja
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055503
+    m_Localized: "Wioska to tw\xF3j dom i baza wypadowa. Zawsze do niej wr\xF3cisz
+      po uko\u0144czeniu gry.\n\nMo\u017Cesz tu rozmawia\u0107 z mystlingami i mieszka\u0144cami,
+      by dowiedzie\u0107 si\u0119 o nich czego\u015B wi\u0119cej. Wypatruj swoich
+      podopiecznych, jako \u017Ce czasem b\u0119d\u0105 potrzebowa\u0107 twojej pomocy."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055504
+    m_Localized: Kuchnia
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055505
+    m_Localized: "Nim wyruszysz na kolejn\u0105 przygod\u0119, mo\u017Cesz zam\xF3wi\u0107
+      w kuchni jeden losowy przedmiot jednorazowy. Nie martw si\u0119, nie musisz
+      za niego p\u0142aci\u0107."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055506
+    m_Localized: Efekty
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055507
+    m_Localized: Efekty stanu
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055508
+    m_Localized: "<b>Os\u0142ona:</b> chroni przed otrzymywanymi obra\u017Ceniami
+      a\u017C do nast\u0119pnej rundy."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055512
+    m_Localized: "<b>Unik:</b> zapobiega otrzymaniu obra\u017Ce\u0144. Warto\u015B\u0107
+      stanu maleje o 1 po ka\u017Cdym unikni\u0119tym ataku."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055511
+    m_Localized: "<b>Izolacja:</b> zmniejsza nast\u0119pne otrzymane obra\u017Cenia
+      o 1."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055515
+    m_Localized: "<b>O\u017Cywienie:</b> natychmiast przywraca omdla\u0142ego stwora
+      do \u017Cycia z 50% maks. zdrowia. Warto\u015B\u0107 stanu maleje o 1 po ka\u017Cdym
+      o\u017Cywieniu."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055520
+    m_Localized: "<b>Garda:</b> zmniejsza otrzymywane obra\u017Cenia o 50%. Warto\u015B\u0107
+      maleje z ka\u017Cd\u0105 rund\u0105."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055509
+    m_Localized: "<b>Gniew:</b> zwi\u0119ksza moc do ko\u0144ca walki."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055510
+    m_Localized: "<b>Si\u0142a:</b> zwi\u0119ksza moc do ko\u0144ca rundy."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055513
+    m_Localized: "<b>Wielocios:</b> na jedn\u0105 tur\u0119 zwi\u0119ksza liczb\u0119
+      atak\xF3w o jeden za ka\u017Cdy punkt wielociosu."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055514
+    m_Localized: "<b>Wielocios na sta\u0142e:</b> do ko\u0144ca walki zwi\u0119ksza
+      liczb\u0119 atak\xF3w o jeden za ka\u017Cdy punkt wielociosu."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055516
+    m_Localized: "<b>Ciernie:</b> kiedy ten stw\xF3r zostanie zaatakowany, zadaje
+      napastnikowi obra\u017Cenia r\xF3wne warto\u015Bci cierni, po czym traci ten
+      stan."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055517
+    m_Localized: "<b>Bezbronno\u015B\u0107:</b> kiedy ten stw\xF3r otrzyma dowolne
+      obra\u017Cenia (niezale\u017Cnie od \u017Ar\xF3d\u0142a), ich liczba ro\u015Bnie
+      o liczb\u0119 punkt\xF3w bezbronno\u015Bci. Po ka\u017Cdym trafieniu warto\u015B\u0107
+      tego stanu maleje."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055518
+    m_Localized: "<b>Os\u0142abienie:</b> zmniejsza moc o jeden za ka\u017Cdy punkt
+      os\u0142abienia."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055519
+    m_Localized: "<b>Wyssanie \u017Cycia: </b> po swoim ataku stw\xF3r odzyskuje
+      tyle punkt\xF3w zdrowia, ile wr\xF3g otrzyma\u0142 obra\u017Ce\u0144."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055521
+    m_Localized: "<b>Ods\u0142oni\u0119cie:</b> zwi\u0119ksza otrzymywane obra\u017Cenia
+      o 100%. Maleje z ka\u017Cd\u0105 rund\u0105."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055522
+    m_Localized: "<b>Og\u0142uszenie:</b> stw\xF3r nie mo\u017Ce si\u0119 aktywowa\u0107
+      ani atakowa\u0107. Maleje o jeden na pocz\u0105tku rundy."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055523
+    m_Localized: Wyzwalacze
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 67300346634240
+    m_Localized: "<b>Zraniony:</b> kiedy stw\xF3r traci zdrowie.\n<b>Zaatakowany:</b>
+      kiedy stw\xF3r otrzymuje dowolne obra\u017Cenia, nawet je\u015Bli nie traci
+      zdrowia.\n<b>Og\u0142uszenie:</b> kiedy stw\xF3r pokonuje innego stwora.\n<b>Omdlenie:</b>
+      kiedy zdrowie stwora spada do zera."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055528
+    m_Localized: "S\u0142owa kluczowe"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 67405132931072
+    m_Localized: "<b>Wyczerpanie:</b> usuni\u0119cie z talii do ko\u0144ca bitwy
+      po zagraniu.\n<b>Kaskada:</b> zagrywasz t\u0119 kart\u0119 tyle razy, ile w
+      tej rundzie zosta\u0142o ju\u017C zagranych kart.\n<b>Wzrost:</b> za ka\u017Cdym
+      razem, kiedy ta karta jest zagrywana, jej warto\u015B\u0107 wzrasta do ko\u0144ca
+      bitwy o warto\u015B\u0107 Wzrostu.\n<b>Usychanie:</b> za ka\u017Cdym razem,
+      kiedy ta karta jest zagrywana, jej warto\u015B\u0107 spada do ko\u0144ca bitwy
+      o warto\u015B\u0107 Usychania.\n<b>Zaczarowanie pozycji:</b> zmienia pozycj\u0119
+      w zaczarowan\u0105."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055534
+    m_Localized: Karty
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055535
+    m_Localized: "B\u0142ogos\u0142awie\u0144stwa"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055536
+    m_Localized: Przedmioty jednorazowe
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055537
+    m_Localized: "<b>Surowy stek:</b> wskazany mystling otrzymuje si\u0142\u0119"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055538
+    m_Localized: "<b>Sernik malinowy:</b> wskazany mystling otrzymuje os\u0142on\u0119"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055539
+    m_Localized: "<b>Po\u017Cywna zupa:</b> wskazany mystling zostaje uleczony"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055540
+    m_Localized: "<b>Wymy\u015Blny deser:</b> wskazany mystling otrzymuje o\u017Cywienie"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055541
+    m_Localized: "<b>Zr\xF3wnowa\u017Cony posi\u0142ek:</b> zyskujesz 2 losowe przedmioty
+      jednorazowe"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055542
+    m_Localized: "<b>Gor\u0105cy napar:</b> na sta\u0142e zwi\u0119ksza moc wskazanego
+      mystlinga"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055543
+    m_Localized: "<b>Sa\u0142atka owocowa:</b> na sta\u0142e zwi\u0119ksza maks.
+      zdrowie wskazanego mystlinga"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055544
+    m_Localized: "<b>\u015Awie\u017Ca zielenina:</b> wskazany mystling otrzymuje
+      unik"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055545
+    m_Localized: <b>Miska czosnku:</b> dobierasz karty
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 54475893055546
+    m_Localized: <b>Mocna herbata:</b> zyskujesz 2 p. energii
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410404
+  - m_Id: 264007820933885952
+    m_Localized: Mystling Eggs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 264007820933885953
+    m_Localized: 'To gain a new Mystling, you need to hatch its Egg first. Every
+      new unlocked Egg will show up in the Hatchery building in your village.
+
+      To
+      hatch it you will have to complete a challenge. You can check your progress
+      in the Hatchery building in between runs.
+
+      Once your challenge is completed
+      your Egg will hatch a new Mystlign will be available for a new run.'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 8829885829830410404
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 54475884666880
+        - id: 17316704231424
+        - id: 17316704231425
+        - id: 17316704231426
+        - id: 17316704231427
+        - id: 54475893055488
+        - id: 54475893055489
+        - id: 17316704231430
+        - id: 17316704231431
+        - id: 17316704231432
+        - id: 17316704231433
+        - id: 17316704231434
+        - id: 17316704231435
+        - id: 17316704231436
+        - id: 17316704231437
+        - id: 17316704231438
+        - id: 17316704231439
+        - id: 17316704231440
+        - id: 17316704231441
+        - id: 54475893055490
+        - id: 54475893055491
+        - id: 54475893055492
+        - id: 54475893055493
+        - id: 54475893055494
+        - id: 54475893055495
+        - id: 54475893055496
+        - id: 54475893055497
+        - id: 54475893055498
+        - id: 54475893055499
+        - id: 54475893055500
+        - id: 54475893055501
+        - id: 54475893055502
+        - id: 54475893055503
+        - id: 54475893055504
+        - id: 54475893055505
+        - id: 54475893055506
+        - id: 54475893055507
+        - id: 54475893055508
+        - id: 54475893055512
+        - id: 54475893055511
+        - id: 54475893055515
+        - id: 54475893055520
+        - id: 54475893055509
+        - id: 54475893055510
+        - id: 54475893055513
+        - id: 54475893055514
+        - id: 54475893055516
+        - id: 54475893055517
+        - id: 54475893055518
+        - id: 54475893055519
+        - id: 54475893055521
+        - id: 54475893055522
+        - id: 54475893055523
+        - id: 67300346634240
+        - id: 54475893055528
+        - id: 67405132931072
+        - id: 54475893055534
+        - id: 54475893055535
+        - id: 54475893055536
+        - id: 54475893055537
+        - id: 54475893055538
+        - id: 54475893055539
+        - id: 54475893055540
+        - id: 54475893055541
+        - id: 54475893055542
+        - id: 54475893055543
+        - id: 54475893055544
+        - id: 54475893055545
+        - id: 54475893055546

@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Keywords_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 0a017febadd476040bcc53a62978373b, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2105433060097654802
+  m_TableData:
+  - m_Id: 2103540039680
+    m_Localized: Bumerang
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654802
+  - m_Id: 2305462222848
+    m_Localized: "Kehrt nach dem Ausspielen auf die Hand des Spielers zur\xFCck."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654802
+  - m_Id: 2503508869120
+    m_Localized: Klon
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654802
+  - m_Id: 2596051992576
+    m_Localized: Wird kopiert und in den Ablagestapel gemischt.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654802
+  - m_Id: 3445264334848
+    m_Localized: "<smallcaps><style=\"Blue\">\xDCberladen</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654802
+  - m_Id: 3569226989568
+    m_Localized: Spiele diese Karte so oft, wie in dieser Runde Karten gespielt wurden.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654802
+  - m_Id: 3958399680512
+    m_Localized: "<smallcaps><style=\"Blue\">Ersch\xF6pfen</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654802
+  - m_Id: 4067308978176
+    m_Localized: Wird nach dem Ausspielen bis nach dem Kampf aus dem Deck entfernt.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654802
+  - m_Id: 5756648800256
+    m_Localized: Markiert
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654802
+  - m_Id: 5860579459072
+    m_Localized: Wird in der ersten Kampfrunde gezogen.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654802
+  - m_Id: 5978716225536
+    m_Localized: Verweilen
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654802
+  - m_Id: 6061062995968
+    m_Localized: Bleibt nach der Runde auf der Hand des Spielers.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654802
+  - m_Id: 6165513748480
+    m_Localized: Schnell
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654802
+  - m_Id: 6298116669440
+    m_Localized: Wenn nicht am Anfang der Runde gezogen, sind die Energiekosten 0.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654802
+  - m_Id: 6405587320832
+    m_Localized: Jojo
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654802
+  - m_Id: 6498130444288
+    m_Localized: 'Wird nach dem Ausspielen in den Nachziehstapel statt in den Ablagestapel
+      gemischt. '
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654802
+  - m_Id: 55826930826842112
+    m_Localized: <smallcaps><style="Blue">Anwachsen</style></smallcaps>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654802
+  - m_Id: 55826999063973888
+    m_Localized: "Jedes Mal, wenn diese Karte gespielt wird, erh\xF6ht sich ihr Wert
+      bis zum Kampfende um die Anzahl von <smallcaps><style=\"Blue\">Anwachsen</style></smallcaps>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654802
+  - m_Id: 55827062259552256
+    m_Localized: <smallcaps><style="Blue">Verwelken</style></smallcaps>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654802
+  - m_Id: 55827172670410752
+    m_Localized: "Jedes Mal, wenn diese Karte gespielt wird, sinkt ihr Wert um die
+      Anzahl von <smallcaps><style=\"Blue\">Verwelken</style></smallcaps>, bis er
+      null ist. Wird jeden Kampf zur\xFCckgesetzt."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654802
+  - m_Id: 86266413391618048
+    m_Localized: <smallcaps><style="Blue">Position verzaubern</style></smallcaps>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654802
+  - m_Id: 86266413412589568
+    m_Localized: Wirke eine <style="Blue">Verzauberung</style> auf eine <style="Blue">Position</style>.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654802
+  references:
+    version: 2
+    RefIds:
+    - rid: 2105433060097654802
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 2103540039680
+        - id: 2305462222848
+        - id: 2503508869120
+        - id: 2596051992576
+        - id: 3445264334848
+        - id: 3569226989568
+        - id: 3958399680512
+        - id: 4067308978176
+        - id: 5756648800256
+        - id: 5860579459072
+        - id: 5978716225536
+        - id: 6061062995968
+        - id: 6165513748480
+        - id: 6298116669440
+        - id: 6405587320832
+        - id: 6498130444288
+        - id: 55826930826842112
+        - id: 55826999063973888
+        - id: 55827062259552256
+        - id: 55827172670410752
+        - id: 86266413391618048
+        - id: 86266413412589568

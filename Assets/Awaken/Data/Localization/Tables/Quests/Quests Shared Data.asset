@@ -1,0 +1,496 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -299433217, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Quests Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Quests
+  m_TableCollectionNameGuidString: a5824269932ee4d4eae6ed93d8b035c4
+  m_Entries:
+  - m_Id: 1037743229444096
+    m_Key: completed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1037743258804224
+    m_Key: quest_iceling_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1037743258804225
+    m_Key: quest_iceling_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4674111479808
+    m_Key: quest_iceling_intro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4674111479809
+    m_Key: quest_iceling_intro_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4674111479810
+    m_Key: quest_iceling_intro_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4674111479811
+    m_Key: quest_iceling_intro_2_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4674111479812
+    m_Key: quest_iceling_intro_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4674111479813
+    m_Key: quest_iceling_intro_3_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3633746967789568
+    m_Key: quest_iceling_intro_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3633746980372480
+    m_Key: quest_iceling_intro_4_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2579197784563712
+    m_Key: quest_iceling_contd_positive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2579197784563713
+    m_Key: quest_iceling_contd_positive_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2579197784563714
+    m_Key: quest_iceling_contd_negative
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2579197784563715
+    m_Key: quest_iceling_contd_negative_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2579197784563716
+    m_Key: quest_iceling_contd_negative_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2579197784563717
+    m_Key: quest_iceling_contd_negative_2_response
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4674111479819
+    m_Key: quest_iceling_finish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4674111479820
+    m_Key: quest_iceling_finish_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1040631225851904
+    m_Key: quest_golomo_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1040631246823424
+    m_Key: quest_golomo_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1040631246823425
+    m_Key: quest_golomo_intro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1040631246823426
+    m_Key: quest_golomo_intro_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1040631246823427
+    m_Key: quest_golomo_intro_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1040631246823428
+    m_Key: quest_golomo_intro_2_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1040631246823429
+    m_Key: quest_golomo_intro_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1040631246823430
+    m_Key: quest_golomo_intro_3_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2579197784563718
+    m_Key: quest_golomo_contd_positive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2579197784563719
+    m_Key: quest_golomo_contd_positive_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2579197784563720
+    m_Key: quest_golomo_contd_negative
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2579197784563721
+    m_Key: quest_golomo_contd_negative_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2579197784563722
+    m_Key: quest_golomo_contd_negative_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2579197784563723
+    m_Key: quest_golomo_contd_negative_2_response
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1040631246823436
+    m_Key: quest_golomo_finish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1040631246823437
+    m_Key: quest_golomo_finish_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3633746980372481
+    m_Key: quest_golomo_finish_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3633746980372482
+    m_Key: quest_golomo_finish_resp_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1040631246823438
+    m_Key: quest_pinequeak_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1040631246823439
+    m_Key: quest_pinequeak_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1040631246823440
+    m_Key: quest_pinequeak_intro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1040631246823441
+    m_Key: quest_pinequeak_intro_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1040631246823442
+    m_Key: quest_pinequeak_intro_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1040631246823443
+    m_Key: quest_pinequeak_intro_2_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1040631246823444
+    m_Key: quest_pinequeak_intro_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1040631246823445
+    m_Key: quest_pinequeak_intro_3_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2579197784563724
+    m_Key: quest_pinequeak_contd_positive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2579197784563725
+    m_Key: quest_pinequeak_contd_positive_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2579197784563726
+    m_Key: quest_pinequeak_contd_negative
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2579197784563727
+    m_Key: quest_pinequeak_contd_negative_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2579197784563728
+    m_Key: quest_pinequeak_contd_negative_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2579197784563729
+    m_Key: quest_pinequeak_contd_negative_2_response
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1040631246823451
+    m_Key: quest_pinequeak_finish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1040631246823452
+    m_Key: quest_pinequeak_finish_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2558930710503424
+    m_Key: quest_pinequeak_battle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2558930735669248
+    m_Key: quest_pinequeak_battle_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2558930735669249
+    m_Key: quest_pinequeak_battle_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2558930735669250
+    m_Key: quest_pinequeak_battle_2_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2558930735669251
+    m_Key: quest_pinequeak_battle_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2558930735669252
+    m_Key: quest_pinequeak_battle_3_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2558930735669253
+    m_Key: quest_pinequeak_battle_finish_victory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2558930735669254
+    m_Key: quest_pinequeak_battle_finish_victory_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2558930735669255
+    m_Key: quest_pinequeak_battle_finish_defeat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2558930735669256
+    m_Key: quest_pinequeak_battle_finish_defeat_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178776506368
+    m_Key: quest_glarexus_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866496
+    m_Key: quest_glarexus_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866497
+    m_Key: quest_glarexus_intro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866498
+    m_Key: quest_glarexus_intro_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866499
+    m_Key: quest_glarexus_intro_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866500
+    m_Key: quest_glarexus_intro_2_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866501
+    m_Key: quest_glarexus_intro_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866502
+    m_Key: quest_glarexus_intro_3_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866503
+    m_Key: quest_glarexus_intro_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866504
+    m_Key: quest_glarexus_intro_4_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866505
+    m_Key: quest_glarexus_contd_positive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866506
+    m_Key: quest_glarexus_contd_positive_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866507
+    m_Key: quest_glarexus_contd_negative
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866508
+    m_Key: quest_glarexus_contd_negative_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866509
+    m_Key: quest_glarexus_contd_negative_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866510
+    m_Key: quest_glarexus_contd_negative_2_response
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866511
+    m_Key: quest_glarexus_finish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866512
+    m_Key: quest_glarexus_finish_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866513
+    m_Key: quest_prowler_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866514
+    m_Key: quest_prowler_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866515
+    m_Key: quest_prowler_intro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866516
+    m_Key: quest_prowler_intro_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866517
+    m_Key: quest_prowler_intro_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866518
+    m_Key: quest_prowler_intro_2_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866519
+    m_Key: quest_prowler_intro_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866520
+    m_Key: quest_prowler_intro_3_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866521
+    m_Key: quest_prowler_intro_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866522
+    m_Key: quest_prowler_intro_4_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866523
+    m_Key: quest_prowler_contd_positive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866524
+    m_Key: quest_prowler_contd_positive_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866525
+    m_Key: quest_prowler_contd_negative
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866526
+    m_Key: quest_prowler_contd_negative_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866527
+    m_Key: quest_prowler_contd_negative_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866528
+    m_Key: quest_prowler_contd_negative_2_response
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866529
+    m_Key: quest_prowler_finish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866530
+    m_Key: quest_prowler_finish_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866531
+    m_Key: quest_fale_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866532
+    m_Key: quest_fale_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866533
+    m_Key: quest_fale_intro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866534
+    m_Key: quest_fale_intro_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866535
+    m_Key: quest_fale_intro_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866536
+    m_Key: quest_fale_intro_2_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866537
+    m_Key: quest_fale_intro_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866538
+    m_Key: quest_fale_intro_3_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866539
+    m_Key: quest_fale_intro_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866540
+    m_Key: quest_fale_intro_4_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866541
+    m_Key: quest_fale_contd_positive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866542
+    m_Key: quest_fale_contd_positive_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866543
+    m_Key: quest_fale_contd_negative
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866544
+    m_Key: quest_fale_contd_negative_resp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866545
+    m_Key: quest_fale_contd_negative_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866546
+    m_Key: quest_fale_contd_negative_2_response
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866547
+    m_Key: quest_fale_finish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748178805866548
+    m_Key: quest_fale_finish_resp
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6002179462360465415
+  references:
+    version: 2
+    RefIds:
+    - rid: 6002179462360465415
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1724147286247

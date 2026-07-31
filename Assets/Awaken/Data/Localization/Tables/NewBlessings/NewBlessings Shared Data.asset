@@ -1,0 +1,516 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -299433217, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: NewBlessings Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: NewBlessings
+  m_TableCollectionNameGuidString: 26ec341239d7bef4fa85be2a5a7d0e80
+  m_Entries:
+  - m_Id: 39054421041029120
+    m_Key: ko_double_strength_round
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39054421053612032
+    m_Key: ko_double_strength_round_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1077412796375040
+    m_Key: shields_gain_more
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1077412821540864
+    m_Key: shields_gain_more_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1077412825735172
+    m_Key: battle_shields
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1077412825735173
+    m_Key: battle_shields_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1077412825735174
+    m_Key: round_shields
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1077412825735175
+    m_Key: round_shields_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2097134497243159
+    m_Key: battle_draw
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2097134497243160
+    m_Key: battle_draw_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12320229292097536
+    m_Key: first_card_played_double
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12320229313069056
+    m_Key: first_card_played_double_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12320229313069059
+    m_Key: evolve_instant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12320229313069060
+    m_Key: evolve_instant_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12320229313069061
+    m_Key: duplicate_right_blessing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12320229313069062
+    m_Key: duplicate_right_blessing_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12320229313069063
+    m_Key: duplicate_left_blessing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12320229313069064
+    m_Key: duplicate_left_blessing_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12320229313069065
+    m_Key: gain_multistrike_block_strength
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12320229313069066
+    m_Key: gain_multistrike_block_strength_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12574292919263233
+    m_Key: creature_death_activate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12574292919263234
+    m_Key: creature_death_activate_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12574292919263237
+    m_Key: self_death_gain_ember_seeds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12574292919263238
+    m_Key: self_death_gain_ember_seeds_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12574292919263241
+    m_Key: self_death_heal_all_mystlings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12574292919263242
+    m_Key: self_death_heal_all_mystlings_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12574292919263247
+    m_Key: strike_3rd_draw
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12574292919263248
+    m_Key: strike_3rd_draw_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12574292919263267
+    m_Key: faint_gain_energy_next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12574292919263268
+    m_Key: faint_gain_energy_next_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12616652625616898
+    m_Key: battle_gain_shields_equal_mystberries
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12616652625616899
+    m_Key: battle_gain_shields_equal_mystberries_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12616652625616900
+    m_Key: gain_multistrike_if_other_mystling_dead
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12616652625616901
+    m_Key: gain_multistrike_if_other_mystling_dead_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12616652625616904
+    m_Key: battle_random_strength
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12616652625616905
+    m_Key: battle_random_strength_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13359693867106304
+    m_Key: free_revive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13359693867106305
+    m_Key: free_revive_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15183072714670080
+    m_Key: ongoing_power
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15183072739835904
+    m_Key: ongoing_power_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15183072744030222
+    m_Key: revive_power
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15183072744030223
+    m_Key: revive_power_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15183072744030224
+    m_Key: revive_heal_full
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15183072744030225
+    m_Key: revive_heal_full_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2153463886757888
+    m_Key: ongoing_health
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2153463916118016
+    m_Key: ongoing_health_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2097134497243163
+    m_Key: ko_energy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2097134497243164
+    m_Key: ko_energy_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2097134497243161
+    m_Key: battle_energy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2097134497243162
+    m_Key: battle_energy_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2153463916118019
+    m_Key: draw_cost
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2153463916118020
+    m_Key: draw_cost_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12616652625616902
+    m_Key: gain_power_for_mystlings_alive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12616652625616903
+    m_Key: gain_power_for_mystlings_alive_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13316158157602816
+    m_Key: battle_mystling_damage_reduce
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13316158174380032
+    m_Key: battle_mystling_damage_reduce_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13356556225724416
+    m_Key: battle_shield_for_blessing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13356556225724417
+    m_Key: battle_shield_for_blessing_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13363163160494080
+    m_Key: power_decreasing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13363163160494081
+    m_Key: power_decreasing_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13353743697428480
+    m_Key: power_no_revive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13353743722594304
+    m_Key: power_no_revive_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7139979398553600
+    m_Key: hit_strength_round
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7139979423719424
+    m_Key: hit_strength_round_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39054421053612033
+    m_Key: activate_5th_reduce_cost_random_hand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39054421053612034
+    m_Key: activate_5th_reduce_cost_random_hand_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12574292898291712
+    m_Key: ko_add_permanent_power
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12574292919263232
+    m_Key: ko_add_permanent_power_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12574292919263239
+    m_Key: gain_multistrike_block_blessings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12574292919263240
+    m_Key: gain_multistrike_block_blessings_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12574292919263243
+    m_Key: strike_5th_gain_energy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12574292919263244
+    m_Key: strike_5th_gain_energy_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12574292919263249
+    m_Key: hit_5th_gain_energy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12574292919263250
+    m_Key: hit_5th_gain_energy_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12574292919263251
+    m_Key: activate_10th_gain_energy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12574292919263252
+    m_Key: activate_10th_gain_energy_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12574292919263253
+    m_Key: ko_gain_ember_seeds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12574292919263254
+    m_Key: ko_gain_ember_seeds_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12574292919263257
+    m_Key: hit_3rd_draw
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12574292919263258
+    m_Key: hit_3rd_draw_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12574292919263259
+    m_Key: keep_strength_round_reduce_health
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12574292919263260
+    m_Key: keep_strength_round_reduce_health_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15183072744030242
+    m_Key: shields_gain_damage_random
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15183072744030243
+    m_Key: shields_gain_damage_random_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12574292919263269
+    m_Key: battle_damage_random_mystling
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12574292919263270
+    m_Key: battle_damage_random_mystling_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28242725364084736
+    m_Key: strength_round_gain_more
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28242725380861952
+    m_Key: strength_round_gain_more_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30751376074194944
+    m_Key: activate_vulnerable_random_enemy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30751376099360768
+    m_Key: activate_vulnerable_random_enemy_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30751376099360769
+    m_Key: attack_vulnerable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30751376099360770
+    m_Key: attack_vulnerable_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30751376099360771
+    m_Key: hit_heal_behind
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30751376099360772
+    m_Key: hit_heal_behind_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30751376099360773
+    m_Key: faint_vulnerable_killer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30751376099360774
+    m_Key: faint_vulnerable_killer_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30751376099360775
+    m_Key: knockout_health_perm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30751376099360776
+    m_Key: knockout_health_perm_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30751376099360777
+    m_Key: hit_vulnerable_front_enemy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30751376099360778
+    m_Key: hit_vulnerable_front_enemy_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30751376099360779
+    m_Key: hurt_vulnerable_all_enemies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30751376099360780
+    m_Key: hurt_vulnerable_all_enemies_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30751376099360781
+    m_Key: shields_lost_damage_random_enemy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30751376099360782
+    m_Key: shields_lost_damage_random_enemy_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30751376099360783
+    m_Key: attack_last_perm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30751376099360784
+    m_Key: attack_last_perm_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30751376099360785
+    m_Key: max_hp_battle_loose
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30751376099360786
+    m_Key: max_hp_battle_loose_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30751376099360787
+    m_Key: combat_end_mystberry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30751376099360788
+    m_Key: combat_end_mystberry_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30751376099360789
+    m_Key: activation_strength_ahead
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30751376099360790
+    m_Key: activation_strength_ahead_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30751376099360791
+    m_Key: activation_heal_lowest_hp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30751376099360792
+    m_Key: activation_heal_lowest_hp_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30751376099360793
+    m_Key: power_stun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30751376099360794
+    m_Key: power_stun_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30751376099360795
+    m_Key: blocked_draw
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30751376099360796
+    m_Key: blocked_draw_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2097134497243153
+    m_Key: hurt_draw
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2097134497243154
+    m_Key: hurt_draw_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32593139952852992
+    m_Key: activation_shields
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32593217694277632
+    m_Key: activation_shields_desc
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 3009405546846748721
+  references:
+    version: 2
+    RefIds:
+    - rid: 3009405546846748721
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1710857232417

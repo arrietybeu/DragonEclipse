@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1335919256, guid: 611e9fa4cdfa7865c2fd13ae57a02597, type: 3}
+  m_Name: QuestsContainer
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _isActive: 1
+  _items:
+  - {fileID: 11400000, guid: f20ac2d4167af574f871ad97a735e3e4, type: 2}
+  - {fileID: 11400000, guid: 878625e2fa6a9304aa9c325d5436bf7b, type: 2}
+  - {fileID: 11400000, guid: bd1c4afd0f21895499dbec9ed8346101, type: 2}
+  <QuestsQueue>k__BackingField:
+  - {fileID: 11400000, guid: f20ac2d4167af574f871ad97a735e3e4, type: 2}
+  - {fileID: 11400000, guid: 878625e2fa6a9304aa9c325d5436bf7b, type: 2}
+  - {fileID: 11400000, guid: bd1c4afd0f21895499dbec9ed8346101, type: 2}

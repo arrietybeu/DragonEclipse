@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -299433217, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Triggers Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Triggers
+  m_TableCollectionNameGuidString: 325cfd70790df8b41b44a83efd20d4c3
+  m_Entries:
+  - m_Id: 15958282833453056
+    m_Key: EffectTriggerDesc_Hurt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15958284662169600
+    m_Key: EffectTriggerDesc_Hit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15958286138564608
+    m_Key: EffectTriggerDesc_KnockOut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15962558142046208
+    m_Key: 'EffectTriggerName_Hit
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15962560159506432
+    m_Key: 'EffectTriggerName_Hurt
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15962561149362176
+    m_Key: 'EffectTriggerName_KnockOut
+
+'
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7337901169320132615
+  references:
+    version: 2
+    RefIds:
+    - rid: 7337901169320132615
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1702302421694

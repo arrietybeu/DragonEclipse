@@ -1,0 +1,261 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: NewStatuses_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 34301eff957f73749b54541df78e6573, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2105433060097654821
+  m_TableData:
+  - m_Id: 2817150533632
+    m_Localized: Veneno
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654821
+  - m_Id: 2817150533633
+    m_Localized: Al inicio de la ronda, la criatura pierde 1 de salud. Su valor se
+      reduce en 1 tras cada impacto.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654821
+  - m_Id: 2817150533634
+    m_Localized: Ira
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654821
+  - m_Id: 2817150533635
+    m_Localized: Aumenta el poder. Se reduce en 1 tras cada impacto.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654821
+  - m_Id: 2817150533636
+    m_Localized: Fuerza
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654821
+  - m_Id: 2817150533637
+    m_Localized: Aumenta el poder hasta el final de la batalla.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654821
+  - m_Id: 2817150533638
+    m_Localized: Escudo
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654821
+  - m_Id: 2817150533639
+    m_Localized: Evita que la salud se resienta.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654821
+  - m_Id: 2817150533640
+    m_Localized: Contraataque
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654821
+  - m_Id: 2817150533641
+    m_Localized: El mystling impactado contraataca. Se reduce en 1 tras cada impacto.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654821
+  - m_Id: 2817150533642
+    m_Localized: Esquiva
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654821
+  - m_Id: 2817150533643
+    m_Localized: "Impide que la criatura sufra da\xF1os. Se reduce en 1 tras cada
+      impacto."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654821
+  - m_Id: 2817150533644
+    m_Localized: Espinas
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654821
+  - m_Id: 2817150533645
+    m_Localized: "Cuando la criatura recibe da\xF1o de un ataque, el atacante recibe
+      un da\xF1o equivalente al valor de Espinas. El estado desaparece completamente
+      tras el impacto."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654821
+  - m_Id: 2817150533648
+    m_Localized: Multigolpe
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654821
+  - m_Id: 2817150533649
+    m_Localized: Aumenta la cantidad de ataques por cada punto de Multigolpe. Se
+      elimina completamente al final de la ronda.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654821
+  - m_Id: 2817150533650
+    m_Localized: Debilidad
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654821
+  - m_Id: 2817150533652
+    m_Localized: Inmune
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654821
+  - m_Id: 2817150533653
+    m_Localized: "Impide que se apliquen debilitaciones. Se reduce en 1 con cada
+      debilitaci\xF3n."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654821
+  - m_Id: 2817154727936
+    m_Localized: Mala suerte
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654821
+  - m_Id: 2817154727937
+    m_Localized: Impide que se apliquen mejoras. Se reduce en 1 con cada mejora.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654821
+  - m_Id: 2817154727938
+    m_Localized: "Confusi\xF3n"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654821
+  - m_Id: 2817154727939
+    m_Localized: "La criatura atacar\xE1 a sus propios aliados. Se elimina completamente
+      tras el impacto."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654821
+  - m_Id: 2817154727940
+    m_Localized: Fuerza (ronda)
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654821
+  - m_Id: 2817154727941
+    m_Localized: Aumenta el poder hasta el final de la ronda.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654821
+  - m_Id: 2817154727942
+    m_Localized: Escudo en poder
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654821
+  - m_Id: 2817154727943
+    m_Localized: Convierte el escudo en poder hasta el final de la ronda.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654821
+  - m_Id: 2817154727944
+    m_Localized: Fatiga
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654821
+  - m_Id: 2817154727945
+    m_Localized: 'Reduce el poder hasta el final de la batalla. '
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654821
+  - m_Id: 2817154727946
+    m_Localized: Carga
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654821
+  - m_Id: 2817154727947
+    m_Localized: "La obtenci\xF3n de energ\xEDa del siguiente turno ser\xE1 equivalente
+      al valor del estado."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654821
+  - m_Id: 2817154727948
+    m_Localized: Vulnerable
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654821
+  - m_Id: 2817154727949
+    m_Localized: "La criatura que tenga este efecto sufre 1 m\xE1s de da\xF1o."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654821
+  - m_Id: 2817154727950
+    m_Localized: Reanimar
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654821
+  - m_Id: 2817154727951
+    m_Localized: "Al morir, la criatura se reanima con un 50% de su salud m\xE1xima.
+      Se reduce en 1 cada vez que esta criatura muere."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654821
+  - m_Id: 11577478002884608
+    m_Localized: Desmayo
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654821
+  - m_Id: 11577478036439040
+    m_Localized: La criatura no puede activarse ni atacar. Se reduce en 1 tras cada
+      ronda.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654821
+  references:
+    version: 2
+    RefIds:
+    - rid: 2105433060097654821
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 2817150533632
+        - id: 2817150533633
+        - id: 2817150533634
+        - id: 2817150533635
+        - id: 2817150533636
+        - id: 2817150533637
+        - id: 2817150533638
+        - id: 2817150533639
+        - id: 2817150533640
+        - id: 2817150533641
+        - id: 2817150533642
+        - id: 2817150533643
+        - id: 2817150533644
+        - id: 2817150533645
+        - id: 2817150533648
+        - id: 2817150533649
+        - id: 2817150533650
+        - id: 2817150533652
+        - id: 2817150533653
+        - id: 2817154727936
+        - id: 2817154727937
+        - id: 2817154727938
+        - id: 2817154727939
+        - id: 2817154727940
+        - id: 2817154727941
+        - id: 2817154727942
+        - id: 2817154727943
+        - id: 2817154727944
+        - id: 2817154727945
+        - id: 2817154727946
+        - id: 2817154727947
+        - id: 2817154727948
+        - id: 2817154727949
+        - id: 2817154727950
+        - id: 2817154727951
+        - id: 11577478002884608
+        - id: 11577478036439040

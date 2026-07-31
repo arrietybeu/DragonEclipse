@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Effects_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 9e26056865956cc4bb283677b789606b, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2105433060097654796
+  m_TableData:
+  - m_Id: 1054703992832
+    m_Localized: Activar
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654796
+  - m_Id: 1106876940288
+    m_Localized: "Usa la habilidad de activaci\xF3n del mystling."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654796
+  - m_Id: 1137247895552
+    m_Localized: Aturdir
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654796
+  - m_Id: 1167065202688
+    m_Localized: "La siguiente acci\xF3n se ve retrasada en 1 ronda."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654796
+  - m_Id: 1203266240512
+    m_Localized: Herida
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654796
+  - m_Id: 1233293262848
+    m_Localized: "Tipo de da\xF1o que ignora los escudos."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654796
+  - m_Id: 1349962022912
+    m_Localized: "Acci\xF3n definitiva"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654796
+  - m_Id: 1396862730240
+    m_Localized: "Una potente acci\xF3n especial del enemigo."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654796
+  - m_Id: 12301384671113216
+    m_Localized: "Invocaci\xF3n"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654796
+  - m_Id: 12301419358007296
+    m_Localized: "Invoca a compa\xF1eros en el campo de batalla."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654796
+  references:
+    version: 2
+    RefIds:
+    - rid: 2105433060097654796
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 1054703992832
+        - id: 1106876940288
+        - id: 1137247895552
+        - id: 1167065202688
+        - id: 1203266240512
+        - id: 1233293262848
+        - id: 1349962022912
+        - id: 1396862730240
+        - id: 12301384671113216
+        - id: 12301419358007296

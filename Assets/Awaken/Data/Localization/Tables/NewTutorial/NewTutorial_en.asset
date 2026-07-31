@@ -1,0 +1,2014 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: NewTutorial_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: cb6e8b1fd3dc49f4da0b21f44699aec9, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2105433060097654824
+  m_TableData:
+  - m_Id: 451756015616
+    m_Localized: Welcome to the world of Dragon Eclipse!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 451785375744
+    m_Localized: "Use <color=red>W</color=red>, <color=red>A</color=red>, <color=red>S</color=red>,
+      <color=red>D</color=red> keys to move your Tamer along the paths. You can also
+      travel by clicking on the path using <color=red>Left Mouse Button</color=red>.\n<br>You
+      can interact with different objects by pressing the \u201C<color=red>E</color=red>\u201D
+      key or clicking on the object\u2019s name."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 451785375745
+    m_Localized: Tamer Selection
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 451785375746
+    m_Localized: 'Before you embark on your quest, you need to select a <color=red>Tamer</color=red>
+      you will control. Each one has a <color=red>unique ability</color=red>.
+
+
+      Right
+      now you only have access to one. You will unlock the others during your journey!'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 451789570048
+    m_Localized: Difficulty levels
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 451789570049
+    m_Localized: If you feel confident in your abilities, you may choose a higher
+      <color=red>difficulty level</color=red>. At the moment you only have access
+      to one, but defeating the boss will unlock the next one.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 451789570050
+    m_Localized: Mystling Selection
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 451789570051
+    m_Localized: Your team is made up of 3 Mystlings. Every Mystling has <color=red>unique
+      statistics</color=red> and <color=red>Abilities</color=red>. It also adds a
+      special <color=red>Card</color=red> to your starting deck.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 451789570073
+    m_Localized: Progress
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 451789570074
+    m_Localized: You gain <color=red>Experience Points</color=red> during your adventure.
+      When you gain enough, you will level up and unlock new Tamers, Mystlings, Cards
+      and more.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 451789570077
+    m_Localized: The Eclipse is nigh
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 451789570078
+    m_Localized: Every Battle you fight brings the Eclipse <color=red>one day</color=red>
+      closer. When the Timer reaches <color=red>zero</color=red>, the final Battle
+      will begin. Spend your remaining days wisely!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 13009066783744000
+    m_Localized: Test Your Might
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 13009066808909824
+    m_Localized: "Looks like the Boss was guarding this <color=red>Eclipse Crystal</color=red>.<br>\nDon't
+      worry about defense, it won't bite. Try to deal as much damage to it as possible
+      \u2013 you'll only have a couple of Rounds for that. Just give it your best
+      shot to dominate the <color=red>Leaderboard</color=red> and prove you're the
+      best Tamer that ever was."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 35532752173924352
+    m_Localized: Play a <style="Blue">Card</style> on a <style="Blue">Mystling</style>.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 35532752194895872
+    m_Localized: <style="Blue">Attacking</style> Mystlings deal Damage equal to their
+      <style="Blue">Power</style>.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 35532752194895873
+    m_Localized: Spend 3 <style="Blue">Energy</style> by playing Cards.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 35532752194895874
+    m_Localized: End your Turn to start the <style="Blue">Creatures' Phase</style>.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 35532752194895875
+    m_Localized: Mystlings in the back <style="Blue">Activate</style>, Mystling in
+      the front <style="Blue">Attacks</style>. End your Turn to start the <style="Blue">Creatures'
+      Phase</style>.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 35532752194895876
+    m_Localized: Enemies act from <style="Blue">Right</style> to <style="Blue">Left</style>.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 35532752194895877
+    m_Localized: <style="Blue">Hover</style> cursor on Enemy's <style="Blue">Intent</style>
+      Icon.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 35532752194895878
+    m_Localized: Play the <style="Blue">Guard!</style> card on a <style="Blue">Mystling</style>
+      to <style="Blue">block</style> incoming Damage.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 35532752194895879
+    m_Localized: <style="Blue">Drag</style> a Mystling to change its position.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 35532752194895880
+    m_Localized: Move Mystlings to adapt to the current combat situation.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 35532752194895881
+    m_Localized: Mystling and enemies can apply <style="Blue">Status</style> effects.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 35532752194895882
+    m_Localized: <style="Blue">Hover</style> cursor on a <style="Blue">Status</style>
+      icon (below a Creature) to learn its effect.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 35532752194895883
+    m_Localized: That's the basics! Finish the combat on your own.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555785338880
+    m_Localized: Each Victory rewards you with some <color=#40E0D0>Mystberries</color=#40E0D0>.
+      Use them to acquire <color=#40E0D0>Blessings</color=#40E0D0> and new <color=#40E0D0>Cards</color=#40E0D0>.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807872
+    m_Localized: Take one card for free.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807873
+    m_Localized: <color=#40E0D0>Blessings</color=#40E0D0> are similar to Talents.
+      They give your Mystlings additional abilities that trigger in certain situations.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807874
+    m_Localized: Select one of your Mystlings.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807875
+    m_Localized: Select a Blessing.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807876
+    m_Localized: Buy a Blessing.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807877
+    m_Localized: 'A small crowd of people surrounds the Elder. Their raised tone
+      indicate that the crowd is concerned. Among other mutter, you can hear the
+      Elder''s old shaky voice. '
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807878
+    m_Localized: "We need to stay calm\u2026 I don\u2019t know yet\u2026 I will tell\u2026 "
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807879
+    m_Localized: 'You catch eye contact with him and immediately push through the
+      crowd. You speak under your breath. '
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807880
+    m_Localized: "I have some worrying news, Elder. I found old ruins in the forest.
+      There was something\u2026 otherworldly. Like a gate to another world. "
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807881
+    m_Localized: "That\u2019s a dire thing to witness! And as you wandered off to
+      the forest the Dragon Guardian fell sick. We all feel his blessing weakens! "
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807882
+    m_Localized: "I do not know anything about old ruins and passages to different
+      worlds\u2026"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807883
+    m_Localized: "You need to speak with Ordos the Librarian. Of all the knowledge
+      collected, this might be the most useful. I\u2019ll stay here and try to calm
+      the people down. "
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807884
+    m_Localized: "Ordos, your former teacher, looks like time has passed him by\u2026
+      But his ever patient presence has now become a bundle of nerves. He\u2019s
+      frantically looking through his books and scrolls..."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807885
+    m_Localized: "This cannot be true\u2026 I must check my calculations again..."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807886
+    m_Localized: "Hello Ordos\u2026"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807887
+    m_Localized: "\u2026This HAS to be a miscalculation!"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807888
+    m_Localized: ORDOS!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807889
+    m_Localized: "(gasps) Don\u2019t you sneak up and scream at me like that!"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807890
+    m_Localized: "I\u2019m sorry, but I really need to talk to you! I found something
+      in the woods\u2026 a portal to another world."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807891
+    m_Localized: "\u2026what? How do you know?"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807892
+    m_Localized: "As you speak of what you saw, Ordos\u2019s eyes widen and his hand
+      reaches for a certain book, almost unconsciously leafing through it. "
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807893
+    m_Localized: "I\u2019ve been looking into some very old books lately, VERY old
+      ones. Speaking of a great cataclysm happening in a distant past."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807894
+    m_Localized: Did this catastrophe include the Eclipse in some way? Dual Eclipse,
+      of both of our moons.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807895
+    m_Localized: "Indeed! But how do you know that? I don\u2019t recall you liked
+      reading much."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807896
+    m_Localized: I think the Dragon Guardian was trying to tell me something...
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807897
+    m_Localized: "You both come to realization - the Dragon Guardian might not be
+      so deep in slumber as it seems\u2026 Maybe it was a way of warning you or begging
+      for help?"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807898
+    m_Localized: "The Eclipse, those portals and monsters\u2026 and if your visions
+      were true - you may be of a huge help."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807899
+    m_Localized: "Me? But how\u2026?"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807900
+    m_Localized: "If I\u2019m not mistaken, there should be a special crystal nearby
+      the portal. I think it might be connected to all of this."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807901
+    m_Localized: "Ordos shoves an open book right into your hands. You see an illustration
+      of ruins so similar to the portal, a huge dark crystal behind the entrance\u2026
+      and some words of which you can only understand \u201CDragon Guardians\u201D. "
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807902
+    m_Localized: I think the Guardian believes you are worthy. Go to the portal,
+      find the crystal and do whatever you can to defeat it. For the sake of all
+      of us.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807903
+    m_Localized: The Elder is looking at the sleeping Dragon Guardian with sadness
+      in his eyes. Huge dragon seems to struggle to breath, the situtation is getting
+      worse every minute.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807904
+    m_Localized: "Oh, it\u2019s you. Any news?"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807905
+    m_Localized: I met someone, we fought, but he was another Tamer!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807906
+    m_Localized: "Be careful if you would ever meet him again, it\u2019s a dangerous
+      sort."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807907
+    m_Localized: So you know him?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807908
+    m_Localized: "Yes\u2026we have banished him for an attempt on Guardian\u2019s
+      life. "
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807909
+    m_Localized: Why would he do such a thing?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807910
+    m_Localized: Exactly, why? He was an old student to Ordos, meant to replace the
+      old man at some point. Maybe he found something in those books he loved so
+      much.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807911
+    m_Localized: Talk to Ordos, maybe he will know more.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807912
+    m_Localized: Ordos is lost in thought holding a small, fatigued book.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807913
+    m_Localized: Ordos, can I ask you a few questions?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807914
+    m_Localized: ..wha? Oh, yes, of course.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807915
+    m_Localized: Elder mentioned you used to have an apprentice?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807916
+    m_Localized: "Sad story, tragic really. He really loved old legends, myths\u2026loved
+      them a bit too much."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807917
+    m_Localized: What happened?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807918
+    m_Localized: "He was fascinated with the legends of Fey, couldn\u2019t stop talking
+      about them. He even looked for their old ruins!"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807919
+    m_Localized: "That doesn\u2019t sound half bad\u2026"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807920
+    m_Localized: For a time it was just a childish fascination, but then he changed.
+      Started resenting our Guardian, and soon all of us.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807921
+    m_Localized: "When we caught him, he said we was \u201Cbringing justice long
+      overdue\u201D. "
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807922
+    m_Localized: And you banished him?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807923
+    m_Localized: "We did, yes. But why are you asking me this? It\u2019s an old story."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807924
+    m_Localized: "I think I met your old student. He\u2019s a Tamer now, but his
+      goal seems to remain the same."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807925
+    m_Localized: Be careful around him. Fanatics like him are dangerous.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807926
+    m_Localized: "Tamer! You\u2019re back. Go and see Ordos, he might have a solution
+      for this mess!"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807927
+    m_Localized: "I\u2019m on my way!"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807928
+    m_Localized: "For once Ordos is not sitting with his nose up a book, but staring
+      in the distance. Elder\u2019s moods seems to be contagious."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807929
+    m_Localized: Tamer! Good, I know what we should do!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807930
+    m_Localized: Oh, do you..?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807931
+    m_Localized: YES! Listen, that portal you have found, you must go through it!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807932
+    m_Localized: "Wait, wait, but that\u2019s where the all monsters come from!"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807933
+    m_Localized: And most likely where the culprit of our troubles resides!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807934
+    m_Localized: "\u2026most likely?"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807935
+    m_Localized: "\u2026that\u2019s the best I have, I\u2019m afraid\u2026"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807936
+    m_Localized: "We are running out of opinions Tamer. Dragon Guardian is dying,
+      there\u2019s no denying that, and with him gone, we won\u2019t be able to defend
+      against those monsters. "
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807937
+    m_Localized: "We have to\u2026YOU have to try, I\u2019m begging you!"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807938
+    m_Localized: "As you said Ordos, we don\u2019t have any other options. Keep your
+      fingers crossed that I will come back."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807939
+    m_Localized: We will all pray for your safe return.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807940
+    m_Localized: You are met with a village in mourning, something bad must have
+      happened while yo were away.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807941
+    m_Localized: "Arcana? Oh, you\u2019re back! "
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807942
+    m_Localized: What happened here?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807943
+    m_Localized: "It\u2019s the Guardian\u2026it\u2019s\u2026it\u2019s dead."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807944
+    m_Localized: But I did defeat that thing! How?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807945
+    m_Localized: Nobody knows, Arcana. People are scared, Elder is crestfallen. Is
+      there really no hope?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807946
+    m_Localized: No!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807947
+    m_Localized: What?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807948
+    m_Localized: "Enough! I\u2019m going to go back to that shadow land and end it
+      for good!"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807949
+    m_Localized: But, how?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807950
+    m_Localized: I have no idea, but Dragon Guardian chose me for a reason.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807951
+    m_Localized: "Arcana\u2026"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807952
+    m_Localized: "Don\u2019t worry, I will end this. Wait for me."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807953
+    m_Localized: 'You are greeted by your friends, smiles on their faces. '
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807954
+    m_Localized: Did it work?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807955
+    m_Localized: 'Arcana! Yes! You did it! '
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807956
+    m_Localized: You saved us all Tamer! Good work.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807957
+    m_Localized: Guardian knew who to choose for the task.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807958
+    m_Localized: But the monsters are still out there.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807959
+    m_Localized: Yes, but with such a strong Tamer at our side, I know we can mop
+      them out soon enough.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807960
+    m_Localized: So it is over?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807961
+    m_Localized: "It is a beginning of the end of this cataclysm. But now there\u2019s
+      hope. Hope for a future for all of us!"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807962
+    m_Localized: Yay!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807963
+    m_Localized: You journey ends here. You manage to safe your village from the
+      Eclipse. It was a struggle, sacrifices were made along the way, but in the
+      end, you prevailed. You became a legendary hero, song of your deeds will be
+      sang for generations to come. But now you can rest.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38043555881807964
+    m_Localized: "I\u2019m really for what future brings!"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37707288547368960
+    m_Localized: Each Victory rewards you with some <style="Blue">Mystberries</style>.
+      Use them to acquire <style="Blue">Blessings</style> and new <style="Blue">Cards</style>.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37707288547368961
+    m_Localized: Take one card for free.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37707288547368962
+    m_Localized: <style="Blue">Blessings</style> are similar to Talents. They give
+      your Mystlings additional abilities that trigger in certain situations.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37707288547368963
+    m_Localized: Select one of your Mystlings.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37707288547368964
+    m_Localized: Select a Blessing.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37707288547368965
+    m_Localized: Buy a Blessing.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37705988774502400
+    m_Localized: <i>The Elder stands at the Dragon Guardian's altar, leading the
+      weekly village meeting.<br><br>The voices of the people gathered sound more
+      animated and intense than usual.</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37705988774502401
+    m_Localized: "Uhh, just a moment.<br><br>Yes, Marianne, we are gathering the
+      resources to\u2014 No, no, calm down, there's no need to <i>take up arms,</i>
+      just\u2014 <br><br><shake>Everyone try to stay calm!</shake><br><font=\"Rounded-Black
+      SDF\">Panic will solve nothing.</font>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37705988774502402
+    m_Localized: <i>You tell the Elder about the strange ruins and the beast you
+      fought within their walls.<br><br>You describe how the place felt otherworldly,
+      as if linked to something dark and ancient.</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37705988774502403
+    m_Localized: How so?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37705988774502404
+    m_Localized: It seems like some sort of rift has been created, opening a <font="Rounded-Black
+      SDF">gateway to the Shadow Realm.</font><br><br>We must hurry and figure out
+      how to close it.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37705988774502405
+    m_Localized: Go speak with <font="Rounded-Black SDF">Ordos.</font><br><br>He
+      should be more familiar with the matter than I am. Perhaps he can find a solution
+      to all this in one of his ancient tomes.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37705988774502407
+    m_Localized: <i>You see a man hunched over a giant locked tome, muttering something
+      to himself.<br><br>Ordos, the town's scholar, hobbyist librarian, and your
+      former teacher, looks exactly as he did all those years ago. Only a large wrinkle
+      on his forehead suggest the passing years of excessive worry.</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37705988774502408
+    m_Localized: <i>He doesn't seem to hear you over his own thoughts and mumblings.</i><br><br><font="vinque-rg
+      SDF"><shake a=0.5><size=120%>...et numquam abstergit...</size><size=150%> Deorum
+      iram cognoscet!</size></shake></font>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37705988774502410
+    m_Localized: <i>Strange sparks fly around him as he speaks, and the tome flies
+      off his lap with supernatural force, still locked shut as if the pages were
+      glued together.<br><br>Startled, he jumps up and finally notices you.</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37705988774502411
+    m_Localized: Good to see you too, Ordos. I need to talk to you about something.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37705988774502412
+    m_Localized: <i>As you recount what you saw in the forest, Ordos's eyes widen,
+      and the wrinkle on his forehead grows all the more prominent.</i><br><br>Terrible
+      news, simply terrible...<br><br><i>He reaches for a heavy tome and starts nervously
+      searching through it. Eventually, he turns the book toward you.</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37705988774502414
+    m_Localized: "There are accounts of a great cataclysm, eons ago. Much of the
+      tale has been lost to time...<br><br>From what little I've managed to find
+      and translate, it was caused by a <font=\"Rounded-Black SDF\">Dual Eclipse</font>
+      \u2014 a supernatural event where both our moons eclipsed the sun."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37705988774502415
+    m_Localized: "<i>You recognize the event in the illustration \u2014 it\u2019s
+      what you saw in your visions during the earthquake! Could it have been a warning?</i><br><br>What
+      do you mean? Where could you have seen it?"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37705988774502416
+    m_Localized: <i>Ordos takes a step back, his eyes widening as though they might
+      pop out of his skull.</i><br><br>You..? That's <font="Rounded-Black SDF"><bounce>incredible!</bounce></font>
+      Oh, we might not be so doomed after all!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37705988774502417
+    m_Localized: What do you mean?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37705988774502418
+    m_Localized: It sounds like the Guardian have tried to communicate with you.
+      He must have <font="Rounded-Black SDF">chosen you.</font>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 38046161593167872
+    m_Localized: So, he chose me... To do what, exactly?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37705988774502420
+    m_Localized: "To save us all from impending doom, I suppose.<br><br>I couldn't
+      translate much of the text, but the tale of the Eclipse mentioned a <font=\"Rounded-Black
+      SDF\">crystal</font> \u2014 a very powerful one, that is likely to be somewhere
+      out there again.<br><br>You must find it and try to destroy it, if that is
+      even possible."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37705988774502421
+    m_Localized: Be brave, Tamer.<br><br>You might just have the fate of the whole
+      world on your shoulders.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37705988774502426
+    m_Localized: <i>The Elder is staring at the towering silhouette of the Guardian
+      from under his furrowed brows, a serious expression on his face.<br><br>As
+      you come closer, you hear the low labored breathing of the sleeping giant.
+      Dark spots cover his matted scales.</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37705988774502427
+    m_Localized: "A Tamer you say? <size=75%>Could this be...</size><br><br>This
+      may sound pretty far-fetched, but \u2014 did they by any chance have a strange
+      cane, capable of summoning <font=\"Rounded-Black SDF\">phantom Mystlings?</font>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37705988774502428
+    m_Localized: What happened to him? Did he leave?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37705988774502429
+    m_Localized: <i>The Elder takes a long pause, his mind briefly travelling back
+      to a time decades ago.</i><br><br>He was banished.<br><font="Rounded-Black
+      SDF">For an attempt on the Guardian's life.</font>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37705988774502435
+    m_Localized: <i>Ordos is sitting with his back turned towards you, absorbed in
+      the study of a small, worn-out book bound in flaky leather.<br><br><font="vinque-rg
+      SDF"><size=120%>...Draco paulo cum adipem culo...</size></font><br><br>Must
+      be part of an old prayer...
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37705988774502436
+    m_Localized: Hello, Ordos. Can I ask you something?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37705988774502437
+    m_Localized: Ah! You startled me again.<br><br>What is it, young Tamer?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37705988774502439
+    m_Localized: "Oh. That I did. His name was...<br><br>...It doesn't really matter,
+      does it? The name I knew him by probably wasn\u2019t even his real one."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37705988774502441
+    m_Localized: ...And he held a deep inexplicable grudge towards <font="Rounded-Black
+      SDF">Dragons.</font> Few of us had realized just how deep this hatred actually
+      went.<br><br>Ah, but these are all ancient tales. Why are you asking me this?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37705988774502449
+    m_Localized: Tamer! Come quick! <font="Rounded-Black SDF">Ordos</font> might
+      have found a solution for all this!<br><br>Go speak to him as soon as you can!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37705988774502450
+    m_Localized: "I\u2019m on my way!"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37705988774502451
+    m_Localized: <i>For the first time in weeks Ordos is not anxiously leafing through
+      tomes of forgotten knowledge, deep in contemplation. Instead, he's pacing on
+      the ground, no less nervous but also clearly excited.</i><br><br>Tamer! Oh,
+      I've been awaiting you. Come, come!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37705988774502452
+    m_Localized: Remember those portals you found in the ruins? You must try to <font="Rounded-Black
+      SDF">enter them.</font><br><br>Yes, I know it might sound crazy and irresponsible,
+      but hear me out!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37705988774502453
+    m_Localized: I <font="Rounded-Black SDF">might</font> destroy them? Doesn't sound
+      very promising...
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37705988774502454
+    m_Localized: I know, I know, but... that's the best we can do right now, and
+      <font="Rounded-Black SDF">we're running out of time.</font><br><br>The Dragon
+      Guardian's dying, and the villagers are struggling to defend against the monsters
+      as is...
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37705988774502455
+    m_Localized: Seems like this is our only option. How can I say no?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37705988774502456
+    m_Localized: <bounce w=0.7>Thank you,</bounce> Tamer.<br> We are in your debt.<br><br>May
+      the Dragons guide your path.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37707288551563264
+    m_Localized: <i>Lyanne jumps into your arms as soon as you enter the village.</i><br><br>Gods,
+      you're back! I was so worried!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37707288551563265
+    m_Localized: <i>She takes a step back and looks down at the ground, her lips
+      trembling as if she's on the verge of tears.</i><br><br>The Guardian... <font="Rounded-Black
+      SDF">He's dead.</font>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37712648813355008
+    m_Localized: "No. There's always hope. This won't be the end \u2014 I'll make
+      sure of it."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37707288551563267
+    m_Localized: <font="Rounded-Black SDF">How?</font><br><br>How can you fight a
+      force powerful enough to kill a Dragon?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37712648834326528
+    m_Localized: Don't worry. I'll be back in time for dinner.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37707288551563277
+    m_Localized: Holy scales, you did it!<br><bounce>You actually did it!</bounce><br><br><i>Lyanne
+      runs over to you, joy mixed with disbelief on her face.<br><br>Soon, you are
+      surrounded by friendly faces, all giddy with excitement, talking over each
+      other trying to congratulate you.</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37712648834326533
+    m_Localized: I only destroyed the source of the Shadows. The monsters are still
+      out there...
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37707288551563279
+    m_Localized: Ahh, that is true, but...<br><br>I think we can manage that much.
+      Especially with such a skilled Tamer as yourself on our side.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37707288551563280
+    m_Localized: We got surrounded by the little <shake a=0.5>farts</shake> while
+      you were gone.<br><br>I'm proud to say I managed to bash one of the freaky
+      worms' head in with a chair!<br><br>I might not be a Tamer, but... Well, I
+      think I could give you a run for your money. <bounce>Ha!</bounce>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37707288551563281
+    m_Localized: <i>The Elder clears his throat, slightly awkward.</i><br><br>Ahem...
+      Well, Tamer.<br><br>It's great to have you back. You managed to save this little
+      village of ours. We are forever in your debt.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37712648834326534
+    m_Localized: This village is my home. I'm just glad I was able to save it.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 37707288551563283
+    m_Localized: "<i>The Elder's face lights up with an almost fatherly pride.</i><br><br>Ah...
+      The Guardian truly knew who to choose as his prot\xE9g\xE9."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 39865059588440064
+    m_Localized: Ordos
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 42406671578546176
+    m_Localized: Elder, may I have a word?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 42406671599517696
+    m_Localized: I found something strange in the forest.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 42406671599517697
+    m_Localized: What should I do?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 42406671599517699
+    m_Localized: Hello, Ordos. Long time no see.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 42406671599517700
+    m_Localized: Wait, I've seen this somewhere before...
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 42406671599517701
+    m_Localized: I had a strange vision just before the earthquake.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 42406671599517702
+    m_Localized: I'll do my best, then.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 42406671599517704
+    m_Localized: Oh, hello Tamer. Any news?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 42406671599517705
+    m_Localized: I found another set of ruins in the desert. This time, there was
+      a Tamer inside.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 42406671599517706
+    m_Localized: That's exactly them! Do you know who it was?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 42406671599517707
+    m_Localized: I had the misfortune of knowing him, yes.<br><br>He used to be Ordos's
+      apprentice, back when I first became the village's Elder. A very bright fellow,
+      but there had always been this... fire in his eyes that honestly scared me,
+      even back then.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 42406671599517708
+    m_Localized: Oh Gods. Why would he do such a thing?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 42406671599517709
+    m_Localized: Hard to tell. He never seemed quite... right in the head.<br><br>If
+      you want to know more about him, <font="Rounded-Black SDF">ask Ordos</font>.
+      The two had shared a study, as well as a passion for knowledge for many years,
+      after all. If anyone will know anything, it's him.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 42406671599517710
+    m_Localized: I heard you had an apprentice who was banished from the village.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 42406671599517712
+    m_Localized: He was very secretive, fascinated by old myths and legends to the
+      point of obsession.<br><br>He scoured ancient historical tomes looking for
+      proof of the existence of Fey, searched through hundreds of maps in looking
+      for their ruins...
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 42406671599517713
+    m_Localized: I think I've met this student of yours. He seemed to be using some
+      kind of Shadow magic.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 42406671599517714
+    m_Localized: <i>Ordos looks up at you and you sense a profound sadness hidden
+      just under the surface, the kind you've never seen in him before.</i><br><br>Is
+      that so? That's... Quite unfortunate to hear. Seems like he hasn't changed
+      much in all those years...
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 42406671599517716
+    m_Localized: Uh-uh...
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 42406671599517717
+    m_Localized: Destroy it and <font="Rounded-Black SDF">you might just destroy
+      the source of the Shadow forces</font> that have been plaguing our village!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 42406671599517718
+    m_Localized: "\u2026"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 42406671599517719
+    m_Localized: Please... You're the only one who stands any chance in this battle.
+      I know it's a lot to ask, but...<br><br>The whole village is counting on you.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 42406671599517720
+    m_Localized: Worried? Why? What happened?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 42406671599517721
+    m_Localized: "What? How? I\u2014I don't understand..."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 42406671599517722
+    m_Localized: "The disease... The black spots... It finally took him. Seems even
+      Gods aren't invincible against the Eclipse's power.<br><br>...Is\u2014 Is this
+      the end? Is there really no hope for us?"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 42406671599517723
+    m_Localized: Simple. With sheer stubbornness and no sense of self-preservation.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 42406671599517724
+    m_Localized: ...You never cease to amaze me, you know that?<br><br><i>She steps
+      closer and pulls you into a tight hug. You feel a tear fall onto your shoulder.</i><br><br>Just
+      please... don't get yourself hurt.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 42406671599517725
+    m_Localized: Did it work?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 42406671599517726
+    m_Localized: That it did.<br><br>We might just owe you our lives, Tamer. Or at
+      the very least, our home.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 42406671599517728
+    m_Localized: Oh for sure. You'd definitely be the <font="Rounded-Black SDF">scariest</font>
+      Tamer out there.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 42406671599517730
+    m_Localized: "I wish I could properly repay you for all your hard work, but we
+      aren't exactly in the most prosperous of times...<br><br>After the earthquake
+      and all the destruction\u2014"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 42406671599517731
+    m_Localized: "<i>Your journey ends here. You managed to save the village and
+      stop the coming Eclipse, proving yourself as a great Tamer \u2014 perhaps the
+      best this village has ever seen.<br>Tales of your heroic deeds will be sung
+      for centuries. Maybe even Ordos will immortalize your story in one of his tomes
+      if you ask nicely.<br><br>As one chapter of your adventure comes to an end,
+      another one begins. What new stories will fate weave for you? One thing is
+      certain \u2014 where once was despair and fear, now shines hope.</i><br><br>Great
+      job and thank you for playing!"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 42410027705417728
+    m_Localized: Let's see what the future brings!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 42415937366507520
+    m_Localized: <font="vinque-rg SDF"><size=120%><shake a=0.5>Nam qui cagat...</shake></size></font><br><br>No,
+      that's not right...<br><br><font="vinque-rg SDF"><size=120%><shake a=0.5>Nam
+      qui cacat...</shake></size></font>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 42415937366507521
+    m_Localized: Ah! It's you!<br>Good to see you, good to see you!<br><br>How long
+      have you been standing there? You should have come over and said hello!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 42415937366507522
+    m_Localized: "Centuries ago, there were legends of the <font=\"Rounded-Black
+      SDF\">Draconic Chosen</font> \u2014 Tamers who had been blessed by a Guardian,
+      imbued with their power and guidance.<br><br>It seems our Guardian might not
+      have been as deeply asleep as we thought... And he found you worthy to share
+      a portion of his power."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 42416728437407744
+    m_Localized: "The monsters you fought at the ruins travel through the portals,
+      but they don't <font=\"Rounded-Black SDF\">open</font> them.<br><br>Their source
+      must be on the other side \u2014 possibly a crystal commanding all the other
+      crystals you've been seeing."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 42424946089771008
+    m_Localized: Now, excuse me.<br><br><i>The Elder pushes through the people to
+      talk to you away from the agitated crowd.</i><br><br>What is it, young Tamer?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 42424946089771009
+    m_Localized: Ah... I can't say I'm surprised. This is what I feared from the
+      beginning.<br><br>Your journey may be about to become a lot more difficult
+      and treacherous than we had expected.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 42424946089771010
+    m_Localized: <font="Rounded-Black SDF">The Guardian...</font><br><br>I can feel
+      him growing weaker, as though he's being corrupted by the Shadows.<br><br>I
+      haven't told the townsfolk yet, but I think they can sense it too.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 42424946089771011
+    m_Localized: I'll stay here and try to calm the people down.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 42438740392263680
+    m_Localized: He came to our village as a young man, saying he wanted to peruse
+      my library in exchange for helping me with my research.<br><br>He was... very
+      charming, and after receiving a few compliments I relented and took him in.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391828
+    m_Localized: Mystling Egg
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391829
+    m_Localized: Looks like you unlocked a Mystling Egg! Hatch it and access it when
+      you start a <color=red>new Run</color=red>. Collect them all!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391831
+    m_Localized: The Elder
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391832
+    m_Localized: Lyanne
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391834
+    m_Localized: "...I\u2019m just so proud of you, you know? You\u2019ve worked
+      so hard for this, and now you\u2019ll get to be a real Tamer, and\u2013"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391835
+    m_Localized: Lyn. <i><b>Lyn.</i></b>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391836
+    m_Localized: Huh? What is it?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391837
+    m_Localized: "...I think we\u2019re lost."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391838
+    m_Localized: "<wiggle>WHAA\u2013?!</wiggle> Girl, shouldn\u2019t you be, like,
+      trained in this stuff?"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391839
+    m_Localized: "I\u2019m a <i>Tamer</i>, not a cartographer..."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391840
+    m_Localized: <shake>AAH!</shake> What is that <i><b>thing</i></b>?!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391841
+    m_Localized: "Don\u2019t worry, I got this! <b><br><size=16><align=left><smallcaps>Play
+      the tutorial</smallcaps></align></size></b>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391842
+    m_Localized: "It\u2019s a monster! Run Lyn, RUN! <b><br><size=16><align=left><smallcaps>Skip
+      the tutorial</smallcaps></align></size></b>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391843
+    m_Localized: Phew... THAT was close! Now, let's find our way back to town before
+      the ceremony ends!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391844
+    m_Localized: Let's go!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391845
+    m_Localized: That was... So. Very. Cool. You and your Mysts make an awesome team.
+      Now, shall we go? Your ceremony's waiting.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391846
+    m_Localized: Let's go!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391847
+    m_Localized: What are you waiting for?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391848
+    m_Localized: "It\u2019s time to go!"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391849
+    m_Localized: "It\u2019s your big day, why are you still here?"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391850
+    m_Localized: "They\u2019ll eat all the food before us... hurry!"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391851
+    m_Localized: "If you don\u2019t hurry up, they might choose someone else for
+      a Tamer."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391852
+    m_Localized: If you need something for the road the Village Chef will fix you
+      a snack, free of charge!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391853
+    m_Localized: Ah, here you are. Come closer, child.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391854
+    m_Localized: <i>Approach</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391855
+    m_Localized: We have gathered here today to welcome a new face into the ranks
+      of our Tamers!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391856
+    m_Localized: Young Tamer... May the Earth Guardian lead your way. <br><br><i>He
+      gestures for you to come closer.</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391857
+    m_Localized: <i>Approach</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391858
+    m_Localized: "<i>The majestic giant towers above you. <br><br>He\u2019s been
+      sleeping here for centuries, silently guarding the town and watching over its
+      people.</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391859
+    m_Localized: <i>Touch the Dragon</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391860
+    m_Localized: "<i>You touch the tip of the Dragon Guardian\u2019s nose as is tradition
+      for every new Tamer. <br><br>As soon as you do, you feel the earth under your
+      feet tremble and your vision blurs...</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391861
+    m_Localized: You approach the towering figure to touch the very tip of his nose,
+      as is customary for every new Tamer. The scales seem to shine from weary, but
+      not all that touched him had become Tamers... You ponder on it for a while.
+      Suddenly, your mind is struck and flooded by unsettling visions!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391862
+    m_Localized: <i>Your mind is flooded by strange visions - a dark sun, eclipsed
+      by the two moons...</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391863
+    m_Localized: <i>Shadowy figures emerging from a portal deep in a forest, <b>your
+      forest</b>, the one just outside the town...</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391864
+    m_Localized: <i>And a gentle but firm voice resonating in your head:</i><br><br>
+      "<font="Rounded-Black SDF">We need you... Your help... Find a way...</font>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391865
+    m_Localized: Is everything alright?<br><br><i>You feel the worried eyes of the
+      townsfolk on you as you slowly return to your senses. You must have passed
+      out during the ceremony.</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391866
+    m_Localized: "I\u2019m fine, I think..."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391867
+    m_Localized: Are you alright, child? You collapsed and we were worried about
+      you...
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391868
+    m_Localized: "Uh, I\u2019m fine... I guess. I saw... "
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391869
+    m_Localized: "<i>As you scramble to your feet you feel the earth quake again.
+      This time, <shake>it\u2019s not a vision!</shake> <br><br>Panic breaks out
+      among the gathered as walls crack and the sky darkens.</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391870
+    m_Localized: "What was that? What\u2019s happening?! "
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391871
+    m_Localized: "It\u2019s happening... Oh, Dragon Guardians save us..."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391872
+    m_Localized: "What was that? What\u2019s going on?!"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391873
+    m_Localized: Listen very carefully, Tamer. I need you to head to the forest and
+      look for any signs of destruction outside of town.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391874
+    m_Localized: You got it, boss!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391875
+    m_Localized: "Report back to me as soon as you find anything. <br><br>Let\u2019s
+      hope it isn\u2019t too late..."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391876
+    m_Localized: <i>Leave</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391877
+    m_Localized: "You know the path, but you don\u2019t know the ending. Be brave."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391878
+    m_Localized: Take care and take courage with you.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391879
+    m_Localized: 'We all hope to see you soon... with some consoling news. '
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391880
+    m_Localized: "Did you remember to feed your mystlings well? There\u2019s a long
+      walk ahead."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391881
+    m_Localized: "Remember, it\u2019s not about never falling, but rising every time
+      after that."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391882
+    m_Localized: "I should say something wise... but it\u2019s time to go now. "
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391883
+    m_Localized: Phew... Glad we managed to make it to your ceremony. <br>A fully
+      fledged Tamer, huh?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391884
+    m_Localized: Yup, that's me!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391885
+    m_Localized: Hey, I think some Mystlings have followed us home from the forest!
+      The poor buggers seem so scared... <br><br>Man, <wave>we gotta help them out!</wave>
+      Wanna adopt one of them?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391886
+    m_Localized: Sure! Come here, little guy - you'll be safe with me!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391887
+    m_Localized: Aww, look at you two! You look <bounce>so cute</bounce> together.
+      <br><br>I know you'll take good care of them, mama bear!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391888
+    m_Localized: ...And here I go getting distracted again. <br><br>I was meant to
+      tell you that <font="Rounded-Black SDF">the Elder is waiting for you by the
+      Guardian!</font> He looked rather serious.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391913
+    m_Localized: New Tamer unlocked!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45300613990391914
+    m_Localized: A new Tamer has joined our cause! Just start a <color=red>new Run</color=red>
+      and select her as your playable character to access her <color=red>unique ability</color=red>.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45304894210514947
+    m_Localized: To become a true Tamer you must master the <bounce>bond</bounce>
+      with your Mystlings!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45304894210514948
+    m_Localized: "Let\u2019s go back to the <wave>basics</wave> and refresh your
+      memory."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45304894210514959
+    m_Localized: <bounce>Great job!</bounce> You're extremely talented, but I think
+      that extra <wave>help</wave> won't hurt.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45304894210514960
+    m_Localized: Take one with you! A final gift from me to our fearless <bounce>Tamer.</bounce>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45304894210514961
+    m_Localized: 'The world is going mad outside our Village!
+
+      The upcoming
+      <shake>Eclipse</shake> is blurring the border between our World and the Dark
+      Plane.'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45304894210514962
+    m_Localized: <wiggle>Evil creatures</wiggle> invade our world through Dark Portals.
+      You have to stop them!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45304894210514963
+    m_Localized: Use the knowledge you gained to stop the <shake>Eclipse!</shake>
+      You are our only <bounce>hope!</bounce>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  - m_Id: 45304894210514966
+    m_Localized: 'Congratulations, Tamer!
+
+      <br>
+
+      You defeated the Boss,
+      but the danger is not over yet! We hope you will challenge your skills and
+      beat other difficulty levels too.
+
+      There is still more content waiting
+      for you to unlock. On top of that, we are planning to add a lot of new challenges
+      and extra content in the upcoming updates.
+
+      <br>
+
+      We sincerely
+      hope you enjoyed your time with Dragon Eclipse. If you did, spreading a word
+      about the game or leaving a Steam review would go a long way.
+
+      <br>
+
+      Thank
+      you!
+
+      Fardust Team'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654824
+  references:
+    version: 2
+    RefIds:
+    - rid: 2105433060097654824
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 451756015616
+        - id: 451785375744
+        - id: 451785375745
+        - id: 451785375746
+        - id: 451789570048
+        - id: 451789570049
+        - id: 451789570050
+        - id: 451789570051
+        - id: 451789570073
+        - id: 451789570074
+        - id: 451789570077
+        - id: 451789570078
+        - id: 13009066783744000
+        - id: 13009066808909824
+        - id: 35532752173924352
+        - id: 35532752194895872
+        - id: 35532752194895873
+        - id: 35532752194895874
+        - id: 35532752194895875
+        - id: 35532752194895876
+        - id: 35532752194895877
+        - id: 35532752194895878
+        - id: 35532752194895879
+        - id: 35532752194895880
+        - id: 35532752194895881
+        - id: 35532752194895882
+        - id: 35532752194895883
+        - id: 38043555785338880
+        - id: 38043555881807872
+        - id: 38043555881807873
+        - id: 38043555881807874
+        - id: 38043555881807875
+        - id: 38043555881807876
+        - id: 38043555881807877
+        - id: 38043555881807878
+        - id: 38043555881807879
+        - id: 38043555881807880
+        - id: 38043555881807881
+        - id: 38043555881807882
+        - id: 38043555881807883
+        - id: 38043555881807884
+        - id: 38043555881807885
+        - id: 38043555881807886
+        - id: 38043555881807887
+        - id: 38043555881807888
+        - id: 38043555881807889
+        - id: 38043555881807890
+        - id: 38043555881807891
+        - id: 38043555881807892
+        - id: 38043555881807893
+        - id: 38043555881807894
+        - id: 38043555881807895
+        - id: 38043555881807896
+        - id: 38043555881807897
+        - id: 38043555881807898
+        - id: 38043555881807899
+        - id: 38043555881807900
+        - id: 38043555881807901
+        - id: 38043555881807902
+        - id: 38043555881807903
+        - id: 38043555881807904
+        - id: 38043555881807905
+        - id: 38043555881807906
+        - id: 38043555881807907
+        - id: 38043555881807908
+        - id: 38043555881807909
+        - id: 38043555881807910
+        - id: 38043555881807911
+        - id: 38043555881807912
+        - id: 38043555881807913
+        - id: 38043555881807914
+        - id: 38043555881807915
+        - id: 38043555881807916
+        - id: 38043555881807917
+        - id: 38043555881807918
+        - id: 38043555881807919
+        - id: 38043555881807920
+        - id: 38043555881807921
+        - id: 38043555881807922
+        - id: 38043555881807923
+        - id: 38043555881807924
+        - id: 38043555881807925
+        - id: 38043555881807926
+        - id: 38043555881807927
+        - id: 38043555881807928
+        - id: 38043555881807929
+        - id: 38043555881807930
+        - id: 38043555881807931
+        - id: 38043555881807932
+        - id: 38043555881807933
+        - id: 38043555881807934
+        - id: 38043555881807935
+        - id: 38043555881807936
+        - id: 38043555881807937
+        - id: 38043555881807938
+        - id: 38043555881807939
+        - id: 38043555881807940
+        - id: 38043555881807941
+        - id: 38043555881807942
+        - id: 38043555881807943
+        - id: 38043555881807944
+        - id: 38043555881807945
+        - id: 38043555881807946
+        - id: 38043555881807947
+        - id: 38043555881807948
+        - id: 38043555881807949
+        - id: 38043555881807950
+        - id: 38043555881807951
+        - id: 38043555881807952
+        - id: 38043555881807953
+        - id: 38043555881807954
+        - id: 38043555881807955
+        - id: 38043555881807956
+        - id: 38043555881807957
+        - id: 38043555881807958
+        - id: 38043555881807959
+        - id: 38043555881807960
+        - id: 38043555881807961
+        - id: 38043555881807962
+        - id: 38043555881807963
+        - id: 38043555881807964
+        - id: 37707288547368960
+        - id: 37707288547368961
+        - id: 37707288547368962
+        - id: 37707288547368963
+        - id: 37707288547368964
+        - id: 37707288547368965
+        - id: 37705988774502400
+        - id: 37705988774502401
+        - id: 37705988774502402
+        - id: 37705988774502403
+        - id: 37705988774502404
+        - id: 37705988774502405
+        - id: 37705988774502407
+        - id: 37705988774502408
+        - id: 37705988774502410
+        - id: 37705988774502411
+        - id: 37705988774502412
+        - id: 37705988774502414
+        - id: 37705988774502415
+        - id: 37705988774502416
+        - id: 37705988774502417
+        - id: 37705988774502418
+        - id: 38046161593167872
+        - id: 37705988774502420
+        - id: 37705988774502421
+        - id: 37705988774502426
+        - id: 37705988774502427
+        - id: 37705988774502428
+        - id: 37705988774502429
+        - id: 37705988774502435
+        - id: 37705988774502436
+        - id: 37705988774502437
+        - id: 37705988774502439
+        - id: 37705988774502441
+        - id: 37705988774502449
+        - id: 37705988774502450
+        - id: 37705988774502451
+        - id: 37705988774502452
+        - id: 37705988774502453
+        - id: 37705988774502454
+        - id: 37705988774502455
+        - id: 37705988774502456
+        - id: 37707288551563264
+        - id: 37707288551563265
+        - id: 37712648813355008
+        - id: 37707288551563267
+        - id: 37712648834326528
+        - id: 37707288551563277
+        - id: 37712648834326533
+        - id: 37707288551563279
+        - id: 37707288551563280
+        - id: 37707288551563281
+        - id: 37712648834326534
+        - id: 37707288551563283
+        - id: 39865059588440064
+        - id: 42406671578546176
+        - id: 42406671599517696
+        - id: 42406671599517697
+        - id: 42406671599517699
+        - id: 42406671599517700
+        - id: 42406671599517701
+        - id: 42406671599517702
+        - id: 42406671599517704
+        - id: 42406671599517705
+        - id: 42406671599517706
+        - id: 42406671599517707
+        - id: 42406671599517708
+        - id: 42406671599517709
+        - id: 42406671599517710
+        - id: 42406671599517712
+        - id: 42406671599517713
+        - id: 42406671599517714
+        - id: 42406671599517716
+        - id: 42406671599517717
+        - id: 42406671599517718
+        - id: 42406671599517719
+        - id: 42406671599517720
+        - id: 42406671599517721
+        - id: 42406671599517722
+        - id: 42406671599517723
+        - id: 42406671599517724
+        - id: 42406671599517725
+        - id: 42406671599517726
+        - id: 42406671599517728
+        - id: 42406671599517730
+        - id: 42406671599517731
+        - id: 42410027705417728
+        - id: 42415937366507520
+        - id: 42415937366507521
+        - id: 42415937366507522
+        - id: 42416728437407744
+        - id: 42424946089771008
+        - id: 42424946089771009
+        - id: 42424946089771010
+        - id: 42424946089771011
+        - id: 42438740392263680
+        - id: 45300613990391828
+        - id: 45300613990391829
+        - id: 45300613990391831
+        - id: 45300613990391832
+        - id: 45300613990391834
+        - id: 45300613990391835
+        - id: 45300613990391836
+        - id: 45300613990391837
+        - id: 45300613990391838
+        - id: 45300613990391839
+        - id: 45300613990391840
+        - id: 45300613990391841
+        - id: 45300613990391842
+        - id: 45300613990391843
+        - id: 45300613990391844
+        - id: 45300613990391845
+        - id: 45300613990391846
+        - id: 45300613990391847
+        - id: 45300613990391848
+        - id: 45300613990391849
+        - id: 45300613990391850
+        - id: 45300613990391851
+        - id: 45300613990391852
+        - id: 45300613990391853
+        - id: 45300613990391854
+        - id: 45300613990391855
+        - id: 45300613990391856
+        - id: 45300613990391857
+        - id: 45300613990391858
+        - id: 45300613990391859
+        - id: 45300613990391860
+        - id: 45300613990391861
+        - id: 45300613990391862
+        - id: 45300613990391863
+        - id: 45300613990391864
+        - id: 45300613990391865
+        - id: 45300613990391866
+        - id: 45300613990391867
+        - id: 45300613990391868
+        - id: 45300613990391869
+        - id: 45300613990391870
+        - id: 45300613990391871
+        - id: 45300613990391872
+        - id: 45300613990391873
+        - id: 45300613990391874
+        - id: 45300613990391875
+        - id: 45300613990391876
+        - id: 45300613990391877
+        - id: 45300613990391878
+        - id: 45300613990391879
+        - id: 45300613990391880
+        - id: 45300613990391881
+        - id: 45300613990391882
+        - id: 45300613990391883
+        - id: 45300613990391884
+        - id: 45300613990391885
+        - id: 45300613990391886
+        - id: 45300613990391887
+        - id: 45300613990391888
+        - id: 45300613990391913
+        - id: 45300613990391914
+        - id: 45304894210514947
+        - id: 45304894210514948
+        - id: 45304894210514959
+        - id: 45304894210514960
+        - id: 45304894210514961
+        - id: 45304894210514962
+        - id: 45304894210514963
+        - id: 45304894210514966

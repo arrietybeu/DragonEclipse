@@ -1,0 +1,1039 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: NewEnemies_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: adcfc443eb956b24bacf98517e3ba782, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2105433060097654811
+  m_TableData:
+  - m_Id: 3202074980499459
+    m_Localized: Eftus obscur
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 3202074980499460
+    m_Localized: Terok
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 3202074980499463
+    m_Localized: Eldrithia
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 3202074980499466
+    m_Localized: Pinequeak spectral
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 3202074980499467
+    m_Localized: Iceling spectral
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 3202074980499468
+    m_Localized: Golomo spectral
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 3202074980499469
+    m_Localized: Glarexus spectral
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 3202074980499470
+    m_Localized: Prowler spectral
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 3202074980499471
+    m_Localized: "D\xE9g\xE2ts"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 3202074980499472
+    m_Localized: "D\xE9buff"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 3202074980499473
+    m_Localized: Repos
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 3202074980499474
+    m_Localized: "\xC9tourdi"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 3202074980499475
+    m_Localized: "Cette cr\xE9ature va <style=\"Blue\">attaquer</style> le Mystling
+      en <style=\"Blue\">premi\xE8re ligne</style> et lui infliger {Action.Power}\_de
+      <style=\"Blue\">d\xE9g\xE2ts</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 3202074980499477
+    m_Localized: "Cette cr\xE9ature va <style=\"Blue\">attaquer</style> le <style=\"Blue\">dernier</style>
+      Mystling et lui infliger {Action.Power}\_de <style=\"Blue\">d\xE9g\xE2ts</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 3202074980499478
+    m_Localized: "Cette cr\xE9ature va <style=\"Blue\">attaquer</style> un Mystling
+      <style=\"Blue\">au hasard</style> et lui infliger {Action.Power}\_de <style=\"Blue\">d\xE9g\xE2ts</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 3202074980499479
+    m_Localized: "Cette cr\xE9ature va infliger {Effect0.ValueInt}\_de <style=\"Blue\">d\xE9g\xE2ts</style>
+      \xE0 {Action.Repeat}\_reprises \xE0 des Mystlings <style=\"Blue\">au hasard</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 3202074980499480
+    m_Localized: "Cette cr\xE9ature va <style=\"Blue\">attaquer</style> <style=\"Blue\">tous
+      les Mystlings</style> et leur infliger {Action.Power}\_de <style=\"Blue\">d\xE9g\xE2ts</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 3202074980499481
+    m_Localized: "Cette cr\xE9ature inflige des <style=\"Blue\">d\xE9g\xE2ts</style>
+      \xE9gaux \xE0 sa <style=\"Blue\">sant\xE9</style> actuelle."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 3202074980499482
+    m_Localized: Repos
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 3202074980499483
+    m_Localized: "Cette cr\xE9ature va appliquer un buff."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 3202074980499484
+    m_Localized: "Cette cr\xE9ature va appliquer un d\xE9buff."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 3202074980499485
+    m_Localized: "Am\xE8ne un Mystling en premi\xE8re ligne."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 3202074980499486
+    m_Localized: "Cette cr\xE9ature va en <style=\"Blue\">invoquer</style> une autre."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 14838014429700096
+    m_Localized: Buff
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 18375964392235008
+    m_Localized: "Am\xE8ne le Mystling ayant <style=\"Blue\">le moins de sant\xE9</style>
+      en <style=\"Blue\">premi\xE8re ligne</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 30040975212617728
+    m_Localized: Ver
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 30040975221006336
+    m_Localized: "N\xE9crover"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 30040975221006339
+    m_Localized: Shadeclaw
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 30040975221006340
+    m_Localized: Ghostclaw
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 30040975221006341
+    m_Localized: Darktailen
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 30040975221006342
+    m_Localized: Fourtailen
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 32864254604419072
+    m_Localized: Phantamer
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 33956972290187264
+    m_Localized: "Cette cr\xE9ature va <style=\"Blue\">attaquer</style> le Mystling
+      en <style=\"Blue\">premi\xE8re ligne</style> et lui infliger {Action.Power}\_de
+      <style=\"Blue\">d\xE9g\xE2ts</style> \xE0 5\_reprises."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 69187890315378688
+    m_Localized: Uttur
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 30040975221006337
+    m_Localized: Petit Ver
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 30040975221006338
+    m_Localized: "Petit N\xE9crover"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 70619883263606784
+    m_Localized: "Araign\xE9e"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 70619883288772608
+    m_Localized: Chevalier
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 22377819417944064
+    m_Localized: Prowler obscur
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 22377819430526976
+    m_Localized: "\u0152uf de Drosithia obscur"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 30043252048601088
+    m_Localized: "Drosithia obscur inf\xE9rieur"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 30043252048601089
+    m_Localized: Drosithia obscur
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 28880172346318848
+    m_Localized: Gremlin
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 29987358854160384
+    m_Localized: "Shadowling inf\xE9rieur"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 29987358875131904
+    m_Localized: Shadowling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 44089582999904256
+    m_Localized: "Shadowling exalt\xE9"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 44089583020875776
+    m_Localized: Shadowling sans visage
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 29987358875131905
+    m_Localized: Sneakabbys
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 41288302803886080
+    m_Localized: Fungusmo rouge
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 41288302829051904
+    m_Localized: Fungusmo vert
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 30067048314904576
+    m_Localized: "Umbra inf\xE9rieur"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 41239606510821376
+    m_Localized: "\u0152uf de Skitterpaw"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 51448208789938176
+    m_Localized: Darkeye
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 51448208810909696
+    m_Localized: Darkeye bleu
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 51448208810909697
+    m_Localized: Centervil
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 51448208810909698
+    m_Localized: Siren
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 51448208810909699
+    m_Localized: Dogring
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 32864254625390592
+    m_Localized: Umbra
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 41239606510821377
+    m_Localized: Skitterpaw
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 43421786716577792
+    m_Localized: "Cristal de l'\xC9clipse"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 32864254625390593
+    m_Localized: "Capacit\xE9 sp\xE9ciale"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 30040975221006343
+    m_Localized: "Quand cette cr\xE9ature <style=\"Blue\">s'\xE9vanouit</style>,
+      elle invoque un Petit Ver."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 30040975221006344
+    m_Localized: "Quand cette cr\xE9ature <style=\"Blue\">s'\xE9vanouit</style>,
+      elle invoque un Petit N\xE9crover."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 3202074980499495
+    m_Localized: "D\xE9but du round\_: cette cr\xE9ature gagne {Effect0.ValueInt}\_<style=\"Blue\">\xC9pines</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 32874378098188288
+    m_Localized: "Cette cr\xE9ature est immunis\xE9e contre l'<style=\"Blue\">\xE9tourdissement</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 32875559818174464
+    m_Localized: Vol de vie permanent
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 32885125649866752
+    m_Localized: "D\xE9but du round\_: vole {Effect1.ValueInt}\_Mystibaie OU {Effect0.ValueInt}\_or."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 42678251386118144
+    m_Localized: "Quand cette cr\xE9ature est <style=\"Blue\">attaqu\xE9e</style>,
+      elle gagne {Effect0.ValueInt}\_en <style=\"Blue\">Col\xE8re</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 42678251419672576
+    m_Localized: "Quand cette cr\xE9ature est <style=\"Blue\">attaqu\xE9e</style>,
+      elle inflige {Effect0.ValueInt}\_x\_<style=\"Blue\">Vuln\xE9rabilit\xE9</style>
+      au Mystling qui l'attaque."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 41288302829051905
+    m_Localized: "Apr\xE8s avoir \xE9merg\xE9 du sol, cette cr\xE9ature gagne +10
+      \xE0 son maximum de <style=\"Blue\">sant\xE9</style> et 3 en <style=\"Blue\">Col\xE8re</style>
+      par <style=\"Blue\">PV</style> manquant.\nQuand elle retourne sous terre, elle
+      gagne <style=\"Blue\">\xC9cran</style> mais son maximum de <style=\"Blue\">sant\xE9</style>
+      est r\xE9duit."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 41288302829051906
+    m_Localized: "Apr\xE8s avoir \xE9merg\xE9 du sol, cette cr\xE9ature explose,
+      ce qui inflige 20\_<style=\"Blue\">d\xE9g\xE2ts</style> \xE0 toutes les cr\xE9atures."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 63368020864647168
+    m_Localized: "En dessous de 50\_% de <style=\"Blue\">sant\xE9</style>\_: subit
+      {Effect0.ValueInt}\_x\_<style=\"Blue\">Faiblesse<style=\"Blue\">. "
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 28198348632694784
+    m_Localized: "En dessous de 50\_% de <style=\"Blue\">sant\xE9</style>\_: gagne
+      {Effect0.ValueInt} en <style=\"Blue\">Col\xE8re<style=\"Blue\">. "
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 69187890344738816
+    m_Localized: "La <style=\"Blue\">Vuln\xE9rabilit\xE9</style> de cette cr\xE9ature
+      augmente de {Effect0.ValueInt} \xE0 chaque tour. "
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 28204206989058048
+    m_Localized: "En dessous de 50\_% de <style=\"Blue\">sant\xE9</style>\_: gagne
+      {Effect0.ValueInt}\_x\_<style=\"Blue\">Attaques multiples</style> permanentes."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 29980607761162240
+    m_Localized: "Un autre Gremlin <style=\"Blue\">s'\xE9vanouit</style>\_: r\xE9cup\xE8re
+      toute sa <style=\"Blue\">sant\xE9</style>, gagne {Effect1.ValueInt}\_<style=\"Blue\">boucliers</style>,
+      ainsi que {Effect3.ValueInt} en <style=\"Blue\">Col\xE8re</style>.<br>Conserve
+      ses <style=\"Blue\">boucliers</style> \xE0 la fin du round."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 70619883288772609
+    m_Localized: "D\xE9but du round\_: inflige {Effect0.ValueInt}\_x\_<style=\"Blue\">Faiblesse</style>
+      au dernier Mystling \xE0 avoir attaqu\xE9."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 70619883288772610
+    m_Localized: "D\xE9but du round\_: gagne {Effect0.ValueInt}\_x\_<style=\"Blue\">Esquive<style=\"Blue\">."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 30317001696157696
+    m_Localized: "Quand cette cr\xE9ature est <style=\"Blue\">attaqu\xE9e</style>\_:
+      gagne {Effect0.ValueInt} en <style=\"Blue\">Col\xE8re</style>.<br>Elle se retrouve
+      <style=\"Blue\">Sans d\xE9fense</style> tous les 4\_rounds (les <style=\"Blue\">d\xE9g\xE2ts</style>
+      qu'elle subit sont alors augment\xE9s de 100\_% pour un tour, et elle subit
+      <style=\"Blue\">Faiblesse</style> au lieu de gagner <style=\"Blue\">Col\xE8re</style>
+      quand elle est touch\xE9e)."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 32885125670838272
+    m_Localized: "Immunit\xE9 contre l'<style=\"Blue\">\xE9tourdissement</style>.<br>D\xE9but
+      du combat\_: gagne {Effect1.ValueInt}\_x\_<style=\"Blue\">Esquive</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 32885125670838273
+    m_Localized: "Immunit\xE9 contre l'<style=\"Blue\">\xE9tourdissement</style>.<br>D\xE9but
+      du round\_: invoque 2\_Mystlings spectraux si possible.<br>Un Mystling spectral
+      <style=\"Blue\">s'\xE9vanouit</style>\_: perd {Effect3.ValueInt}\_<style=\"Blue\">PV</style>
+      mais gagne {Effect2.ValueInt} en <style=\"Blue\">Col\xE8re</style>. "
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 51448208810909700
+    m_Localized: "Conserve ses <style=\"Blue\">boucliers</style> d'un round \xE0
+      l'autre.<br>Quand on l'<style=\"Blue\">attaque</style>\_: gagne {Effect0.ValueInt}\_<style=\"Blue\">\xC9pines</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 51448208810909701
+    m_Localized: "Quand ce Mystling <style=\"Blue\">s'\xE9vanouit</style>\_: inflige
+      {Effect0.ValueInt}\_<style=\"Blue\">\xC9pines</style> \xE0 tous les autres
+      ennemis pour chaque round o\xF9 il a surv\xE9cu."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 51448208810909703
+    m_Localized: "Carte jou\xE9e\_: soigne {Effect0.ValueInt}\_<style=\"Blue\">PV</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 61231874130952192
+    m_Localized: "<style=\"Blue\">Bless\xE9</style>\_: Gagne {Effect0.ValueInt}\_x\_<style=\"Blue\">Esquive</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 3202074980499499
+    m_Localized: "Carte jou\xE9e\_: gagne {Effect0.ValueInt} en <style=\"Blue\">Force</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 28200547500761088
+    m_Localized: "Quand cette cr\xE9ature est <style=\"Blue\">bless\xE9e</style>\_:
+      elle subit {Effect0.ValueInt}\_x\_<style=\"Blue\">Vuln\xE9rabilit\xE9</style>
+      et inflige {Effect1.ValueInt}\_x\_<style=\"Blue\">Vuln\xE9rabilit\xE9</style>
+      au Mystling qui l'attaque."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 41240425125715968
+    m_Localized: "Immunit\xE9 contre l'<style=\"Blue\">\xE9tourdissement</style>.<br>En
+      dessous de 50\_% de <style=\"Blue\">sant\xE9</style>\_: au d\xE9but du prochain
+      round, absorbe un \u0153il et gagne {Effect2.ValueInt}\_au maximum de <style=\"Blue\">sant\xE9</style>,
+      ainsi que {Effect1.ValueInt} en <style=\"Blue\">Col\xE8re</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 30026794803470336
+    m_Localized: "Quand il est <style=\"Blue\">attaqu\xE9</style>\_: gagne {Effect0.ValueInt}\_x\_<style=\"Blue\">Attaques
+      multiples</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 30026794803470337
+    m_Localized: "En dessous de 50\_% de <style=\"Blue\">sant\xE9</style>\_: gagne
+      {Effect0.ValueInt}\_x\_<style=\"Blue\">Attaques multiples</style> permanentes."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 30026794803470339
+    m_Localized: "Se place toujours en <style=\"Blue\">premi\xE8re ligne</style>.<br>D\xE9but
+      du combat\_: +{Effect1.ValueInt}\_<style=\"Blue\">boucliers</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 29987945507266560
+    m_Localized: "Cette cr\xE9ature va s'infliger {Action.Power} de\_<style=\"Blue\">d\xE9g\xE2ts</style>
+      \xE0 <style=\"Blue\">elle-m\xEAme</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 53218264817410048
+    m_Localized: "Cette cr\xE9ature va <style=\"Blue\">attaquer</style> le Mystling
+      en <style=\"Blue\">premi\xE8re ligne</style> et lui infliger {Action.Power}
+      de\_<style=\"Blue\">d\xE9g\xE2ts</style> \xE0 3\_reprises."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 41237795473268736
+    m_Localized: "Cette cr\xE9ature va <style=\"Blue\">attaquer</style> le Mystling
+      en <style=\"Blue\">premi\xE8re ligne</style> et lui infliger {Action.Power}
+      de\_<style=\"Blue\">d\xE9g\xE2ts</style> \xE0 6\_reprises."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 33956972315353088
+    m_Localized: "Cette cr\xE9ature va <style=\"Blue\">attaquer</style> le Mystling
+      en <style=\"Blue\">premi\xE8re ligne</style> et lui infliger {Action.Power}\_de
+      <style=\"Blue\">d\xE9g\xE2ts</style> \xE0 10\_reprises."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 21275692424437760
+    m_Localized: "Cette cr\xE9ature va <style=\"Blue\">attaquer</style> le Mystling
+      du <style=\"Blue\">milieu</style> et lui infliger {Action.Power}\_de <style=\"Blue\">d\xE9g\xE2ts</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 43809184386457600
+    m_Localized: "Cette cr\xE9ature va infliger {Action.Power} de\_<style=\"Blue\">d\xE9g\xE2ts</style>
+      \xE0 <style=\"Blue\">toutes</style> les cr\xE9atures."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 40897011834232832
+    m_Localized: "Cette cr\xE9ature <style=\"Blue\">explosera</style> apr\xE8s avoir
+      attaqu\xE9."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 21275692445409280
+    m_Localized: "Cette cr\xE9ature va <style=\"Blue\">attaquer</style> le Mystling
+      ayant <style=\"Blue\">le moins de sant\xE9</style> et lui infliger {Action.Power}
+      de\_<style=\"Blue\">d\xE9g\xE2ts</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 63760706464907264
+    m_Localized: "Cette cr\xE9ature <style=\"Blue\">ne fera rien</style> pendant
+      ce round."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 28209715775348736
+    m_Localized: "Cette cr\xE9ature pr\xE9pare une <style=\"Blue\">Attaque puissante</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 76760452109836288
+    m_Localized: "Conf\xE8re <style=\"Blue\">Esquive</style> \xE0 l'ennemi en <style=\"Blue\">premi\xE8re
+      ligne</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 63320537472024576
+    m_Localized: "Am\xE8ne le <style=\"Blue\">dernier Mystling</style> en <style=\"Blue\">premi\xE8re
+      ligne</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 41266718798061568
+    m_Localized: "Cette cr\xE9ature va passer dans une autre <style=\"Blue\">phase</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 3202074980499503
+    m_Localized: Au cours du 4e round
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 3202074980499504
+    m_Localized: Au cours du 5e round
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 3202074980499505
+    m_Localized: Au cours du 6e round
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 14838014450671616
+    m_Localized: "Mal\xE9diction"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 14838014450671617
+    m_Localized: "-1\_en \xE9nergie lors du round suivant."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 14838014450671618
+    m_Localized: "Ajoute une <style=\"Blue\">carte Mal\xE9diction</style> \xE0 votre
+      deck."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 14838014450671619
+    m_Localized: "Augmente le co\xFBt en \xE9nergie de la prochaine carte pioch\xE9e."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 31416745155698688
+    m_Localized: "Augmente le co\xFBt en \xE9nergie des {Effect0.ValueInt}\_prochaines
+      cartes pioch\xE9es."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 15098057276334080
+    m_Localized: Vole des Mystibaies au joueur.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 15107087159861248
+    m_Localized: "R\xE9duit la taille de la main du joueur pendant 1\_tour."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 41634209193861120
+    m_Localized: "Toutes les cartes jou\xE9es au round suivant seront \xE9puis\xE9es."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 28205321759563776
+    m_Localized: "Cette cr\xE9ature va s'infliger <smallcaps><style=\"Blue\">Faiblesse</style></smallcaps>
+      \xE0 <style=\"Blue\">elle-m\xEAme</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 18372613688598528
+    m_Localized: "Cette cr\xE9ature va infliger <smallcaps><style=\"Blue\">Faiblesse</style></smallcaps>
+      au Mystling en <style=\"Blue\">premi\xE8re ligne</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 18372613688598529
+    m_Localized: "Cette cr\xE9ature va infliger <smallcaps><style=\"Blue\">Faiblesse</style></smallcaps>
+      \xE0 un Mystling <style=\"Blue\">au hasard</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 28218877917863936
+    m_Localized: "Cette cr\xE9ature va s'infliger <smallcaps><style=\"Blue\">Vuln\xE9rabilit\xE9</style></smallcaps>
+      \xE0 <style=\"Blue\">elle-m\xEAme</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 18372613688598530
+    m_Localized: "Cette cr\xE9ature va infliger <smallcaps><style=\"Blue\">Vuln\xE9rabilit\xE9</style></smallcaps>
+      au Mystling en <style=\"Blue\">premi\xE8re ligne</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 63320537492996096
+    m_Localized: "Cette cr\xE9ature va infliger <smallcaps><style=\"Blue\">Vuln\xE9rabilit\xE9</style></smallcaps>
+      au <style=\"Blue\">dernier</style> Mystling."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 18385638579576832
+    m_Localized: "Cette cr\xE9ature va infliger <smallcaps><style=\"Blue\">Vuln\xE9rabilit\xE9</style></smallcaps>
+      \xE0 <style=\"Blue\">tous</style> les Mystlings."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 18386934791479296
+    m_Localized: "Cette cr\xE9ature va infliger <smallcaps><style=\"Blue\">Vuln\xE9rabilit\xE9</style></smallcaps>
+      au Mystling ayant <style=\"Blue\">le moins de sant\xE9</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 20988887249788928
+    m_Localized: "Cette cr\xE9ature va infliger <smallcaps><style=\"Blue\">Vuln\xE9rabilit\xE9</style></smallcaps>
+      \xE0 un Mystling <style=\"Blue\">au hasard</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 18373772805480448
+    m_Localized: "Cette cr\xE9ature va <smallcaps><style=\"Blue\">\xE9tourdir</style></smallcaps>
+      le Mystling en <style=\"Blue\">premi\xE8re ligne</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 18373772805480449
+    m_Localized: "Cette cr\xE9ature va <smallcaps><style=\"Blue\">\xE9tourdir</style></smallcaps>
+      le Mystling du <style=\"Blue\">milieu</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 29990354140864512
+    m_Localized: "Cette cr\xE9ature va <smallcaps><style=\"Blue\">\xE9tourdir</style></smallcaps>
+      un Mystling <style=\"Blue\">au hasard</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 34099718414868480
+    m_Localized: "Cette cr\xE9ature va <smallcaps><style=\"Blue\">\xE9tourdir</style></smallcaps>
+      <style=\"Blue\">tous</style> les Mystlings."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 51714386443706368
+    m_Localized: "Cette cr\xE9ature va infliger <smallcaps><style=\"Blue\">Acide</style></smallcaps>
+      au Mystling en <style=\"Blue\">premi\xE8re ligne</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 51715039991767040
+    m_Localized: "Cette cr\xE9ature va infliger <smallcaps><style=\"Blue\">Acide</style></smallcaps>
+      \xE0 un Mystling <style=\"Blue\">au hasard</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 18372613688598531
+    m_Localized: "Cette cr\xE9ature va gagner <smallcaps><style=\"Blue\">Esquive</style></smallcaps>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 18372613688598532
+    m_Localized: "Cette cr\xE9ature va gagner <smallcaps><style=\"Blue\">Col\xE8re</style></smallcaps>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 18372613688598533
+    m_Localized: "Cette cr\xE9ature va conf\xE9rer <smallcaps><style=\"Blue\">Col\xE8re</style></smallcaps>
+      \xE0 l'ennemi en <style=\"Blue\">premi\xE8re ligne</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 18372613688598534
+    m_Localized: "Cette cr\xE9ature va conf\xE9rer <smallcaps><style=\"Blue\">Col\xE8re</style></smallcaps>
+      \xE0 <style=\"Blue\">tous</style> les ennemis."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 18372613688598535
+    m_Localized: "Cette cr\xE9ature va gagner des <smallcaps><style=\"Blue\">boucliers</style></smallcaps>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 18372613688598536
+    m_Localized: "Cette cr\xE9ature va gagner <smallcaps><style=\"Blue\">\xC9pines</style></smallcaps>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 18372613688598537
+    m_Localized: "Cette cr\xE9ature inflige <smallcaps><style=\"Blue\">\xC9pines</style></smallcaps>
+      \xE0 l'ennemi en <style=\"Blue\">premi\xE8re ligne</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 18372613688598538
+    m_Localized: "Cette cr\xE9ature va <style=\"Blue\">se soigner</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 18372613688598539
+    m_Localized: "Cette cr\xE9ature va <style=\"Blue\">soigner</style> l'ennemi en
+      <style=\"Blue\">premi\xE8re ligne</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 40919038213300224
+    m_Localized: "Cette cr\xE9ature va gagner <smallcaps><style=\"Blue\">Vol de vie</style></smallcaps>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 51712258333548544
+    m_Localized: "Cette cr\xE9ature va devenir <smallcaps><style=\"Blue\">Indestructible</style></smallcaps>
+      pendant 1\_round."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 40937100899590144
+    m_Localized: "Cette cr\xE9ature va utiliser sa <smallcaps><style=\"Blue\">Forme
+      d'ombre</style></smallcaps>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 40937100899590145
+    m_Localized: "Cette cr\xE9ature va quitter sa <smallcaps><style=\"Blue\">Forme
+      d'ombre</style></smallcaps>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 23882141503791104
+    m_Localized: "<smallcaps><style=\"Blue\">Blesse</style></smallcaps> le Mystling
+      en <style=\"Blue\">premi\xE8re ligne</style> ({Effect0.ValueInt}\_de <style=\"Blue\">d\xE9g\xE2ts</style>)."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 23882141503791105
+    m_Localized: "<smallcaps><style=\"Blue\">Blesse</style></smallcaps> le Mystling
+      du <style=\"Blue\">milieu</style> ({Effect0.ValueInt}\_de <style=\"Blue\">d\xE9g\xE2ts</style>)."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 23882141503791106
+    m_Localized: "<smallcaps><style=\"Blue\">Blesse</style></smallcaps> le dernier
+      Mystling ({Effect0.ValueInt}\_de <style=\"Blue\">d\xE9g\xE2ts</style>)."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 23882141503791107
+    m_Localized: "<smallcaps><style=\"Blue\">Blesse</style></smallcaps> tous les
+      Mystlings ({Effect0.ValueInt}\_de <style=\"Blue\">d\xE9g\xE2ts</style>)."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 23882141503791108
+    m_Localized: "<smallcaps><style=\"Blue\">Blesse</style></smallcaps> un Mystling
+      au hasard ({Effect0.ValueInt}\_de <style=\"Blue\">d\xE9g\xE2ts</style>)."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 28624890869432320
+    m_Localized: "Cette cr\xE9ature va b\xE9n\xE9ficier d'une <smallcaps><style=\"Blue\">Garde</style></smallcaps>
+      pendant {Effect0.ValueInt}\_rounds."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 28624890886209536
+    m_Localized: "Cette cr\xE9ature va se retrouver <smallcaps><style=\"Blue\">Sans
+      d\xE9fense</style></smallcaps> pendant {Effect0.ValueInt}\_round."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 30047564703277056
+    m_Localized: "Cette cr\xE9ature va lancer une <style=\"Blue\">Mal\xE9diction</style>\_:
+      <smallcaps><style=\"Blue\">vole</style></smallcaps> {Effect0.ValueInt}\_or
+      ou 1\_Mystibaie."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  - m_Id: 30047428094795776
+    m_Localized: "Cette cr\xE9ature va lancer une <style=\"Blue\">Mal\xE9diction</style>\_:
+      supprime tous les buffs du Mystling en <style=\"Blue\">premi\xE8re ligne</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654811
+  references:
+    version: 2
+    RefIds:
+    - rid: 2105433060097654811
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 3202074980499459
+        - id: 3202074980499460
+        - id: 3202074980499463
+        - id: 3202074980499466
+        - id: 3202074980499467
+        - id: 3202074980499468
+        - id: 3202074980499469
+        - id: 3202074980499470
+        - id: 3202074980499471
+        - id: 3202074980499472
+        - id: 3202074980499473
+        - id: 3202074980499474
+        - id: 3202074980499475
+        - id: 3202074980499477
+        - id: 3202074980499478
+        - id: 3202074980499479
+        - id: 3202074980499480
+        - id: 3202074980499481
+        - id: 3202074980499482
+        - id: 3202074980499483
+        - id: 3202074980499484
+        - id: 3202074980499485
+        - id: 3202074980499486
+        - id: 14838014429700096
+        - id: 18375964392235008
+        - id: 30040975212617728
+        - id: 30040975221006336
+        - id: 30040975221006339
+        - id: 30040975221006340
+        - id: 30040975221006341
+        - id: 30040975221006342
+        - id: 32864254604419072
+        - id: 33956972290187264
+        - id: 69187890315378688
+        - id: 30040975221006337
+        - id: 30040975221006338
+        - id: 70619883263606784
+        - id: 70619883288772608
+        - id: 22377819417944064
+        - id: 22377819430526976
+        - id: 30043252048601088
+        - id: 30043252048601089
+        - id: 28880172346318848
+        - id: 29987358854160384
+        - id: 29987358875131904
+        - id: 44089582999904256
+        - id: 44089583020875776
+        - id: 29987358875131905
+        - id: 41288302803886080
+        - id: 41288302829051904
+        - id: 30067048314904576
+        - id: 41239606510821376
+        - id: 51448208789938176
+        - id: 51448208810909696
+        - id: 51448208810909697
+        - id: 51448208810909698
+        - id: 51448208810909699
+        - id: 32864254625390592
+        - id: 41239606510821377
+        - id: 43421786716577792
+        - id: 32864254625390593
+        - id: 30040975221006343
+        - id: 30040975221006344
+        - id: 3202074980499495
+        - id: 32874378098188288
+        - id: 32875559818174464
+        - id: 32885125649866752
+        - id: 42678251386118144
+        - id: 42678251419672576
+        - id: 41288302829051905
+        - id: 41288302829051906
+        - id: 63368020864647168
+        - id: 28198348632694784
+        - id: 69187890344738816
+        - id: 28204206989058048
+        - id: 29980607761162240
+        - id: 70619883288772609
+        - id: 70619883288772610
+        - id: 30317001696157696
+        - id: 32885125670838272
+        - id: 32885125670838273
+        - id: 51448208810909700
+        - id: 51448208810909701
+        - id: 51448208810909703
+        - id: 61231874130952192
+        - id: 3202074980499499
+        - id: 28200547500761088
+        - id: 41240425125715968
+        - id: 30026794803470336
+        - id: 30026794803470337
+        - id: 30026794803470339
+        - id: 29987945507266560
+        - id: 53218264817410048
+        - id: 41237795473268736
+        - id: 33956972315353088
+        - id: 21275692424437760
+        - id: 43809184386457600
+        - id: 40897011834232832
+        - id: 21275692445409280
+        - id: 63760706464907264
+        - id: 28209715775348736
+        - id: 76760452109836288
+        - id: 63320537472024576
+        - id: 41266718798061568
+        - id: 3202074980499503
+        - id: 3202074980499504
+        - id: 3202074980499505
+        - id: 14838014450671616
+        - id: 14838014450671617
+        - id: 14838014450671618
+        - id: 14838014450671619
+        - id: 31416745155698688
+        - id: 15098057276334080
+        - id: 15107087159861248
+        - id: 41634209193861120
+        - id: 28205321759563776
+        - id: 18372613688598528
+        - id: 18372613688598529
+        - id: 28218877917863936
+        - id: 18372613688598530
+        - id: 63320537492996096
+        - id: 18385638579576832
+        - id: 18386934791479296
+        - id: 20988887249788928
+        - id: 18373772805480448
+        - id: 18373772805480449
+        - id: 29990354140864512
+        - id: 34099718414868480
+        - id: 51714386443706368
+        - id: 51715039991767040
+        - id: 18372613688598531
+        - id: 18372613688598532
+        - id: 18372613688598533
+        - id: 18372613688598534
+        - id: 18372613688598535
+        - id: 18372613688598536
+        - id: 18372613688598537
+        - id: 18372613688598538
+        - id: 18372613688598539
+        - id: 40919038213300224
+        - id: 51712258333548544
+        - id: 40937100899590144
+        - id: 40937100899590145
+        - id: 23882141503791104
+        - id: 23882141503791105
+        - id: 23882141503791106
+        - id: 23882141503791107
+        - id: 23882141503791108
+        - id: 28624890869432320
+        - id: 28624890886209536
+        - id: 30047564703277056
+        - id: 30047428094795776

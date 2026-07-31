@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1859822990, guid: e00efddacf0691ae597734b46c97ccdb, type: 3}
+  m_Name: ForeshadowIconConfig
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _isActive: 1
+  Icons:
+  - Type: 0
+    Visuals:
+      Icon: {fileID: 21300000, guid: 1ab502b4846233a4a9ae271d4cf4a26f, type: 2}
+      HighlightType: 3
+  - Type: 1
+    Visuals:
+      Icon: {fileID: 21300000, guid: f58eed3770119a448a18a23623129f2a, type: 2}
+      HighlightType: 4
+  - Type: 2
+    Visuals:
+      Icon: {fileID: 21300000, guid: d403255e3e03edf4ea62ed1e603dbf9e, type: 2}
+      HighlightType: 5
+  - Type: 3
+    Visuals:
+      Icon: {fileID: 21300000, guid: 5b21f94d5f2e50845b5c3370a99e7caf, type: 2}
+      HighlightType: 6
+  - Type: 4
+    Visuals:
+      Icon: {fileID: 21300000, guid: 91cecbfc40bfb0541ae8c905c7a925e0, type: 2}
+      HighlightType: 7
+  - Type: 5
+    Visuals:
+      Icon: {fileID: 21300000, guid: 8ca27b3c01b337449997b9c43efccbbb, type: 2}
+      HighlightType: 8
+  - Type: 6
+    Visuals:
+      Icon: {fileID: 21300000, guid: a77ce98ebc1ce6d45a11f4b85dde841a, type: 2}
+      HighlightType: 10
+  - Type: 7
+    Visuals:
+      Icon: {fileID: 21300000, guid: 65d5ffe9283607243870210e448bcf89, type: 2}
+      HighlightType: 11
+  - Type: 8
+    Visuals:
+      Icon: {fileID: 21300000, guid: 9b3d1cea534115e4db65c028e939fdbb, type: 2}
+      HighlightType: 9
+  - Type: 9
+    Visuals:
+      Icon: {fileID: 21300000, guid: 7f91802238c545b44a03b50e4b547345, type: 2}
+      HighlightType: 12
+  - Type: 10
+    Visuals:
+      Icon: {fileID: 21300000, guid: ba8cec750257f1e429a9fff2df4e7b35, type: 2}
+      HighlightType: 13
+  - Type: 11
+    Visuals:
+      Icon: {fileID: 21300000, guid: 3b246241d7d2de340bd8564615fea416, type: 2}
+      HighlightType: 14

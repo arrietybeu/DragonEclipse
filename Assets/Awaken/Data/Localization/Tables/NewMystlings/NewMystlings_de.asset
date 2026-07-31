@@ -1,0 +1,978 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: NewMystlings_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: b78b8f3ad9016ae4098421aca5096d55, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 8829885829830410420
+  m_TableData:
+  - m_Id: 5776446886887424
+    m_Localized: Pinequeak
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053248
+    m_Localized: Erhabener Pinequeak
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053249
+    m_Localized: Mit ihrer boshaften Art, den fiesen Augen und jeder Menge gemeiner
+      Tricks haben die Pinequeaks sich ihren miserablen Ruf mehr als verdient. In
+      jeder Stadt haben sie einen anderen Namen - genau wie andere Plagen auch. Die
+      bekanntesten sind Pulpins und Fireples.
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053250
+    m_Localized: "<style=\"Blue\">Angriff</style> auf einen zuf\xE4lligen Gegner
+      mit {Effect0.Attack.PowerModifier} % <style=\"Blue\">Kraft</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053251
+    m_Localized: "Wenn Pinequeak <smallcaps><style=\"Blue\">verletzt</style></smallcaps>
+      ist: F\xFCge 1 <style=\"Blue\">{Effect0.ValueString}</style>-Karte deiner Hand
+      hinzu."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053252
+    m_Localized: "Wenn Pinequeak <smallcaps><style=\"Blue\">verletzt</style></smallcaps>
+      ist: F\xFCge 2 unverbesserte <style=\"Blue\">{Effect0.ValueString}</style>-Karten
+      deiner Hand hinzu."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053253
+    m_Localized: "Wenn Pinequeak <smallcaps><style=\"Blue\">verletzt</style></smallcaps>
+      ist: F\xFCge 1 <style=\"Blue\">{Effect0.ValueString}</style>-Karte deiner Hand
+      hinzu."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053255
+    m_Localized: "Wenn Pinequeak <smallcaps><style=\"Blue\">verletzt</style></smallcaps>
+      ist: F\xFCge 2 unverbesserte <style=\"Blue\">{Effect0.ValueString}</style>-Karten
+      deiner Hand hinzu."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053256
+    m_Localized: "Erh\xF6he <style=\"Blue\">Gesundheit</style> auf {Mystling.Health}."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 12276047190016000
+    m_Localized: "Erh\xF6he <style=\"Blue\">Kraft</style> auf {Mystling.Power}."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053258
+    m_Localized: Iceling
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053259
+    m_Localized: Erhabener Iceling
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053260
+    m_Localized: "Icelinge sind von Natur aus scheu, doch manch einer ist so voller
+      Neugier, dass er sich nach drau\xDFen in die Welt wagt. Diejenigen, die ihre
+      verschneiten Berggipfel verlassen, geh\xF6ren zu den mutigsten und aufgeschlossensten
+      Wesen, die es \xFCberhaupt gibt."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053261
+    m_Localized: "Iceling wirkt {Effect0.ValueInt} <smallcaps><style=\"Blue\">St\xE4rke</style></smallcaps>
+      auf vordersten Mystling (auch sich selbst)."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053262
+    m_Localized: "Iceling erh\xE4lt zus\xE4tzlich <style=\"Blue\">Kraft</style> in
+      H\xF6he der <style=\"Blue\">Anzahl der Karten</style> in deiner Hand."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053263
+    m_Localized: "Iceling erh\xE4lt zus\xE4tzlich <style=\"Blue\">Kraft</style> in
+      H\xF6he der <style=\"Blue\">Anzahl der Karten</style> in deiner Hand.\nKampfbeginn:
+      <style=\"Blue\">Ziehe</style> {Effect0.ValueInt} Karten."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053264
+    m_Localized: "Iceling erh\xE4lt zus\xE4tzlich <style=\"Blue\">Kraft</style> in
+      H\xF6he der <style=\"Blue\">Anzahl der Karten</style> in deiner Hand.\nRundenende:
+      Verdopple die <style=\"Blue\">St\xE4rke</style> des vordersten Mystlings."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 12304182178594816
+    m_Localized: "Iceling erh\xE4lt zus\xE4tzlich <style=\"Blue\">Kraft</style> in
+      H\xF6he der <style=\"Blue\">Anzahl der Karten</style> in deiner Hand.\nKampfbeginn:
+      <smallcaps><style=\"Blue\">Bet\xE4ube</style> </smallcaps> alle Gegner."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053266
+    m_Localized: 'Kampfbeginn: <style="Blue">Ziehe</style> {Effect0.ValueInt} Karten.'
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053267
+    m_Localized: "Rundenende: Verdopple die <smallcaps><style=\"Blue\">St\xE4rke</style></smallcaps>
+      des vordersten Mystlings."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 12304182178594817
+    m_Localized: "Kampfbeginn: <smallcaps><style=\"Blue\">Bet\xE4ube</style></smallcaps>
+      alle Gegner."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053269
+    m_Localized: Golomo
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053270
+    m_Localized: Erhabener Golomo
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053271
+    m_Localized: "Golomos bleiben bevorzugt in ihren kleinen Gemeinschaften und meiden
+      jeden Kontakt mit Menschen oder anderen Kreaturen. Bedrohte Golomos k\xF6nnen
+      in Raserei verfallen, woraufhin sie alles in Sichtweite angreifen und kleine
+      Erdbeben verursachen."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053272
+    m_Localized: Golomo wirkt {Effect0.ValueInt} <smallcaps><style="Blue">Verwundbarkeit</style></smallcaps>
+      auf vordersten Gegner.
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053273
+    m_Localized: Golomo kann einmal pro Kampf <smallcaps><style="Blue">Wiederbeleben</style></smallcaps>
+      wirken.
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053274
+    m_Localized: Golomo kann zweimal pro Kampf <smallcaps><style="Blue">Wiederbeleben</style></smallcaps>
+      wirken.
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053275
+    m_Localized: "Golomo kann einmal pro Kampf <smallcaps><style=\"Blue\">Wiederbeleben</style></smallcaps>
+      wirken.\nKampfbeginn: Golomo erh\xE4lt {Effect1.ValueInt} <smallcaps><style=\"Blue\">Permanenter
+      Mehrfachangriff</style></smallcaps>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 12295938882256896
+    m_Localized: "Golomo kann einmal pro Kampf <smallcaps><style=\"Blue\">wiederbeleben</style></smallcaps>.\nWenn
+      Golomo <style=\"Blue\">kampfunf\xE4hig</style> wird, verdoppelt sich <smallcaps><style=\"Blue\">Verwundbarkeit</style></smallcaps>
+      bei allen Gegnern."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053277
+    m_Localized: Golomo kann zweimal pro Kampf <smallcaps><style="Blue">Wiederbeleben</style></smallcaps>
+      wirken.
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053278
+    m_Localized: "Kampfbeginn: Golomo erh\xE4lt {Effect1.ValueInt} <smallcaps><style=\"Blue\">Permanenter
+      Mehrfachangriff</style></smallcaps>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 12295938882256897
+    m_Localized: "Wenn Golomo <style=\"Blue\">kampfunf\xE4hig</style> wird, verdoppelt
+      sich <smallcaps><style=\"Blue\">Verwundbarkeit</style></smallcaps> bei allen
+      Gegnern."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053280
+    m_Localized: Glarexus
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053281
+    m_Localized: Erhabener Glarexus
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053282
+    m_Localized: "Glarexi sind stoisch und hochm\xFCtig. Sie ignorieren die Au\xDFenwelt
+      geflissentlich, da sie nichts zum Essen brauchen. Wenn etwas ihre meditative
+      Ruhe st\xF6rt, versuchen sie, dies schnellstm\xF6glich zu vernichten. Glarexi
+      k\xF6nnen Licht in feste Materie umwandeln, was zugleich ihre beste Waffe und
+      R\xFCstung ist. Man sagt auch, dass ein Glarexus vor einem Toten erscheinen
+      kann, um dessen Seele in einen neuen K\xF6rper zu f\xFChren."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053283
+    m_Localized: "Glarexus erh\xE4lt {Effect0.ValueInt} <smallcaps><style=\"Blue\">Schilde</style></smallcaps>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053284
+    m_Localized: Glarexus verliert {Effect1.ValueInt} <smallcaps><style="Blue">Schilde</style></smallcaps>
+      am Ende der Runde statt alle.
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053285
+    m_Localized: "Glarexus beh\xE4lt volle <smallcaps><style=\"Blue\">Schilde</style></smallcaps>
+      am Ende der Runde."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053286
+    m_Localized: "Glarexus verliert {Effect1.ValueInt} <smallcaps><style=\"Blue\">Schilde</style></smallcaps>
+      am Ende der Runde statt alle.\nRundenende: Glarexus bewirkt <style=\"Blue\">Schaden</style>
+      in H\xF6he von {Effect2.AdditionalValueString} % seiner <smallcaps><style=\"Blue\">Schilde</style></smallcaps>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 12286811510521856
+    m_Localized: "Glarexus verliert {Effect2.ValueInt} <smallcaps><style=\"Blue\">Schilde</style></smallcaps>
+      am Ende der Runde statt alle.\nImmer wenn ein Angriff durch <smallcaps><style=\"Blue\">Schilde</style></smallcaps>
+      <style=\"Blue\">vollst\xE4ndig geblockt</style> wird, werden {Effect1.AdditionalValueString}
+      % des eingehenden Schadens auf den Angreifer zur\xFCckgeworfen."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053288
+    m_Localized: "Glarexus beh\xE4lt volle <smallcaps><style=\"Blue\">Schilde</style></smallcaps>
+      am Ende der Runde."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053289
+    m_Localized: "Rundenende: Glarexus bewirkt <style=\"Blue\">Schaden</style> in
+      H\xF6he von {Effect2.AdditionalValueString} % seiner <smallcaps><style=\"Blue\">Schilde</style></smallcaps>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 12286811510521857
+    m_Localized: "Immer wenn ein Angriff durch <smallcaps><style=\"Blue\">Schilde</style></smallcaps>
+      <style=\"Blue\">vollst\xE4ndig geblockt</style> wird, werden {Effect1.AdditionalValueString}
+      % des eingehenden Schadens auf den Angreifer zur\xFCckgeworfen."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053291
+    m_Localized: Prowler
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053292
+    m_Localized: Prowler
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053293
+    m_Localized: "Prowler sind klein und lautlos, pirschen durch W\xE4lder, jagen
+      kleine Tiere und sammeln Beeren und N\xFCsse. Ihre gem\xFCtlichen Nester sind
+      meist in Astl\xF6chern von B\xE4umen versteckt, wo sie tags\xFCber schlafen.
+      Nicht wenige B\xE4ndiger wurden schon einmal gefragt, ob sie einen Prowler
+      b\xE4ndigen k\xF6nnen, doch die meisten haben aus ethischen Gr\xFCnden abgelehnt,
+      wobei es manche auch versucht haben. Doch diese Versuche waren stets zum Scheitern
+      verurteilt, da Prowler einfach zu stolz und gef\xE4hrlich sind, um gut mit
+      Menschenfamilien auszukommen."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053294
+    m_Localized: <style="Blue">Ziehe</style> {Effect0.ValueInt} Karte.
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053295
+    m_Localized: 'Kampfbeginn: <style="Blue">Erhalte</style> {Effect0.ValuePercentage}
+      % deiner gesamten <style="Blue">Mystbeeren</style>. Prowler kann sich nicht
+      entwickeln.'
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053335
+    m_Localized: Drosithia
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053336
+    m_Localized: Erhabene Drosithia
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053337
+    m_Localized: "Drosithiae sind von Natur aus scheu und hilfreich, doch die Umst\xE4nde
+      zwangen sie, noch vorsichtiger zu sein. Aus unbekannten Gr\xFCnden werden Drosithiae
+      von Drachenw\xE4chtern gejagt, wodurch die Spezies fast ausgel\xF6scht wurde."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053338
+    m_Localized: "Drosithia bewirkt {Effect0.ValueInt} <style=\"Blue\">Schaden</style>
+      bei einem <style=\"Blue\">zuf\xE4lligen</style> Gegner."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053339
+    m_Localized: Kann nicht <style="Blue">wiederbelebt</style> werden.
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053343
+    m_Localized: "Aktivierung: Drosithia bewirkt 5 <style=\"Blue\">Schaden</style>
+      bei einem <style=\"Blue\">zuf\xE4lligen</style> Gegner."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 32555650210930688
+    m_Localized: Drachenaura
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 32555650231902208
+    m_Localized: "<style=\"Blue\">Entwickle</style> Drosithia nach {Effect0.Conditions.0}
+      K\xE4mpfen zum Drachen."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053346
+    m_Localized: Bolb
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053347
+    m_Localized: Erhabener Bolb
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053348
+    m_Localized: "Bolbs lieben Langeweile und Faulheit und nutzen dies als Meister
+      der Tarnung und der Fallen aus. Sie sind manchmal au\xDFerhalb der S\xFCmpfe
+      aus \xFCberwucherter Seen anzutreffen, was allerdings nur sehr selten vorkommt.
+      Diese Kreaturen verlassen ihren Lebensraum erst, wenn sie mindestens zwei Wochen
+      lang hungern mussten."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053349
+    m_Localized: Bolb <style="Blue">heilt</style> {Effect0.ValueInt} seiner Gesundheit.
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053350
+    m_Localized: "{Effect1.AdditionalValueString} % des eingehenden <style=\"Blue\">Schadens</style>
+      wird auf die Angreifer <style=\"Blue\">zur\xFCckgeworfen</style>. Bolb kann
+      keine <smallcaps><style=\"Blue\">Schilde</style></smallcaps> erhalten."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053351
+    m_Localized: "{Effect1.AdditionalValueString} % des eingehenden <style=\"Blue\">Schadens</style>
+      wird auf die Angreifer <style=\"Blue\">zur\xFCckgeworfen</style>. Bolb kann
+      keine <smallcaps><style=\"Blue\">Schilde</style></smallcaps> erhalten."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053353
+    m_Localized: "{Effect1.AdditionalValueString} % des eingehenden <style=\"Blue\">Schadens</style>
+      wird auf die Angreifer <style=\"Blue\">zur\xFCckgeworfen</style>. Bolb kann
+      keine <smallcaps><style=\"Blue\">Schilde</style></smallcaps> erhalten."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053354
+    m_Localized: "Erh\xF6he <style=\"Blue\">Gesundheit</style> um {Mystling.Health}."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053355
+    m_Localized: 'Aktivierung: Bolb <style="Blue">heilt</style> {Effect2.ValueInt}
+      seiner Gesundheit.'
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053356
+    m_Localized: "{Effect1.ValueInt} % des eingehenden Schadens wird auf die Angreifer
+      <style=\"Blue\">zur\xFCckgeworfen</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053324
+    m_Localized: Frogmar
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053325
+    m_Localized: Erhabener Frogmar
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053326
+    m_Localized: "Die energiegeladen und temperamentvollen Frogmar sind f\xFCr ihre
+      Rachesucht bekannt. Wenn du einen Frogmar ver\xE4rgerst, ruht dieser erst,
+      wenn du die Bedeutung von Schmerz erfahren hast. Frogmar m\xF6gen Menschen
+      oder andere Mystlinge, werden jedoch h\xE4ufig gemieden, da die anderen Angst
+      vor ihren Wutausbr\xFCchen haben."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053327
+    m_Localized: "Frogmar erh\xE4lt {Effect0.ValueInt} <smallcaps><style=\"Blue\">St\xE4rke</style></smallcaps>
+      und verliert {Effect1.ValueInt} <smallcaps><style=\"Blue\">Schilde</style></smallcaps>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053328
+    m_Localized: Frogmar verdoppelt die erhaltenen <smallcaps><style="Blue">Schilde</style></smallcaps>.
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053329
+    m_Localized: 'Frogmar verdoppelt die erhaltenen <smallcaps><style="Blue">Schilde</style></smallcaps>.
+
+      Frogmars
+      erster Angriff im Kampf bewirkt dreifachen <style="Blue">Schaden</style>.'
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053330
+    m_Localized: Frogmar verdreifacht die erhaltenen <smallcaps><style="Blue">Schilde</style></smallcaps>.
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053331
+    m_Localized: Frogmar verdoppelt die erhaltenen <smallcaps><style="Blue">Schilde</style></smallcaps>.
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053332
+    m_Localized: 'Talent wechseln: Frogmars erster Angriff im Kampf bewirkt dreifachen
+      <style="Blue">Schaden</style>.'
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053333
+    m_Localized: Frogmar verdreifacht die erhaltenen <smallcaps><style="Blue">Schilde</style></smallcaps>.
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053334
+    m_Localized: "<smallcaps><style=\"Blue\">Aktivierung</style></smallcaps>: Frogmar
+      erh\xE4lt {Effect1.ValueInt} <smallcaps><style=\"Blue\">St\xE4rke</style></smallcaps>
+      und verliert {Effect2.ValueInt} <smallcaps><style=\"Blue\">Schilde</style></smallcaps>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053313
+    m_Localized: Fale
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053314
+    m_Localized: Erhabener Fale
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053315
+    m_Localized: "Fale sind freundlich und liebenswert. Sie planschen gerne im seichten
+      Wasser, bummeln auf ihren kurzen Beinen am Strand entlang und gehen mit anderen
+      Kreaturen zusammen tauchen. Trotz ihres Aussehens k\xF6nnen Fale f\xFCr den
+      Kampf trainiert werden. Sie sind entschlossene Besch\xFCtzer und Helfer - und
+      sie lieben den Wettkampf."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053316
+    m_Localized: Fale <smallcaps><style="Blue">aktiviert</style></smallcaps> alle
+      anderen Mystlinge.
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053317
+    m_Localized: "Fale wirkt <smallcaps><style=\"Blue\">Wiederbeleben</style></smallcaps>
+      auf den ersten anderen <style=\"Blue\">kampfunf\xE4higen</style> Mystling."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053318
+    m_Localized: "Fale wirkt <smallcaps><style=\"Blue\">Wiederbeleben</style></smallcaps>
+      auf die ersten zwei anderen <style=\"Blue\">kampfunf\xE4higen</style> Mystlinge."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053319
+    m_Localized: "Fale wirkt <smallcaps><style=\"Blue\">Wiederbeleben</style></smallcaps>
+      auf den ersten <style=\"Blue\">kampfunf\xE4higen</style> Mystling.\nFale erh\xE4lt
+      {Effect0.ValueInt} <smallcaps><style=\"Blue\">St\xE4rke</style></smallcaps>,
+      wenn andere Mystlinge <smallcaps><style=\"Blue\">aktiviert</style></smallcaps>
+      werden."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053320
+    m_Localized: "Fale wirkt <smallcaps><style=\"Blue\">Wiederbeleben</style></smallcaps>
+      auf den ersten <style=\"Blue\">kampfunf\xE4higen</style> Mystling.\nWenn ein
+      anderer Mystling <style=\"Blue\">kampfunf\xE4hig</style> wird, werden alle
+      Gegner <smallcaps><style=\"Blue\">bet\xE4ubt</style></smallcaps>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053321
+    m_Localized: "Fale wirkt <smallcaps><style=\"Blue\">Wiederbeleben</style></smallcaps>
+      auf die ersten zwei anderen Mystlinge, die <style=\"Blue\">kampfunf\xE4hig</style>
+      werden."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053322
+    m_Localized: "Fale erh\xE4lt {Effect0.ValueInt} <smallcaps><style=\"Blue\">St\xE4rke</style></smallcaps>,
+      wenn andere Mystlinge <smallcaps><style=\"Blue\">aktiviert</style></smallcaps>
+      werden."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053323
+    m_Localized: "Wenn ein anderer Mystling <style=\"Blue\">kampfunf\xE4hig</style>
+      wird, <smallcaps><style=\"Blue\">bet\xE4ube</style></smallcaps> alle Gegner."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053302
+    m_Localized: Eftus
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053303
+    m_Localized: Erhabener Eftus
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053304
+    m_Localized: "Efti haben nichts gegen andere, solange sie ihren schwer nachvollziehbaren
+      Besch\xE4ftigungen nachgehen k\xF6nnen. Sie ignorieren andere Mystlinge, ignorieren
+      B\xE4ndiger und reagieren nur, wenn etwas ihnen physischen Schaden zuf\xFCgt.
+      Angeblich hat eine Gruppe Efti einmal ein Piratenschiff gekapert und segelt
+      seitdem \xFCber die unruhigen Gew\xE4sser. "
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053305
+    m_Localized: Eftus bewirkt {Effect0.ValueInt} <style="Blue">Schaden</style> beim
+      <style="Blue">letzten</style> Gegner.
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053306
+    m_Localized: '<style="Blue">K. o.</style>: Erhalte {Effect0.ValueInt} Mystbeere.'
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053307
+    m_Localized: "<style=\"Blue\">K. o.</style>: Erhalte {Effect0.ValueInt} Mystbeere
+      und Eftus erh\xE4lt permanent {Effect1.ValueInt} <style=\"Blue\">Gesundheit</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053308
+    m_Localized: "<style=\"Blue\">K. o.</style>: Erhalte {Effect0.ValueInt} Mystbeere
+      und Eftus erh\xE4lt permanent {Effect1.ValueInt} <style=\"Blue\">Kraft</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053309
+    m_Localized: '<style="Blue">K. o.</style>: Erhalte {Effect0.ValueInt} Mystbeere
+      und {Effect1.ValueInt} <style="Blue">Energie</style>.'
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053310
+    m_Localized: "<style=\"Blue\">K. o.</style>: Eftus erh\xE4lt permanent {Effect1.ValueInt}
+      <style=\"Blue\">Gesundheit</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053311
+    m_Localized: "<style=\"Blue\">K. o.</style>: Eftus erh\xE4lt permanent {Effect1.ValueInt}
+      <style=\"Blue\">Kraft</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 5776446912053312
+    m_Localized: '<style="Blue">K. o.</style>: Erhalte {Effect1.ValueInt} <style="Blue">Energie</style>.'
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 31100841666019328
+    m_Localized: "Fale sind freundlich und liebenswert. Sie planschen gerne im seichten
+      Wasser, bummeln auf ihren kurzen Beinen am Strand entlang und gehen mit anderen
+      Kreaturen zusammen tauchen. Trotz ihres Aussehens k\xF6nnen Fale f\xFCr den
+      Kampf trainiert werden!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 31100841678602240
+    m_Localized: "Prowler sind klein und lautlos, pirschen durch W\xE4lder, jagen
+      kleine Tiere und sammeln Beeren und N\xFCsse. Ihre gem\xFCtlichen Nester sind
+      meist in Astl\xF6chern von B\xE4umen versteckt, wo sie tags\xFCber schlafen."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 63394363265777664
+    m_Localized: "Diese Bergkreaturen f\xFChren normalerweise ein abgeschiedenes
+      Leben, doch einige sehr neugierige Exemplare wagen sich weiter hervor, sodass
+      sie in niedrigeren Bereichen anzutreffen sind. \xDCberraschenderweise besitzen
+      Icelinge erstaunliche Kraft und trainieren gerne."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 63747457782644736
+    m_Localized: "Pinequeaks sind zwar kleinw\xFCchsig, aber voller \xDCberschwang.
+      Ihr hitziges Temperament und ihre gezielte Wut k\xF6nnen das Blatt in jedem
+      Kampf wenden."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 31100841678602241
+    m_Localized: "Glarexi sind stoisch und hochm\xFCtig. Sie ignorieren die Au\xDFenwelt
+      geflissentlich, da sie nichts zum Essen brauchen. Wenn etwas ihre meditative
+      Ruhe st\xF6rt, versuchen sie, es schnellstm\xF6glich zu vernichten."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 45921139486171136
+    m_Localized: Emberling
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 45921139511336960
+    m_Localized: Erhabener Emberling
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 45921139511336961
+    m_Localized: Emberling bewirkt {Effect0.ValueInt} <style="Blue">Schaden</style>
+      bei allen Gegnern und {Effect1.ValueInt} <style="Blue">Schaden</style> bei
+      anderen Mystlingen.
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 45921139511336962
+    m_Localized: "Emberling kann sein Ziel frei w\xE4hlen, wenn er mit einer Karte
+      angreift (gilt nicht f\xFCr Karten, die ihr Ziel zuf\xE4llig bestimmen oder
+      alle Gegner betreffen)."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 45921139511336965
+    m_Localized: "Emberling kann sein Ziel frei w\xE4hlen, wenn er mit einer Karte
+      angreift (gilt nicht f\xFCr Karten, die ihr Ziel zuf\xE4llig bestimmen oder
+      alle Gegner betreffen).\nAngriff: Gegner hinter dem Ziel erleidet 50 % Schaden."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 45921139511336966
+    m_Localized: 'Aktivierung: Emberling bewirkt {Effect0.ValueInt} <style="Blue">Schaden</style>
+      bei allen Gegnern und {Effect0.ValueInt} <style="Blue">Schaden</style> bei
+      anderen Mystlingen.'
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 45921139511336967
+    m_Localized: "Erh\xF6he Emberlings <style=\"Blue\">Kraft</style> um {Mystling.Power}."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 45921139511336968
+    m_Localized: 'Angriff: Gegner hinter dem Ziel erleidet 50 % <style="Blue">Schaden</style>.'
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 45921139511336969
+    m_Localized: Luminesca
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 45921139511336970
+    m_Localized: Erhabene Luminesca
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 45921139511336971
+    m_Localized: "Luminesca wirkt {Effect0.ValueInt} <smallcaps><style=\"Blue\">St\xE4rke</style></smallcaps>,
+      {Effect1.ValueInt} <smallcaps><style=\"Blue\">Schilde</style></smallcaps>,
+      <style=\"Blue\">heilt</style> {Effect2.ValueInt} Gesundheit beim vordersten
+      Mystling und <smallcaps><style=\"Blue\">bet\xE4ubt</style></smallcaps> sich
+      dann selbst."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 45921139511336972
+    m_Localized: "Jedes zweite Mal, wenn Luminesca <smallcaps><style=\"Blue\">verletzt</style></smallcaps>
+      wird, erh\xE4lt sie {Effect0.ValueInt} <smallcaps><style=\"Blue\">Ausweichen</style></smallcaps>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 45921139511336976
+    m_Localized: "Bei <smallcaps><style=\"Blue\">Aktivierung</style></smallcaps>
+      wirkt Luminesca zus\xE4tzlich {Effect1.ValueInt} <smallcaps><style=\"Blue\">St\xE4rke</style></smallcaps>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 45921139511336977
+    m_Localized: Bei <smallcaps><style="Blue">Aktivierung</style></smallcaps> bewirkt
+      Luminesca {Effect2.ValueInt} <smallcaps><style="Blue">Schilde</style></smallcaps>.
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 45921139511336978
+    m_Localized: Bei <smallcaps><style="Blue">Aktivierung</style></smallcaps> <style="Blue">heilt</style>
+      Luminesca {Effect3.ValueInt} <style="Blue">Gesundheit</style>.
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 55722999243939840
+    m_Localized: Gaiadon
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 55722999269105665
+    m_Localized: "Grundform: Gaiadon erh\xE4lt {Effect0.ValueInt} <style=\"Blue\">Drachenladung</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 55722999269105666
+    m_Localized: "Wenn Gaiadon 5 <style=\"Blue\">Drachenladungen</style> erh\xE4lt,
+      nimmt er bis zum Ende der Runde Drachengestalt an.\nDrachengestalt: Erhalte
+      {Effect3.ValueInt} <style=\"Blue\">St\xE4rke</style> und {Effect2.ValueInt}
+      <style=\"Blue\">Schilde</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 55722999269105673
+    m_Localized: Lear
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 55722999269105674
+    m_Localized: Erhabener Lear
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 55722999269105675
+    m_Localized: "Lear erh\xE4lt {Effect0.ValueInt} <style=\"Blue\">Gesundheit</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 55722999269105676
+    m_Localized: "Wenn Lear <smallcaps><style=\"Blue\">verletzt</style></smallcaps>
+      ist: Lear erh\xE4lt <smallcaps><style=\"Blue\">St\xE4rke</style></smallcaps>
+      in H\xF6he der verlorenen Gesundheit."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 55722999269105678
+    m_Localized: "Reduziere den erlittenen <style=\"Blue\">Schaden</style> permanent
+      um {Effect0.AdditionalValueString} %<br><smallcaps><style=\"Blue\">Verletzt</style></smallcaps>:
+      Erhalte <smallcaps><style=\"Blue\">St\xE4rke</style></smallcaps> in H\xF6he
+      der verlorenen <style=\"Blue\">Gesundheit</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 55722999269105679
+    m_Localized: "Erh\xF6he den erlittenen <style=\"Blue\">Schaden</style> permanent
+      um {Effect1.AdditionalValueString} %<br><style=\"Blue\">Verletzt</style>: Erhalte
+      <style=\"Blue\">St\xE4rke</style> in H\xF6he der zweifachen verlorenen <style=\"Blue\">Gesundheit</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 56431011013140483
+    m_Localized: "Lear erh\xE4lt jedes Mal max. {Effect1.ValueInt} <style=\"Blue\">Gesundheit</style>
+      hinzu, wenn er <smallcaps><style=\"Blue\">aktiviert</style></smallcaps> wird."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 56431011013140484
+    m_Localized: <style="Blue">Reduziere</style> den erlittenen <style="Blue">Schaden</style></style>
+      permanent um {Effect0.AdditionalValueString} %.
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  - m_Id: 56431011013140485
+    m_Localized: "<style=\"Blue\">Erh\xF6he</style> den erlittenen <style=\"Blue\">Schaden</style>
+      permanent um {Effect1.AdditionalValueString} %, verdopple die erhaltene <smallcaps><style=\"Blue\">St\xE4rke</style></smallcaps>,
+      wenn du <smallcaps><style=\"Blue\">verletzt</style></smallcaps> bist."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410420
+  references:
+    version: 2
+    RefIds:
+    - rid: 8829885829830410420
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 5776446886887424
+        - id: 5776446912053248
+        - id: 5776446912053249
+        - id: 5776446912053250
+        - id: 5776446912053251
+        - id: 5776446912053252
+        - id: 5776446912053253
+        - id: 5776446912053255
+        - id: 5776446912053256
+        - id: 12276047190016000
+        - id: 5776446912053258
+        - id: 5776446912053259
+        - id: 5776446912053260
+        - id: 5776446912053261
+        - id: 5776446912053262
+        - id: 5776446912053263
+        - id: 5776446912053264
+        - id: 12304182178594816
+        - id: 5776446912053266
+        - id: 5776446912053267
+        - id: 12304182178594817
+        - id: 5776446912053269
+        - id: 5776446912053270
+        - id: 5776446912053271
+        - id: 5776446912053272
+        - id: 5776446912053273
+        - id: 5776446912053274
+        - id: 5776446912053275
+        - id: 12295938882256896
+        - id: 5776446912053277
+        - id: 5776446912053278
+        - id: 12295938882256897
+        - id: 5776446912053280
+        - id: 5776446912053281
+        - id: 5776446912053282
+        - id: 5776446912053283
+        - id: 5776446912053284
+        - id: 5776446912053285
+        - id: 5776446912053286
+        - id: 12286811510521856
+        - id: 5776446912053288
+        - id: 5776446912053289
+        - id: 12286811510521857
+        - id: 5776446912053291
+        - id: 5776446912053292
+        - id: 5776446912053293
+        - id: 5776446912053294
+        - id: 5776446912053295
+        - id: 5776446912053335
+        - id: 5776446912053336
+        - id: 5776446912053337
+        - id: 5776446912053338
+        - id: 5776446912053339
+        - id: 5776446912053343
+        - id: 32555650210930688
+        - id: 32555650231902208
+        - id: 5776446912053346
+        - id: 5776446912053347
+        - id: 5776446912053348
+        - id: 5776446912053349
+        - id: 5776446912053350
+        - id: 5776446912053351
+        - id: 5776446912053353
+        - id: 5776446912053354
+        - id: 5776446912053355
+        - id: 5776446912053356
+        - id: 5776446912053324
+        - id: 5776446912053325
+        - id: 5776446912053326
+        - id: 5776446912053327
+        - id: 5776446912053328
+        - id: 5776446912053329
+        - id: 5776446912053330
+        - id: 5776446912053331
+        - id: 5776446912053332
+        - id: 5776446912053333
+        - id: 5776446912053334
+        - id: 5776446912053313
+        - id: 5776446912053314
+        - id: 5776446912053315
+        - id: 5776446912053316
+        - id: 5776446912053317
+        - id: 5776446912053318
+        - id: 5776446912053319
+        - id: 5776446912053320
+        - id: 5776446912053321
+        - id: 5776446912053322
+        - id: 5776446912053323
+        - id: 5776446912053302
+        - id: 5776446912053303
+        - id: 5776446912053304
+        - id: 5776446912053305
+        - id: 5776446912053306
+        - id: 5776446912053307
+        - id: 5776446912053308
+        - id: 5776446912053309
+        - id: 5776446912053310
+        - id: 5776446912053311
+        - id: 5776446912053312
+        - id: 31100841666019328
+        - id: 31100841678602240
+        - id: 63394363265777664
+        - id: 63747457782644736
+        - id: 31100841678602241
+        - id: 45921139486171136
+        - id: 45921139511336960
+        - id: 45921139511336961
+        - id: 45921139511336962
+        - id: 45921139511336965
+        - id: 45921139511336966
+        - id: 45921139511336967
+        - id: 45921139511336968
+        - id: 45921139511336969
+        - id: 45921139511336970
+        - id: 45921139511336971
+        - id: 45921139511336972
+        - id: 45921139511336976
+        - id: 45921139511336977
+        - id: 45921139511336978
+        - id: 55722999243939840
+        - id: 55722999269105665
+        - id: 55722999269105666
+        - id: 55722999269105673
+        - id: 55722999269105674
+        - id: 55722999269105675
+        - id: 55722999269105676
+        - id: 55722999269105678
+        - id: 55722999269105679
+        - id: 56431011013140483
+        - id: 56431011013140484
+        - id: 56431011013140485

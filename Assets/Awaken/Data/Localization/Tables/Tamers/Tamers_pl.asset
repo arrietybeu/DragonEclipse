@@ -1,0 +1,189 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Tamers_pl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl
+  m_SharedData: {fileID: 11400000, guid: 4bdcaf64e4a5916478186f30c14ef387, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2105433060097654828
+  m_TableData:
+  - m_Id: 10119456537821184
+    m_Localized: "Niedost\u0119pne"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654828
+  - m_Id: 10119527421558784
+    m_Localized: Odblokuj tego tresera w toku rozgrywki!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654828
+  - m_Id: 54659618039738368
+    m_Localized: Arcana DeFault
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654828
+  - m_Id: 54659618073292800
+    m_Localized: "Pierwsza karta kupiona na ekranie nagr\xF3d po ka\u017Cdej walce
+      jest darmowa"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654828
+  - m_Id: 54659618073292801
+    m_Localized: Brawurowy Randy
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654828
+  - m_Id: 78626348725248000
+    m_Localized: "Jeden losowy mystling przechodzi ewolucj\u0119 na samym pocz\u0105tku.
+      Nie mo\u017Cna go leczy\u0107, a jego maks. zdrowie jest mniejsze o po\u0142ow\u0119"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654828
+  - m_Id: 78626348750413824
+    m_Localized: "Jeden losowy mystling przechodzi ewolucj\u0119 na samym pocz\u0105tku"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654828
+  - m_Id: 69538106172317696
+    m_Localized: "Pocz\u0105tki ewolucji"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654828
+  - m_Id: 69538106197483520
+    m_Localized: "Rozpocz\u0119ta przygoda z ewolucj\u0105. Maks. zdrowie zmniejszone
+      o po\u0142ow\u0119. Nie mo\u017Cna uleczy\u0107"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654828
+  - m_Id: 54659618073292803
+    m_Localized: Maya Bloomberry
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654828
+  - m_Id: 54659618073292804
+    m_Localized: "Zaczyna z {Tamer.EmberSeeds} szt. mystjag\xF3d"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654828
+  - m_Id: 68455510805913600
+    m_Localized: "Zaczyna z wi\u0119ksz\u0105 liczb\u0105 mystjag\xF3d"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654828
+  - m_Id: 54659618073292805
+    m_Localized: Deckard Cardwell
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654828
+  - m_Id: 54659618073292806
+    m_Localized: "Liczba mystling\xF3w w dru\u017Cynie jest ograniczona do {Tamer.TeamSize},
+      ale pula energii ro\u015Bnie do {Tamer.CombatEnergy}"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654828
+  - m_Id: 68455510805913601
+    m_Localized: "Liczba mystling\xF3w w dru\u017Cynie jest ograniczona do {Tamer.TeamSize},
+      ale pula energii ro\u015Bnie"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654828
+  - m_Id: 54659618073292807
+    m_Localized: Philip Phillips
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654828
+  - m_Id: 54659618073292808
+    m_Localized: "Mystlingi aktywowane na koniec rundy robi\u0105 to dwukrotnie.
+      Wygranie walki przynosi o {Tamer.GoldAfterCombatMultiplier}% mniej z\u0142ota"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654828
+  - m_Id: 68455510805913602
+    m_Localized: "Mystlingi aktywowane na koniec rundy robi\u0105 to dwukrotnie"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654828
+  - m_Id: 69538106197483521
+    m_Localized: "Podw\xF3jna aktywacja"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654828
+  - m_Id: 69538106197483522
+    m_Localized: "Je\u015Bli ten mystling jest aktywowany na koniec rundy, robi to
+      dwukrotnie"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654828
+  - m_Id: 54659618073292809
+    m_Localized: Barbara Prime
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654828
+  - m_Id: 54659618073292810
+    m_Localized: "W pierwszej rundzie walki mystlingi zadaj\u0105 dwukrotnie wi\u0119ksze
+      obra\u017Cenia. W ka\u017Cdej rundzie tracisz {Tamer.LoseMystberryEveryRound}
+      szt. mystjag\xF3d"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654828
+  - m_Id: 68455510805913603
+    m_Localized: "W pierwszej rundzie walki mystlingi zadaj\u0105 dwukrotnie wi\u0119ksze
+      obra\u017Cenia"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654828
+  - m_Id: 69538106197483523
+    m_Localized: "Mocny pocz\u0105tek"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654828
+  - m_Id: 69538106197483524
+    m_Localized: "W pierwszej rundzie walki obra\u017Cenia s\u0105 dwukrotnie wi\u0119ksze"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654828
+  references:
+    version: 2
+    RefIds:
+    - rid: 2105433060097654828
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 10119456537821184
+        - id: 10119527421558784
+        - id: 54659618039738368
+        - id: 54659618073292800
+        - id: 54659618073292801
+        - id: 78626348725248000
+        - id: 78626348750413824
+        - id: 69538106172317696
+        - id: 69538106197483520
+        - id: 54659618073292803
+        - id: 54659618073292804
+        - id: 68455510805913600
+        - id: 54659618073292805
+        - id: 54659618073292806
+        - id: 68455510805913601
+        - id: 54659618073292807
+        - id: 54659618073292808
+        - id: 68455510805913602
+        - id: 69538106197483521
+        - id: 69538106197483522
+        - id: 54659618073292809
+        - id: 54659618073292810
+        - id: 68455510805913603
+        - id: 69538106197483523
+        - id: 69538106197483524

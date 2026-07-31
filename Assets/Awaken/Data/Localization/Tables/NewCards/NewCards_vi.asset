@@ -1,0 +1,1487 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: NewCards_vi
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: vi
+  m_SharedData: {fileID: 11400000, guid: caba9702263213c42bddf4777cadc9d2, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 8099901647879405578
+  m_TableData:
+  - m_Id: 359614801584128
+    m_Localized: "C\u01A1n Gi\u1EADn M\xF9 Qu\xE1ng"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584129
+    m_Localized: "D\xF9ng m\u1ED9t Mystling ng\u1EABu nhi\xEAn T\u1EA5n c\xF4ng m\u1ED9t
+      K\u1EBB \u0111\u1ECBch ng\u1EABu nhi\xEAn v\u1EDBi {Effect0.Attack.PowerModifier}%
+      S\u1EE9c m\u1EA1nh"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584130
+    m_Localized: "D\xF9ng m\u1ED9t Mystling ng\u1EABu nhi\xEAn T\u1EA5n c\xF4ng m\u1ED9t
+      K\u1EBB \u0111\u1ECBch ng\u1EABu nhi\xEAn"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584131
+    m_Localized: "\xC1nh S\xE1ng Xoa D\u1ECBu"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584132
+    m_Localized: "<style=\"Blue\">H\u1ED3i</style> {Effect0.ValueInt} M\xE1u cho
+      Mystling \u0111\u01B0\u1EE3c ch\u1ECDn"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584134
+    m_Localized: "B\xE3o \u0110\xE1"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584135
+    m_Localized: "T\u1EA5n c\xF4ng {Effect1.Attack.Repeat} l\u1EA7n v\u1EDBi {Effect1.Attack.PowerModifier}%
+      S\u1EE9c m\u1EA1nh. <smallcaps><style=\"Blue\">G\xE2y Th\u01B0\u01A1ng</style></smallcaps>
+      {Effect0.ValueInt} s\xE1t th\u01B0\u01A1ng l\xEAn Mystling n\xE0y"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584137
+    m_Localized: "Qu\u1EA3 C\u1EA7u Tuy\u1EBFt"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584138
+    m_Localized: "<smallcaps><style=\"Blue\">Cho\xE1ng</style></smallcaps> K\u1EBB
+      \u0111\u1ECBch \u0111\u01B0\u1EE3c ch\u1ECDn"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584140
+    m_Localized: "L\xF4ng V\u0169 S\u1EAFc"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584141
+    m_Localized: "G\xE2y ({Effect0.ValueInt}) s\xE1t th\u01B0\u01A1ng l\xEAn k\u1EBB
+      \u0111\u1ECBch \u0111\u01B0\u1EE3c ch\u1ECDn. (B\u1EB1ng s\u1ED1 l\xE1 b\xE0i
+      tr\xEAn tay)"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584152
+    m_Localized: "\u0110\xF4i C\xE1nh Cu\u1ED3ng N\u1ED9"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584164
+    m_Localized: "K\xEDch ho\u1EA1t!"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584165
+    m_Localized: "<smallcaps><style=\"Blue\">K\xEDch ho\u1EA1t</style></smallcaps>
+      Mystling \u0111\u01B0\u1EE3c ch\u1ECDn"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584167
+    m_Localized: "T\u1EA5n c\xF4ng!"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584168
+    m_Localized: "Ra l\u1EC7nh cho Mystling \u0111\u01B0\u1EE3c ch\u1ECDn <style=\"Blue\">T\u1EA5n
+      c\xF4ng</style> "
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584169
+    m_Localized: "Ra l\u1EC7nh cho Mystling \u0111\u01B0\u1EE3c ch\u1ECDn <style=\"Blue\">T\u1EA5n
+      c\xF4ng</style> "
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584170
+    m_Localized: "Ph\xF2ng th\u1EE7!"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584171
+    m_Localized: "C\u1EA5p {Effect0.ValueInt} <smallcaps><style=\"Blue\">Khi\xEAn</style></smallcaps>
+      cho Mystling \u0111\u01B0\u1EE3c ch\u1ECDn"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584173
+    m_Localized: "T\u1EA5t C\u1EA3 Trong M\u1ED9t"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584174
+    m_Localized: "Ra l\u1EC7nh cho Mystling \u0111\u01B0\u1EE3c ch\u1ECDn <smallcaps><style=\"Blue\">K\xEDch
+      ho\u1EA1t</style></smallcaps> {Effect0.ValueInt} v\xE0 <style=\"Blue\">T\u1EA5n
+      c\xF4ng</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584176
+    m_Localized: "Si\xEAu K\xEDch Ho\u1EA1t"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584177
+    m_Localized: "<smallcaps><style=\"Blue\">K\xEDch ho\u1EA1t</style></smallcaps>
+      Mystling \u0111\u01B0\u1EE3c ch\u1ECDn"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584178
+    m_Localized: "<smallcaps><style=\"Blue\">K\xEDch ho\u1EA1t</style></smallcaps>
+      Mystling \u0111\u01B0\u1EE3c ch\u1ECDn"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584179
+    m_Localized: "Ch\u1ECDc T\u1EE9c"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584180
+    m_Localized: "Ra l\u1EC7nh cho Mystling \u0111\u01B0\u1EE3c ch\u1ECDn <style=\"Blue\">T\u1EA5n
+      c\xF4ng</style> v\u1EDBi {Effect1.Attack.PowerModifier}% S\u1EE9c m\u1EA1nh.
+      <smallcaps><style=\"Blue\">G\xE2y Th\u01B0\u01A1ng</style></smallcaps> {Effect0.ValueInt}
+      s\xE1t th\u01B0\u01A1ng l\xEAn n\xF3"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584188
+    m_Localized: "T\u1EA5n C\xF4ng M\u1EA1nh"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584189
+    m_Localized: "Ra l\u1EC7nh cho Mystling \u0111\u01B0\u1EE3c ch\u1ECDn <style=\"Blue\">T\u1EA5n
+      c\xF4ng</style> v\u1EDBi {Effect0.Attack.PowerModifier}% S\u1EE9c m\u1EA1nh"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584203
+    m_Localized: "N\u1EC7n Khi\xEAn"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584204
+    m_Localized: "Ra l\u1EC7nh cho Mystling \u0111\u01B0\u1EE3c ch\u1ECDn <style=\"Blue\">T\u1EA5n
+      c\xF4ng</style> v\u1EDBi S\u1EE9c m\u1EA1nh b\u1EB1ng <smallcaps><style=\"Blue\">Khi\xEAn</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584221
+    m_Localized: "Si\xEAu Ph\xF2ng Th\u1EE7"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584222
+    m_Localized: "C\u1EA5p {Effect0.ValueInt} <smallcaps><style=\"Blue\">Khi\xEAn</style></smallcaps>
+      cho Mystling \u0111\u01B0\u1EE3c ch\u1ECDn"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584230
+    m_Localized: "\u0110\u1EA1i Ph\xF2ng Th\u1EE7"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584231
+    m_Localized: "C\u1EA5p {Effect0.ValueInt} <smallcaps><style=\"Blue\">Khi\xEAn</style></smallcaps>
+      cho Mystling \u0111\u01B0\u1EE3c ch\u1ECDn"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584233
+    m_Localized: "B\u1EA5t Kh\u1EA3 X\xE2m Ph\u1EA1m"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584234
+    m_Localized: "Nh\xE2n \u0111\xF4i <smallcaps><style=\"Blue\">Khi\xEAn</style></smallcaps>
+      tr\xEAn Mystling \u0111\u01B0\u1EE3c ch\u1ECDn"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584248
+    m_Localized: "Tay \xC1o D\xE0i"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584249
+    m_Localized: "<style=\"Blue\">R\xFAt</style> {Effect0.ValueInt} l\xE1 b\xE0i"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584260
+    m_Localized: "\u0110\u1ED5i B\xE0i"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584261
+    m_Localized: "<style=\"Blue\">B\u1ECF </style>{Effect0.ValueInt} l\xE1 b\xE0i.<br><style=\"Blue\">R\xFAt</style>
+      {Effect1.ValueInt} l\xE1 b\xE0i"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584263
+    m_Localized: "Ti\u1EBFp N\u0103ng"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584264
+    m_Localized: "Nh\u1EADn {Effect0.ValueInt} <style=\"Blue\">N\u0103ng l\u01B0\u1EE3ng</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584269
+    m_Localized: "Nghi\u1EBFn R\u0103ng"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584270
+    m_Localized: "<style=\"Blue\">G\xE2y Th\u01B0\u01A1ng</style> {Effect0.ValueInt}
+      s\xE1t th\u01B0\u01A1ng l\xEAn Mystling \u0111\u01B0\u1EE3c ch\u1ECDn.<br>Nh\u1EADn
+      {Effect1.ValueInt} <style=\"Blue\">N\u0103ng l\u01B0\u1EE3ng</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584272
+    m_Localized: "R\u1EAFc R\u1ED1i K\xE9p"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584273
+    m_Localized: "L\xE1 b\xE0i ch\u01A1i ti\u1EBFp theo s\u1EBD \u0111\u01B0\u1EE3c
+      k\xEDch ho\u1EA1t {Effect0.ValueInt} l\u1EA7n"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584274
+    m_Localized: "L\xE1 b\xE0i ch\u01A1i ti\u1EBFp theo s\u1EBD \u0111\u01B0\u1EE3c
+      k\xEDch ho\u1EA1t {Effect0.ValueInt} l\u1EA7n"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584290
+    m_Localized: "Si\xEAu Cu\u1ED3ng N\u1ED9"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584291
+    m_Localized: "C\u1EA5p {Effect0.ValueInt} <smallcaps><style=\"Blue\">C\u01B0\u1EDDng
+      L\u1EF1c</style></smallcaps> cho Mystling \u0111\u01B0\u1EE3c ch\u1ECDn"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614805778434
+    m_Localized: "Cu\u1ED3ng N\u1ED9"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614805778435
+    m_Localized: "Nh\xE2n \u0111\xF4i <smallcaps><style=\"Blue\">C\u01B0\u1EDDng
+      L\u1EF1c</style></smallcaps> tr\xEAn Mystling \u0111\u01B0\u1EE3c ch\u1ECDn"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 1012535532789760
+    m_Localized: "Ra l\u1EC7nh cho Mystling \u0111\u01B0\u1EE3c ch\u1ECDn <style=\"Blue\">T\u1EA5n
+      c\xF4ng</style> v\u1EDBi {Effect1.Attack.PowerModifier}% S\u1EE9c m\u1EA1nh.
+      <smallcaps><style=\"Blue\">G\xE2y Th\u01B0\u01A1ng</style></smallcaps> {Effect0.ValueInt}
+      s\xE1t th\u01B0\u01A1ng l\xEAn n\xF3"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 6068234742775808
+    m_Localized: "Ch\u1EDBp Nho\xE1ng"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584153
+    m_Localized: "Kh\xF4ng c\xF3 t\xE1c d\u1EE5ng cho \u0111\u1EBFn khi Drosithia
+      ti\u1EBFn h\xF3a"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 359614801584154
+    m_Localized: "Ra l\u1EC7nh cho Mystling \u0111\u01B0\u1EE3c ch\u1ECDn <style=\"Blue\">T\u1EA5n
+      c\xF4ng</style> {Effect0.Strike.Repeat} l\u1EA7n"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 8305471962292224
+    m_Localized: "Tam Li\xEAn K\xEDch"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 8305471995846656
+    m_Localized: "\u0110\xE1nh ba l\u1EA7n v\u1EDBi 50%"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 8305471995846657
+    m_Localized: "\u0110\xE1nh ba l\u1EA7n"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 8594212224311296
+    m_Localized: "Ch\u1ECDc T\u1EE9c"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 8594212241088512
+    m_Localized: "G\xE2y Th\u01B0\u01A1ng 1. \u0110\xE1nh hai l\u1EA7n"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 8595287174094848
+    m_Localized: "G\xE2y Th\u01B0\u01A1ng 1. \u0110\xE1nh ba l\u1EA7n"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 8599766619463680
+    m_Localized: "Ch\u1ECDc T\u1EE9c"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 8599766640435200
+    m_Localized: "G\xE2y Th\u01B0\u01A1ng 1. \u0110\xE1nh hai l\u1EA7n"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 8599766640435201
+    m_Localized: "G\xE2y Th\u01B0\u01A1ng 1. \u0110\xE1nh ba l\u1EA7n"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 8654231544340480
+    m_Localized: "L\u1EDDi Nguy\u1EC1n"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 8654231544340481
+    m_Localized: "G\xE2y Th\u01B0\u01A1ng 1 s\xE1t th\u01B0\u01A1ng l\xEAn m\u1ED9t
+      Mystling"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 9698784846094336
+    m_Localized: "K\xEDch ho\u1EA1t v\xE0 \u0110\xE1nh hai l\u1EA7n b\u1EB1ng m\u1ED9t
+      Mystling"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 9702472692080640
+    m_Localized: "\u0110\xE1nh l\u1EA7n l\u01B0\u1EE3t t\u1EA5t c\u1EA3 k\u1EBB \u0111\u1ECBch"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 9711336900599808
+    m_Localized: "\u0110a K\xEDch Ho\u1EA1t"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 9711336900599809
+    m_Localized: "K\xEDch ho\u1EA1t hai l\u1EA7n."
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 9711336900599810
+    m_Localized: "K\xEDch ho\u1EA1t ba l\u1EA7n."
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 9711336900599812
+    m_Localized: "C\u1EA5p 4 Khi\xEAn cho Mystling ng\u1EABu nhi\xEAn 3 l\u1EA7n."
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 9711336900599813
+    m_Localized: "C\u1EA5p 5 Khi\xEAn cho Mystling ng\u1EABu nhi\xEAn 4 l\u1EA7n."
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 9711336900599811
+    m_Localized: "M\u01B0a Gi\xE1p"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 9711336900599815
+    m_Localized: "Nh\u1EADn 2 N\u0103ng l\u01B0\u1EE3ng v\xE0o v\xF2ng sau."
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 9711336900599816
+    m_Localized: "Nh\u1EADn 3 N\u0103ng l\u01B0\u1EE3ng v\xE0o v\xF2ng sau."
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 9711336900599818
+    m_Localized: "\u0110\xE1nh. Nh\u1EADn 1 N\u0103ng l\u01B0\u1EE3ng v\xE0o v\xF2ng
+      sau."
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 9711336900599819
+    m_Localized: "\u0110\xE1nh hai l\u1EA7n. Nh\u1EADn 1 N\u0103ng l\u01B0\u1EE3ng
+      v\xE0o v\xF2ng sau."
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 9722764999073792
+    m_Localized: "K\xEDch ho\u1EA1t v\xE0 \u0110\xE1nh hai l\u1EA7n b\u1EB1ng m\u1ED9t
+      Mystling"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 9722765028433920
+    m_Localized: "\u0110\xE1nh l\u1EA7n l\u01B0\u1EE3t t\u1EA5t c\u1EA3 k\u1EBB \u0111\u1ECBch"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 9722765028433921
+    m_Localized: "\u0110a K\xEDch Ho\u1EA1t"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 9722765028433922
+    m_Localized: "K\xEDch ho\u1EA1t hai l\u1EA7n."
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 9722765028433923
+    m_Localized: "K\xEDch ho\u1EA1t ba l\u1EA7n."
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 9722765028433924
+    m_Localized: "M\u01B0a Gi\xE1p"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 9722765028433925
+    m_Localized: "C\u1EA5p 4 Khi\xEAn cho Mystling ng\u1EABu nhi\xEAn 3 l\u1EA7n."
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 9722765028433926
+    m_Localized: "C\u1EA5p 5 Khi\xEAn cho Mystling ng\u1EABu nhi\xEAn 4 l\u1EA7n."
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 9722765028433927
+    m_Localized: "Ngu\u1ED3n N\u0103ng L\u01B0\u1EE3ng"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 9722765028433928
+    m_Localized: "Nh\u1EADn 2 N\u0103ng l\u01B0\u1EE3ng v\xE0o v\xF2ng sau."
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 9722765032628224
+    m_Localized: "Nh\u1EADn 3 N\u0103ng l\u01B0\u1EE3ng v\xE0o v\xF2ng sau."
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 9722765032628225
+    m_Localized: "B\xF9ng N\u1ED5 Adrenaline"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 9722765032628226
+    m_Localized: "\u0110\xE1nh. Nh\u1EADn 1 N\u0103ng l\u01B0\u1EE3ng v\xE0o v\xF2ng
+      sau."
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 9722765032628227
+    m_Localized: "\u0110\xE1nh hai l\u1EA7n. Nh\u1EADn 1 N\u0103ng l\u01B0\u1EE3ng
+      v\xE0o v\xF2ng sau."
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 9714495664537600
+    m_Localized: "Ra l\u1EC7nh cho Mystling \u0111\u01B0\u1EE3c ch\u1ECDn <smallcaps><style=\"Blue\">K\xEDch
+      ho\u1EA1t</style></smallcaps> {Effect0.ValueInt} v\xE0 <style=\"Blue\">T\u1EA5n
+      c\xF4ng</style> hai l\u1EA7n"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 9714495685509121
+    m_Localized: "K\xEDch Ho\u1EA1t K\xE9p"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 9714495685509122
+    m_Localized: "<smallcaps><style=\"Blue\">K\xEDch ho\u1EA1t</style></smallcaps>
+      Mystling \u0111\u01B0\u1EE3c ch\u1ECDn {Effect0.ValueInt} l\u1EA7n"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 9714495685509123
+    m_Localized: "<smallcaps><style=\"Blue\">K\xEDch ho\u1EA1t</style></smallcaps>
+      Mystling \u0111\u01B0\u1EE3c ch\u1ECDn {Effect0.ValueInt} l\u1EA7n"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 9714495685509127
+    m_Localized: "Ngu\u1ED3n N\u0103ng L\u01B0\u1EE3ng"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 9714495685509128
+    m_Localized: "Nh\u1EADn {Effect0.ValueInt} <style=\"Blue\">N\u0103ng l\u01B0\u1EE3ng</style>
+      v\xE0o V\xF2ng sau"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 9714495685509129
+    m_Localized: "Nh\u1EADn {Effect0.ValueInt} <style=\"Blue\">N\u0103ng l\u01B0\u1EE3ng</style>
+      v\xE0o V\xF2ng sau"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 10071164789571584
+    m_Localized: "\u0110i\u1EC3m Y\u1EBFu"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 10071164814737408
+    m_Localized: "Nh\xE2n \u0111\xF4i <smallcaps><style=\"Blue\">Mong Manh</style></smallcaps>
+      tr\xEAn K\u1EBB \u0111\u1ECBch \u0111\u01B0\u1EE3c ch\u1ECDn"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 10071164814737409
+    m_Localized: "Nh\xE2n \u0111\xF4i <smallcaps><style=\"Blue\">Mong Manh</style></smallcaps>
+      tr\xEAn K\u1EBB \u0111\u1ECBch \u0111\u01B0\u1EE3c ch\u1ECDn"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 10099474013691904
+    m_Localized: "C\u1EA5p {0} C\u01B0\u1EDDng L\u1EF1c. T\u0103ng th\xEAm 2 sau
+      m\u1ED7i l\u1EA7n d\xF9ng"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 10102173786513408
+    m_Localized: "G\xE2y Th\u01B0\u01A1ng {0}. C\u1EA5p {1} C\u01B0\u1EDDng L\u1EF1c.
+      T\u0103ng C\u01B0\u1EDDng L\u1EF1c th\xEAm 2 sau m\u1ED7i l\u1EA7n d\xF9ng"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 10473182117044224
+    m_Localized: "G\xE2y Th\u01B0\u01A1ng 1 s\xE1t th\u01B0\u01A1ng l\xEAn m\u1ED9t
+      K\u1EBB \u0111\u1ECBch"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 10809989220343808
+    m_Localized: "G\xE2y Th\u01B0\u01A1ng 1 s\xE1t th\u01B0\u01A1ng l\xEAn m\u1ED9t
+      K\u1EBB \u0111\u1ECBch"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 12260456458731520
+    m_Localized: "Chi Ph\xED T\u1ED1i Thi\u1EC3u"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 12259629631389697
+    m_Localized: "C\u1EA5p {Effect1.ValueInt} <smallcaps><style=\"Blue\">C\u01B0\u1EDDng
+      L\u1EF1c</style></smallcaps> cho Mystling \u0111\u01B0\u1EE3c ch\u1ECDn v\xE0
+      <smallcaps><style=\"Blue\">G\xE2y Th\u01B0\u01A1ng</style></smallcaps> {Effect0.ValueInt}
+      s\xE1t th\u01B0\u01A1ng l\xEAn n\xF3"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 11158346648330240
+    m_Localized: "\u0110a K\xEDch"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 11158346669301760
+    m_Localized: "C\u1EA5p 1 \u0110a K\xEDch"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 11159880559828992
+    m_Localized: "\u0110a K\xEDch"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 11159880580800512
+    m_Localized: "C\u1EA5p 1 \u0110a K\xEDch"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 11161586857222144
+    m_Localized: "\u0110a K\xEDch"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 11161586878193664
+    m_Localized: "C\u1EA5p 1 \u0110a K\xEDch"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 12260456458731521
+    m_Localized: "<style=\"Blue\">R\xFAt</style> m\u1ED9t l\xE1 b\xE0i v\xE0 gi\u1EA3m
+      <style=\"Blue\">chi ph\xED N\u0103ng l\u01B0\u1EE3ng</style> c\u1EE7a n\xF3
+      v\u1EC1 0 cho \u0111\u1EBFn khi n\xF3 \u0111\u01B0\u1EE3c ch\u01A1i ho\u1EB7c
+      b\u1ECB b\u1ECF"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 12259629631389696
+    m_Localized: "Quy\u1EBFt T\xE2m"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 12258587464286210
+    m_Localized: "<style=\"Blue\">R\xFAt</style> {Effect0.ValueInt} l\xE1 b\xE0i
+      (t\u1ED1i \u0111a {Effect0.ValueLimit})"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 12258587464286209
+    m_Localized: "<style=\"Blue\">R\xFAt</style> {Effect0.ValueInt} l\xE1 b\xE0i
+      (t\u1ED1i \u0111a {Effect0.ValueLimit})"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 12258587464286208
+    m_Localized: "T\xF2a Nh\xE0 B\xE0i"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 12255985393582081
+    m_Localized: "Khi\u1EBFn Mystling \u0111\u01B0\u1EE3c ch\u1ECDn <style=\"Blue\">Ng\u1EA5t</style>
+      ngay l\u1EADp t\u1EE9c.<br>Nh\u1EADn {Effect1.ValueInt} <style=\"Blue\">N\u0103ng
+      l\u01B0\u1EE3ng</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 12255985393582080
+    m_Localized: "Xin L\u1ED7i Nh\xF3c Con"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 12235921051205632
+    m_Localized: "<smallcaps><style=\"Blue\">Cho\xE1ng</style></smallcaps> K\u1EBB
+      \u0111\u1ECBch \u0111\u01B0\u1EE3c ch\u1ECDn"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 12252285371531264
+    m_Localized: "Ra l\u1EC7nh cho Mystling \u0111\u01B0\u1EE3c ch\u1ECDn <style=\"Blue\">T\u1EA5n
+      c\xF4ng</style> v\u1EDBi {Effect0.Attack.PowerModifier}% S\u1EE9c m\u1EA1nh"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 12268454048546816
+    m_Localized: "T\u1EA5n C\xF4ng Ch\u1EDBp Nho\xE1ng"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 12268454048546817
+    m_Localized: "<style=\"Blue\">B\u1ECF</style> {Effect0.ValueInt}. Ra l\u1EC7nh
+      cho Mystling \u0111\u01B0\u1EE3c ch\u1ECDn <style=\"Blue\">T\u1EA5n c\xF4ng</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 12268454048546818
+    m_Localized: "<style=\"Blue\">B\u1ECF</style> {Effect0.ValueInt}. Ra l\u1EC7nh
+      cho Mystling \u0111\u01B0\u1EE3c ch\u1ECDn <style=\"Blue\">T\u1EA5n c\xF4ng</style>
+      {Effect1.Attack.Repeat} l\u1EA7n"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 12315208664072192
+    m_Localized: "G\xE2y ({Effect0.ValueInt}) s\xE1t th\u01B0\u01A1ng l\xEAn k\u1EBB
+      \u0111\u1ECBch \u0111\u01B0\u1EE3c ch\u1ECDn. (B\u1EB1ng g\u1EA5p \u0111\xF4i
+      s\u1ED1 l\xE1 b\xE0i tr\xEAn tay b\u1EA1n)"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 12608167498334208
+    m_Localized: "S\u1EE9c Ch\u1ED1ng Ch\u1ECBu"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 12608167527694336
+    m_Localized: "T\u0103ng M\xE1u T\u1ED1i \u0110a th\xEAm {Effect0.ValueInt}"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 12608167527694337
+    m_Localized: "Khi\xEAn \u0110au \u0110i\u1EBFng"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 12608167527694338
+    m_Localized: "G\xE2y {Effect0.ValueInt} <smallcaps><style=\"Blue\">Mong Manh</style></smallcaps>
+      l\xEAn K\u1EBB \u0111\u1ECBch \u0111\u01B0\u1EE3c ch\u1ECDn"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 12608167527694340
+    m_Localized: "Gi\u1ECFi l\u1EAFm Fale!"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 12608167527694341
+    m_Localized: "<smallcaps><style=\"Blue\">K\xEDch ho\u1EA1t</style></smallcaps>
+      Mystling \u0111\u01B0\u1EE3c ch\u1ECDn"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 12608167527694343
+    m_Localized: "Gi\u1EDD C\xE2u C\xE1"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 12608167527694344
+    m_Localized: "K\xE9o K\u1EBB \u0111\u1ECBch \u0111\u01B0\u1EE3c ch\u1ECDn l\xEAn
+      h\xE0ng \u0111\u1EA7u v\xE0 g\xE2y {Effect1.ValueInt} <smallcaps><style=\"Blue\">Mong
+      Manh</style></smallcaps> l\xEAn n\xF3"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 12993906857852931
+    m_Localized: "\u0110\xF2n Vu\u1ED1t"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 12993906857852932
+    m_Localized: "Ra l\u1EC7nh cho Mystling \u0111\u01B0\u1EE3c ch\u1ECDn <style=\"Blue\">T\u1EA5n
+      c\xF4ng</style>.<br><style=\"Blue\">R\xFAt</style> {Effect1.ValueInt} l\xE1
+      b\xE0i"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 12993906857852933
+    m_Localized: "Ra l\u1EC7nh cho Mystling \u0111\u01B0\u1EE3c ch\u1ECDn <style=\"Blue\">T\u1EA5n
+      c\xF4ng</style> v\u1EDBi {Effect0.Attack.PowerModifier}% S\u1EE9c m\u1EA1nh.<br><style=\"Blue\">R\xFAt</style>
+      {Effect1.ValueInt} l\xE1 b\xE0i"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 12993906857852934
+    m_Localized: "Ch\u1ECDc Gh\u1EB9o"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 12993906857852935
+    m_Localized: "Ra l\u1EC7nh cho Mystling \u0111\u01B0\u1EE3c ch\u1ECDn <style=\"Blue\">T\u1EA5n
+      c\xF4ng</style> {Effect1.Attack.Repeat} l\u1EA7n. <smallcaps><style=\"Blue\">G\xE2y
+      Th\u01B0\u01A1ng</style></smallcaps> {Effect0.ValueInt} s\xE1t th\u01B0\u01A1ng
+      l\xEAn n\xF3"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 12993906857852936
+    m_Localized: "Ra l\u1EC7nh cho Mystling \u0111\u01B0\u1EE3c ch\u1ECDn <style=\"Blue\">T\u1EA5n
+      c\xF4ng</style> {Effect1.Attack.Repeat} l\u1EA7n. <smallcaps><style=\"Blue\">G\xE2y
+      Th\u01B0\u01A1ng</style></smallcaps> {Effect0.ValueInt} s\xE1t th\u01B0\u01A1ng
+      l\xEAn n\xF3"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 12993906857852937
+    m_Localized: "C\xE0n Qu\xE9t"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 12993906857852938
+    m_Localized: "Ra l\u1EC7nh cho Mystling \u0111\u01B0\u1EE3c ch\u1ECDn <style=\"Blue\">T\u1EA5n
+      c\xF4ng</style> t\u1EA5t c\u1EA3 k\u1EBB \u0111\u1ECBch"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 12993906857852939
+    m_Localized: "Ra l\u1EC7nh cho Mystling \u0111\u01B0\u1EE3c ch\u1ECDn <style=\"Blue\">T\u1EA5n
+      c\xF4ng</style>  t\u1EA5t c\u1EA3 k\u1EBB \u0111\u1ECBch"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 12993906857852940
+    m_Localized: "\u0110\xF2n \u0110\xE1nh \u0110i\xEAn Cu\u1ED3ng"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 12993906857852941
+    m_Localized: "Ra l\u1EC7nh cho Mystling \u0111\u01B0\u1EE3c ch\u1ECDn <style=\"Blue\">T\u1EA5n
+      c\xF4ng</style> c\xE1c k\u1EBB \u0111\u1ECBch ng\u1EABu nhi\xEAn {Effect0.Attack.Repeat}
+      l\u1EA7n v\u1EDBi {Effect0.Attack.PowerModifier}% S\u1EE9c m\u1EA1nh"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 17388664405434368
+    m_Localized: "T\u1EA5n c\xF4ng {Effect1.Attack.Repeat} l\u1EA7n. <smallcaps><style=\"Blue\">G\xE2y
+      Th\u01B0\u01A1ng</style></smallcaps> {Effect0.ValueInt} s\xE1t th\u01B0\u01A1ng
+      l\xEAn Mystling n\xE0y"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 17656026301018112
+    m_Localized: "Ph\xE1o K\xEDch"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 17656026355544064
+    m_Localized: "Ra l\u1EC7nh cho Mystling \u0111\u01B0\u1EE3c ch\u1ECDn <style=\"Blue\">T\u1EA5n
+      c\xF4ng</style> {Effect0.ValueInt} l\u1EA7n (T\u1ED1i \u0111a {Effect0.ValueLimit})"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 17656026355544068
+    m_Localized: "B\xE3o \u0110\xF2n \u0110\xE1nh"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 17656026355544069
+    m_Localized: "Ra l\u1EC7nh cho Mystling \u0111\u01B0\u1EE3c ch\u1ECDn <style=\"Blue\">T\u1EA5n
+      c\xF4ng</style> {Effect0.Attack.Repeat} l\u1EA7n"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 17656026355544070
+    m_Localized: "Ra l\u1EC7nh cho Mystling \u0111\u01B0\u1EE3c ch\u1ECDn <style=\"Blue\">T\u1EA5n
+      c\xF4ng</style> {Effect0.Attack.Repeat} l\u1EA7n v\u1EDBi 150% S\u1EE9c m\u1EA1nh"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 17656026355544071
+    m_Localized: "C\u01B0\u1EDDng L\u1EF1c D\xE2ng Tr\xE0o"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 17656026355544072
+    m_Localized: "C\u1EA5p {Effect0.ValueInt} <smallcaps><style=\"Blue\">C\u01B0\u1EDDng
+      L\u1EF1c</style></smallcaps> cho Mystling \u0111\u01B0\u1EE3c ch\u1ECDn"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 17656026355544073
+    m_Localized: "Khi\xEAn Suy Y\u1EBFu"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 17656026355544074
+    m_Localized: "C\u1EA5p {Effect0.ValueInt} <smallcaps><style=\"Blue\">Khi\xEAn</style></smallcaps>
+      cho Mystling \u0111\u01B0\u1EE3c ch\u1ECDn"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 17656026355544075
+    m_Localized: "B\xE0i Tr\u01A1n Tr\u01B0\u1EE3t"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 17656026355544076
+    m_Localized: "<style=\"Blue\">R\xFAt</style> {Effect0.ValueInt} l\xE1 b\xE0i"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 17656026355544077
+    m_Localized: "Tuy\u1EBFt L\u1EDF"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 17656026355544078
+    m_Localized: "Nh\u1EADn {Effect0.ValueInt} <style=\"Blue\">N\u0103ng l\u01B0\u1EE3ng</style>
+      (T\u1ED1i \u0111a {Effect0.ValueLimit})"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 17656026355544079
+    m_Localized: "B\xF9ng N\u1ED5 N\u0103ng L\u01B0\u1EE3ng"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 17656026355544080
+    m_Localized: "Nh\u1EADn {Effect0.ValueInt} <style=\"Blue\">N\u0103ng l\u01B0\u1EE3ng</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 17656026355544081
+    m_Localized: "K\xEDch Th\xEDch"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 17656026355544082
+    m_Localized: "<smallcaps><style=\"Blue\">K\xEDch ho\u1EA1t</style></smallcaps>
+      Mystling \u0111\u01B0\u1EE3c ch\u1ECDn {Effect0.ValueInt} l\u1EA7n (T\u1ED1i
+      \u0111a {Effect0.ValueLimit})"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 17656026355544083
+    m_Localized: "B\xE1nh Xe Ch\u1EA1y"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 17656026355544084
+    m_Localized: "<smallcaps><style=\"Blue\">K\xEDch ho\u1EA1t</style></smallcaps>
+      Mystling \u0111\u01B0\u1EE3c ch\u1ECDn {Effect0.ValueInt} l\u1EA7n"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 23166561032454144
+    m_Localized: "Ra l\u1EC7nh cho Mystling \u0111\u01B0\u1EE3c ch\u1ECDn <style=\"Blue\">T\u1EA5n
+      c\xF4ng</style> v\u1EDBi S\u1EE9c m\u1EA1nh b\u1EB1ng <smallcaps><style=\"Blue\">Khi\xEAn</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 26356512617213952
+    m_Localized: "<style=\"Blue\">B\u1ECF</style> {Effect0.ValueInt} l\xE1 b\xE0i.<br><style=\"Blue\">R\xFAt</style>
+      {Effect1.ValueInt} l\xE1 b\xE0i"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 28515086125572096
+    m_Localized: "C\u1EA9n Th\u1EADn"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 28515086150737920
+    m_Localized: "G\xE2y {Effect0.ValueInt} <smallcaps><style=\"Blue\">Mong Manh</style></smallcaps>
+      l\xEAn K\u1EBB \u0111\u1ECBch \u0111\u01B0\u1EE3c ch\u1ECDn"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 30705516909019136
+    m_Localized: "<smallcaps><style=\"Blue\">K\xEDch ho\u1EA1t</style></smallcaps>
+      t\u1EA5t c\u1EA3 Mystling "
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 30705516909019137
+    m_Localized: "<smallcaps><style=\"Blue\">K\xEDch ho\u1EA1t</style></smallcaps>
+      t\u1EA5t c\u1EA3 Mystling hai l\u1EA7n"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 30705516909019139
+    m_Localized: "Ra l\u1EC7nh cho Mystling \u0111\u01B0\u1EE3c ch\u1ECDn <style=\"Blue\">T\u1EA5n
+      c\xF4ng</style> {Effect0.Attack.Repeat} l\u1EA7n.<br>Sau \u0111\xF3 Mystling
+      n\xE0y <smallcaps><style=\"Blue\">Ng\u1EA5t</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 30705516909019140
+    m_Localized: "Ra l\u1EC7nh cho Mystling \u0111\u01B0\u1EE3c ch\u1ECDn <style=\"Blue\">T\u1EA5n
+      c\xF4ng</style> {Effect0.Attack.Repeat} l\u1EA7n.<br>Sau \u0111\xF3 Mystling
+      n\xE0y <smallcaps><style=\"Blue\">Ng\u1EA5t</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 30705516909019142
+    m_Localized: "<smallcaps><style=\"Blue\">K\xEDch ho\u1EA1t</style></smallcaps>
+      Mystling \u0111\u01B0\u1EE3c ch\u1ECDn {Effect0.ValueInt} l\u1EA7n.<br>Sau
+      \u0111\xF3 Mystling n\xE0y <smallcaps><style=\"Blue\">Ng\u1EA5t</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 30705516909019143
+    m_Localized: "<smallcaps><style=\"Blue\">K\xEDch ho\u1EA1t</style></smallcaps>
+      Mystling \u0111\u01B0\u1EE3c ch\u1ECDn {Effect0.ValueInt} l\u1EA7n.<br>Sau
+      \u0111\xF3 Mystling n\xE0y <smallcaps><style=\"Blue\">Ng\u1EA5t</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 30705516917407745
+    m_Localized: "<smallcaps><style=\"Blue\">K\xEDch ho\u1EA1t</style></smallcaps>
+      Mystling \u0111\u01B0\u1EE3c ch\u1ECDn v\xE0 <smallcaps><style=\"Blue\">G\xE2y
+      Th\u01B0\u01A1ng</style></smallcaps> {Effect0.ValueInt} s\xE1t th\u01B0\u01A1ng
+      l\xEAn n\xF3"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 30705516917407746
+    m_Localized: "<smallcaps><style=\"Blue\">K\xEDch ho\u1EA1t</style></smallcaps>
+      Mystling \u0111\u01B0\u1EE3c ch\u1ECDn {Effect1.ValueInt} l\u1EA7n v\xE0 <smallcaps><style=\"Blue\">G\xE2y
+      Th\u01B0\u01A1ng</style></smallcaps> {Effect0.ValueInt} s\xE1t th\u01B0\u01A1ng
+      l\xEAn n\xF3"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 30705516917407748
+    m_Localized: "<smallcaps><style=\"Blue\">K\xEDch ho\u1EA1t</style></smallcaps>
+      Mystling \u0111\u01B0\u1EE3c ch\u1ECDn {Effect0.ValueInt} l\u1EA7n "
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 30705516917407750
+    m_Localized: "B\u1ECF to\xE0n b\u1ED9 tay b\xE0i. <smallcaps><style=\"Blue\">K\xEDch
+      ho\u1EA1t</style></smallcaps> Mystling \u0111\u01B0\u1EE3c ch\u1ECDn m\u1ED9t
+      l\u1EA7n cho m\u1ED7i l\xE1 b\xE0i \u0111\xE3 b\u1ECF"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 30705516892241920
+    m_Localized: "K\xEDch Ho\u1EA1t Di\u1EC7n R\u1ED9ng"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 30705516909019138
+    m_Localized: "C\u01A1n Th\u1ECBnh N\u1ED9 S\u1EE5c S\xF4i"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 30705516909019141
+    m_Localized: "N\u1ED7 L\u1EF1c T\u1ED1i \u0110a"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 30705516917407744
+    m_Localized: "\u0110\u1ED9ng L\u1EF1c T\xE0n Nh\u1EABn"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 30705516917407747
+    m_Localized: "Ngu\u1ED3n C\u1EA3m H\u1EE9ng"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 30705516917407749
+    m_Localized: "L\u1EDDi C\u1EA3nh T\u1EC9nh"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 30734404603199488
+    m_Localized: "C\u1EA1nh S\u1EAFc L\u1EDFm Ch\u1EDFm"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 30734404603199489
+    m_Localized: "<style=\"Blue\">B\u1ECF</style> to\xE0n b\u1ED9 tay b\xE0i. G\xE2y
+      {Effect0.DiscardAllVulnerableValue} <smallcaps><style=\"Blue\">Mong Manh</style></smallcaps>
+      l\xEAn K\u1EBB \u0111\u1ECBch \u0111\u01B0\u1EE3c ch\u1ECDn cho m\u1ED7i l\xE1
+      b\xE0i \u0111\xE3 b\u1ECF"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 30734404603199490
+    m_Localized: "<style=\"Blue\">B\u1ECF</style> to\xE0n b\u1ED9 tay b\xE0i. G\xE2y
+      {Effect0.DiscardAllVulnerableValueUpgraded} <smallcaps><style=\"Blue\">Mong
+      Manh</style></smallcaps> l\xEAn K\u1EBB \u0111\u1ECBch \u0111\u01B0\u1EE3c
+      ch\u1ECDn cho m\u1ED7i l\xE1 b\xE0i \u0111\xE3 b\u1ECF"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 45921036658614272
+    m_Localized: "S\u1EE9c M\u1EA1nh Th\xF4 B\u1EA1o"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 45921036679585792
+    m_Localized: "Ra l\u1EC7nh cho Mystling \u0111\u01B0\u1EE3c ch\u1ECDn <style=\"Blue\">T\u1EA5n
+      c\xF4ng</style> m\u1ED9t K\u1EBB \u0111\u1ECBch \u0111\u01B0\u1EE3c ch\u1ECDn
+      v\u1EDBi {Effect0.Attack.PowerModifier} S\u1EE9c m\u1EA1nh"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 45921036679585794
+    m_Localized: "\xC1nh S\xE1ng Ch\xF3i L\xF2a"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 45921036679585795
+    m_Localized: "<smallcaps><style=\"Blue\">R\u1ED1i Tr\xED</style></smallcaps>
+      K\u1EBB \u0111\u1ECBch \u0111\u01B0\u1EE3c ch\u1ECDn \u0111\u1EBFn h\u1EBFt
+      V\xF2ng"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 45921036679585796
+    m_Localized: "<smallcaps><style=\"Blue\">R\u1ED1i Tr\xED</style></smallcaps>
+      K\u1EBB \u0111\u1ECBch \u0111\u01B0\u1EE3c ch\u1ECDn \u0111\u1EBFn h\u1EBFt
+      V\xF2ng"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 47819478012076032
+    m_Localized: "H\xE0o Quang B\u1EA3o V\u1EC7"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 47819478028853249
+    m_Localized: "H\xE0o Quang T\u1ED5n Th\u01B0\u01A1ng"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 47819478028853250
+    m_Localized: "H\xE0o Quang B\u1EA3o To\xE0n"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 47819478028853251
+    m_Localized: "H\xE0o Quang H\u1ED3i M\xE1u"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 47819478028853252
+    m_Localized: "H\xE0o Quang S\u1EE9c M\u1EA1nh H\u1EAFc \xC1m"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 47819478028853253
+    m_Localized: "H\xE0o Quang Sinh Kh\xED"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 47819478028853254
+    m_Localized: "H\xE0o Quang Ho\u1EA1i T\u1EED"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 47827012764639232
+    m_Localized: "\u0110\u1EA7u V\xF2ng: C\u1EA5p {Effect0.ValueInt} <smallcaps><style=\"Blue\">Khi\xEAn</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 47827012764639233
+    m_Localized: "\u0110\u1EA7u V\xF2ng: C\u1EA5p {Effect0.ValueInt} <smallcaps><style=\"Blue\">Khi\xEAn</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 47827012764639235
+    m_Localized: "\u0110\u1EA7u V\xF2ng: G\xE2y {Effect0.ValueInt} <smallcaps><style=\"Blue\">Mong
+      Manh</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 47827012764639236
+    m_Localized: "\u0110\u1EA7u V\xF2ng: G\xE2y {Effect0.ValueInt} <smallcaps><style=\"Blue\">Mong
+      Manh</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 47827012764639237
+    m_Localized: "Gi\u1EA3m m\u1ECDi <style=\"Blue\">s\xE1t th\u01B0\u01A1ng</style>
+      nh\u1EADn v\xE0o \u0111i {Effect0.AuraDamageReduction} khi \u1EDF V\u1ECB tr\xED
+      n\xE0y"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 47827012764639238
+    m_Localized: "\u0110\u1EA7u V\xF2ng: <style=\"Blue\">H\u1ED3i</style> {Effect0.ValueInt}
+      M\xE1u"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 47827012764639239
+    m_Localized: "\u0110\u1EA7u V\xF2ng: <style=\"Blue\">H\u1ED3i</style> {Effect0.ValueInt}
+      M\xE1u"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 47827012764639240
+    m_Localized: "T\u0103ng <style=\"Blue\">S\u1EE9c m\u1EA1nh</style> th\xEAm {Effect0.AuraPowerIncrease}
+      khi \u1EDF V\u1ECB tr\xED n\xE0y. \u0110\u1EA7u V\xF2ng: Nh\u1EADn {Effect0.ValueInt}
+      <style=\"Blue\">s\xE1t th\u01B0\u01A1ng</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 47827012764639241
+    m_Localized: "T\u0103ng <style=\"Blue\">S\u1EE9c m\u1EA1nh</style> th\xEAm {Effect0.AuraPowerIncrease}
+      khi \u1EDF V\u1ECB tr\xED n\xE0y. \u0110\u1EA7u V\xF2ng: Nh\u1EADn {Effect0.ValueInt}
+      <style=\"Blue\">s\xE1t th\u01B0\u01A1ng</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 47827012764639242
+    m_Localized: "Cu\u1ED1i V\xF2ng: <smallcaps><style=\"Blue\">K\xEDch ho\u1EA1t</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 47827012764639243
+    m_Localized: "\u0110\u1EA7u V\xF2ng: Nh\u1EADn {Effect0.ValueInt} <style=\"Blue\">s\xE1t
+      th\u01B0\u01A1ng</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 48116526062051328
+    m_Localized: "H\xE0o Quang C\u01B0\u1EDDng L\u1EF1c"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 48116526083022848
+    m_Localized: "\u0110\u1EA7u V\xF2ng: C\u1EA5p {Effect0.ValueInt} <smallcaps><style=\"Blue\">C\u01B0\u1EDDng
+      L\u1EF1c</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 55722896772898816
+    m_Localized: "L\u01B0\u1EDBt"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 55722896785481728
+    m_Localized: "C\u1EA5p {Effect0.ValueInt} <smallcaps><style=\"Blue\">N\xE9 Tr\xE1nh</style></smallcaps>
+      cho Mystling \u0111\u01B0\u1EE3c ch\u1ECDn"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 55722896785481729
+    m_Localized: "Thi\xEAu \u0110\u1ED1t"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  - m_Id: 55722896785481730
+    m_Localized: "G\xE2y {Effect0.ValueInt} <style=\"Blue\">s\xE1t th\u01B0\u01A1ng</style>
+      l\xEAn K\u1EBB \u0111\u1ECBch \u0111\u01B0\u1EE3c ch\u1ECDn"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405578
+  references:
+    version: 2
+    RefIds:
+    - rid: 8099901647879405578
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 359614801584128
+        - id: 359614801584129
+        - id: 359614801584130
+        - id: 359614801584131
+        - id: 359614801584132
+        - id: 359614801584134
+        - id: 359614801584135
+        - id: 359614801584137
+        - id: 359614801584138
+        - id: 359614801584140
+        - id: 359614801584141
+        - id: 359614801584152
+        - id: 359614801584164
+        - id: 359614801584165
+        - id: 359614801584167
+        - id: 359614801584168
+        - id: 359614801584169
+        - id: 359614801584170
+        - id: 359614801584171
+        - id: 359614801584173
+        - id: 359614801584174
+        - id: 359614801584176
+        - id: 359614801584177
+        - id: 359614801584178
+        - id: 359614801584179
+        - id: 359614801584180
+        - id: 359614801584188
+        - id: 359614801584189
+        - id: 359614801584203
+        - id: 359614801584204
+        - id: 359614801584221
+        - id: 359614801584222
+        - id: 359614801584230
+        - id: 359614801584231
+        - id: 359614801584233
+        - id: 359614801584234
+        - id: 359614801584248
+        - id: 359614801584249
+        - id: 359614801584260
+        - id: 359614801584261
+        - id: 359614801584263
+        - id: 359614801584264
+        - id: 359614801584269
+        - id: 359614801584270
+        - id: 359614801584272
+        - id: 359614801584273
+        - id: 359614801584274
+        - id: 359614801584290
+        - id: 359614801584291
+        - id: 359614805778434
+        - id: 359614805778435
+        - id: 1012535532789760
+        - id: 6068234742775808
+        - id: 359614801584153
+        - id: 359614801584154
+        - id: 8305471962292224
+        - id: 8305471995846656
+        - id: 8305471995846657
+        - id: 8594212224311296
+        - id: 8594212241088512
+        - id: 8595287174094848
+        - id: 8599766619463680
+        - id: 8599766640435200
+        - id: 8599766640435201
+        - id: 8654231544340480
+        - id: 8654231544340481
+        - id: 9698784846094336
+        - id: 9702472692080640
+        - id: 9711336900599808
+        - id: 9711336900599809
+        - id: 9711336900599810
+        - id: 9711336900599812
+        - id: 9711336900599813
+        - id: 9711336900599811
+        - id: 9711336900599815
+        - id: 9711336900599816
+        - id: 9711336900599818
+        - id: 9711336900599819
+        - id: 9722764999073792
+        - id: 9722765028433920
+        - id: 9722765028433921
+        - id: 9722765028433922
+        - id: 9722765028433923
+        - id: 9722765028433924
+        - id: 9722765028433925
+        - id: 9722765028433926
+        - id: 9722765028433927
+        - id: 9722765028433928
+        - id: 9722765032628224
+        - id: 9722765032628225
+        - id: 9722765032628226
+        - id: 9722765032628227
+        - id: 9714495664537600
+        - id: 9714495685509121
+        - id: 9714495685509122
+        - id: 9714495685509123
+        - id: 9714495685509127
+        - id: 9714495685509128
+        - id: 9714495685509129
+        - id: 10071164789571584
+        - id: 10071164814737408
+        - id: 10071164814737409
+        - id: 10099474013691904
+        - id: 10102173786513408
+        - id: 10473182117044224
+        - id: 10809989220343808
+        - id: 12260456458731520
+        - id: 12259629631389697
+        - id: 11158346648330240
+        - id: 11158346669301760
+        - id: 11159880559828992
+        - id: 11159880580800512
+        - id: 11161586857222144
+        - id: 11161586878193664
+        - id: 12260456458731521
+        - id: 12259629631389696
+        - id: 12258587464286210
+        - id: 12258587464286209
+        - id: 12258587464286208
+        - id: 12255985393582081
+        - id: 12255985393582080
+        - id: 12235921051205632
+        - id: 12252285371531264
+        - id: 12268454048546816
+        - id: 12268454048546817
+        - id: 12268454048546818
+        - id: 12315208664072192
+        - id: 12608167498334208
+        - id: 12608167527694336
+        - id: 12608167527694337
+        - id: 12608167527694338
+        - id: 12608167527694340
+        - id: 12608167527694341
+        - id: 12608167527694343
+        - id: 12608167527694344
+        - id: 12993906857852931
+        - id: 12993906857852932
+        - id: 12993906857852933
+        - id: 12993906857852934
+        - id: 12993906857852935
+        - id: 12993906857852936
+        - id: 12993906857852937
+        - id: 12993906857852938
+        - id: 12993906857852939
+        - id: 12993906857852940
+        - id: 12993906857852941
+        - id: 17388664405434368
+        - id: 17656026301018112
+        - id: 17656026355544064
+        - id: 17656026355544068
+        - id: 17656026355544069
+        - id: 17656026355544070
+        - id: 17656026355544071
+        - id: 17656026355544072
+        - id: 17656026355544073
+        - id: 17656026355544074
+        - id: 17656026355544075
+        - id: 17656026355544076
+        - id: 17656026355544077
+        - id: 17656026355544078
+        - id: 17656026355544079
+        - id: 17656026355544080
+        - id: 17656026355544081
+        - id: 17656026355544082
+        - id: 17656026355544083
+        - id: 17656026355544084
+        - id: 23166561032454144
+        - id: 26356512617213952
+        - id: 28515086125572096
+        - id: 28515086150737920
+        - id: 30705516909019136
+        - id: 30705516909019137
+        - id: 30705516909019139
+        - id: 30705516909019140
+        - id: 30705516909019142
+        - id: 30705516909019143
+        - id: 30705516917407745
+        - id: 30705516917407746
+        - id: 30705516917407748
+        - id: 30705516917407750
+        - id: 30705516892241920
+        - id: 30705516909019138
+        - id: 30705516909019141
+        - id: 30705516917407744
+        - id: 30705516917407747
+        - id: 30705516917407749
+        - id: 30734404603199488
+        - id: 30734404603199489
+        - id: 30734404603199490
+        - id: 45921036658614272
+        - id: 45921036679585792
+        - id: 45921036679585794
+        - id: 45921036679585795
+        - id: 45921036679585796
+        - id: 47819478012076032
+        - id: 47819478028853249
+        - id: 47819478028853250
+        - id: 47819478028853251
+        - id: 47819478028853252
+        - id: 47819478028853253
+        - id: 47819478028853254
+        - id: 47827012764639232
+        - id: 47827012764639233
+        - id: 47827012764639235
+        - id: 47827012764639236
+        - id: 47827012764639237
+        - id: 47827012764639238
+        - id: 47827012764639239
+        - id: 47827012764639240
+        - id: 47827012764639241
+        - id: 47827012764639242
+        - id: 47827012764639243
+        - id: 48116526062051328
+        - id: 48116526083022848
+        - id: 55722896772898816
+        - id: 55722896785481728
+        - id: 55722896785481729
+        - id: 55722896785481730

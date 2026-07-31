@@ -1,0 +1,232 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Effects_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 9e26056865956cc4bb283677b789606b, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2105433060097654795
+  m_TableData:
+  - m_Id: 1054703992832
+    m_Localized: <style="Blue">Aktivieren</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654795
+  - m_Id: 1106876940288
+    m_Localized: "L\xF6se die Aktivierungsf\xE4higkeit des Mystlings aus."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654795
+  - m_Id: 1137247895552
+    m_Localized: "<style=\"Blue\">Bet\xE4uben</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654795
+  - m_Id: 1167065202688
+    m_Localized: "Die n\xE4chste Aktion wird um {Effect0.ValueInt} Runde verz\xF6gert."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654795
+  - m_Id: 1203266240512
+    m_Localized: <style="Blue">Verwunden</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654795
+  - m_Id: 1233293262848
+    m_Localized: Dieser Schadenstyp ignoriert Schilde.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654795
+  - m_Id: 1349962022912
+    m_Localized: Ultimative Aktion
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654795
+  - m_Id: 1396862730240
+    m_Localized: "Besonders m\xE4chtige Aktion des Gegners."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654795
+  - m_Id: 12301384671113216
+    m_Localized: "<style=\"Blue\">Beschw\xF6ren</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654795
+  - m_Id: 12301419358007296
+    m_Localized: "Beschw\xF6re Kampfgef\xE4hrten auf das Schlachtfeld."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654795
+  - m_Id: 1266516344832
+    m_Localized: Ablaufen deaktivieren
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654795
+  - m_Id: 1311223431168
+    m_Localized: "Deaktiviert das gew\xE4hlte Ablaufen des Status. "
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654795
+  - m_Id: 71045737244336128
+    m_Localized: "<style=\"Blue\">Kampfunf\xE4hig</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654795
+  - m_Id: 71045737273696256
+    m_Localized: "Eine kampfunf\xE4hige Kreatur nimmt nicht am Kampf teil, bis sie
+      wiederbelebt wird (eine kampfunf\xE4hige Kreatur, die sofort wiederbelebt wird,
+      l\xF6st zus\xE4tzlich \"Kampfunf\xE4hig\" aus)."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654795
+  - m_Id: 55757007826788352
+    m_Localized: "St\xE4rkung"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654795
+  - m_Id: 55757007851954176
+    m_Localized: "Schw\xE4chung"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654795
+  - m_Id: 55757007851954177
+    m_Localized: "Bet\xE4uben"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654795
+  - m_Id: 55757007851954178
+    m_Localized: Aktivierung
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654795
+  - m_Id: 55757007851954179
+    m_Localized: Angriff
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654795
+  - m_Id: 113733529649422336
+    m_Localized: Ausweichen
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654795
+  - m_Id: 113733529682976768
+    m_Localized: Ausruhen
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654795
+  - m_Id: 59806798797979648
+    m_Localized: Aufladen!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654795
+  - m_Id: 84836185721085952
+    m_Localized: Arena-Verzauberung
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654795
+  - m_Id: 84844454871113728
+    m_Localized: 'Rundenbeginn: Wirke {Effect0.ValueInt} <style="Blue">Schilde</style>.'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654795
+  - m_Id: 85091811579731968
+    m_Localized: "Rundenbeginn: Wirke {Effect0.ValueInt} <style=\"Blue\">St\xE4rke</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654795
+  - m_Id: 84844454871113730
+    m_Localized: 'Rundenbeginn: Wirke {Effect0.ValueInt} <style="Blue">Verwundbarkeit</style>.'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654795
+  - m_Id: 84844454871113731
+    m_Localized: "Reduziere den gesamten eingehenden Schaden um {Effect0.ValueInt},
+      w\xE4hrend du auf dieser Position bist."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654795
+  - m_Id: 84844454871113732
+    m_Localized: 'Rundenbeginn: Heile {Effect0.ValueInt} Gesundheit.'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654795
+  - m_Id: 84844454871113733
+    m_Localized: "Erh\xF6he die Kraft um {Effect0.ValueInt}, w\xE4hrend du auf dieser
+      Position bist.<br>Rundenbeginn: Erleide {Effect1.ValueInt} Schaden."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654795
+  - m_Id: 85478340458258432
+    m_Localized: "Erh\xF6he die Kraft um {Effect0.ValueInt}, w\xE4hrend du auf dieser
+      Position bist.<br>Rundenbeginn: Erleide {Effect1.ValueInt} Schaden."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654795
+  - m_Id: 84844454871113734
+    m_Localized: 'Rundenende: <style="Blue">Aktivierung</style>.'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654795
+  - m_Id: 84844454871113735
+    m_Localized: 'Rundenbeginn: Erleide {Effect0.ValueInt} Schaden.'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654795
+  - m_Id: 97530737351184384
+    m_Localized: '{StatusName} geblockt'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654795
+  references:
+    version: 2
+    RefIds:
+    - rid: 2105433060097654795
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 1054703992832
+        - id: 1106876940288
+        - id: 1137247895552
+        - id: 1167065202688
+        - id: 1203266240512
+        - id: 1233293262848
+        - id: 1349962022912
+        - id: 1396862730240
+        - id: 12301384671113216
+        - id: 12301419358007296
+        - id: 1266516344832
+        - id: 1311223431168
+        - id: 71045737244336128
+        - id: 71045737273696256
+        - id: 55757007826788352
+        - id: 55757007851954176
+        - id: 55757007851954177
+        - id: 55757007851954178
+        - id: 55757007851954179
+        - id: 113733529649422336
+        - id: 113733529682976768
+        - id: 59806798797979648
+        - id: 84836185721085952
+        - id: 84844454871113728
+        - id: 85091811579731968
+        - id: 84844454871113730
+        - id: 84844454871113731
+        - id: 84844454871113732
+        - id: 84844454871113733
+        - id: 85478340458258432
+        - id: 84844454871113734
+        - id: 84844454871113735
+        - id: 97530737351184384

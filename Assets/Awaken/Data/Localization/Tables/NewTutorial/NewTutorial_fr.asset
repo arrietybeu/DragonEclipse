@@ -1,0 +1,1443 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: NewTutorial_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: cb6e8b1fd3dc49f4da0b21f44699aec9, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 8829885851983675396
+  m_TableData:
+  - m_Id: 451756015616
+    m_Localized: "Bienvenue dans le monde de Dragon Eclipse\_!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 451785375744
+    m_Localized: "Utilisez <color=red>Z</color=red>, <color=red>Q</color=red>, <color=red>S</color=red>,
+      <color=red>D</color=red> pour d\xE9placer votre dompteur le long des chemins.
+      Vous pouvez \xE9galement le faire en cliquant sur un endroit du chemin \xE0
+      l'aide du <color=red>bouton gauche de la souris</color=red>.\n<br>Vous pouvez
+      interagir avec divers objets en appuyant sur la touche <color=red>E</color=red>
+      ou en cliquant sur le nom de l'objet."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 451785375745
+    m_Localized: Choix du dompteur
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 451785375746
+    m_Localized: "Avant de partir en qu\xEAte, vous devez choisir votre <color=red>dompteur</color=red>,
+      chacun d'entre eux ayant une <color=red>capacit\xE9 unique</color=red>.\n\nPour
+      le moment, vous n'avez acc\xE8s qu'\xE0 Arcana DeFault, mais vous d\xE9bloquerez
+      les autres dompteurs en jouant\_!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 451789570048
+    m_Localized: "Niveaux de difficult\xE9"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 451789570049
+    m_Localized: "Si vous le souhaitez, vous pouvez choisir un <color=red>niveau
+      de difficult\xE9</color=red> plus \xE9lev\xE9. Pour le moment, vous avez seulement
+      acc\xE8s au premier, mais vaincre le boss vous permettra de d\xE9bloquer le
+      suivant."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 451789570050
+    m_Localized: "S\xE9lection des Mystlings"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 451789570051
+    m_Localized: "Votre \xE9quipe est constitu\xE9e d'un maximum de 3\_Mystlings,
+      ayant tous des <color=red>caract\xE9ristiques et capacit\xE9s uniques</color=red>.
+      Chacun d'eux a \xE9galement une <color=red>carte</color=red> sp\xE9cifique
+      venant s'ajouter \xE0 votre deck de d\xE9part."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 451789570073
+    m_Localized: Progression
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 451789570074
+    m_Localized: "Au cours de l'aventure, vous gagnerez des <color=red>points d'exp\xE9rience</color=red>.
+      Lorsque vous en aurez assez, vous passerez au niveau suivant. Gagner des niveaux
+      vous permet de d\xE9bloquer de nouveaux Mystlings, mais aussi des dompteurs,
+      des cartes, et plus encore."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391828
+    m_Localized: "\u0152uf de Mystling"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391829
+    m_Localized: "On dirait que vous avez d\xE9bloqu\xE9 un \u0153uf de Mystling\_!
+      Faites-le \xE9clore et acc\xE9dez \xE0 ce nouveau Mystling lorsque vous lancerez
+      une <color=red>autre partie</color=red>. R\xE9cup\xE9rez-les tous\_!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 451789570077
+    m_Localized: "L'\xC9clipse est proche\_!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 451789570078
+    m_Localized: "Chaque combat que vous livrez rapproche l'\xC9clipse d'<color=red>une
+      journ\xE9e</color=red>. D\xE8s que le d\xE9compte arrivera \xE0 <color=red>z\xE9ro</color=red>,
+      le dernier combat commencera, alors, faites bon usage du temps dont vous disposez\_!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391831
+    m_Localized: L'Ancien
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391832
+    m_Localized: Lyanne
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391834
+    m_Localized: "Je suis vraiment fi\xE8re de toi, tu sais. Tu as travaill\xE9 dur
+      pour en arriver l\xE0, et maintenant, tu es une excellente dompteuse, et..."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391835
+    m_Localized: "Lyn... <i><b>Lyn\_!</i></b>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391836
+    m_Localized: "Oui\_? Qu'est-ce qu'il y a\_?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391837
+    m_Localized: Je crois bien qu'on est perdues.
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391838
+    m_Localized: "<wiggle>Pardon\_?</wiggle> Tu devrais pourtant avoir \xE9t\xE9
+      form\xE9e \xE0 te rep\xE9rer, non\_?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391839
+    m_Localized: Bah. Je suis <i>dompteuse</i>, pas cartographe...
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391840
+    m_Localized: "<shake>AHHHH\_!</shake> C'est quoi, <i><b>ce truc</i></b>\_?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391841
+    m_Localized: "Pas de panique, je g\xE8re\_!<b><br><size=16><align=left><smallcaps>Jouer
+      le tutoriel</smallcaps></align></size></b>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391842
+    m_Localized: "C'est un monstre\_! Cours, Lyn\_!<b><br><size=16><align=left><smallcaps>Passer
+      le tutoriel</smallcaps></align></size></b>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391843
+    m_Localized: "Ouf\_! C'\xE9tait juste\_! Et maintenant, rentrons vite au village
+      avant la fin de la c\xE9r\xE9monie\_!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391844
+    m_Localized: "En route\_!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391845
+    m_Localized: "C'\xE9tait juste incroyable\_! Vous faites une sacr\xE9e \xE9quipe,
+      tes Mystlings et toi\_! Bien, et maintenant, si nous y allions\_? Ta c\xE9r\xE9monie
+      t'attend."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391846
+    m_Localized: "En route\_!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391847
+    m_Localized: "Qu'est-ce que tu attends\_?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391848
+    m_Localized: "Il est temps d'y aller\_!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391849
+    m_Localized: "C'est ton grand jour\_! Qu'est-ce que tu fais encore ici\_?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391850
+    m_Localized: "D\xE9p\xEAche-toi, ou les autres auront tout mang\xE9 avant qu'on
+      arrive\_!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391851
+    m_Localized: "Si tu ne te d\xE9p\xEAches pas, ils risquent de choisir quelqu'un
+      d'autre comme dompteur."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391852
+    m_Localized: "Si tu as besoin d'une petite collation pour la route, la chef du
+      village te pr\xE9parera gratuitement quelque chose \xE0 manger\_!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391853
+    m_Localized: "Ah, te voil\xE0\_! Approche, mon enfant."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391854
+    m_Localized: <i>Approcher</i>
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391855
+    m_Localized: "Nous sommes rassembl\xE9s aujourd'hui afin d'accueillir une nouvelle
+      venue dans les rangs de nos dompteurs\_!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391856
+    m_Localized: "Jeune dompteuse, puisse le Gardien de la Terre toujours \xEAtre
+      l\xE0 pour te guider.<br><br><i>Il vous fait signe de vous approcher.</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391857
+    m_Localized: <i>Approcher</i>
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391858
+    m_Localized: "<i>Le g\xE9ant majestueux et imposant se dresse au-dessus de vous.<br><br>Il
+      dort depuis des si\xE8cles, gardant silencieusement le village et veillant
+      sur ses habitants.</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391859
+    m_Localized: <i>Toucher le dragon</i>
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391860
+    m_Localized: "<i>Vous touchez le bout du museau du Dragon Gardien, comme le veut
+      la tradition pour tout nouveau dompteur.<br><br>\xC0 cet instant, la terre
+      se met \xE0 trembler sous vos pieds et votre vision se trouble...</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391861
+    m_Localized: "<i>Vous approchez de la majestueuse et imposante cr\xE9ature pour
+      toucher le bout de son museau, comme le veut la coutume pour les nouveaux dompteurs.
+      Ses \xE9cailles semblent briller de l'int\xE9rieur, mais vous vous souvenez
+      subitement que tous ceux qui l'ont touch\xE9e n'\xE9taient pas forc\xE9ment
+      dompteurs. Et alors que vous vous demandez comment une telle chose est possible,
+      plusieurs visions inqui\xE9tantes se bousculent dans votre esprit...</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391862
+    m_Localized: "<i>D'\xE9tranges visions se bousculent dans votre esprit\_: un
+      soleil noir \xE9clips\xE9 par deux lunes...</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391863
+    m_Localized: "<i>Des silhouettes sombres \xE9mergeant d'un portail en for\xEAt,
+      mais pas n'importe laquelle... <b>la v\xF4tre</b>, tout pr\xE8s de votre village...</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391864
+    m_Localized: "<i>Et une voix douce mais ferme r\xE9sonne dans votre t\xEAte\_:</i><br><br>\"<font=\"Rounded-Black
+      SDF\">Nous avons besoin de toi. De ton aide. Trouve le moyen...</font>\""
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391865
+    m_Localized: "Tout va bien\_?<br><br><i>Vous sentez le regard inquiet des autres
+      habitants sur vous alors que vous reprenez lentement vos esprits. Vous avez
+      d\xFB perdre connaissance au cours de la c\xE9r\xE9monie...</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391866
+    m_Localized: "\xC7a va. Enfin, je crois..."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391867
+    m_Localized: "Tout va bien, mon enfant\_? En te voyant t'effondrer, nous avons
+      craint le pire..."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391868
+    m_Localized: "Non, je... je pense que \xE7a va. J'ai vu... "
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391869
+    m_Localized: "<i>Alors que vous vous remettez debout, vous sentez la terre recommencer
+      \xE0 trembler. Sauf que, cette fois, <shake>ce n'est pas une vision</shake>\_!<br><br>Un
+      concert de cris de panique r\xE9sonne autour de vous alors que les murs du
+      village se fissurent et que le ciel s'assombrit.</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391870
+    m_Localized: "Qu'est-ce que... Qu'est-ce qui se passe\_? "
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391871
+    m_Localized: "C'est en train d'arriver\_! Oh, pourvu que les Dragons Gardiens
+      soient l\xE0 pour nous sauver..."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391872
+    m_Localized: "Comment\_? Mais qu'est-ce c'est que cette histoire\_?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391873
+    m_Localized: "\xC9coute-moi bien, dompteuse. Je vais te demander de te rendre
+      en for\xEAt et de chercher des signes de destruction \xE0 proximit\xE9 du village."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391874
+    m_Localized: "C'est comme si c'\xE9tait fait\_!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391875
+    m_Localized: "Reviens me voir d\xE8s que tu trouveras quelque chose.<br><br>Esp\xE9rons
+      qu'il n'est pas d\xE9j\xE0 trop tard..."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391876
+    m_Localized: <i>Partir</i>
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391877
+    m_Localized: "Tu connais le chemin \xE0 suivre, mais tu ignores encore quelle
+      sera sa destination. Tu vas devoir faire preuve d'une grande bravoure\_!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391878
+    m_Localized: "Fais tr\xE8s attention, et surtout, courage\_!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391879
+    m_Localized: "Nous esp\xE9rons tous te revoir tr\xE8s bient\xF4t... avec de bonnes
+      nouvelles. "
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391880
+    m_Localized: "Tu as bien pens\xE9 \xE0 nourrir tes Mystlings\_? Parce que la
+      marche qui vous attend risque d'\xEAtre longue."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391881
+    m_Localized: "N'oublie pas\_: tomber, ce n'est pas grave. Ce qui compte, c'est
+      d'\xEAtre capable de se relever \xE0 chaque fois."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391882
+    m_Localized: 'Je devrais sans doute dire quelques paroles empreintes d''une grande
+      sagesse, mais il est temps d''y aller, maintenant. '
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391883
+    m_Localized: "Ouf\_! Heureusement que nous avons pu arriver \xE0 temps \xE0 ta
+      c\xE9r\xE9monie\_!<br>Alors, comme \xE7a, les Mystlings n'ont plus aucun secret
+      pour toi\_?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391884
+    m_Localized: "Tout \xE0 fait\_!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391885
+    m_Localized: "H\xE9, on dirait que des Mystlings ont d\xE9cid\xE9 de nous suivre
+      jusqu'au village\_! Ils ont l'air terrifi\xE9s, les pauvres\_!<br><br><wave>Il
+      faut absolument les aider\_!</wave> \xC7a te dirait d'en adopter un\_?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391886
+    m_Localized: "\xC9videmment\_! Viens ici, petit bonhomme\_! Et n'aie pas peur,
+      tu ne risques rien avec moi\_!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391887
+    m_Localized: "Vous \xEAtes vraiment <bounce>trop craquants</bounce>, tous les
+      deux\_!<br><br>Je sais bien que tu prendras soin de lui, maman ourse\_!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391888
+    m_Localized: "Pardon, je me suis encore laiss\xE9e distraire\_!<br><br>Je devais
+      te dire que <font=\"Rounded-Black SDF\">l'Ancien t'attend \xE0 c\xF4t\xE9 du
+      Dragon Gardien\_!</font> Et il avait l'air tr\xE8s s\xE9rieux quand je l'ai
+      quitt\xE9."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45304894210514947
+    m_Localized: "Pour devenir une vraie dompteuse, tu vas devoir tout savoir du
+      <bounce>lien</bounce> qui t'unit \xE0 tes Mystlings\_!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45304894210514948
+    m_Localized: "Revoyons donc les <wave>bases</wave>, histoire de te rafra\xEEchir
+      la m\xE9moire."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45304894210514959
+    m_Localized: "<bounce>Excellent\_!</bounce> Tu as \xE9norm\xE9ment de talent,
+      mais je pense qu'un <wave>petit coup de main</wave> ne peut pas faire de mal\_!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45304894210514960
+    m_Localized: "Tiens, prends\_! Un dernier cadeau de ma part pour notre intr\xE9pide
+      <bounce>dompteuse</bounce>\_!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45304894210514961
+    m_Localized: "Le monde semble devenu fou en dehors de notre village\_!\nL'approche
+      de <shake>l'\xC9clipse</shake> brouille la fronti\xE8re entre notre monde et
+      le plan des t\xE9n\xE8bres\_!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45304894210514962
+    m_Localized: "Des <wiggle>cr\xE9atures malfaisantes</wiggle> nous envahissent
+      par le biais de portails obscurs\_! Tu dois absolument les arr\xEAter\_!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45304894210514963
+    m_Localized: "Sers-toi du savoir que tu as acquis pour arr\xEAter <shake>l'\xC9clipse</shake>\_!
+      Tu es notre seul <bounce>espoir</bounce>\_!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45304894210514966
+    m_Localized: "F\xE9licitations\_!\n<br>\nVous avez vaincu le boss, mais tout
+      danger n'est pas \xE9cart\xE9\_! Nous esp\xE9rons que vous n'h\xE9siterez pas
+      \xE0 relever de nouveaux d\xE9fis en essayant d'autres niveaux de difficult\xE9.\nIl
+      reste encore du contenu \xE0 d\xE9bloquer, et nous avons l'intention d'ajouter
+      une grande quantit\xE9 de d\xE9fis in\xE9dits et de nouveau contenu dans les
+      mises \xE0 jour \xE0 venir.\n<br>\nNous esp\xE9rons sinc\xE8rement que vous
+      avez aim\xE9 jouer \xE0 Dragon Eclipse. Si c'est le cas, parler du jeu autour
+      de vous ou laisser une critique sur Steam nous aiderait grandement.\n<br>\nMerci\_!\nL'\xE9quipe
+      Fardust"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391913
+    m_Localized: "Nouveau dompteur d\xE9bloqu\xE9\_!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 45300613990391914
+    m_Localized: "Une nouvelle dompteuse a rejoint notre cause\_! Lancez une <color=red>nouvelle
+      partie</color=red> et s\xE9lectionnez-la comme personnage jouable pour acc\xE9der
+      \xE0 sa <color=red>capacit\xE9 unique</color=red>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 13009066783744000
+    m_Localized: Testez votre puissance
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 13009066808909824
+    m_Localized: "On dirait bien que le boss gardait ce <color=red>cristal de l'\xC9clipse</color=red>\_!<br>\nNe
+      vous inqui\xE9tez pas, il est incapable d'attaquer. Infligez-lui le plus de
+      <style=\"Blue\">d\xE9g\xE2ts</style> possible en un temps record pour gravir
+      les \xE9chelons du <color=red>tableau des scores</color=red> et prouver que
+      vous \xEAtes le meilleur des dompteurs\_!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 35532752173924352
+    m_Localized: Jouez une <style="Blue">carte</style> sur un <style="Blue">Mystling</style>.
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 35532752194895872
+    m_Localized: "Quand ils <style=\"Blue\">attaquent</style>, les Mystlings infligent
+      des <style=\"Blue\">d\xE9g\xE2ts</style> \xE9gaux \xE0 leur <style=\"Blue\">Puissance</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 35532752194895873
+    m_Localized: "D\xE9pensez vos 3\_points d'<style=\"Blue\">\xE9nergie</style>
+      en jouant des cartes."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 35532752194895874
+    m_Localized: "Mettez fin \xE0 votre tour pour lancer la <style=\"Blue\">phase
+      des cr\xE9atures</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 35532752194895875
+    m_Localized: "Les deux Mystlings de <style=\"Blue\">derri\xE8re</style> <style=\"Blue\">s'activent</style>,
+      tandis que celui en <style=\"Blue\">premi\xE8re ligne</style> <style=\"Blue\">attaque</style>.
+      Mettez fin \xE0 votre tour pour lancer la <style=\"Blue\">phase des cr\xE9atures</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 35532752194895876
+    m_Localized: "Les ennemis agissent l'un apr\xE8s l'autre, de <style=\"Blue\">droite</style>
+      \xE0 <style=\"Blue\">gauche</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 35532752194895877
+    m_Localized: "<style=\"Blue\">Amenez</style> le curseur de la souris sur la ou
+      les ic\xF4nes d'<style=\"Blue\">intention</style> des ennemis."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 35532752194895878
+    m_Localized: "Jouez la carte <style=\"Blue\">Garde\_!</style> sur un <style=\"Blue\">Mystling</style>
+      pour <style=\"Blue\">parer</style> des <style=\"Blue\">d\xE9g\xE2ts</style>
+      qu'il doit subir."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 35532752194895879
+    m_Localized: <style="Blue">Faites glisser</style> un Mystling pour changer sa
+      position.
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 35532752194895880
+    m_Localized: "D\xE9placez vos Mystlings pour vous adapter au d\xE9roulement du
+      combat."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 35532752194895881
+    m_Localized: "Mystlings et ennemis peuvent appliquer des effets d'<style=\"Blue\">\xE9tat</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 35532752194895882
+    m_Localized: "<style=\"Blue\">Amenez</style> le curseur de la souris sur une
+      ic\xF4ne d'<style=\"Blue\">\xE9tat</style> (sous une cr\xE9ature) pour conna\xEEtre
+      son effet."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 35532752194895883
+    m_Localized: "Voil\xE0 les bases\_! Et maintenant, finissez le combat par vous-m\xEAme."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37707288547368960
+    m_Localized: "Chaque victoire vous rapporte des <style=\"Blue\">Mystibaies</style>,
+      qui vous servent \xE0 acqu\xE9rir des <style=\"Blue\">b\xE9n\xE9dictions</style>
+      et de nouvelles <style=\"Blue\">cartes</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37707288547368961
+    m_Localized: Prenez une carte gratuitement.
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37707288547368962
+    m_Localized: "Les <style=\"Blue\">b\xE9n\xE9dictions</style> sont similaires
+      aux talents. Elles conf\xE8rent \xE0 vos Mystlings des capacit\xE9s suppl\xE9mentaires
+      qui se d\xE9clenchent dans certaines situations sp\xE9cifiques."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37707288547368963
+    m_Localized: "S\xE9lectionnez l'un de vos Mystlings."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37707288547368964
+    m_Localized: "S\xE9lectionnez une b\xE9n\xE9diction."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37707288547368965
+    m_Localized: "Achetez une b\xE9n\xE9diction."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37705988774502400
+    m_Localized: "<i>L'Ancien se tient \xE0 c\xF4t\xE9 de l'autel du Dragon Gardien,
+      endroit depuis lequel il dirige la r\xE9union hebdomadaire des villageois.<br><br>Les
+      gens rassembl\xE9s l\xE0 ont l'air plus agit\xE9s et plus inquiets que d'habitude.</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 42406671578546176
+    m_Localized: "Pourrait-on parler, Ancien\_?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37705988774502401
+    m_Localized: "Un petit instant...<br><br>Oui, Marianne, nous r\xE9unissons les
+      ressources pour... Non, non, du calme, il n'est pas n\xE9cessaire de <i>prendre
+      les armes</i> pour...<br><br><shake>Calmez-vous tous\_!</shake><br><font=\"Rounded-Black
+      SDF\">C\xE9der \xE0 la panique ne r\xE9soudra rien.</font>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 42424946089771008
+    m_Localized: "Et maintenant, excusez-moi.<br><br><i>L'Ancien se fraie un chemin
+      au milieu de la foule pour vous parler \xE0 l'\xE9cart.</i><br><br>Oui\_? Qu'y
+      a-t-il\_?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 42406671599517696
+    m_Localized: "J'ai d\xE9couvert quelque chose d'\xE9trange en for\xEAt..."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37705988774502402
+    m_Localized: "<i>Vous parlez \xE0 l'Ancien des ruines myst\xE9rieuses que vous
+      avez vues et de la cr\xE9ature que vous avez combattue \xE0 l'int\xE9rieur.<br><br>Vous
+      lui expliquez que ce lieu semblait venu d'un autre monde, comme s'il \xE9tait
+      li\xE9 \xE0 un univers sombre et ancien.</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 42424946089771009
+    m_Localized: "Ah. Je ne peux pas dire que cela me surprenne, h\xE9las. C'est
+      ce que je craignais depuis le d\xE9but...<br><br>Quelque chose me dit que ton
+      p\xE9riple risque de devenir bien plus sem\xE9 d'emb\xFBches que nous ne le
+      pensions."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37705988774502403
+    m_Localized: "Comment \xE7a\_?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37705988774502404
+    m_Localized: "Il semblerait qu'une sorte de faille se soit cr\xE9\xE9e et qu'elle
+      ait ouvert un <font=\"Rounded-Black SDF\">portail \xE0 destination du Royaume
+      des Ombres.</font><br><br>Il va falloir le refermer au plus vite\_!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 42424946089771010
+    m_Localized: "<font=\"Rounded-Black SDF\">Le gardien...</font><br><br>Je le sens
+      qui s'affaiblit de jour en jour, comme s'il \xE9tait corrompu par les t\xE9n\xE8bres.<br><br>Je
+      ne l'ai pas encore dit aux autres villageois, mais je crois bien que beaucoup
+      se rendent compte qu'il y a un probl\xE8me, eux aussi."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 42406671599517697
+    m_Localized: "Que faut-il que je fasse\_?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37705988774502405
+    m_Localized: "Va parler \xE0 <font=\"Rounded-Black SDF\">Ordos.</font><br><br>Il
+      devrait mieux s'y conna\xEEtre que moi sur la question. Peut-\xEAtre saura-t-il
+      trouver une solution dans l'un de ses livres anciens."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 42424946089771011
+    m_Localized: "De mon c\xF4t\xE9, je vais rester ici afin de tenter de calmer
+      tout le monde."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37705988774502407
+    m_Localized: "<i>Vous apercevez un homme qui marmonne dans sa barbe, pench\xE9
+      sur un \xE9norme livre verrouill\xE9.<br><br>Ordos, l'\xE9rudit du village,
+      ainsi que le gardien de la biblioth\xE8que et votre ancien mentor, n'a pas
+      chang\xE9 depuis que vous le connaissez. Seule une ride plus prononc\xE9e sur
+      son front est le t\xE9moin du passage des ann\xE9es et de son inqui\xE9tude
+      actuelle.</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 42415937366507520
+    m_Localized: "<font=\"vinque-rg SDF\"><size=120%><shake a=0.5>Nam qui cagat...</shake></size></font><br><br>Non,
+      ce n'est pas \xE7a...<br><br><font=\"vinque-rg SDF\"><size=120%><shake a=0.5>Nam
+      qui cacat...</shake></size></font>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 42406671599517699
+    m_Localized: "Bonjour, Ordos\_! \xC7a faisait un bail\_!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37705988774502408
+    m_Localized: "<i>Il ne semble pas vous entendre, poursuivant ses \xE9tranges
+      incantations.</i><br><br><font=\"vinque-rg SDF\"><shake a=0.5><size=120%>...
+      et numquam abstergit...</size><size=150%> Deorum iram cognoscet\_!</size></shake></font>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37705988774502410
+    m_Localized: "<i>Soudain, des \xE9tincelles apparaissent tout autour de lui,
+      et le livre qu'il tenait sur les genoux s'envole de lui-m\xEAme, toujours ferm\xE9,
+      comme si ses pages avaient \xE9t\xE9 coll\xE9es ensemble.<br><br>Stup\xE9fait,
+      Ordos sursaute, et c'est \xE0 cet instant qu'il vous aper\xE7oit.</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 42415937366507521
+    m_Localized: "Ah, c'est toi\_!<br>\xC7a me fait plaisir de te voir\_!<br><br>Tu
+      es l\xE0 depuis longtemps\_? Tu aurais d\xFB venir me voir plus t\xF4t\_!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37705988774502411
+    m_Localized: Tout le plaisir est pour moi, Ordos. Mais je dois vous parler de
+      quelque chose...
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37705988774502412
+    m_Localized: "<i>Alors que vous lui racontez ce que vous avez vu en for\xEAt,
+      ses yeux s'\xE9carquillent de plus en plus et la ride sur son front devient
+      plus marqu\xE9e.</i><br><br>C'est affreux, affreux... bougonne-t-il.<br><br><i>Prenant
+      un livre \xE9pais, il cherche fr\xE9n\xE9tiquement \xE0 l'int\xE9rieur. Puis,
+      ayant trouv\xE9 le passage qui l'int\xE9resse, il tourne l'ouvrage vers vous.</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37705988774502414
+    m_Localized: "Plusieurs tomes font \xE9tat d'un terrible cataclysme, qui s'est
+      d\xE9roul\xE9 il y a tellement longtemps que l'on ne sait presque rien \xE0
+      son sujet...<br><br>Si j'en crois ce que j'ai r\xE9ussi \xE0 trouver \xE0 traduire
+      sur la question, il aurait \xE9t\xE9 caus\xE9 par une <font=\"Rounded-Black
+      SDF\">Double \xC9clipse</font>, un \xE9v\xE9nement surnaturel d'une grande
+      raret\xE9 au cours duquel nos deux lunes auraient \xE9clips\xE9 le soleil."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 42406671599517700
+    m_Localized: "Attendez, \xE7a me dit quelque chose..."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37705988774502415
+    m_Localized: "<i>Vous reconnaissez l'\xE9v\xE9nement de l'illustration. C'est
+      ce que vos visions vous ont montr\xE9 pendant le tremblement de terre\_! Se
+      pourrait-il qu'il s'agisse d'un avertissement\_?</i><br><br>Comment \xE7a\_?
+      O\xF9 aurais-tu pu voir une chose pareille\_?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 42406671599517701
+    m_Localized: "J'ai eu d'\xE9tranges visions juste avant le tremblement de terre."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37705988774502416
+    m_Localized: "<i>Ordos fait un pas en arri\xE8re, les yeux hagards.</i><br><br>Tu...
+      tu aurais... C'est <font=\"Rounded-Black SDF\"><bounce>incroyable</bounce></font>\_!
+      Peut-\xEAtre ne sommes-nous pas perdus, alors..."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37705988774502417
+    m_Localized: "Comment \xE7a\_?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37705988774502418
+    m_Localized: "J'ai l'impression que le gardien a essay\xE9 de communiquer avec
+      toi, et ce n'est sans doute pas un accident. Il a d\xFB <font=\"Rounded-Black
+      SDF\">te choisir</font>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 42415937366507522
+    m_Localized: "Les l\xE9gendes \xE9voquent les <font=\"Rounded-Black SDF\">\xC9lus
+      des Dragons</font>, des dompteurs qui, voici plusieurs si\xE8cles de cela,
+      \xE9taient choisis par un dragon, qui les guidait et leur conf\xE9rait une
+      partie de son pouvoir.<br><br>Je me demande si notre gardien est aussi endormi
+      que nous le pensons. Et il te juge manifestement digne de sa puissance."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 38046161593167872
+    m_Localized: "Alors, vous dites qu'il aurait d\xE9cid\xE9 de me choisir... mais
+      pour faire quoi, au juste\_?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37705988774502420
+    m_Localized: "Pour tous nous sauver d'une mort certaine, j'imagine.<br><br>Je
+      n'ai pour le moment r\xE9ussi \xE0 traduire qu'une partie de ce r\xE9cit de
+      l'\xC9clipse, mais il y est fait mention d'un puissant <font=\"Rounded-Black
+      SDF\">cristal</font> qui doit encore se trouver quelque part dans notre monde.<br><br>Il
+      te faut le trouver et essayer de le d\xE9truire, si tant est que ce soit possible."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 42406671599517702
+    m_Localized: Je vais faire de mon mieux.
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37705988774502421
+    m_Localized: "Tu vas devoir faire preuve d'un grand courage.<br><br>Il est possible
+      que le sort du monde repose sur tes \xE9paules."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37705988774502426
+    m_Localized: "<i>L'Ancien contemple la silhouette imposante du Dragon Gardien,
+      sourcils fronc\xE9s.<br><br>En vous approchant, vous entendez la respiration
+      hach\xE9e du g\xE9ant endormi. Des taches noires sont visibles sur ses \xE9cailles
+      mates.</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 42406671599517704
+    m_Localized: "Oh, bonjour, dompteuse. Quelles sont les nouvelles\_?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 42406671599517705
+    m_Localized: "J'ai trouv\xE9 d'autres ruines dans le d\xE9sert. Et cette fois,
+      il y avait un dompteur \xE0 l'int\xE9rieur."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37705988774502427
+    m_Localized: "Un dompteur, dis-tu\_? <size=75%>Se pourrait-il que...</size><br><br>Je
+      sais que cela peut sembler idiot, mais... avait-il une canne \xE9trange capable
+      d'invoquer des <font=\"Rounded-Black SDF\">Mystlings spectraux</font>\_?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 42406671599517706
+    m_Localized: "Tout \xE0 fait\_! Pourquoi, vous savez de qui il s'agit\_?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 42406671599517707
+    m_Localized: "H\xE9las, je le connais, en effet.<br><br>C'\xE9tait l'apprenti
+      d'Ordos du temps o\xF9 je suis devenu l'Ancien du village. Il \xE9tait tr\xE8s
+      intelligent, mais d\xE9j\xE0, \xE0 l'\xE9poque, il avait ce feu dans le regard
+      qui... me terrifiait."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37705988774502428
+    m_Localized: "Que lui est-il arriv\xE9\_? Il est parti\_?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37705988774502429
+    m_Localized: "<i>L'Ancien s'interrompt un instant, perdu dans ses pens\xE9es.</i><br><br>Il
+      a \xE9t\xE9 banni.<br><font=\"Rounded-Black SDF\">Pour avoir essay\xE9 de tuer
+      le Dragon Gardien.</font>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 42406671599517708
+    m_Localized: "Hein\_? Mais qu'est-ce qui lui a pris de vouloir faire une chose
+      pareille\_?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 42406671599517709
+    m_Localized: "Difficile \xE0 dire. \xC7a ne... tournait pas rond, chez lui.<br><br>Si
+      tu veux en savoir plus \xE0 son sujet, <font=\"Rounded-Black SDF\">demande
+      \xE0 Ordos</font>, qui a \xE9t\xE9 son mentor des ann\xE9es durant. Ils avaient
+      la m\xEAme passion pour la connaissance et, si quelqu'un peut savoir quelque
+      chose \xE0 son sujet, c'est bien Ordos."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37705988774502435
+    m_Localized: "<i>Ordos est assis, absorb\xE9 par la lecture d'un petit livre
+      recouvert de cuir us\xE9.</i><br><br><font=\"vinque-rg SDF\"><size=120%>...
+      Draco paulo cum adipem culo...</size></font><br><br><i>Sans doute s'agit-il
+      d'une ancienne pri\xE8re...</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37705988774502436
+    m_Localized: "Bonjour, Ordos. Je peux vous poser une question\_?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37705988774502437
+    m_Localized: "Ah, tu m'as fait peur\_!<br><br>Oui\_? Que puis-je pour toi\_?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 42406671599517710
+    m_Localized: "J'ai entendu dire que vous aviez autrefois un apprenti qui a \xE9t\xE9
+      banni du village."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37705988774502439
+    m_Localized: "Oh. Oui, c'est vrai. Il s'appelait...<br><br>Mais cela n'a gu\xE8re
+      d'importance, n'est-ce pas\_? Car le nom sous lequel je le connaissais n'\xE9tait
+      sans doute pas le vrai..."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 42438740392263680
+    m_Localized: "Il \xE9tait jeune quand il est arriv\xE9 dans notre village, et
+      il m'a expliqu\xE9 qu'il voulait consulter notre biblioth\xE8que et qu'il \xE9tait
+      pr\xEAt, en \xE9change, \xE0 m'aider dans mes recherches.<br><br>Il \xE9tait
+      extr\xEAmement charmant et, au bout du compte, j'ai fini par accepter."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 42406671599517712
+    m_Localized: "Mais il avait le go\xFBt du secret et \xE9tait fascin\xE9 par les
+      mythes et l\xE9gendes, au point que c'en \xE9tait presque une obsession.<br><br>Il
+      parcourait sans cesse les textes historiques \xE0 la recherche de preuves de
+      l'existence des cr\xE9atures f\xE9\xE9riques, \xE9tudiait les cartes anciennes
+      pour tenter de trouver leurs ruines..."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37705988774502441
+    m_Localized: "Et sans que je sache pourquoi, il vouait une haine aussi farouche
+      qu'inexplicable aux <font=\"Rounded-Black SDF\">dragons</font>. Nous n'\xE9tions
+      pas nombreux \xE0 avoir compris l'\xE9tendue de sa col\xE8re.<br><br>Mais ce
+      sont des histoires anciennes, tout \xE7a. Pourquoi cette question\_?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 42406671599517713
+    m_Localized: "Je crois l'avoir crois\xE9, et j'ai l'impression qu'il utilisait
+      un genre de magie des ombres."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 42406671599517714
+    m_Localized: "<i>Ordos vous fixe longuement, et vous lisez une tristesse infinie
+      dans son regard.</i><br><br>Vraiment\_? C'est... regrettable. On dirait qu'il
+      n'a gu\xE8re chang\xE9 depuis tout ce temps."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37705988774502449
+    m_Localized: "Viens vite, dompteuse\_! <font=\"Rounded-Black SDF\">Ordos</font>
+      a peut-\xEAtre trouv\xE9 la solution \xE0 notre probl\xE8me\_!<br><br>Va lui
+      parler le plus vite possible\_!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37705988774502450
+    m_Localized: "J'y vais\_!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37705988774502451
+    m_Localized: "<i>Pour la premi\xE8re fois depuis plusieurs semaines, Ordos n'est
+      pas perdu dans ses livres de savoir interdit. Au lieu de cela, il fait les
+      cent pas, tout aussi nerveux qu'avant, mais excit\xE9 au lieu d'\xEAtre abattu.</i><br><br>Ah,
+      te voil\xE0 enfin\_! Je t'attendais. Viens, viens\_!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37705988774502452
+    m_Localized: "Tu te souviens de ces portails que tu as trouv\xE9s dans les ruines\_?
+      Tu devrais essayer de <font=\"Rounded-Black SDF\">les emprunter</font>.<br><br>Oui,
+      oui, je sais bien que cela peut sembler fou. Mais \xE9coute-moi jusqu'au bout,
+      tu veux bien\_?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 42406671599517716
+    m_Localized: Hmm...
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 42416728437407744
+    m_Localized: "Les monstres que tu as affront\xE9s dans les ruines se d\xE9placent
+      par le biais des portails, mais ce ne sont pas eux qui les <font=\"Rounded-Black
+      SDF\">ouvrent</font>.<br><br>Cela doit se faire depuis... l'autre c\xF4t\xE9.
+      Il est possible, par exemple, que leur fonctionnement d\xE9pende d'un cristal
+      contr\xF4lant tous ceux que tu as vus."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 42406671599517717
+    m_Localized: "Si tu parviens \xE0 le d\xE9truire, <font=\"Rounded-Black SDF\">peut-\xEAtre
+      annihileras-tu du m\xEAme coup la source des arm\xE9es des ombres</font> qui
+      menacent notre village\_!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37705988774502453
+    m_Localized: "<font=\"Rounded-Black SDF\">Peut-\xEAtre</font>, dites-vous\_?
+      Voil\xE0 qui n'a gu\xE8re l'air encourageant..."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37705988774502454
+    m_Localized: "Je sais, je sais... mais c'est ce que nous pouvons esp\xE9rer de
+      mieux \xE0 l'heure actuelle, et <font=\"Rounded-Black SDF\">le temps commence
+      \xE0 manquer</font>.<br><br>Le Dragon Gardien est mourant et nous avons bien
+      du mal \xE0 repousser les monstres..."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 42406671599517718
+    m_Localized: ...
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 42406671599517719
+    m_Localized: "Je t'en prie\_! Il n'y a que toi qui aies une chance de mener cette
+      bataille. Je sais que c'est beaucoup demander, mais...<br><br>Tout le village
+      compte sur toi."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37705988774502455
+    m_Localized: "S'il n'y a pas d'autre option, comment pourrais-je dire non\_?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37705988774502456
+    m_Localized: "Oh, <bounce w=0.7>merci</bounce>\_!<br>Nous avons une dette \xE9norme
+      envers toi.<br><br>Puissent les dragons guider tes pas."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37707288551563264
+    m_Localized: "<i>Lyanne se pr\xE9cipite dans vos bras d\xE8s votre retour au
+      village.</i><br><br>Enfin, te voil\xE0\_! J'\xE9tais si inqui\xE8te..."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 42406671599517720
+    m_Localized: "Inqui\xE8te\_? Pourquoi\_? Que s'est-il pass\xE9\_?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37707288551563265
+    m_Localized: "<i>Elle fait un pas en arri\xE8re et regarde par terre, les l\xE8vres
+      tremblantes, comme si elle \xE9tait sur le point de se mettre \xE0 pleurer.</i><br><br>Le
+      gardien...<font=\"Rounded-Black SDF\"> Il... il est mort.</font>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 42406671599517721
+    m_Localized: "Quoi\_? Mais... comment\_? Je ne comprends pas..."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 42406671599517722
+    m_Localized: "Sa maladie... les taches noires... elle a fini par l'emporter.
+      Il faut croire que m\xEAme les dieux ne sont pas invincibles face au pouvoir
+      de l'\xC9clipse.<br><br>Est-ce que... c'est la fin\_? N'y a-t-il plus aucun
+      espoir pour nous\_?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37712648813355008
+    m_Localized: "Non, ne dis pas \xE7a. Il reste toujours un espoir. Je vais r\xE9gler
+      \xE7a."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37707288551563267
+    m_Localized: "Mais <font=\"Rounded-Black SDF\">comment</font>\_?<br><br>Comment
+      peux-tu esp\xE9rer combattre une force assez puissante pour tuer un dragon\_?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 42406671599517723
+    m_Localized: C'est simple. Avec obstination et en prenant tous les risques.
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 42406671599517724
+    m_Localized: "Tu ne cesseras jamais de me surprendre, tu sais\_?<br><br><i>Elle
+      se rapproche de vous et vous serre contre elle de toutes ses forces. Vous sentez
+      une larme tomber sur votre \xE9paule.</i><br><br>Fais juste attention... \xE0
+      ce qu'il ne t'arrive rien, s'il te pla\xEEt."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37712648834326528
+    m_Localized: "Ne t'inqui\xE8te pas, je serai de retour pour le d\xEEner."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37707288551563277
+    m_Localized: "Par les \xE9cailles sacr\xE9es, tu as r\xE9ussi\_!<br><bounce>C'est
+      fou\_!</bounce><br><br><i>Lyanne court vers vous avec une expression de joie
+      m\xEAl\xE9e d'incr\xE9dulit\xE9 sur le visage.<br><br>En quelques instants,
+      les villageois se rassemblent autour de vous, fous de joie, parlant tous en
+      m\xEAme temps dans leur d\xE9sir de vous f\xE9liciter.</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 42406671599517725
+    m_Localized: "\xC7a a march\xE9\_?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 42406671599517726
+    m_Localized: "Oh, que oui\_!<br><br>Nous te devons tous la vie, ou du moins,
+      la survie de notre village."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37712648834326533
+    m_Localized: "Je n'ai fait que d\xE9truire la source des ombres. Les monstres
+      sont toujours l\xE0."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37707288551563279
+    m_Localized: "C'est vrai, mais...<br><br>Nous devrions pouvoir nous en sortir...
+      surtout avec quelqu'un d'aussi dou\xE9 que toi pour nous d\xE9fendre."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37707288551563280
+    m_Localized: "En ton absence, ces <shake a=0.5>salet\xE9s</shake> ont r\xE9ussi
+      \xE0 nous encercler.<br><br>Eh bien, figure-toi que j'ai r\xE9ussi \xE0 en
+      assommer une avec une chaise\_!<br><br>Je ne suis peut-\xEAtre pas dompteuse,
+      mais m\xE9fie-toi quand m\xEAme, je pourrais finir par te prendre ton poste.
+      <bounce>Ha\_!</bounce>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 42406671599517728
+    m_Localized: "\xC7a, c'est s\xFBr\_! Et tu pourrais m\xEAme \xEAtre <font=\"Rounded-Black
+      SDF\">la plus terrifiante</font> des dompteuses si tu t'en donnais les moyens."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37707288551563281
+    m_Localized: "<i>L'Ancien se racle la gorge, soudain g\xEAn\xE9.</i><br><br>Ahem.<br><br>Quoi
+      qu'il en soit, c'est bien que tu sois de retour. Tu as r\xE9ussi \xE0 sauver
+      notre village, et nous serons \xE9ternellement tes oblig\xE9s."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 42406671599517730
+    m_Localized: "J'aimerais pouvoir te r\xE9compenser comme tu le m\xE9rites pour
+      tout ce que tu as fait, mais comme tu sais, nous ne sommes pas riches.<br><br>Et
+      apr\xE8s le tremblement de terre et toute cette destruction..."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37712648834326534
+    m_Localized: "Ce village, c'est chez moi. C'\xE9tait normal que je le sauve."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 37707288551563283
+    m_Localized: "<i>Le visage de l'Ancien s'illumine d'une fiert\xE9 presque paternelle.</i><br><br>Le
+      Dragon Gardien ne s'y est pas tromp\xE9 quand il a d\xE9cid\xE9 de te choisir,
+      toi."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 42406671599517731
+    m_Localized: "<i>Votre aventure s'ach\xE8ve ici. Vous avez r\xE9ussi \xE0 sauver
+      le village et \xE0 stopper l'\xC9clipse imminente, prouvant ainsi que vous
+      faisiez partie des plus grands dompteurs de l'histoire du village.<br>Les bardes
+      composeront des ballades sur vos exploits, et peut-\xEAtre Ordos \xE9crira-t-il
+      un livre \xE0 ce sujet si vous le lui demandez gentiment.<br><br>Mais alors
+      qu'un chapitre de votre existence s'ach\xE8ve, le prochain commence \xE0 s'\xE9crire.
+      Qu'est-ce que le destin vous r\xE9serve, d\xE9sormais\_? Une chose est s\xFBre,
+      en tout cas\_: vous avez r\xE9ussi \xE0 ramener l'espoir chez des gens qui
+      ne connaissaient jusque-l\xE0 que la peur et l'abattement.</i><br><br>Encore
+      bravo, et merci d'avoir jou\xE9 \xE0 Dragon Eclipse\_!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 42410027705417728
+    m_Localized: "Voyons ce que l'avenir nous r\xE9serve\_!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  - m_Id: 39865059588440064
+    m_Localized: Ordos
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675396
+  references:
+    version: 2
+    RefIds:
+    - rid: 8829885851983675396
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 451756015616
+        - id: 451785375744
+        - id: 451785375745
+        - id: 451785375746
+        - id: 451789570048
+        - id: 451789570049
+        - id: 451789570050
+        - id: 451789570051
+        - id: 451789570073
+        - id: 451789570074
+        - id: 45300613990391828
+        - id: 45300613990391829
+        - id: 451789570077
+        - id: 451789570078
+        - id: 45300613990391831
+        - id: 45300613990391832
+        - id: 45300613990391834
+        - id: 45300613990391835
+        - id: 45300613990391836
+        - id: 45300613990391837
+        - id: 45300613990391838
+        - id: 45300613990391839
+        - id: 45300613990391840
+        - id: 45300613990391841
+        - id: 45300613990391842
+        - id: 45300613990391843
+        - id: 45300613990391844
+        - id: 45300613990391845
+        - id: 45300613990391846
+        - id: 45300613990391847
+        - id: 45300613990391848
+        - id: 45300613990391849
+        - id: 45300613990391850
+        - id: 45300613990391851
+        - id: 45300613990391852
+        - id: 45300613990391853
+        - id: 45300613990391854
+        - id: 45300613990391855
+        - id: 45300613990391856
+        - id: 45300613990391857
+        - id: 45300613990391858
+        - id: 45300613990391859
+        - id: 45300613990391860
+        - id: 45300613990391861
+        - id: 45300613990391862
+        - id: 45300613990391863
+        - id: 45300613990391864
+        - id: 45300613990391865
+        - id: 45300613990391866
+        - id: 45300613990391867
+        - id: 45300613990391868
+        - id: 45300613990391869
+        - id: 45300613990391870
+        - id: 45300613990391871
+        - id: 45300613990391872
+        - id: 45300613990391873
+        - id: 45300613990391874
+        - id: 45300613990391875
+        - id: 45300613990391876
+        - id: 45300613990391877
+        - id: 45300613990391878
+        - id: 45300613990391879
+        - id: 45300613990391880
+        - id: 45300613990391881
+        - id: 45300613990391882
+        - id: 45300613990391883
+        - id: 45300613990391884
+        - id: 45300613990391885
+        - id: 45300613990391886
+        - id: 45300613990391887
+        - id: 45300613990391888
+        - id: 45304894210514947
+        - id: 45304894210514948
+        - id: 45304894210514959
+        - id: 45304894210514960
+        - id: 45304894210514961
+        - id: 45304894210514962
+        - id: 45304894210514963
+        - id: 45304894210514966
+        - id: 45300613990391913
+        - id: 45300613990391914
+        - id: 13009066783744000
+        - id: 13009066808909824
+        - id: 35532752173924352
+        - id: 35532752194895872
+        - id: 35532752194895873
+        - id: 35532752194895874
+        - id: 35532752194895875
+        - id: 35532752194895876
+        - id: 35532752194895877
+        - id: 35532752194895878
+        - id: 35532752194895879
+        - id: 35532752194895880
+        - id: 35532752194895881
+        - id: 35532752194895882
+        - id: 35532752194895883
+        - id: 37707288547368960
+        - id: 37707288547368961
+        - id: 37707288547368962
+        - id: 37707288547368963
+        - id: 37707288547368964
+        - id: 37707288547368965
+        - id: 37705988774502400
+        - id: 42406671578546176
+        - id: 37705988774502401
+        - id: 42424946089771008
+        - id: 42406671599517696
+        - id: 37705988774502402
+        - id: 42424946089771009
+        - id: 37705988774502403
+        - id: 37705988774502404
+        - id: 42424946089771010
+        - id: 42406671599517697
+        - id: 37705988774502405
+        - id: 42424946089771011
+        - id: 37705988774502407
+        - id: 42415937366507520
+        - id: 42406671599517699
+        - id: 37705988774502408
+        - id: 37705988774502410
+        - id: 42415937366507521
+        - id: 37705988774502411
+        - id: 37705988774502412
+        - id: 37705988774502414
+        - id: 42406671599517700
+        - id: 37705988774502415
+        - id: 42406671599517701
+        - id: 37705988774502416
+        - id: 37705988774502417
+        - id: 37705988774502418
+        - id: 42415937366507522
+        - id: 38046161593167872
+        - id: 37705988774502420
+        - id: 42406671599517702
+        - id: 37705988774502421
+        - id: 37705988774502426
+        - id: 42406671599517704
+        - id: 42406671599517705
+        - id: 37705988774502427
+        - id: 42406671599517706
+        - id: 42406671599517707
+        - id: 37705988774502428
+        - id: 37705988774502429
+        - id: 42406671599517708
+        - id: 42406671599517709
+        - id: 37705988774502435
+        - id: 37705988774502436
+        - id: 37705988774502437
+        - id: 42406671599517710
+        - id: 37705988774502439
+        - id: 42438740392263680
+        - id: 42406671599517712
+        - id: 37705988774502441
+        - id: 42406671599517713
+        - id: 42406671599517714
+        - id: 37705988774502449
+        - id: 37705988774502450
+        - id: 37705988774502451
+        - id: 37705988774502452
+        - id: 42406671599517716
+        - id: 42416728437407744
+        - id: 42406671599517717
+        - id: 37705988774502453
+        - id: 37705988774502454
+        - id: 42406671599517718
+        - id: 42406671599517719
+        - id: 37705988774502455
+        - id: 37705988774502456
+        - id: 37707288551563264
+        - id: 42406671599517720
+        - id: 37707288551563265
+        - id: 42406671599517721
+        - id: 42406671599517722
+        - id: 37712648813355008
+        - id: 37707288551563267
+        - id: 42406671599517723
+        - id: 42406671599517724
+        - id: 37712648834326528
+        - id: 37707288551563277
+        - id: 42406671599517725
+        - id: 42406671599517726
+        - id: 37712648834326533
+        - id: 37707288551563279
+        - id: 37707288551563280
+        - id: 42406671599517728
+        - id: 37707288551563281
+        - id: 42406671599517730
+        - id: 37712648834326534
+        - id: 37707288551563283
+        - id: 42406671599517731
+        - id: 42410027705417728
+        - id: 39865059588440064

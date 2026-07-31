@@ -1,0 +1,160 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -299433217, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Effects Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Effects
+  m_TableCollectionNameGuidString: 4aacb33d96238e145b16ecaf1105da02
+  m_Entries:
+  - m_Id: 1054703992832
+    m_Key: EffectName_Activate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1106876940288
+    m_Key: EffectDesc_Activate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1137247895552
+    m_Key: EffectName_Stun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1167065202688
+    m_Key: EffectDesc_Stun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1203266240512
+    m_Key: EffectName_Wound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1233293262848
+    m_Key: EffectDesc_Wound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1266516344832
+    m_Key: EffectName_ExcludeExp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1311223431168
+    m_Key: EffectDesc_ExcludeExp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1349962022912
+    m_Key: EffectName_UltAction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1396862730240
+    m_Key: EffectDesc_UltAction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12301384671113216
+    m_Key: EffectName_Spawn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12301419358007296
+    m_Key: EffectDesc_Spawn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71045737244336128
+    m_Key: EffectName_Faint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71045737273696256
+    m_Key: EffectDesc_Faint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55757007826788352
+    m_Key: combat_buff
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55757007851954176
+    m_Key: combat_debuff
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55757007851954177
+    m_Key: combat_stun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55757007851954178
+    m_Key: combat_activation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55757007851954179
+    m_Key: combat_strike
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113733529649422336
+    m_Key: combat_dodge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113733529682976768
+    m_Key: combat_rest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59806798797979648
+    m_Key: combat_buildup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84836185721085952
+    m_Key: arena_enchantment_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84844454871113728
+    m_Key: arena_round_shields_effect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85091811579731968
+    m_Key: arena_round_strength_round_effect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84844454871113730
+    m_Key: arena_round_vulnerable_effect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84844454871113731
+    m_Key: arena_reduce_damage_effect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84844454871113732
+    m_Key: arena_round_heal_effect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84844454871113733
+    m_Key: arena_power_round_damage_self_effect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85478340458258432
+    m_Key: arena_power_round_damage_self1_effect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84844454871113734
+    m_Key: arena_activate_effect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84844454871113735
+    m_Key: arena_round_damage_self_effect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 97530737351184384
+    m_Key: combat_statusBlocked
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7337901101452623872
+  references:
+    version: 2
+    RefIds:
+    - rid: 7337901101452623872
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1702031810167

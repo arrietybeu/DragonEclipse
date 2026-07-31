@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Triggers_vi
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: vi
+  m_SharedData: {fileID: 11400000, guid: a97a6e7d51b11d5498e065e452006234, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 8099901647879405583
+  m_TableData:
+  - m_Id: 15958282833453056
+    m_Localized: "Khi sinh v\u1EADt m\u1EA5t M\xE1u"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405583
+  - m_Id: 15958284662169600
+    m_Localized: "Khi sinh v\u1EADt nh\u1EADn b\u1EA5t k\u1EF3 lo\u1EA1i s\xE1t th\u01B0\u01A1ng
+      n\xE0o, k\u1EC3 c\u1EA3 khi kh\xF4ng m\u1EA5t ch\xFAt M\xE1u n\xE0o"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405583
+  - m_Id: 15958286138564608
+    m_Localized: "Khi sinh v\u1EADt h\u1EA1 g\u1EE5c m\u1ED9t sinh v\u1EADt kh\xE1c"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405583
+  - m_Id: 15962558142046208
+    m_Localized: "<style=\"Blue\">B\u1ECB T\u1EA5n C\xF4ng</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405583
+  - m_Id: 15962560159506432
+    m_Localized: "<style=\"Blue\">B\u1ECB Th\u01B0\u01A1ng</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405583
+  - m_Id: 15962561149362176
+    m_Localized: "<style=\"Blue\">H\u1EA1 G\u1EE5c</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405583
+  references:
+    version: 2
+    RefIds:
+    - rid: 8099901647879405583
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 15958282833453056
+        - id: 15958284662169600
+        - id: 15958286138564608
+        - id: 15962558142046208
+        - id: 15962560159506432
+        - id: 15962561149362176

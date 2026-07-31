@@ -1,0 +1,655 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -299433217, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: NewEnemies Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: NewEnemies
+  m_TableCollectionNameGuidString: 393d391f6bc0c1c42b4132039abdefa2
+  m_Entries:
+  - m_Id: 30040975212617728
+    m_Key: necroworm_regular_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30040975221006336
+    m_Key: necroworm_hard_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30040975221006337
+    m_Key: necroworm_regular_child_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30040975221006338
+    m_Key: necroworm_hard_child_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30040975221006339
+    m_Key: shadeclaw_regular_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30040975221006340
+    m_Key: shadeclaw_hard_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3202074980499459
+    m_Key: dark_eftus_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70619883263606784
+    m_Key: spider_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70619883288772608
+    m_Key: knight_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69187890315378688
+    m_Key: uttur_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3202074980499460
+    m_Key: terok_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30040975221006341
+    m_Key: darktailen_regular_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30040975221006342
+    m_Key: darktailen_hard_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22377819417944064
+    m_Key: dark_prowler_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22377819430526976
+    m_Key: dark_drosithia_egg_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30043252048601088
+    m_Key: dark_drosithia_regular_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30043252048601089
+    m_Key: dark_drosithia_hard_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28880172346318848
+    m_Key: gremlin_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3202074980499463
+    m_Key: eldrithia_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29987358854160384
+    m_Key: shadowling_regular_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29987358875131904
+    m_Key: shadowling_hard_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44089582999904256
+    m_Key: shadowling_exalted_regular_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44089583020875776
+    m_Key: shadowling_exalted_hard_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29987358875131905
+    m_Key: sneakabbys_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41288302803886080
+    m_Key: fungusmo_regular_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41288302829051904
+    m_Key: fungusmo_hard_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30067048314904576
+    m_Key: trainingdummy_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41239606510821376
+    m_Key: skitterpaw_egg_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51448208789938176
+    m_Key: darkeye_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51448208810909696
+    m_Key: blue_darkeye_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51448208810909697
+    m_Key: centervil_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51448208810909698
+    m_Key: siren_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51448208810909699
+    m_Key: dogring_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32864254604419072
+    m_Key: boss_phantamer_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32864254625390592
+    m_Key: boss_umbra_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41239606510821377
+    m_Key: boss_skitterpaw_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43421786716577792
+    m_Key: leaderboard_stone_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3202074980499466
+    m_Key: phantom_pinequeak_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3202074980499467
+    m_Key: phantom_iceling_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3202074980499468
+    m_Key: phantom_golomo_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3202074980499469
+    m_Key: phantom_glarexus_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3202074980499470
+    m_Key: phantom_prowler_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32864254625390593
+    m_Key: enemy_blessing_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30040975221006343
+    m_Key: necroworm_regular_passive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30040975221006344
+    m_Key: necroworm_hard_passive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3202074980499495
+    m_Key: eldrithia_passive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32874378098188288
+    m_Key: stun_passive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32875559818174464
+    m_Key: shadowling_passive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32885125649866752
+    m_Key: sneakabbys_passive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42678251386118144
+    m_Key: passive_shadowling_exalted_regular
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42678251419672576
+    m_Key: passive_shadowling_exalted_hard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41288302829051905
+    m_Key: passive_fungusmo_regular
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41288302829051906
+    m_Key: passive_fungusmo_hard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63368020864647168
+    m_Key: darktailen_regular_passive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28198348632694784
+    m_Key: msw_darktailen_passive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69187890344738816
+    m_Key: msw_shadeclaw_passive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28204206989058048
+    m_Key: msw_drosithia_passive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29980607761162240
+    m_Key: msw_gremlin_passive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70619883288772609
+    m_Key: spider_elite_passive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70619883288772610
+    m_Key: knight_elite_passive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30317001696157696
+    m_Key: msw_elite_terok_passive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32885125670838272
+    m_Key: umbra_passive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32885125670838273
+    m_Key: phantamer_passive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51448208810909700
+    m_Key: darkeye_passive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51448208810909701
+    m_Key: blue_darkeye_passive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51448208810909703
+    m_Key: dogring_passive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61231874130952192
+    m_Key: tutorial_darktailen_passive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3202074980499499
+    m_Key: phantom_iceling_passive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28200547500761088
+    m_Key: uttur_passive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41240425125715968
+    m_Key: passive_skitterpaw
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30026794803470336
+    m_Key: msw_phantom_pinequeak_passive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30026794803470337
+    m_Key: msw_phantom_golomo_passive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30026794803470339
+    m_Key: msw_phantom_glarexus_passive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3202074980499471
+    m_Key: intent_damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14838014429700096
+    m_Key: intent_buff
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3202074980499472
+    m_Key: intent_debuff
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3202074980499473
+    m_Key: intent_rest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3202074980499474
+    m_Key: intent_stunned
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3202074980499475
+    m_Key: action_damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29987945507266560
+    m_Key: action_damage_self
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53218264817410048
+    m_Key: action_damage_3x
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33956972290187264
+    m_Key: action_damage_5x
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41237795473268736
+    m_Key: action_damage_6x
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33956972315353088
+    m_Key: action_damage_10x
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3202074980499477
+    m_Key: action_damage_last
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21275692424437760
+    m_Key: action_damage_middle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3202074980499478
+    m_Key: action_damage_random
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3202074980499479
+    m_Key: action_damage_x_random
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3202074980499480
+    m_Key: action_damage_all
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43809184386457600
+    m_Key: action_damage_all_creatures
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40897011834232832
+    m_Key: action_explode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21275692445409280
+    m_Key: action_damage_lowest_hp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3202074980499481
+    m_Key: action_health_damage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3202074980499482
+    m_Key: action_rest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63760706464907264
+    m_Key: action_rest_descr
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28209715775348736
+    m_Key: action_buildup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76760452109836288
+    m_Key: action_dodge_front
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3202074980499483
+    m_Key: action_buff
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3202074980499484
+    m_Key: action_debuff
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63320537472024576
+    m_Key: action_hook_last
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18375964392235008
+    m_Key: action_hook_lowest_hp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3202074980499486
+    m_Key: action_summon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41266718798061568
+    m_Key: action_phase_transition
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3202074980499503
+    m_Key: ult_trigger_round4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3202074980499504
+    m_Key: ult_trigger_round5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3202074980499505
+    m_Key: ult_trigger_round6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14838014450671616
+    m_Key: intent_curse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14838014450671617
+    m_Key: action_curse_reduce_energy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14838014450671618
+    m_Key: action_curse_add_card
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14838014450671619
+    m_Key: action_curse_increase_card_cost
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31416745155698688
+    m_Key: action_curse_increase_card_cost_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15098057276334080
+    m_Key: action_curse_steal_ember_seeds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15107087159861248
+    m_Key: action_curse_hand_size
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41634209193861120
+    m_Key: action_curse_exhaust_played
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28205321759563776
+    m_Key: action_debuff_weakness_self
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18372613688598528
+    m_Key: action_debuff_weakness_front
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18372613688598529
+    m_Key: action_debuff_weakness_random
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28218877917863936
+    m_Key: action_debuff_vulnerable_self
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18372613688598530
+    m_Key: action_debuff_vulnerable_front
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63320537492996096
+    m_Key: action_debuff_vulnerable_last
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18385638579576832
+    m_Key: action_debuff_vulnerable_all
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18386934791479296
+    m_Key: action_debuff_vulnerable_lowest_hp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20988887249788928
+    m_Key: action_debuff_vulnerable_random
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18373772805480448
+    m_Key: action_debuff_stun_front
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18373772805480449
+    m_Key: action_debuff_stun_middle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29990354140864512
+    m_Key: action_debuff_stun_random
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34099718414868480
+    m_Key: action_debuff_stun_all
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51714386443706368
+    m_Key: action_debuff_acid_front
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51715039991767040
+    m_Key: action_debuff_acid_random
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18372613688598531
+    m_Key: action_buff_dodge_self
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18372613688598532
+    m_Key: action_buff_strength_self
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18372613688598533
+    m_Key: action_buff_strength_front
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18372613688598534
+    m_Key: action_buff_strength_all
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18372613688598535
+    m_Key: action_buff_shields_self
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18372613688598536
+    m_Key: action_buff_thorns_self
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18372613688598537
+    m_Key: action_buff_thorns_front
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18372613688598538
+    m_Key: action_buff_heal_self
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18372613688598539
+    m_Key: action_buff_heal_front
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40919038213300224
+    m_Key: action_buff_lifesteal_self
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51712258333548544
+    m_Key: action_buff_indestructible_self
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40937100899590144
+    m_Key: action_shadowform_enter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40937100899590145
+    m_Key: action_shadowform_leave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23882141503791104
+    m_Key: action_wound_front
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23882141503791105
+    m_Key: action_wound_middle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23882141503791106
+    m_Key: action_wound_last
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23882141503791107
+    m_Key: action_wound_all
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23882141503791108
+    m_Key: action_wound_random
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28624890869432320
+    m_Key: action_buff_guarded
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28624890886209536
+    m_Key: action_debuff_exposed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30047564703277056
+    m_Key: action_curse_steal_random_currency
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30047428094795776
+    m_Key: action_curse_remove_buffs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58691717615919104
+    m_Key: quest_bigpine_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58691793004339200
+    m_Key: quest_smallpine_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58687513618882560
+    m_Key: quest_terok_passive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58688421891219456
+    m_Key: quest_pinequeak_passive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68491981210370048
+    m_Key: 'When <color=#40E0D0>attacked</color=#40E0D0>: Gain {0} <color=#40E0D0>Wrath</color=#40E0D0>
+      <br>Become <color=#40E0D0>Exposed</color=#40E0D0> every 4th Round <br>(Increase
+      damage received by 100% for one turn, gain <color=#40E0D0>Weakness</color=#40E0D0>
+      instead of </color=#40E0D0>Wrath</color=#40E0D0> after hit)'
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 3009405546846748723
+  references:
+    version: 2
+    RefIds:
+    - rid: 3009405546846748723
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1710857271048

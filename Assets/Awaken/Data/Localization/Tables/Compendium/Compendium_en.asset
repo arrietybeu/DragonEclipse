@@ -1,0 +1,586 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Compendium_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 98a8d947820b5a3448a76aaf025ea69e, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2105433060097654785
+  m_TableData:
+  - m_Id: 17316704231424
+    m_Localized: Statistics
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 17316704231425
+    m_Localized: 'Both Mystlings and Enemies are considered Creatures.
+
+      <b>Health:</b>
+      When a Creature runs out of Health it will Faint and will be removed from Battle.
+      Both Mystlings and Enemies use Health.
+
+      <b>Power:</b> How much damage
+      will a Mystling deal when attacking. This stat scales with other effects, like
+      Cards or status effects. Only Mystlings use Power.
+
+      <b>Activation:</b>
+      Every Mystling has a unique ability that triggers during the Creatures'' Phase
+      as long as this Mystling is not standing in the front position.
+
+      <b>Talent:</b>
+      Every Mystling has a unique passive ability that may trigger in different circumstances,
+      such as taking damage or defeating an Enemy.'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 17316704231426
+    m_Localized: Cards and Energy
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 17316704231430
+    m_Localized: Player's Phase
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 17316704231432
+    m_Localized: Moving Mystlings
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 17316704231434
+    m_Localized: Creatures' Phase
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 17316704231436
+    m_Localized: Blessings activation
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 17316704231438
+    m_Localized: Consumables
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 17316704231440
+    m_Localized: Tamer's Ability
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475884666880
+    m_Localized: Combat Basics
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 17316704231427
+    m_Localized: 'Use Cards to command your Mystlings and defeat Enemies. Drag a
+      card onto a Mystling or an Enemy in order to activate its effect.
+
+
+      Playing
+      Cards requires Energy. You start each Round with 3 Energy. When you don''t
+      have enough Energy to play any card in your hand, it''s time to End your Round.
+
+
+      At
+      the start of each Round your Energy pool will be replenished and new Cards
+      will be drawn from the Draw Pile.'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055488
+    m_Localized: Round Phase
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055489
+    m_Localized: Every Round consists of the Player's Phase and the Creatures' Phase.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 17316704231431
+    m_Localized: During this Phase you can play Cards, reposition your Mystlings
+      and use Consumables. When your press the End Round button, you will end the
+      Player's Phase and start the Creatures' Phase.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 17316704231433
+    m_Localized: 'You can freely rearrange your Mystlings during Battle by dragging
+      them onto desired position. Remember that positioning defines which Mystling
+      will use their Activation abilities and which one will attack.
+
+
+      You
+      can also rearrange your Mystlings on the World Map by pressing arrows near
+      their portraits.'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 17316704231435
+    m_Localized: 'After you End your Round all Creatures will act on their own. Enemies
+      will always act before Mystlings.
+
+
+      Enemies display their Intentions
+      above their heads. You can hover over them with your mouse to see more details
+      about the upcoming action. This action''s target will by highlighted with an
+      outline.
+
+
+      All Enemies will follow through with their Intentions one
+      by one from last (RIGHT) to front (LEFT) position.
+
+
+      Your Mystlings will
+      act right after that, one by one from last (LEFT) to front (RIGHT) position.
+      The Mystling standing in the front position will Attack while the rest will
+      use their Activation abilities.'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 17316704231437
+    m_Localized: 'Blessings and Talents have particular conditions to trigger their
+      effects. They may interrupt the natural flow of the Round.
+
+      Read the
+      tooltip of every Blessing carefully to maximize the effectiveness of your build!'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 17316704231439
+    m_Localized: Consumables are single-use items that can trigger various effects.
+      You can use them only during Battle by dragging them onto desired targets (or
+      simply clicking on them in some cases when they don't require a target).
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 17316704231441
+    m_Localized: Every Tamer has a special ability, some working during Battle, some
+      outside of it. When a Tamer has an ability present during Battle, your Mystlings
+      will receive a special status effect represented by an icon with a green background.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055490
+    m_Localized: Progression
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055491
+    m_Localized: Currencies
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055492
+    m_Localized: 'Treasure Chests and Battles will reward you with two basic currencies:
+
+      <b>Gold:</b>
+      Can be spent in the Shop on the Map to buy new Cards or Consumables, as well
+      as in the Mystling Care Center to heal, revive or train your Mystlings.
+
+      <b>Mystberries:</b>
+      Can be spent only after Battle to purchase new Cards and Blessings for your
+      Mystlings. They can also be used to revive fainted Mystlings.'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055493
+    m_Localized: Blessings
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055494
+    m_Localized: 'Blessings are special passive abilities that can be purchased for
+      a Mystling with Mystberries. Every Blessing has a unique effect and a trigger.
+
+
+      The
+      price of a Blessing will increase by 2 for every Blessing already owned by
+      a Mystling.'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055495
+    m_Localized: Evolution
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055496
+    m_Localized: 'When a Mystling acquires 4 Blessings, it will evolve into a more
+      powerful form.
+
+
+      Evolved Mystling will have its Card upgraded. You will
+      be also able to choose 1 of 3 Talents. Some of those might overwrite the original
+      Talent.'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055497
+    m_Localized: Leveling Up
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055498
+    m_Localized: "After each Run \u2013 successful or not \u2013 you will gain Experience
+      Points. Upon gathering enough you will level up and unlock new Mystlings, Tamers
+      Cards and Blessings.\n\nUnlocked Mystlings and Tamers can be chosen before
+      starting a new Run. New Cards and Blessings will appear in Shops during Runs."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055499
+    m_Localized: Eclipse Timer
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055500
+    m_Localized: Runs are time limited. The number of Battles you can undertake before
+      the Eclipse arrives is defined by the Difficulty level. When the Timer reaches
+      zero, the final Boss Battle will begin.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055501
+    m_Localized: Village
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055502
+    m_Localized: Free Roam
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055503
+    m_Localized: 'The Village is your home and base of operations. After finishing
+      a Run you will always return to the Village.
+
+
+      You can interact with
+      Mystlings and villagers to learn more about them. Keep an eye on your pupils,
+      as sometimes they will need your help with a problem.'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055504
+    m_Localized: Kitchen
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055505
+    m_Localized: Before you embark on your next adventure you can order one random
+      Consumable in the Kitchen. Don't worry, it's on the house.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055506
+    m_Localized: Effects
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055507
+    m_Localized: Status effects
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055508
+    m_Localized: <b>Shields:</b> Defends Health from incoming damage until the next
+      Round.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055509
+    m_Localized: <b>Wrath:</b> Increases Power until the end of Battle.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055510
+    m_Localized: <b>Strength:</b> Increases Power until the end of Round.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055511
+    m_Localized: <b>Insulate:</b> Reduce next incoming damage to 1.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055512
+    m_Localized: <b>Dodge:</b> Prevents Creature from being damaged. Status counter
+      decreases by 1 after each attack dodged.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055513
+    m_Localized: <b>Multistrike:</b> Increase the amount of attacks for each Multistrike
+      counter for 1 turn.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055514
+    m_Localized: <b>Permanent Multistrike:</b> Increase the amount of attacks for
+      each Multistrike counter until the end of the Battle.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055515
+    m_Localized: <b>Revive:</b> Instantly revive this Creature with 50% of its Max
+      Health after fainting. Decrease status value by 1 after each revive.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055516
+    m_Localized: <b>Thorns:</b> When attacked, deal damage equal to Thorns value
+      to the attacker. Status disappears right after.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055517
+    m_Localized: <b>Vulnerable:</b> When this Creature takes any kind of damage from
+      any source, it takes additional damage equal to Vulnerable value. Decrease
+      status value after each hit.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055518
+    m_Localized: <b>Weakness:</b> Decreases Power for each Weakness counter.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055519
+    m_Localized: '<b>Lifesteal:</b> Attack: Heal self equal to damage dealt to an
+      enemy.'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055520
+    m_Localized: <b>Guarded:</b> Reduce damage received by 50%. Decrease each Round.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055521
+    m_Localized: <b>Exposed:</b> Increase damage received by 100%. Decrease each
+      Round.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055522
+    m_Localized: <b>Stun:</b> Creature can't activate or attack. Decreases by 1 at
+      the start of Round.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055523
+    m_Localized: Triggers
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055528
+    m_Localized: Keywords
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 67405132931072
+    m_Localized: '<b>Exhaust:</b> Remove from the deck until the end of Battle after
+      playing.
+
+      <b>Overload:</b> Play this card as many times as the number
+      of cards played this Round.
+
+      <b>Grow:</b> Every time this card is played,
+      increase its value by Grow count until the end of Battle.
+
+      <b>Wither:</b>
+      Every time this card is played, decrease its value by Wither count until the
+      end of Battle.
+
+      <b>Enchant Position:</b> Apply an Enchantment to a Position.'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055534
+    m_Localized: Cards
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055535
+    m_Localized: Blessings
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055536
+    m_Localized: Consumables
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055537
+    m_Localized: <b>Raw Steak:</b> Apply Strength to selected Mystling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055538
+    m_Localized: <b>Raspberry Cheesecake:</b> Apply Shields to selected Mystling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055539
+    m_Localized: <b>Nutritious Soup:</b> Heal selected Mystling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055540
+    m_Localized: <b>Fancy Dessert:</b> Apply Revive to selected Mystling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055541
+    m_Localized: <b>Well-balanced dish:</b> Gain 2 Random Consumables
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055542
+    m_Localized: <b>Hot Brew:</b> Permanently increase selected Mystling's Power
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055543
+    m_Localized: <b>Fruit Salad:</b> Permanently increase selected Mystling's Max
+      Health
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055544
+    m_Localized: <b>Fresh Greens:</b> Apply Dodge to selected Mystling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055545
+    m_Localized: <b>Bowl of Garlic:</b> Draw Cards
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 54475893055546
+    m_Localized: <b>Strong Tea:</b> Gain 2 Energy
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 67300346634240
+    m_Localized: '<b>Hurt:</b> When the Creature loses Health.
+
+      <b>Attacked:</b>
+      When the Creature receives any kind of damage, even when it doesn''t lose any
+      Health.
+
+      <b>Knock Out:</b> When the Creature defeats other creature.
+
+      <b>Faint:</b>
+      When the Creature''s Health is reduced to zero.'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654785
+  - m_Id: 264007820933885952
+    m_Localized: Mystling Eggs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 264007820933885953
+    m_Localized: 'To gain a new Mystling, you need to hatch its Egg first. Every
+      new unlocked Egg will show up in the Hatchery building in your village.
+
+      To
+      hatch it you will have to complete a challenge. You can check your progress
+      in the Hatchery building in between runs.
+
+      Once your challenge is completed
+      your Egg will hatch a new Mystlign will be available for a new run.'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 2105433060097654785
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 17316704231424
+        - id: 17316704231425
+        - id: 17316704231426
+        - id: 17316704231430
+        - id: 17316704231432
+        - id: 17316704231434
+        - id: 17316704231436
+        - id: 17316704231438
+        - id: 17316704231440
+        - id: 54475884666880
+        - id: 17316704231427
+        - id: 54475893055488
+        - id: 54475893055489
+        - id: 17316704231431
+        - id: 17316704231433
+        - id: 17316704231435
+        - id: 17316704231437
+        - id: 17316704231439
+        - id: 17316704231441
+        - id: 54475893055490
+        - id: 54475893055491
+        - id: 54475893055492
+        - id: 54475893055493
+        - id: 54475893055494
+        - id: 54475893055495
+        - id: 54475893055496
+        - id: 54475893055497
+        - id: 54475893055498
+        - id: 54475893055499
+        - id: 54475893055500
+        - id: 54475893055501
+        - id: 54475893055502
+        - id: 54475893055503
+        - id: 54475893055504
+        - id: 54475893055505
+        - id: 54475893055506
+        - id: 54475893055507
+        - id: 54475893055508
+        - id: 54475893055509
+        - id: 54475893055510
+        - id: 54475893055511
+        - id: 54475893055512
+        - id: 54475893055513
+        - id: 54475893055514
+        - id: 54475893055515
+        - id: 54475893055516
+        - id: 54475893055517
+        - id: 54475893055518
+        - id: 54475893055519
+        - id: 54475893055520
+        - id: 54475893055521
+        - id: 54475893055522
+        - id: 54475893055523
+        - id: 54475893055528
+        - id: 67405132931072
+        - id: 54475893055534
+        - id: 54475893055535
+        - id: 54475893055536
+        - id: 54475893055537
+        - id: 54475893055538
+        - id: 54475893055539
+        - id: 54475893055540
+        - id: 54475893055541
+        - id: 54475893055542
+        - id: 54475893055543
+        - id: 54475893055544
+        - id: 54475893055545
+        - id: 54475893055546
+        - id: 67300346634240

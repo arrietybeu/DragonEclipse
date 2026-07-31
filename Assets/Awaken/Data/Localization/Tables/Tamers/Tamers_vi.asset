@@ -1,0 +1,197 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Tamers_vi
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: vi
+  m_SharedData: {fileID: 11400000, guid: 4bdcaf64e4a5916478186f30c14ef387, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 8099901647879405570
+  m_TableData:
+  - m_Id: 10119456537821184
+    m_Localized: "Ch\u01B0a kh\u1EA3 d\u1EE5ng"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405570
+  - m_Id: 10119527421558784
+    m_Localized: "H\xE3y m\u1EDF kh\xF3a Tamer n\xE0y trong qu\xE1 tr\xECnh ch\u01A1i!"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405570
+  - m_Id: 54659618039738368
+    m_Localized: Arcana DeFault
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405570
+  - m_Id: 54659618073292800
+    m_Localized: "L\xE1 b\xE0i \u0111\u1EA7u ti\xEAn mua \u1EDF m\xE0n h\xECnh ph\u1EA7n
+      th\u01B0\u1EDFng sau m\u1ED7i tr\u1EADn \u0111\u1EA5u l\xE0 mi\u1EC5n ph\xED"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405570
+  - m_Id: 54659618073292801
+    m_Localized: Randy the Reckless
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405570
+  - m_Id: 54659618073292803
+    m_Localized: Maya Bloomberry
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405570
+  - m_Id: 54659618073292804
+    m_Localized: "B\u1EAFt \u0111\u1EA7u v\u1EDBi {Tamer.EmberSeeds} Mystberries"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405570
+  - m_Id: 54659618073292805
+    m_Localized: Deckard Cardwell
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405570
+  - m_Id: 54659618073292806
+    m_Localized: "\u0110\u1ED9i h\xECnh b\u1ECB gi\u1EDBi h\u1EA1n \u1EDF {Tamer.TeamSize}
+      Mystling, nh\u01B0ng ngu\u1ED3n N\u0103ng l\u01B0\u1EE3ng t\u0103ng l\xEAn
+      {Tamer.CombatEnergy}"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405570
+  - m_Id: 54659618073292807
+    m_Localized: Philip Phillips
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405570
+  - m_Id: 54659618073292808
+    m_Localized: "Mystling k\xEDch ho\u1EA1t v\xE0o cu\u1ED1i V\xF2ng s\u1EBD k\xEDch
+      ho\u1EA1t hai l\u1EA7n. Nh\u1EADn \xEDt h\u01A1n {Tamer.GoldAfterCombatMultiplier}%
+      V\xE0ng sau khi th\u1EAFng m\u1ED9t Tr\u1EADn \u0111\u1EA5u"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405570
+  - m_Id: 54659618073292809
+    m_Localized: Barbara Prime
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405570
+  - m_Id: 54659618073292810
+    m_Localized: "Mystling g\xE2y s\xE1t th\u01B0\u01A1ng g\u1EA5p \u0111\xF4i trong
+      v\xF2ng \u0111\u1EA7u ti\xEAn c\u1EE7a Tr\u1EADn \u0111\u1EA5u. M\u1EA5t {Tamer.LoseMystberryEveryRound}
+      Mystberry m\u1ED7i V\xF2ng trong Tr\u1EADn \u0111\u1EA5u"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405570
+  - m_Id: 68455510805913600
+    m_Localized: "B\u1EAFt \u0111\u1EA7u v\u1EDBi nhi\u1EC1u Mystberries h\u01A1n"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405570
+  - m_Id: 68455510805913601
+    m_Localized: "\u0110\u1ED9i h\xECnh b\u1ECB gi\u1EDBi h\u1EA1n \u1EDF {Tamer.TeamSize}
+      Mystling, nh\u01B0ng ngu\u1ED3n N\u0103ng l\u01B0\u1EE3ng \u0111\u01B0\u1EE3c
+      t\u0103ng l\xEAn"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405570
+  - m_Id: 68455510805913602
+    m_Localized: "Mystling k\xEDch ho\u1EA1t v\xE0o cu\u1ED1i V\xF2ng s\u1EBD k\xEDch
+      ho\u1EA1t hai l\u1EA7n"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405570
+  - m_Id: 68455510805913603
+    m_Localized: "Mystling g\xE2y s\xE1t th\u01B0\u01A1ng g\u1EA5p \u0111\xF4i trong
+      v\xF2ng \u0111\u1EA7u ti\xEAn c\u1EE7a Tr\u1EADn \u0111\u1EA5u"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405570
+  - m_Id: 69538106172317696
+    m_Localized: "Ti\u1EBFn H\xF3a Kh\u1EDFi \u0110\u1EA7u"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405570
+  - m_Id: 69538106197483520
+    m_Localized: "B\u1EAFt \u0111\u1EA7u cu\u1ED9c phi\xEAu l\u01B0u v\u1EDBi Ti\u1EBFn
+      h\xF3a. M\xE1u T\u1ED1i \u0110a gi\u1EA3m m\u1ED9t n\u1EEDa. Kh\xF4ng th\u1EC3
+      \u0111\u01B0\u1EE3c h\u1ED3i m\xE1u"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405570
+  - m_Id: 69538106197483521
+    m_Localized: "K\xEDch Ho\u1EA1t K\xE9p"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405570
+  - m_Id: 69538106197483522
+    m_Localized: "N\u1EBFu Mystling n\xE0y k\xEDch ho\u1EA1t v\xE0o cu\u1ED1i V\xF2ng,
+      n\xF3 s\u1EBD k\xEDch ho\u1EA1t hai l\u1EA7n"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405570
+  - m_Id: 69538106197483523
+    m_Localized: "Kh\u1EDFi \u0110\u1EA7u M\u1EA1nh M\u1EBD"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405570
+  - m_Id: 69538106197483524
+    m_Localized: "S\xE1t th\u01B0\u01A1ng \u0111\u01B0\u1EE3c nh\xE2n \u0111\xF4i
+      trong v\xF2ng \u0111\u1EA7u ti\xEAn c\u1EE7a Tr\u1EADn \u0111\u1EA5u"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405570
+  - m_Id: 78626348725248000
+    m_Localized: "M\u1ED9t Mystling ng\u1EABu nhi\xEAn \u0111\u01B0\u1EE3c ti\u1EBFn
+      h\xF3a ngay t\u1EEB \u0111\u1EA7u. Mystling n\xE0y kh\xF4ng th\u1EC3 \u0111\u01B0\u1EE3c
+      h\u1ED3i m\xE1u v\xE0 b\u1ECB gi\u1EA3m m\u1ED9t n\u1EEDa M\xE1u T\u1ED1i \u0110a"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405570
+  - m_Id: 78626348750413824
+    m_Localized: "M\u1ED9t Mystling ng\u1EABu nhi\xEAn \u0111\u01B0\u1EE3c ti\u1EBFn
+      h\xF3a ngay t\u1EEB \u0111\u1EA7u"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405570
+  references:
+    version: 2
+    RefIds:
+    - rid: 8099901647879405570
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 10119456537821184
+        - id: 10119527421558784
+        - id: 54659618039738368
+        - id: 54659618073292800
+        - id: 54659618073292801
+        - id: 54659618073292803
+        - id: 54659618073292804
+        - id: 54659618073292805
+        - id: 54659618073292806
+        - id: 54659618073292807
+        - id: 54659618073292808
+        - id: 54659618073292809
+        - id: 54659618073292810
+        - id: 68455510805913600
+        - id: 68455510805913601
+        - id: 68455510805913602
+        - id: 68455510805913603
+        - id: 69538106172317696
+        - id: 69538106197483520
+        - id: 69538106197483521
+        - id: 69538106197483522
+        - id: 69538106197483523
+        - id: 69538106197483524
+        - id: 78626348725248000
+        - id: 78626348750413824

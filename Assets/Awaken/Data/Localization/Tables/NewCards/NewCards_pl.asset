@@ -1,0 +1,1133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: NewCards_pl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl
+  m_SharedData: {fileID: 11400000, guid: caba9702263213c42bddf4777cadc9d2, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2105433060097654807
+  m_TableData:
+  - m_Id: 359614801584141
+    m_Localized: "Zadaje wskazanemu wrogowi <style=\"Blue\">obra\u017Cenia</style>
+      r\xF3wne liczbie kart w r\u0119ce ({Effect0.ValueInt})"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 47827012764639237
+    m_Localized: "P\xF3ki jeste\u015B na tej pozycji, wszystkie otrzymywane <style=\"Blue\">obra\u017Cenia</style>
+      s\u0105 zmniejszane o {Effect0.AuraDamageReduction}\n"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584128
+    m_Localized: "\u015Alepy gniew"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584129
+    m_Localized: Losowy mystling atakuje losowego wroga z {Effect0.Attack.PowerModifier}%
+      mocy
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584130
+    m_Localized: Losowy mystling atakuje losowego wroga
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584131
+    m_Localized: "Koj\u0105ca \u015Bwiat\u0142o\u015B\u0107"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584132
+    m_Localized: <style="Blue">Leczy</style> wskazanemu mystlingowi {Effect0.ValueInt}
+      PZ
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584134
+    m_Localized: Grad kamieni
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584135
+    m_Localized: "Mystling atakuje {Effect1.Attack.Repeat} razy z {Effect1.Attack.PowerModifier}%
+      mocy, po czym odnosi {Effect0.ValueInt} p. <smallcaps><style=\"Blue\">obra\u017Ce\u0144</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 17388664405434368
+    m_Localized: "Mystling atakuje {Effect1.Attack.Repeat} razy, po czym odnosi {Effect0.ValueInt}
+      p. <smallcaps><style=\"Blue\">obra\u017Ce\u0144</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584137
+    m_Localized: "\u015Anie\u017Cka"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584138
+    m_Localized: "<smallcaps><style=\"Blue\">Og\u0142usza</style></smallcaps> wskazanego
+      wroga"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 12235921051205632
+    m_Localized: "<smallcaps><style=\"Blue\">Og\u0142usza</style></smallcaps> wskazanego
+      wroga"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584140
+    m_Localized: "Ostre pi\xF3ro"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 12315208664072192
+    m_Localized: "Zadaje wskazanemu wrogowi <style=\"Blue\">obra\u017Cenia</style>
+      r\xF3wne dwukrotno\u015Bci liczby kart w r\u0119ce ({Effect0.ValueInt})"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 6068234742775808
+    m_Localized: Mgnienie oka
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584152
+    m_Localized: "Skrzyd\u0142a furii"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584153
+    m_Localized: "Brak efektu a\u017C do ewolucji drosithii"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584154
+    m_Localized: Wskazany mystling <style="Blue">atakuje</style> {Effect0.Strike.Repeat}
+      razy
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 12608167498334208
+    m_Localized: "Wytrwa\u0142o\u015B\u0107"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 12608167527694336
+    m_Localized: "Zwi\u0119ksza maks. zdrowie o {Effect0.ValueInt} p."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 12608167527694337
+    m_Localized: "To bola\u0142o!"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 12608167527694338
+    m_Localized: "Wskazany wr\xF3g otrzymuje {Effect0.ValueInt} p. <smallcaps><style=\"Blue\">bezbronno\u015Bci</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 12608167527694340
+    m_Localized: Dobry falun!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 12608167527694341
+    m_Localized: <smallcaps><style="Blue">Aktywuje</style></smallcaps> wskazanego
+      mystlinga
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 12608167527694343
+    m_Localized: Czas na ryby
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 12608167527694344
+    m_Localized: "Przesuwa wskazanego wroga na prz\xF3d i daje mu {Effect1.ValueInt}
+      p. <smallcaps><style=\"Blue\">bezbronno\u015Bci</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 45921036658614272
+    m_Localized: "Zwierz\u0119ca si\u0142a"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 45921036679585792
+    m_Localized: Wskazany mystling <style="Blue">atakuje</style> wybranego wroga
+      z {Effect0.Attack.PowerModifier} mocy
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 45921036679585794
+    m_Localized: "O\u015Blepiaj\u0105cy b\u0142ysk"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 45921036679585795
+    m_Localized: "<smallcaps><style=\"Blue\">Dezorientuje</style></smallcaps> wskazanego
+      wroga do ko\u0144ca rundy"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 45921036679585796
+    m_Localized: "<smallcaps><style=\"Blue\">Dezorientuje</style></smallcaps> wskazanego
+      wroga do ko\u0144ca rundy"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 55722896772898816
+    m_Localized: Uskok
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 55722896785481728
+    m_Localized: Wskazany mystling otrzymuje {Effect0.ValueInt} p. <smallcaps><style="Blue">uniku</style></smallcaps>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 55722896785481729
+    m_Localized: "P\u0142omienie"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 55722896785481730
+    m_Localized: "Wskazany wr\xF3g otrzymuje {Effect0.ValueInt} p. <style=\"Blue\">obra\u017Ce\u0144</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584164
+    m_Localized: Aktywacja!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584165
+    m_Localized: <smallcaps><style="Blue">Aktywuje</style></smallcaps> wskazanego
+      mystlinga
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584167
+    m_Localized: Do ataku!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584168
+    m_Localized: 'Wskazany mystling <style="Blue">atakuje</style> '
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584169
+    m_Localized: 'Wskazany mystling <style="Blue">atakuje</style> '
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584170
+    m_Localized: Garda!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584171
+    m_Localized: "Wskazany mystling otrzymuje {Effect0.ValueInt} p. <smallcaps><style=\"Blue\">os\u0142ony</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584173
+    m_Localized: Za jednym zamachem
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584174
+    m_Localized: Wskazany mystling jest <smallcaps><style="Blue">aktywowany</style></smallcaps>
+      {Effect0.ValueInt} i <style="Blue">atakuje</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 9714495664537600
+    m_Localized: Wskazany mystling jest <smallcaps><style="Blue">aktywowany</style></smallcaps>
+      {Effect0.ValueInt} i <style="Blue">atakuje</style> dwa razy
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584176
+    m_Localized: Hiperaktywacja
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584177
+    m_Localized: <smallcaps><style="Blue">Aktywuje</style></smallcaps> wskazanego
+      mystlinga
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584178
+    m_Localized: <smallcaps><style="Blue">Aktywuje</style></smallcaps> wskazanego
+      mystlinga
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 9714495685509121
+    m_Localized: "Podw\xF3jna aktywacja"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 9714495685509122
+    m_Localized: <smallcaps><style="Blue">Aktywuje</style></smallcaps> wskazanego
+      mystlinga {Effect0.ValueInt} razy
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 9714495685509123
+    m_Localized: <smallcaps><style="Blue">Aktywuje</style></smallcaps> wskazanego
+      mystlinga {Effect0.ValueInt} razy
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584179
+    m_Localized: Irytacja
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584180
+    m_Localized: "Wskazany mystling <style=\"Blue\">atakuje</style> z {Effect1.Attack.PowerModifier}%
+      mocy, po czym otrzymuje {Effect0.ValueInt} p. <smallcaps><style=\"Blue\">obra\u017Ce\u0144</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 1012535532789760
+    m_Localized: "Wskazany mystling <style=\"Blue\">atakuje</style> z {Effect1.Attack.PowerModifier}%
+      mocy, po czym otrzymuje {Effect0.ValueInt} p. <smallcaps><style=\"Blue\">obra\u017Ce\u0144</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584203
+    m_Localized: "Grzmotni\u0119cie tarcz\u0105"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584204
+    m_Localized: "Wskazany mystling <style=\"Blue\">atakuje</style> z moc\u0105 r\xF3wn\u0105
+      swojej <smallcaps><style=\"Blue\">os\u0142onie</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 23166561032454144
+    m_Localized: "Wskazany mystling <style=\"Blue\">atakuje</style> z moc\u0105 r\xF3wn\u0105
+      swojej <smallcaps><style=\"Blue\">os\u0142onie</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584188
+    m_Localized: Silny atak
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584189
+    m_Localized: Wskazany mystling <style="Blue">atakuje</style> z {Effect0.Attack.PowerModifier}%
+      mocy
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 12252285371531264
+    m_Localized: Wskazany mystling <style="Blue">atakuje</style> z {Effect0.Attack.PowerModifier}%
+      mocy
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 12993906857852931
+    m_Localized: Atak pazurami
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 12993906857852932
+    m_Localized: "Wskazany mystling <style=\"Blue\">atakuje</style>.<br><style=\"Blue\">Dobierasz</style>
+      {Effect1.ValueInt} {Effect0.ValueIntInt:p:kart\u0119|karty|kart}"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 12993906857852933
+    m_Localized: "Wskazany mystling <style=\"Blue\">atakuje</style> z {Effect0.Attack.PowerModifier}%
+      mocy.<br><style=\"Blue\">Dobierasz</style> {Effect1.ValueInt} {Effect1.ValueIntInt:p:kart\u0119|karty|kart}"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 12993906857852934
+    m_Localized: "Szturchni\u0119cie"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 12993906857852935
+    m_Localized: "Wskazany mystling <style=\"Blue\">atakuje</style> {Effect1.Attack.Repeat}
+      razy, po czym otrzymuje {Effect0.ValueInt} p. <smallcaps><style=\"Blue\">obra\u017Ce\u0144</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 12993906857852936
+    m_Localized: "Wskazany mystling <style=\"Blue\">atakuje</style> {Effect1.Attack.Repeat}
+      razy, po czym otrzymuje {Effect0.ValueInt} p. <smallcaps><style=\"Blue\">obra\u017Ce\u0144</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 12993906857852937
+    m_Localized: Natarcie
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 12993906857852938
+    m_Localized: "Wskazany mystling <style=\"Blue\">atakuje</style> wszystkich wrog\xF3w"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 12993906857852939
+    m_Localized: "Wskazany mystling <style=\"Blue\">atakuje</style> wszystkich wrog\xF3w"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 12993906857852940
+    m_Localized: "Szale\u0144cze ataki"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 12993906857852941
+    m_Localized: "Wskazany mystling <style=\"Blue\">atakuje</style> losowych wrog\xF3w
+      {Effect0.Attack.Repeat} razy z {Effect0.Attack.PowerModifier}% mocy"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 12268454048546816
+    m_Localized: Szybki atak
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 12268454048546817
+    m_Localized: "<style=\"Blue\">Odrzu\u0107</style> {Effect0.ValueInt} {Effect0.ValueIntInt:p:kart\u0119|karty|kart}.
+      Wskazany mystling <style=\"Blue\">atakuje</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 12268454048546818
+    m_Localized: "<style=\"Blue\">Odrzu\u0107</style> {Effect0.ValueInt} {Effect0.ValueIntInt:p:kart\u0119|karty|kart}.
+      Wskazany mystling <style=\"Blue\">atakuje</style> {Effect1.Attack.Repeat} razy"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584221
+    m_Localized: "Hiperstra\u017Cnik"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584222
+    m_Localized: "Wskazany mystling otrzymuje {Effect0.ValueInt} p. <smallcaps><style=\"Blue\">os\u0142ony</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584230
+    m_Localized: "Megastra\u017Cnik"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584231
+    m_Localized: "Wskazany mystling otrzymuje {Effect0.ValueInt} p. <smallcaps><style=\"Blue\">os\u0142ony</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584233
+    m_Localized: Nie do ruszenia
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584234
+    m_Localized: "Podwaja <smallcaps><style=\"Blue\">os\u0142ony</style></smallcaps>
+      na wskazanym mystlingu"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584248
+    m_Localized: "D\u0142ugi r\u0119kaw"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584249
+    m_Localized: "<style=\"Blue\">Dobierasz</style> {Effect0.ValueInt} {Effect0.ValueIntInt:p:kart\u0119|karty|kart}"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584260
+    m_Localized: Wymiana
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584261
+    m_Localized: "<style=\"Blue\">Odrzucasz</style> {Effect0.ValueInt} {Effect0.ValueIntInt:p:kart\u0119|karty|kart}.<br><style=\"Blue\">Dobierasz</style>
+      {Effect1.ValueInt} {Effect1.ValueIntInt:p:kart\u0119|karty|kart}"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 26356512617213952
+    m_Localized: "<style=\"Blue\">Odrzucasz</style> {Effect0.ValueInt} {Effect0.ValueIntInt:p:kart\u0119|karty|kart}.<br><style=\"Blue\">Dobierasz</style>
+      {Effect1.ValueInt} {Effect1.ValueIntInt:p:kart\u0119|karty|kart}"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 12258587464286208
+    m_Localized: "Kr\xF3l kart"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 12258587464286209
+    m_Localized: "<style=\"Blue\">Dobierasz</style> {Effect0.ValueInt} {Effect0.ValueIntInt:p:kart\u0119|karty|kart}
+      (nie wi\u0119cej ni\u017C {Effect0.ValueLimit})"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 12258587464286210
+    m_Localized: "<style=\"Blue\">Dobierasz</style> {Effect0.ValueInt} {Effect0.ValueIntInt:p:kart\u0119|karty|kart}
+      (nie wi\u0119cej ni\u017C {Effect0.ValueLimit})"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 12260456458731520
+    m_Localized: Minimalny koszt
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 12260456458731521
+    m_Localized: "<style=\"Blue\">Dobierasz</style> kart\u0119 i zmniejszasz jej
+      <style=\"Blue\">koszt w energii</style> do 0 do czasu jej zagrania lub odrzucenia"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584263
+    m_Localized: Zastrzyk energii
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584264
+    m_Localized: Zyskujesz {Effect0.ValueInt} p. <style="Blue">energii</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584269
+    m_Localized: "Zaci\u015Bni\u0119te z\u0119by"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584270
+    m_Localized: "Wskazany mystling otrzymuje {Effect0.ValueInt} p. <style=\"Blue\">obra\u017Ce\u0144.</style><br>
+      Zyskujesz {Effect1.ValueInt} p. <style=\"Blue\">energii</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584272
+    m_Localized: "Dwukrotno\u015B\u0107"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584273
+    m_Localized: "Nast\u0119pna zagrana karta zostanie aktywowana {Effect0.ValueInt}
+      razy"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584274
+    m_Localized: "Nast\u0119pna zagrana karta zostanie aktywowana {Effect0.ValueInt}
+      razy"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 9714495685509127
+    m_Localized: Zapas energii
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 9714495685509128
+    m_Localized: "W nast\u0119pnej rundzie zyskasz {Effect0.ValueInt} p. <style=\"Blue\">energii</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 9714495685509129
+    m_Localized: "W nast\u0119pnej rundzie zyskasz {Effect0.ValueInt} p. <style=\"Blue\">energii</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 12255985393582080
+    m_Localized: Przykro mi, maluchu
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 12255985393582081
+    m_Localized: Wskazany mystling natychmiast <style="Blue">mdleje</style>.<br>Zyskujesz
+      {Effect1.ValueInt} p. <style="Blue">energii</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 28515086125572096
+    m_Localized: "Uwa\u017Caj!"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 28515086150737920
+    m_Localized: "Wskazany wr\xF3g otrzymuje {Effect0.ValueInt} p. <smallcaps><style=\"Blue\">bezbronno\u015Bci</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 10071164789571584
+    m_Localized: "Czu\u0142y punkt"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 10071164814737408
+    m_Localized: "Podw\xF3j <smallcaps><style=\"Blue\">bezbronno\u015B\u0107</style></smallcaps>
+      wskazanego wroga"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 10071164814737409
+    m_Localized: "Podw\xF3j <smallcaps><style=\"Blue\">bezbronno\u015B\u0107</style></smallcaps>
+      wskazanego wroga"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584290
+    m_Localized: Wielka furia
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614801584291
+    m_Localized: "Wskazany mystling otrzymuje {Effect0.ValueInt} p. <smallcaps><style=\"Blue\">si\u0142y</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 30734404603199488
+    m_Localized: "Z\u0105bkowane ostrze"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 30734404603199489
+    m_Localized: "<style=\"Blue\">Odrzu\u0107</style> ca\u0142\u0105 r\u0119k\u0119.
+      Za ka\u017Cd\u0105 odrzucon\u0105 kart\u0119 daj {Effect0.DiscardAllVulnerableValue}
+      p. <smallcaps><style=\"Blue\">bezbronno\u015Bci</style></smallcaps> wybranemu
+      wrogowi"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 30734404603199490
+    m_Localized: "<style=\"Blue\">Odrzu\u0107</style> ca\u0142\u0105 r\u0119k\u0119.
+      Za ka\u017Cd\u0105 odrzucon\u0105 kart\u0119 daj {Effect0.DiscardAllVulnerableValueUpgraded}
+      p. <smallcaps><style=\"Blue\">bezbronno\u015Bci</style></smallcaps> wybranemu
+      wrogowi"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614805778434
+    m_Localized: Furia
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 359614805778435
+    m_Localized: "Podwaja <smallcaps><style=\"Blue\">si\u0142\u0119 </style></smallcaps>
+      wskazanego mystlinga"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 12259629631389696
+    m_Localized: Determinacja
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 12259629631389697
+    m_Localized: "Wskazany mystling otrzymuje {Effect1.ValueInt} p. <smallcaps><style=\"Blue\">si\u0142y</style></smallcaps>
+      oraz {Effect0.ValueInt} p. <smallcaps><style=\"Blue\">obra\u017Ce\u0144</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 17656026301018112
+    m_Localized: Kanonada
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 17656026355544064
+    m_Localized: "Wskazany mystling <style=\"Blue\">atakuje</style> {Effect0.ValueInt}
+      raz(y) (nie wi\u0119cej ni\u017C {Effect0.ValueLimit})"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 17656026355544068
+    m_Localized: "Grad cios\xF3w"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 17656026355544069
+    m_Localized: Wskazany mystling <style="Blue">atakuje</style> {Effect0.Attack.Repeat}
+      raz(y)
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 17656026355544070
+    m_Localized: Wskazany mystling <style="Blue">atakuje</style> {Effect0.Attack.Repeat}
+      raz(y) ze 150% mocy
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 17656026355544071
+    m_Localized: "Przyp\u0142yw si\u0142"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 17656026355544072
+    m_Localized: "Wskazany mystling otrzymuje {Effect0.ValueInt} p. <smallcaps><style=\"Blue\">si\u0142y</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 17656026355544073
+    m_Localized: "S\u0142abn\u0105ca tarcza"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 17656026355544074
+    m_Localized: "Wskazany mystling otrzymuje {Effect0.ValueInt} p. <smallcaps><style=\"Blue\">os\u0142ony</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 17656026355544075
+    m_Localized: "\u015Aliskie karty"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 17656026355544076
+    m_Localized: "<style=\"Blue\">Dobierasz</style> {Effect0.ValueInt} {Effect0.ValueIntInt:p:kart\u0119|karty|kart}"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 17656026355544077
+    m_Localized: Lawina
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 17656026355544078
+    m_Localized: "Zyskujesz {Effect0.ValueInt} p. <style=\"Blue\">energii</style>
+      (nie wi\u0119cej ni\u017C {Effect0.ValueLimit})"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 17656026355544079
+    m_Localized: "Przyp\u0142yw energii"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 17656026355544080
+    m_Localized: Zyskujesz {Effect0.ValueInt} p. <style="Blue">energii</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 17656026355544081
+    m_Localized: Stymulacja
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 17656026355544082
+    m_Localized: "<smallcaps><style=\"Blue\">Aktywuje</style></smallcaps> wskazanego
+      mystlinga {Effect0.ValueInt} raz(y) (nie wi\u0119cej ni\u017C {Effect0.ValueLimit})"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 17656026355544083
+    m_Localized: "Ko\u0142owrotek"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 17656026355544084
+    m_Localized: <smallcaps><style="Blue">Aktywuje</style></smallcaps> wskazanego
+      mystlinga {Effect0.ValueInt} raz(y)
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 30705516892241920
+    m_Localized: Powszechna aktywacja
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 30705516909019136
+    m_Localized: '<smallcaps><style="Blue">Aktywuje</style></smallcaps> wszystkie
+      mystlingi '
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 30705516909019137
+    m_Localized: <smallcaps><style="Blue">Aktywuje</style></smallcaps> wszystkie
+      mystlingi
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 30705516909019138
+    m_Localized: "Kipi\u0105cy gniew"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 30705516909019139
+    m_Localized: "Wskazany mystling <style=\"Blue\">atakuje</style> {Effect0.Attack.Repeat}
+      razy.<br>Mystling nast\u0119pnie <smallcaps><style=\"Blue\">omdlewa</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 30705516909019140
+    m_Localized: "Wskazany mystling <style=\"Blue\">atakuje</style> {Effect0.Attack.Repeat}
+      razy.<br>Mystling nast\u0119pnie <smallcaps><style=\"Blue\">omdlewa</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 30705516909019141
+    m_Localized: "Skrajny wysi\u0142ek"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 30705516909019142
+    m_Localized: "<smallcaps><style=\"Blue\">Aktywuje</style></smallcaps> wskazanego
+      mystlinga {Effect0.ValueInt} razy.<br>Mystling nast\u0119pnie <smallcaps><style=\"Blue\">omdlewa</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 30705516909019143
+    m_Localized: "<smallcaps><style=\"Blue\">Aktywuje</style></smallcaps> wskazanego
+      mystlinga {Effect0.ValueInt} razy.<br>Mystling nast\u0119pnie <smallcaps><style=\"Blue\">omdlewa</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 30705516917407744
+    m_Localized: Okrutna motywacja
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 30705516917407745
+    m_Localized: "<smallcaps><style=\"Blue\">Aktywuje</style></smallcaps> wskazanego
+      mystlinga i zadaje mu {Effect0.ValueInt} p. <smallcaps><style=\"Blue\">obra\u017Ce\u0144</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 30705516917407746
+    m_Localized: "<smallcaps><style=\"Blue\">Aktywuje</style></smallcaps> wskazanego
+      mystlinga {Effect1.ValueInt} razy i zadaje mu {Effect0.ValueInt} p. <smallcaps><style=\"Blue\">obra\u017Ce\u0144</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 30705516917407747
+    m_Localized: Inspiracja
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 30705516917407748
+    m_Localized: '<smallcaps><style="Blue">Aktywuje</style></smallcaps> wskazanego
+      mystlinga {Effect0.ValueInt} razy '
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 30705516917407749
+    m_Localized: Pobudka
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 30705516917407750
+    m_Localized: "Odrzucasz ca\u0142\u0105 r\u0119k\u0119. Wskazany mystling jest
+      <smallcaps><style=\"Blue\">aktywowany</style></smallcaps> raz za ka\u017Cd\u0105
+      odrzucon\u0105 kart\u0119"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 47819478012076032
+    m_Localized: Aura ochrony
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 47827012764639232
+    m_Localized: "Pocz\u0105tek rundy: +{Effect0.ValueInt} p. <smallcaps><style=\"Blue\">os\u0142ony</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 47827012764639233
+    m_Localized: "Pocz\u0105tek rundy: +{Effect0.ValueInt} p. <smallcaps><style=\"Blue\">os\u0142ony</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 48116526062051328
+    m_Localized: "Aura si\u0142y"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 48116526083022848
+    m_Localized: "Pocz\u0105tek rundy: +{Effect0.ValueInt} p. <smallcaps><style=\"Blue\">si\u0142y</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 47819478028853249
+    m_Localized: "Aura bezbronno\u015Bci"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 47827012764639235
+    m_Localized: "Pocz\u0105tek rundy: +{Effect0.ValueInt} p. <smallcaps><style=\"Blue\">bezbronno\u015Bci</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 47827012764639236
+    m_Localized: "Pocz\u0105tek rundy: +{Effect0.ValueInt} p. <smallcaps><style=\"Blue\">bezbronno\u015Bci</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 47819478028853250
+    m_Localized: "Aura odporno\u015Bci"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 47819478028853251
+    m_Localized: Aura leczenia
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 47827012764639238
+    m_Localized: "Pocz\u0105tek rundy: <style=\"Blue\">leczy</style> {Effect0.ValueInt}
+      PZ"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 47827012764639239
+    m_Localized: "Pocz\u0105tek rundy: <style=\"Blue\">leczy</style> {Effect0.ValueInt}
+      PZ"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 47819478028853252
+    m_Localized: "Aura wypaczonej pot\u0119gi"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 47827012764639240
+    m_Localized: "P\xF3ki jeste\u015B na tej pozycji, zyskujesz {Effect0.AuraPowerIncrease}
+      p. <style=\"Blue\">mocy</style>. Pocz\u0105tek rundy: otrzymujesz {Effect0.ValueInt}
+      <style=\"Blue\">obra\u017Ce\u0144</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 47827012764639241
+    m_Localized: "P\xF3ki jeste\u015B na tej pozycji, zyskujesz {Effect0.AuraPowerIncrease}
+      p. <style=\"Blue\">mocy</style>. Pocz\u0105tek rundy: otrzymujesz {Effect0.ValueInt}
+      <style=\"Blue\">obra\u017Ce\u0144</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 47819478028853253
+    m_Localized: Aura wigoru
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 47827012764639242
+    m_Localized: 'Koniec rundy: <smallcaps><style="Blue">aktywacja</style></smallcaps>'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 47819478028853254
+    m_Localized: "Aura rozk\u0142adu"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  - m_Id: 47827012764639243
+    m_Localized: "Pocz\u0105tek rundy: otrzymujesz {Effect0.ValueInt} p. <style=\"Blue\">obra\u017Ce\u0144</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654807
+  references:
+    version: 2
+    RefIds:
+    - rid: 2105433060097654807
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 359614801584141
+        - id: 47827012764639237
+        - id: 359614801584128
+        - id: 359614801584129
+        - id: 359614801584130
+        - id: 359614801584131
+        - id: 359614801584132
+        - id: 359614801584134
+        - id: 359614801584135
+        - id: 17388664405434368
+        - id: 359614801584137
+        - id: 359614801584138
+        - id: 12235921051205632
+        - id: 359614801584140
+        - id: 12315208664072192
+        - id: 6068234742775808
+        - id: 359614801584152
+        - id: 359614801584153
+        - id: 359614801584154
+        - id: 12608167498334208
+        - id: 12608167527694336
+        - id: 12608167527694337
+        - id: 12608167527694338
+        - id: 12608167527694340
+        - id: 12608167527694341
+        - id: 12608167527694343
+        - id: 12608167527694344
+        - id: 45921036658614272
+        - id: 45921036679585792
+        - id: 45921036679585794
+        - id: 45921036679585795
+        - id: 45921036679585796
+        - id: 55722896772898816
+        - id: 55722896785481728
+        - id: 55722896785481729
+        - id: 55722896785481730
+        - id: 359614801584164
+        - id: 359614801584165
+        - id: 359614801584167
+        - id: 359614801584168
+        - id: 359614801584169
+        - id: 359614801584170
+        - id: 359614801584171
+        - id: 359614801584173
+        - id: 359614801584174
+        - id: 9714495664537600
+        - id: 359614801584176
+        - id: 359614801584177
+        - id: 359614801584178
+        - id: 9714495685509121
+        - id: 9714495685509122
+        - id: 9714495685509123
+        - id: 359614801584179
+        - id: 359614801584180
+        - id: 1012535532789760
+        - id: 359614801584203
+        - id: 359614801584204
+        - id: 23166561032454144
+        - id: 359614801584188
+        - id: 359614801584189
+        - id: 12252285371531264
+        - id: 12993906857852931
+        - id: 12993906857852932
+        - id: 12993906857852933
+        - id: 12993906857852934
+        - id: 12993906857852935
+        - id: 12993906857852936
+        - id: 12993906857852937
+        - id: 12993906857852938
+        - id: 12993906857852939
+        - id: 12993906857852940
+        - id: 12993906857852941
+        - id: 12268454048546816
+        - id: 12268454048546817
+        - id: 12268454048546818
+        - id: 359614801584221
+        - id: 359614801584222
+        - id: 359614801584230
+        - id: 359614801584231
+        - id: 359614801584233
+        - id: 359614801584234
+        - id: 359614801584248
+        - id: 359614801584249
+        - id: 359614801584260
+        - id: 359614801584261
+        - id: 26356512617213952
+        - id: 12258587464286208
+        - id: 12258587464286209
+        - id: 12258587464286210
+        - id: 12260456458731520
+        - id: 12260456458731521
+        - id: 359614801584263
+        - id: 359614801584264
+        - id: 359614801584269
+        - id: 359614801584270
+        - id: 359614801584272
+        - id: 359614801584273
+        - id: 359614801584274
+        - id: 9714495685509127
+        - id: 9714495685509128
+        - id: 9714495685509129
+        - id: 12255985393582080
+        - id: 12255985393582081
+        - id: 28515086125572096
+        - id: 28515086150737920
+        - id: 10071164789571584
+        - id: 10071164814737408
+        - id: 10071164814737409
+        - id: 359614801584290
+        - id: 359614801584291
+        - id: 30734404603199488
+        - id: 30734404603199489
+        - id: 30734404603199490
+        - id: 359614805778434
+        - id: 359614805778435
+        - id: 12259629631389696
+        - id: 12259629631389697
+        - id: 17656026301018112
+        - id: 17656026355544064
+        - id: 17656026355544068
+        - id: 17656026355544069
+        - id: 17656026355544070
+        - id: 17656026355544071
+        - id: 17656026355544072
+        - id: 17656026355544073
+        - id: 17656026355544074
+        - id: 17656026355544075
+        - id: 17656026355544076
+        - id: 17656026355544077
+        - id: 17656026355544078
+        - id: 17656026355544079
+        - id: 17656026355544080
+        - id: 17656026355544081
+        - id: 17656026355544082
+        - id: 17656026355544083
+        - id: 17656026355544084
+        - id: 30705516892241920
+        - id: 30705516909019136
+        - id: 30705516909019137
+        - id: 30705516909019138
+        - id: 30705516909019139
+        - id: 30705516909019140
+        - id: 30705516909019141
+        - id: 30705516909019142
+        - id: 30705516909019143
+        - id: 30705516917407744
+        - id: 30705516917407745
+        - id: 30705516917407746
+        - id: 30705516917407747
+        - id: 30705516917407748
+        - id: 30705516917407749
+        - id: 30705516917407750
+        - id: 47819478012076032
+        - id: 47827012764639232
+        - id: 47827012764639233
+        - id: 48116526062051328
+        - id: 48116526083022848
+        - id: 47819478028853249
+        - id: 47827012764639235
+        - id: 47827012764639236
+        - id: 47819478028853250
+        - id: 47819478028853251
+        - id: 47827012764639238
+        - id: 47827012764639239
+        - id: 47819478028853252
+        - id: 47827012764639240
+        - id: 47827012764639241
+        - id: 47819478028853253
+        - id: 47827012764639242
+        - id: 47819478028853254
+        - id: 47827012764639243

@@ -1,0 +1,1419 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: NewCards_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: caba9702263213c42bddf4777cadc9d2, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2105433060097654808
+  m_TableData:
+  - m_Id: 359614801584128
+    m_Localized: Blind Anger
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584129
+    m_Localized: Attack a random Enemy with a random Mystling for {Effect0.Attack.PowerModifier}%
+      Power
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584130
+    m_Localized: Attack a random Enemy with a random Mystling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584131
+    m_Localized: Soothing Light
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584132
+    m_Localized: <style="Blue">Heal</style> {Effect0.ValueInt} Health on selected
+      Mystling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584134
+    m_Localized: Stone Storm
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584135
+    m_Localized: Attack {Effect1.Attack.Repeat} times with {Effect1.Attack.PowerModifier}%
+      Power. <smallcaps><style="Blue">Wound</style></smallcaps> this Mystling for
+      {Effect0.ValueInt} damage
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584137
+    m_Localized: Snowball
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584138
+    m_Localized: <smallcaps><style="Blue">Stun</style></smallcaps> selected Enemy
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584140
+    m_Localized: Sharp Feather
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584141
+    m_Localized: Deal ({Effect0.ValueInt}) damage to a selected enemy. (Equals to
+      number of cards in hand)
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584152
+    m_Localized: Wings of Fury
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584164
+    m_Localized: Activate!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584165
+    m_Localized: <smallcaps><style="Blue">Activate</style></smallcaps> selected Mystling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584167
+    m_Localized: Attack!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584168
+    m_Localized: 'Order selected Mystling to <style="Blue">Attack</style> '
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584169
+    m_Localized: 'Order selected Mystling to <style="Blue">Attack</style> '
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584170
+    m_Localized: Guard!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584171
+    m_Localized: Apply {Effect0.ValueInt} <smallcaps><style="Blue">Shields</style></smallcaps>
+      to selected Mystling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584173
+    m_Localized: All in One
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584174
+    m_Localized: Order selected Mystling to <smallcaps><style="Blue">Activate</style></smallcaps>
+      {Effect0.ValueInt} and <style="Blue">Attack</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584176
+    m_Localized: Hyperactivation
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584177
+    m_Localized: <smallcaps><style="Blue">Activate</style></smallcaps> selected Mystling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584178
+    m_Localized: <smallcaps><style="Blue">Activate</style></smallcaps> selected Mystling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584179
+    m_Localized: Annoy
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584180
+    m_Localized: Order selected Mystling to <style="Blue">Attack</style> with {Effect1.Attack.PowerModifier}%
+      Power. <smallcaps><style="Blue">Wound</style></smallcaps> it for {Effect0.ValueInt}
+      damage
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584188
+    m_Localized: Strong Attack
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584189
+    m_Localized: Order selected Mystling to <style="Blue">Attack</style> with {Effect0.Attack.PowerModifier}%
+      Power
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584203
+    m_Localized: Shield Slam
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584204
+    m_Localized: Order selected Mystling to <style="Blue">Attack</style> with Power
+      equal to <smallcaps><style="Blue">Shields</style></smallcaps>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584221
+    m_Localized: Hyperguard
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584222
+    m_Localized: Apply {Effect0.ValueInt} <smallcaps><style="Blue">Shields</style></smallcaps>
+      to selected Mystling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584230
+    m_Localized: Mega Guard
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584231
+    m_Localized: Apply {Effect0.ValueInt} <smallcaps><style="Blue">Shields</style></smallcaps>
+      to selected Mystling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584233
+    m_Localized: Impenetrable
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584234
+    m_Localized: Double <smallcaps><style="Blue">Shields</style></smallcaps> on selected
+      Mystling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584248
+    m_Localized: Long Sleeve
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584249
+    m_Localized: <style="Blue">Draw</style> {Effect0.ValueInt} card(s)
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584260
+    m_Localized: Mulligan
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584261
+    m_Localized: <style="Blue">Discard </style>{Effect0.ValueInt} card(s).<br><style="Blue">Draw</style>
+      {Effect1.ValueInt} card(s)
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584263
+    m_Localized: Energize
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584264
+    m_Localized: Gain {Effect0.ValueInt} <style="Blue">Energy</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584269
+    m_Localized: Clenched Teeth
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584270
+    m_Localized: <style="Blue">Wound</style> selected Mystling for {Effect0.ValueInt}
+      damage.<br>Gain {Effect1.ValueInt} <style="Blue">Energy</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584272
+    m_Localized: Double Trouble
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584273
+    m_Localized: Next played card will be triggered {Effect0.ValueInt} times
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584274
+    m_Localized: Next played card will be triggered {Effect0.ValueInt} times
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584290
+    m_Localized: Hyperrage
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584291
+    m_Localized: Apply {Effect0.ValueInt} <smallcaps><style="Blue">Strength</style></smallcaps>
+      to selected Mystling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614805778434
+    m_Localized: Fury
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614805778435
+    m_Localized: Double <smallcaps><style="Blue">Strength</style></smallcaps> on
+      selected Mystling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 1012535532789760
+    m_Localized: Order selected Mystling to <style="Blue">Attack</style> with {Effect1.Attack.PowerModifier}%
+      Power. <smallcaps><style="Blue">Wound</style></smallcaps> it for {Effect0.ValueInt}
+      damage
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 6068234742775808
+    m_Localized: Blink
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584153
+    m_Localized: No effect until Drosithia evolves
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 359614801584154
+    m_Localized: Order selected Mystling to <style="Blue">Attack</style> {Effect0.Strike.Repeat}
+      times
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 8305471962292224
+    m_Localized: Triple Blow
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 8305471995846656
+    m_Localized: Strike three times for 50%
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 8305471995846657
+    m_Localized: Strike three times
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 8594212224311296
+    m_Localized: Annoy
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 8594212241088512
+    m_Localized: Wound 1. Strike two times
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 8595287174094848
+    m_Localized: Wound 1. Strike three times
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 8599766619463680
+    m_Localized: Annoy
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 8599766640435200
+    m_Localized: Wound 1. Strike two times
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 8599766640435201
+    m_Localized: Wound 1. Strike three times
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 8654231544340480
+    m_Localized: Curse
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 8654231544340481
+    m_Localized: Wound a Mystling for 1 damage
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 9698784846094336
+    m_Localized: Activate and Strike twice with a Mystling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 9702472692080640
+    m_Localized: Strike all enemies one by one
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 9711336900599808
+    m_Localized: Multi Activation
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 9711336900599809
+    m_Localized: Activate twice.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 9711336900599810
+    m_Localized: Activate thrice.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 9711336900599812
+    m_Localized: Apply 4 Shields to random Mystling 3 times.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 9711336900599813
+    m_Localized: Apply 5 Shields to random Mystling 4 times.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 9711336900599811
+    m_Localized: Armored Rain
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 9711336900599815
+    m_Localized: Gain 2 Energy next round.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 9711336900599816
+    m_Localized: Gain 3 Energy next round.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 9711336900599818
+    m_Localized: Strike. Gain 1 Energy next round.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 9711336900599819
+    m_Localized: Strike twice. Gain 1 Energy next round.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 9722764999073792
+    m_Localized: Activate and Strike twice with a Mystling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 9722765028433920
+    m_Localized: Strike all enemies one by one
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 9722765028433921
+    m_Localized: Multi Activation
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 9722765028433922
+    m_Localized: Activate twice.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 9722765028433923
+    m_Localized: Activate thrice.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 9722765028433924
+    m_Localized: Armored Rain
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 9722765028433925
+    m_Localized: Apply 4 Shields to random Mystling 3 times.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 9722765028433926
+    m_Localized: Apply 5 Shields to random Mystling 4 times.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 9722765028433927
+    m_Localized: Energy Supply
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 9722765028433928
+    m_Localized: Gain 2 Energy next round.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 9722765032628224
+    m_Localized: Gain 3 Energy next round.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 9722765032628225
+    m_Localized: Adrenaline Rush
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 9722765032628226
+    m_Localized: Strike. Gain 1 Energy next round.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 9722765032628227
+    m_Localized: Strike twice. Gain 1 Energy next round.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 9714495664537600
+    m_Localized: Order selected Mystling to <smallcaps><style="Blue">Activate</style></smallcaps>
+      {Effect0.ValueInt} and <style="Blue">Attack</style> twice
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 9714495685509121
+    m_Localized: Double Activation
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 9714495685509122
+    m_Localized: <smallcaps><style="Blue">Activate</style></smallcaps> selected Mystling
+      {Effect0.ValueInt} times
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 9714495685509123
+    m_Localized: <smallcaps><style="Blue">Activate</style></smallcaps> selected Mystling
+      {Effect0.ValueInt} times
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 9714495685509127
+    m_Localized: Energy Supply
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 9714495685509128
+    m_Localized: Gain {Effect0.ValueInt} <style="Blue">Energy</style> next Round
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 9714495685509129
+    m_Localized: Gain {Effect0.ValueInt} <style="Blue">Energy</style> next Round
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 10071164789571584
+    m_Localized: Vulnerable Point
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 10071164814737408
+    m_Localized: Double <smallcaps><style="Blue">Vulnerable</style></smallcaps> on
+      selected Enemy
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 10071164814737409
+    m_Localized: Double <smallcaps><style="Blue">Vulnerable</style></smallcaps> on
+      selected Enemy
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 10099474013691904
+    m_Localized: Apply {0} Strength. Increase by 2 with each use
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 10102173786513408
+    m_Localized: Wound {0}. Apply {1} Strength. Increase Strength by 2 with each
+      use
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 10473182117044224
+    m_Localized: Wound an Enemy for 1 damage
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 10809989220343808
+    m_Localized: Wound an Enemy for 1 damage
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 12260456458731520
+    m_Localized: Minimal Cost
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 12259629631389697
+    m_Localized: Apply {Effect1.ValueInt} <smallcaps><style="Blue">Strength</style></smallcaps>
+      to selected Mystling and <smallcaps><style="Blue">Wound</style></smallcaps>
+      it for {Effect0.ValueInt} damage
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 11158346648330240
+    m_Localized: Multistrike
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 11158346669301760
+    m_Localized: Apply 1 Multistrike
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 11159880559828992
+    m_Localized: Multistrike
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 11159880580800512
+    m_Localized: Apply 1 Multistrike
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 11161586857222144
+    m_Localized: Multistrike
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 11161586878193664
+    m_Localized: Apply 1 Multistrike
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 12260456458731521
+    m_Localized: <style="Blue">Draw</style> a card and reduce its <style="Blue">Energy
+      cost</style> to 0 until it's played or discarded
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 12259629631389696
+    m_Localized: Determination
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 12258587464286210
+    m_Localized: <style="Blue">Draw</style> {Effect0.ValueInt} card(s) (max {Effect0.ValueLimit})
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 12258587464286209
+    m_Localized: <style="Blue">Draw</style> {Effect0.ValueInt} card(s) (max {Effect0.ValueLimit})
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 12258587464286208
+    m_Localized: House of Cards
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 12255985393582081
+    m_Localized: <style="Blue">Faint</style> selected Mystling instantly.<br>Gain
+      {Effect1.ValueInt} <style="Blue">Energy</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 12255985393582080
+    m_Localized: I'm Sorry Little One
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 12235921051205632
+    m_Localized: <smallcaps><style="Blue">Stun</style></smallcaps> selected Enemy
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 12252285371531264
+    m_Localized: Order selected Mystling to <style="Blue">Attack</style> with {Effect0.Attack.PowerModifier}%
+      Power
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 12268454048546816
+    m_Localized: Quick Attack
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 12268454048546817
+    m_Localized: <style="Blue">Discard</style> {Effect0.ValueInt}. Order selected
+      Mystling to <style="Blue">Attack</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 12268454048546818
+    m_Localized: <style="Blue">Discard</style> {Effect0.ValueInt}. Order selected
+      Mystling to <style="Blue">Attack</style> {Effect1.Attack.Repeat} times
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 12315208664072192
+    m_Localized: Deal ({Effect0.ValueInt}) damage to a selected enemy. (Equals double
+      the number of cards in your hand)
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 12608167498334208
+    m_Localized: Resistance
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 12608167527694336
+    m_Localized: Increase Max Health by {Effect0.ValueInt}
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 12608167527694337
+    m_Localized: Ouch Shield
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 12608167527694338
+    m_Localized: Apply {Effect0.ValueInt} <smallcaps><style="Blue">Vulnerable</style></smallcaps>
+      to selected Enemy
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 12608167527694340
+    m_Localized: Good Fale!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 12608167527694341
+    m_Localized: <smallcaps><style="Blue">Activate</style></smallcaps> selected Mystling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 12608167527694343
+    m_Localized: Fishing Time
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 12608167527694344
+    m_Localized: Pull selected Enemy to the front and apply {Effect1.ValueInt} <smallcaps><style="Blue">Vulnerable</style></smallcaps>
+      to it
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 12993906857852931
+    m_Localized: Claw Attack
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 12993906857852932
+    m_Localized: Order selected Mystling to <style="Blue">Attack</style>.<br><style="Blue">Draw</style>
+      {Effect1.ValueInt} cards
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 12993906857852933
+    m_Localized: Order selected Mystling to <style="Blue">Attack</style> with {Effect0.Attack.PowerModifier}%
+      Power.<br><style="Blue">Draw</style> {Effect1.ValueInt} cards
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 12993906857852934
+    m_Localized: Poke
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 12993906857852935
+    m_Localized: Order selected Mystling to <style="Blue">Attack</style> {Effect1.Attack.Repeat}
+      times. <smallcaps><style="Blue">Wound</style></smallcaps> it for {Effect0.ValueInt}
+      damage
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 12993906857852936
+    m_Localized: Order selected Mystling to <style="Blue">Attack</style> {Effect1.Attack.Repeat}
+      times. <smallcaps><style="Blue">Wound</style></smallcaps> it for {Effect0.ValueInt}
+      damage
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 12993906857852937
+    m_Localized: Onslaught
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 12993906857852938
+    m_Localized: Order selected Mystling to <style="Blue">Attack</style> all enemies
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 12993906857852939
+    m_Localized: Order selected Mystling to <style="Blue">Attack</style>  all enemies
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 12993906857852940
+    m_Localized: Wild Attacks
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 12993906857852941
+    m_Localized: Order selected Mystling to <style="Blue">Attack</style> random enemies
+      {Effect0.Attack.Repeat} times with {Effect0.Attack.PowerModifier}% Power
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 17388664405434368
+    m_Localized: Attack {Effect1.Attack.Repeat} times. <smallcaps><style="Blue">Wound</style></smallcaps>
+      this Mystling for {Effect0.ValueInt} damage
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 17656026301018112
+    m_Localized: Cannonade
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 17656026355544064
+    m_Localized: Order selected Mystling to <style="Blue">Attack</style> {Effect0.ValueInt}
+      time(s) (Max {Effect0.ValueLimit})
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 17656026355544068
+    m_Localized: Flurry of Attacks
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 17656026355544069
+    m_Localized: Order selected Mystling to <style="Blue">Attack</style> {Effect0.Attack.Repeat}
+      time(s)
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 17656026355544070
+    m_Localized: Order selected Mystling to <style="Blue">Attack</style> {Effect0.Attack.Repeat}
+      time(s) with 150% Power
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 17656026355544071
+    m_Localized: Strength Rise
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 17656026355544072
+    m_Localized: Apply {Effect0.ValueInt} <smallcaps><style="Blue">Strength</style></smallcaps>
+      to selected Mystling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 17656026355544073
+    m_Localized: Weakening Shield
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 17656026355544074
+    m_Localized: Apply {Effect0.ValueInt} <smallcaps><style="Blue">Shields</style></smallcaps>
+      to selected Mystling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 17656026355544075
+    m_Localized: Slippery Cards
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 17656026355544076
+    m_Localized: <style="Blue">Draw</style> {Effect0.ValueInt} card(s)
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 17656026355544077
+    m_Localized: Avalanche
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 17656026355544078
+    m_Localized: Gain {Effect0.ValueInt} <style="Blue">Energy</style> (Max {Effect0.ValueLimit})
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 17656026355544079
+    m_Localized: Energy Burst
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 17656026355544080
+    m_Localized: Gain {Effect0.ValueInt} <style="Blue">Energy</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 17656026355544081
+    m_Localized: Stimulation
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 17656026355544082
+    m_Localized: <smallcaps><style="Blue">Activate</style></smallcaps> selected Mystling
+      {Effect0.ValueInt} time(s) (Max {Effect0.ValueLimit})
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 17656026355544083
+    m_Localized: Running Wheel
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 17656026355544084
+    m_Localized: <smallcaps><style="Blue">Activate</style></smallcaps> selected Mystling
+      {Effect0.ValueInt} time(s)
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 23166561032454144
+    m_Localized: Order selected Mystling to <style="Blue">Attack</style> with Power
+      equal to <smallcaps><style="Blue">Shields</style></smallcaps>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 26356512617213952
+    m_Localized: <style="Blue">Discard</style> {Effect0.ValueInt} card(s).<br><style="Blue">Draw</style>
+      {Effect1.ValueInt} card(s)
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 28515086125572096
+    m_Localized: Watch Out
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 28515086150737920
+    m_Localized: Apply {Effect0.ValueInt} <smallcaps><style="Blue">Vulnerable</style></smallcaps>
+      to selected Enemy
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 30705516909019136
+    m_Localized: '<smallcaps><style="Blue">Activate</style></smallcaps> all Mystlings '
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 30705516909019137
+    m_Localized: <smallcaps><style="Blue">Activate</style></smallcaps> all Mystlings
+      twice
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 30705516909019139
+    m_Localized: Order selected Mystling to <style="Blue">Attack</style> {Effect0.Attack.Repeat}
+      times.<br><smallcaps><style="Blue">Faint</style></smallcaps> this Mystling
+      afterwards
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 30705516909019140
+    m_Localized: Order selected Mystling to <style="Blue">Attack</style> {Effect0.Attack.Repeat}
+      times.<br><smallcaps><style="Blue">Faint</style></smallcaps> this Mystling
+      afterwards
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 30705516909019142
+    m_Localized: <smallcaps><style="Blue">Activate</style></smallcaps> selected Mystling
+      {Effect0.ValueInt} times.<br><smallcaps><style="Blue">Faint</style></smallcaps>
+      this Mystling afterwards
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 30705516909019143
+    m_Localized: <smallcaps><style="Blue">Activate</style></smallcaps> selected Mystling
+      {Effect0.ValueInt} times.<br><smallcaps><style="Blue">Faint</style></smallcaps>
+      this Mystling afterwards
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 30705516917407745
+    m_Localized: <smallcaps><style="Blue">Activate</style></smallcaps> selected Mystling
+      and <smallcaps><style="Blue">Wound</style></smallcaps> it for {Effect0.ValueInt}
+      damage
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 30705516917407746
+    m_Localized: <smallcaps><style="Blue">Activate</style></smallcaps> selected Mystling
+      {Effect1.ValueInt} times and <smallcaps><style="Blue">Wound</style></smallcaps>
+      it for {Effect0.ValueInt} damage
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 30705516917407748
+    m_Localized: '<smallcaps><style="Blue">Activate</style></smallcaps> selected
+      Mystling {Effect0.ValueInt} times '
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 30705516917407750
+    m_Localized: Discard entire hand. <smallcaps><style="Blue">Activate</style></smallcaps>
+      selected Mystling once for every discarded card
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 30705516892241920
+    m_Localized: Broad Activation
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 30705516909019138
+    m_Localized: Boiling Rage
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 30705516909019141
+    m_Localized: Maximum Effort
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 30705516917407744
+    m_Localized: Cruel Motivation
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 30705516917407747
+    m_Localized: Inspiration
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 30705516917407749
+    m_Localized: Wake-Up Call
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 30734404603199488
+    m_Localized: Jagged Edges
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 30734404603199489
+    m_Localized: <style="Blue">Discard</style> entire hand. Apply {Effect0.DiscardAllVulnerableValue}
+      <smallcaps><style="Blue">Vulnerable</style></smallcaps> to chosen Enemy for
+      each card discarded
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 30734404603199490
+    m_Localized: <style="Blue">Discard</style> entire hand. Apply {Effect0.DiscardAllVulnerableValueUpgraded}
+      <smallcaps><style="Blue">Vulnerable</style></smallcaps> to chosen Enemy for
+      each card discarded
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 45921036658614272
+    m_Localized: Brute Force
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 45921036679585792
+    m_Localized: Order selected Mystling to <style="Blue">Attack</style> a chosen
+      Enemy with {Effect0.Attack.PowerModifier} Power
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 45921036679585794
+    m_Localized: Blinding Lights
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 45921036679585795
+    m_Localized: <smallcaps><style="Blue">Confuse</style></smallcaps> selected Enemy
+      until the end of Round
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 45921036679585796
+    m_Localized: <smallcaps><style="Blue">Confuse</style></smallcaps> selected Enemy
+      until the end of Round
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 47819478012076032
+    m_Localized: Aura of Protection
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 47819478028853249
+    m_Localized: Aura of Vulnerability
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 47819478028853250
+    m_Localized: Aura of Preservation
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 47819478028853251
+    m_Localized: Aura of Healing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 47819478028853252
+    m_Localized: Aura of Corrupted Power
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 47819478028853253
+    m_Localized: Aura of Vigor
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 47819478028853254
+    m_Localized: Aura of Decay
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 47827012764639232
+    m_Localized: 'Start of Round: Apply {Effect0.ValueInt} <smallcaps><style="Blue">Shields</style></smallcaps>'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 47827012764639233
+    m_Localized: 'Start of Round: Apply {Effect0.ValueInt} <smallcaps><style="Blue">Shields</style></smallcaps>'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 47827012764639235
+    m_Localized: 'Start of Round: Apply {Effect0.ValueInt} <smallcaps><style="Blue">Vulnerable</style></smallcaps>'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 47827012764639236
+    m_Localized: 'Start of Round: Apply {Effect0.ValueInt} <smallcaps><style="Blue">Vulnerable</style></smallcaps>'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 47827012764639237
+    m_Localized: Reduce all incoming <style="Blue">damage</style> by {Effect0.AuraDamageReduction}
+      while on this Position
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 47827012764639238
+    m_Localized: 'Start of Round: <style="Blue">Heal</style> {Effect0.ValueInt} Health'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 47827012764639239
+    m_Localized: 'Start of Round: <style="Blue">Heal</style> {Effect0.ValueInt} Health'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 47827012764639240
+    m_Localized: 'Increase <style="Blue">Power</style> by {Effect0.AuraPowerIncrease}
+      while on this Position. Start of Round: Receive {Effect0.ValueInt} <style="Blue">damage</style>'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 47827012764639241
+    m_Localized: 'Increase <style="Blue">Power</style> by {Effect0.AuraPowerIncrease}
+      while on this Position. Start of Round: Receive {Effect0.ValueInt} <style="Blue">damage</style>'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 47827012764639242
+    m_Localized: 'End of Round: <smallcaps><style="Blue">Activate</style></smallcaps>'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 47827012764639243
+    m_Localized: 'Start of Round: Receive {Effect0.ValueInt} <style="Blue">damage</style>'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 48116526062051328
+    m_Localized: Aura of Strength
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 48116526083022848
+    m_Localized: 'Start of Round: Apply {Effect0.ValueInt} <smallcaps><style="Blue">Strength</style></smallcaps>'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 55722896772898816
+    m_Localized: Dash
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 55722896785481728
+    m_Localized: Apply {Effect0.ValueInt} <smallcaps><style="Blue">Dodge</style></smallcaps>
+      to selected Mystling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 55722896785481729
+    m_Localized: Burn
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  - m_Id: 55722896785481730
+    m_Localized: Deal {Effect0.ValueInt} <style="Blue">damage</style> to selected
+      Enemy
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654808
+  references:
+    version: 2
+    RefIds:
+    - rid: 2105433060097654808
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 359614801584128
+        - id: 359614801584129
+        - id: 359614801584130
+        - id: 359614801584131
+        - id: 359614801584132
+        - id: 359614801584134
+        - id: 359614801584135
+        - id: 359614801584137
+        - id: 359614801584138
+        - id: 359614801584140
+        - id: 359614801584141
+        - id: 359614801584152
+        - id: 359614801584164
+        - id: 359614801584165
+        - id: 359614801584167
+        - id: 359614801584168
+        - id: 359614801584169
+        - id: 359614801584170
+        - id: 359614801584171
+        - id: 359614801584173
+        - id: 359614801584174
+        - id: 359614801584176
+        - id: 359614801584177
+        - id: 359614801584178
+        - id: 359614801584179
+        - id: 359614801584180
+        - id: 359614801584188
+        - id: 359614801584189
+        - id: 359614801584203
+        - id: 359614801584204
+        - id: 359614801584221
+        - id: 359614801584222
+        - id: 359614801584230
+        - id: 359614801584231
+        - id: 359614801584233
+        - id: 359614801584234
+        - id: 359614801584248
+        - id: 359614801584249
+        - id: 359614801584260
+        - id: 359614801584261
+        - id: 359614801584263
+        - id: 359614801584264
+        - id: 359614801584269
+        - id: 359614801584270
+        - id: 359614801584272
+        - id: 359614801584273
+        - id: 359614801584274
+        - id: 359614801584290
+        - id: 359614801584291
+        - id: 359614805778434
+        - id: 359614805778435
+        - id: 1012535532789760
+        - id: 6068234742775808
+        - id: 359614801584153
+        - id: 359614801584154
+        - id: 8305471962292224
+        - id: 8305471995846656
+        - id: 8305471995846657
+        - id: 8594212224311296
+        - id: 8594212241088512
+        - id: 8595287174094848
+        - id: 8599766619463680
+        - id: 8599766640435200
+        - id: 8599766640435201
+        - id: 8654231544340480
+        - id: 8654231544340481
+        - id: 9698784846094336
+        - id: 9702472692080640
+        - id: 9711336900599808
+        - id: 9711336900599809
+        - id: 9711336900599810
+        - id: 9711336900599812
+        - id: 9711336900599813
+        - id: 9711336900599811
+        - id: 9711336900599815
+        - id: 9711336900599816
+        - id: 9711336900599818
+        - id: 9711336900599819
+        - id: 9722764999073792
+        - id: 9722765028433920
+        - id: 9722765028433921
+        - id: 9722765028433922
+        - id: 9722765028433923
+        - id: 9722765028433924
+        - id: 9722765028433925
+        - id: 9722765028433926
+        - id: 9722765028433927
+        - id: 9722765028433928
+        - id: 9722765032628224
+        - id: 9722765032628225
+        - id: 9722765032628226
+        - id: 9722765032628227
+        - id: 9714495664537600
+        - id: 9714495685509121
+        - id: 9714495685509122
+        - id: 9714495685509123
+        - id: 9714495685509127
+        - id: 9714495685509128
+        - id: 9714495685509129
+        - id: 10071164789571584
+        - id: 10071164814737408
+        - id: 10071164814737409
+        - id: 10099474013691904
+        - id: 10102173786513408
+        - id: 10473182117044224
+        - id: 10809989220343808
+        - id: 12260456458731520
+        - id: 12259629631389697
+        - id: 11158346648330240
+        - id: 11158346669301760
+        - id: 11159880559828992
+        - id: 11159880580800512
+        - id: 11161586857222144
+        - id: 11161586878193664
+        - id: 12260456458731521
+        - id: 12259629631389696
+        - id: 12258587464286210
+        - id: 12258587464286209
+        - id: 12258587464286208
+        - id: 12255985393582081
+        - id: 12255985393582080
+        - id: 12235921051205632
+        - id: 12252285371531264
+        - id: 12268454048546816
+        - id: 12268454048546817
+        - id: 12268454048546818
+        - id: 12315208664072192
+        - id: 12608167498334208
+        - id: 12608167527694336
+        - id: 12608167527694337
+        - id: 12608167527694338
+        - id: 12608167527694340
+        - id: 12608167527694341
+        - id: 12608167527694343
+        - id: 12608167527694344
+        - id: 12993906857852931
+        - id: 12993906857852932
+        - id: 12993906857852933
+        - id: 12993906857852934
+        - id: 12993906857852935
+        - id: 12993906857852936
+        - id: 12993906857852937
+        - id: 12993906857852938
+        - id: 12993906857852939
+        - id: 12993906857852940
+        - id: 12993906857852941
+        - id: 17388664405434368
+        - id: 17656026301018112
+        - id: 17656026355544064
+        - id: 17656026355544068
+        - id: 17656026355544069
+        - id: 17656026355544070
+        - id: 17656026355544071
+        - id: 17656026355544072
+        - id: 17656026355544073
+        - id: 17656026355544074
+        - id: 17656026355544075
+        - id: 17656026355544076
+        - id: 17656026355544077
+        - id: 17656026355544078
+        - id: 17656026355544079
+        - id: 17656026355544080
+        - id: 17656026355544081
+        - id: 17656026355544082
+        - id: 17656026355544083
+        - id: 17656026355544084
+        - id: 23166561032454144
+        - id: 26356512617213952
+        - id: 28515086125572096
+        - id: 28515086150737920
+        - id: 30705516909019136
+        - id: 30705516909019137
+        - id: 30705516909019139
+        - id: 30705516909019140
+        - id: 30705516909019142
+        - id: 30705516909019143
+        - id: 30705516917407745
+        - id: 30705516917407746
+        - id: 30705516917407748
+        - id: 30705516917407750
+        - id: 30705516892241920
+        - id: 30705516909019138
+        - id: 30705516909019141
+        - id: 30705516917407744
+        - id: 30705516917407747
+        - id: 30705516917407749
+        - id: 30734404603199488
+        - id: 30734404603199489
+        - id: 30734404603199490
+        - id: 45921036658614272
+        - id: 45921036679585792
+        - id: 45921036679585794
+        - id: 45921036679585795
+        - id: 45921036679585796
+        - id: 47819478012076032
+        - id: 47819478028853249
+        - id: 47819478028853250
+        - id: 47819478028853251
+        - id: 47819478028853252
+        - id: 47819478028853253
+        - id: 47819478028853254
+        - id: 47827012764639232
+        - id: 47827012764639233
+        - id: 47827012764639235
+        - id: 47827012764639236
+        - id: 47827012764639237
+        - id: 47827012764639238
+        - id: 47827012764639239
+        - id: 47827012764639240
+        - id: 47827012764639241
+        - id: 47827012764639242
+        - id: 47827012764639243
+        - id: 48116526062051328
+        - id: 48116526083022848
+        - id: 55722896772898816
+        - id: 55722896785481728
+        - id: 55722896785481729
+        - id: 55722896785481730

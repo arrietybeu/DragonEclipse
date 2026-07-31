@@ -1,0 +1,1441 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: UI_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 1d3d81fd04b844349875b9506bac94a2, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 1479096558747123720
+  m_TableData:
+  - m_Id: 5063578138845184
+    m_Localized: "Erh\xF6he Gesundheit des gew\xE4hlten Mystlings um {value}."
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 5063640562671616
+    m_Localized: "Erh\xF6he Energie des gew\xE4hlten Mystlings um {value}."
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 5063668266049536
+    m_Localized: Erhalte die Mystbeere
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25514065920
+    m_Localized: "Best\xE4tigen"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426048
+    m_Localized: "Zur\xFCck"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426049
+    m_Localized: Weiter
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426050
+    m_Localized: "Schlie\xDFen"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426051
+    m_Localized: Fortfahren
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426052
+    m_Localized: Ich bin bereit!
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426053
+    m_Localized: Abbrechen
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426054
+    m_Localized: Nehmen
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426055
+    m_Localized: "\xDCberspringen"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 2468229490524160
+    m_Localized: Neuer Run
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 2468229519884288
+    m_Localized: Fortsetzen
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 2468229519884289
+    m_Localized: Run abbrechen
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426059
+    m_Localized: Einstellungen
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426060
+    m_Localized: Mitwirkende
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426061
+    m_Localized: "Zur\xFCck zum Desktop"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426062
+    m_Localized: Starten
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426063
+    m_Localized: Fortfahren
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 2496299475779584
+    m_Localized: Speichern & verlassen
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 2468229519884290
+    m_Localized: Komm zu uns auf Discord!
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 2468229519884291
+    m_Localized: Andere Spiele von Awaken Realms
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426064
+    m_Localized: Dragon Eclipse
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 2468229519884292
+    m_Localized: Bist du sicher?
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 2468229519884293
+    m_Localized: "M\xF6chtest du einen neuen Run starten? Der gesamte Fortschritt
+      deines aktuellen Runs geht verloren."
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 2468229519884294
+    m_Localized: Der gesamte Fortschritt deines aktuellen Runs geht verloren.
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426069
+    m_Localized: Einstellungen
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426070
+    m_Localized: "Gesamtlautst\xE4rke"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426071
+    m_Localized: "Musiklautst\xE4rke"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426072
+    m_Localized: "Effektlautst\xE4rke"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426073
+    m_Localized: "Interfacelautst\xE4rke"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426074
+    m_Localized: Sprache
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426075
+    m_Localized: Vollbild
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426076
+    m_Localized: "Aufl\xF6sung"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426077
+    m_Localized: 'Stufe: '
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426078
+    m_Localized: 'Erfahrung: '
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426079
+    m_Localized: Deck anzeigen
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426080
+    m_Localized: "W\xE4hle deine Kampfgef\xE4hrten!"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426081
+    m_Localized: Mystling-Info
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426082
+    m_Localized: 'Aktivierung:'
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426083
+    m_Localized: 'Talent:'
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426084
+    m_Localized: 'Segen: '
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426085
+    m_Localized: 'Gesundheit:'
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426086
+    m_Localized: 'Kraft:'
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426087
+    m_Localized: 'Name:'
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426088
+    m_Localized: 'Typ:'
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426089
+    m_Localized: "H\xF6he:"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426090
+    m_Localized: 'Gewicht:'
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426091
+    m_Localized: Pause
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 27485437551558656
+    m_Localized: "W\xE4hle {value} {value:plural:Card|Cards} zum Ablegen."
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426093
+    m_Localized: Kampf
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426094
+    m_Localized: Bosskampf
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426095
+    m_Localized: Schatz
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 2468229524078592
+    m_Localized: Abenteuer
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426096
+    m_Localized: "H\xE4ndler"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426097
+    m_Localized: Kartenschmiede
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426098
+    m_Localized: Mystlingstation
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426099
+    m_Localized: Neuen Mystling fangen
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426100
+    m_Localized: Runde {round}
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426101
+    m_Localized: Ziele
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426103
+    m_Localized: Sieg
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 2496299505139712
+    m_Localized: Im Kampf gesammelt
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426104
+    m_Localized: "F\xFCge deinem Deck eine Karte hinzu"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426105
+    m_Localized: Mystbeere
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426106
+    m_Localized: "Zus\xE4tzliche Mystbeere"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426107
+    m_Localized: Gold
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 2496299505139713
+    m_Localized: "Zus\xE4tzliches Gold"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426108
+    m_Localized: Neuen Mystling gefangen
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426109
+    m_Localized: "W\xE4hle eine Karte"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426110
+    m_Localized: "F\xFCttere mit Bernsteinsamen"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426111
+    m_Localized: "F\xFCttern"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426112
+    m_Localized: Wiederbeleben
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426113
+    m_Localized: "W\xE4hle einen Segen"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426114
+    m_Localized: Mystling entwickelt sich!
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426115
+    m_Localized: Mystlingkarte wird verbessert
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426116
+    m_Localized: "W\xE4hle ein neues Talent"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426117
+    m_Localized: "\xDCbersicht"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426118
+    m_Localized: Mystlingstation
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426119
+    m_Localized: Kraft +1
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426120
+    m_Localized: Heilen
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426121
+    m_Localized: Mystbeere
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426122
+    m_Localized: Mystling heilen
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426123
+    m_Localized: Mystlingwerte verbessern
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426124
+    m_Localized: Kartenschmiede
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426125
+    m_Localized: Karte duplizieren
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25543426126
+    m_Localized: Karte verbessern
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25547620352
+    m_Localized: 2 Karten entfernen
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25547620353
+    m_Localized: "Ausgew\xE4hlte Karte duplizieren"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25547620354
+    m_Localized: "Ausgew\xE4hlte Karte verbessern"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25547620355
+    m_Localized: "Verbesserungs\xFCbersicht"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25547620356
+    m_Localized: Verbessern
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25547620357
+    m_Localized: "Ausgew\xE4hlte Karten entfernen"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25547620358
+    m_Localized: Du hast einen Schatz gefunden!
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25547620359
+    m_Localized: "H\xE4ndler"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25547620360
+    m_Localized: Kraftschub
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25547620361
+    m_Localized: Gesundheitsschub
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25547620362
+    m_Localized: Kartenfresser
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25547620363
+    m_Localized: Sieg
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25547620364
+    m_Localized: Niederlage
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25547620365
+    m_Localized: 'Besuchte Orte: '
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25547620366
+    m_Localized: 'Besiegte Gegner:'
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25547620367
+    m_Localized: "Bossk\xE4mpfe gewonnen:"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25547620368
+    m_Localized: 'Punkte:'
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25547620369
+    m_Localized: Neue Stufe!
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25547620370
+    m_Localized: "Neuer Inhalt freigeschaltet. Du kannst ihn im n\xE4chsten Run zuf\xE4llig
+      erhalten!"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 2468229524078593
+    m_Localized: "In Demo nicht verf\xFCgbar"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 3248386778185728
+    m_Localized: Teile uns dein Feedback mit!
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 3533659088994304
+    m_Localized: Analytics zulassen
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 5026439959265280
+    m_Localized: Nicht genug Energie
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 5367309547978752
+    m_Localized: "Ultimative F\xE4higkeit:"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 5766595981946880
+    m_Localized: Wunschliste!
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 7163912407597056
+    m_Localized: "Datenschutzerkl\xE4rung"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 8343911995129856
+    m_Localized: '-'
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 21007831473963008
+    m_Localized: Reset Progress
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 21007831494934528
+    m_Localized: Are you sure you want to reset your entire progress?
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25009818494418944
+    m_Localized: Mystling Hatching
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25009818515390464
+    m_Localized: Kartenkompendium
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25009818515390465
+    m_Localized: Segen
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25009818515390466
+    m_Localized: Braukessel
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25009818515390467
+    m_Localized: Select your destination
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25009818515390468
+    m_Localized: Common
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25009818515390469
+    m_Localized: Uncommon
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25009818515390470
+    m_Localized: Rare
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25012459114971136
+    m_Localized: Hatch
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 25014404613521408
+    m_Localized: Neu ermitteln
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 27483601553702912
+    m_Localized: Alle Karten
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 27483601574674432
+    m_Localized: Ablagestapel
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 27483601574674433
+    m_Localized: Nachziehstapel
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 27483601574674434
+    m_Localized: "Ersch\xF6pfte Karten"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 27483601574674435
+    m_Localized: "Zerst\xF6rte Karten"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 27483601574674436
+    m_Localized: Kartenkompendium
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 27485300448149505
+    m_Localized: Choose {value} {value:plural:Card|Cards} to Exhaust
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 27485300448149506
+    m_Localized: Choose {value} {value:plural:Card|Cards} to Destory
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 27485300448149507
+    m_Localized: Choose {value} {value:plural:Card|Cards} to Move to Draw Pile
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 27844684529385472
+    m_Localized: "Zuf\xE4lligen Verbrauchsgegenstand erhalten"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 30414726505771008
+    m_Localized: "Spielfortschritt zur\xFCckgesetzt"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 30414726543519744
+    m_Localized: "Hallo, B\xE4ndiger!<br>Aufgrund des k\xFCrzlichen Updates mussten
+      wir deinen Spielfortschritt zur\xFCcksetzen.<br>Bitte entschuldige die Unannehmlichkeiten!"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 96361969112301568
+    m_Localized: <i>Weggehen</i>
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 89406086252433408
+    m_Localized: "Ranglistenkampf \xFCberspringen"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 41271086445309952
+    m_Localized: "Elitek\xE4mpfe gewonnen:"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 69089139299000320
+    m_Localized: 'Schwierigkeitsbonus:'
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 57895615610298368
+    m_Localized: Achtung!
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 57895615635464192
+    m_Localized: "Aufgrund von \xC4nderungen der Spielinhalte haben wir deine B\xE4ndigerstufe
+      zur\xFCckgesetzt. Keine Sorge, als Ausgleich erh\xE4ltst du genauso viele Erfahrungspunkte,
+      wie du vor dem Update hattest."
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 57895615635464195
+    m_Localized: Vielen Dank!
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 57895615635464196
+    m_Localized: "Gl\xFCckwunsch! Du hast die maximale B\xE4ndigerstufe erreicht.<br>Danke,
+      dass du unser Spiel so lange gespielt hast!<br>Aber damit ist es noch nicht
+      vorbei! Du solltest unbedingt alle Kombinationen von B\xE4ndigern und Mystlingen
+      ausprobieren und die Finsternis aufhalten!"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 57944457445711872
+    m_Localized: Mystlingtrainer
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 57946303618949120
+    m_Localized: "Dorfk\xF6chin"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 57945295408930816
+    m_Localized: Braukessel
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 65917110429925376
+    m_Localized: "Dorf\xE4ltester"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 32880758041460736
+    m_Localized: Gold
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 32880758041460737
+    m_Localized: Mystbeere
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 55334710864326656
+    m_Localized: Leichter Kampf
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 43003040915070976
+    m_Localized: Normaler Kampf
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 43003040931848192
+    m_Localized: Schwerer Kampf
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 43003040931848193
+    m_Localized: Elitekampf
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 43003040931848194
+    m_Localized: Bosskampf
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 43003040931848195
+    m_Localized: Kartenschmiede
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 43003040931848196
+    m_Localized: "H\xE4ndler"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 43003040931848197
+    m_Localized: Mystlingstation
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 43003040931848198
+    m_Localized: Heiltotem
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 43004000253059072
+    m_Localized: Verbesserungstotem
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 43003040931848200
+    m_Localized: Schatz
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 43003040931848201
+    m_Localized: Segensbaum
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 43003040931848202
+    m_Localized: Kartenkompendium
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 43003040931848203
+    m_Localized: Mystlingquartiere
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 43003040931848204
+    m_Localized: Reise beginnen
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 43003040931848205
+    m_Localized: "K\xFCche"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 43003040931848206
+    m_Localized: "Mystlingbrutst\xE4tte"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 43061790419005440
+    m_Localized: Normal
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 43061790419005441
+    m_Localized: Schnell
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 87262139168837632
+    m_Localized: Sehr schnell
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 43061790419005442
+    m_Localized: Spielgeschwindigkeit
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 43061790419005443
+    m_Localized: "Dr\xFCcken"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 45584566202777600
+    m_Localized: Mach dich bereit, die Finsternis naht!
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 50705766868434944
+    m_Localized: Die Finsternis ist gekommen!
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 52902852804354048
+    m_Localized: KAUFEN
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 55334710897881088
+    m_Localized: "Ausw\xE4hlen"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 56084385773387776
+    m_Localized: "Neues Ei verf\xFCgbar"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 56084385790164992
+    m_Localized: "Der neue Mystling ist geschl\xFCpft!"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 56085848704679936
+    m_Localized: "Neuer B\xE4ndiger freigeschaltet!"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 56471210140631040
+    m_Localized: "Ich w\xE4hle dich!"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 58663897720233984
+    m_Localized: <color=red>Akt I</color=red>
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 58663897745399808
+    m_Localized: "Durchsuche den Wald in der N\xE4he nach Anzeichen f\xFCr \xC4rger."
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 58663897745399809
+    m_Localized: <color=red>Akt II</color=red>
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 58663897745399810
+    m_Localized: "Suche in der W\xFCste nach dem Ursprung des Leidens des Drachenw\xE4chters."
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 58663897745399811
+    m_Localized: <color=red>Akt III</color=red>
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 58663897745399812
+    m_Localized: Suche nach Antworten in den kalten Bergen.
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 66277700972650496
+    m_Localized: <color=red>Akt IV</color=red>
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 66277701002010624
+    m_Localized: Betritt das Schattenreich, um die Finsternis zu stoppen!
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 83334956624977920
+    m_Localized: <color=red>Akt V</color=red>
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 83334956650143744
+    m_Localized: Beende die Finsternis und rette dein Dorf!
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 68042996217532416
+    m_Localized: FREISCHALTEN
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 68090245530243072
+    m_Localized: MERKEN
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 71302802550280192
+    m_Localized: Bestenliste
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 71334537195409408
+    m_Localized: Aktualisieren
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 71334537207992320
+    m_Localized: "L\xE4dt ..."
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 71706790756229120
+    m_Localized: Top 10
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 71706790785589248
+    m_Localized: Mein Highscore
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 73204834027421696
+    m_Localized: Kompendium
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 73479797837209600
+    m_Localized: "W\xE4hle ein Angriffsziel"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 73542654880632832
+    m_Localized: 'Schaden:'
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 73542654901604352
+    m_Localized: 'Runde:'
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 77091346304716800
+    m_Localized: "Schwere K\xE4mpfe gewonnen:"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 77091346317299712
+    m_Localized: "Leichte K\xE4mpfe gewonnen:"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 77092546836156416
+    m_Localized: "Normale K\xE4mpfe gewonnen:"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 84410561432985600
+    m_Localized: Questkampf
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 84410561453957120
+    m_Localized: Questgegenstand
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 87262139189809152
+    m_Localized: Kampfbeginn
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 87262139189809153
+    m_Localized: Kartenphase
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 87262139189809154
+    m_Localized: Kampfphase
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 110071458889318400
+    m_Localized: Bewegen
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 110071458910289920
+    m_Localized: Loslassen
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 116314341456617487
+    m_Localized: ALLERGISCH!
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 116314341456617488
+    m_Localized: Verkauft!
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 116674886805602304
+    m_Localized: "KAMPFUNF\xC4HIG!"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 116674886839156736
+    m_Localized: "Willst du das Kaufen wirklich \xFCberspringen?"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 116314341423063040
+    m_Localized: Tage bis zur <style="Purple">Finsternis</style>
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 116314341456617472
+    m_Localized: Geschafft!
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 116314341456617473
+    m_Localized: 'Akt:'
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 116314341456617474
+    m_Localized: "Klicke auf ein Ei, um es auszubr\xFCten."
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 116314341456617475
+    m_Localized: Klicke weiter!
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 116314341456617476
+    m_Localized: Und noch mal!
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 116314341456617477
+    m_Localized: "Klicke auf die Truhe, um sie zu \xF6ffnen."
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 116314341456617478
+    m_Localized: Energie
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 116314341456617479
+    m_Localized: Zug beenden
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 116314341456617480
+    m_Localized: Ziehen
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 116314341456617481
+    m_Localized: Ablegen
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 116314341456617482
+    m_Localized: "Ersch\xF6pfen"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 116314341456617483
+    m_Localized: Kraft
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 116314341456617484
+    m_Localized: Platz
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 116314341456617485
+    m_Localized: Name
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 116314341456617486
+    m_Localized: Punkte
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  - m_Id: 116965285130518528
+    m_Localized: "W\xC4HLE EINE KARTE"
+    m_Metadata:
+      m_Items:
+      - rid: 1479096558747123720
+  references:
+    version: 2
+    RefIds:
+    - rid: 1479096558747123720
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 5063578138845184
+        - id: 5063640562671616
+        - id: 25543426100
+        - id: 25543426077
+        - id: 25547620369
+        - id: 27485437551558656
+        - id: 5063668266049536
+        - id: 25514065920
+        - id: 25543426048
+        - id: 25543426049
+        - id: 25543426050
+        - id: 25543426051
+        - id: 25543426052
+        - id: 25543426053
+        - id: 25543426054
+        - id: 25543426055
+        - id: 2468229490524160
+        - id: 2468229519884288
+        - id: 2468229519884289
+        - id: 25543426059
+        - id: 25543426060
+        - id: 25543426061
+        - id: 25543426062
+        - id: 25543426063
+        - id: 2496299475779584
+        - id: 2468229519884290
+        - id: 2468229519884291
+        - id: 25543426064
+        - id: 2468229519884292
+        - id: 2468229519884293
+        - id: 2468229519884294
+        - id: 25543426069
+        - id: 25543426070
+        - id: 25543426071
+        - id: 25543426072
+        - id: 25543426073
+        - id: 25543426074
+        - id: 25543426075
+        - id: 25543426076
+        - id: 25543426078
+        - id: 25543426079
+        - id: 25543426080
+        - id: 25543426081
+        - id: 25543426082
+        - id: 25543426083
+        - id: 25543426084
+        - id: 25543426085
+        - id: 25543426086
+        - id: 25543426087
+        - id: 25543426088
+        - id: 25543426089
+        - id: 25543426090
+        - id: 25543426091
+        - id: 25543426093
+        - id: 25543426094
+        - id: 25543426095
+        - id: 2468229524078592
+        - id: 25543426096
+        - id: 25543426097
+        - id: 25543426098
+        - id: 25543426099
+        - id: 25543426101
+        - id: 25543426103
+        - id: 2496299505139712
+        - id: 25543426104
+        - id: 25543426105
+        - id: 25543426106
+        - id: 25543426107
+        - id: 2496299505139713
+        - id: 25543426108
+        - id: 25543426109
+        - id: 25543426110
+        - id: 25543426111
+        - id: 25543426112
+        - id: 25543426113
+        - id: 25543426114
+        - id: 25543426115
+        - id: 25543426116
+        - id: 25543426117
+        - id: 25543426118
+        - id: 25543426119
+        - id: 25543426120
+        - id: 25543426121
+        - id: 25543426122
+        - id: 25543426123
+        - id: 25543426124
+        - id: 25543426125
+        - id: 25543426126
+        - id: 25547620352
+        - id: 25547620353
+        - id: 25547620354
+        - id: 25547620355
+        - id: 25547620356
+        - id: 25547620357
+        - id: 25547620358
+        - id: 25547620359
+        - id: 25547620360
+        - id: 25547620361
+        - id: 25547620362
+        - id: 25547620363
+        - id: 25547620364
+        - id: 25547620365
+        - id: 25547620366
+        - id: 25547620367
+        - id: 25547620368
+        - id: 25547620370
+        - id: 2468229524078593
+        - id: 3248386778185728
+        - id: 3533659088994304
+        - id: 5026439959265280
+        - id: 5367309547978752
+        - id: 5766595981946880
+        - id: 7163912407597056
+        - id: 8343911995129856
+        - id: 21007831473963008
+        - id: 21007831494934528
+        - id: 25009818494418944
+        - id: 25009818515390464
+        - id: 25009818515390465
+        - id: 25009818515390466
+        - id: 25009818515390467
+        - id: 25009818515390468
+        - id: 25009818515390469
+        - id: 25009818515390470
+        - id: 25012459114971136
+        - id: 25014404613521408
+        - id: 27483601553702912
+        - id: 27483601574674432
+        - id: 27483601574674433
+        - id: 27483601574674434
+        - id: 27483601574674435
+        - id: 27483601574674436
+        - id: 27485300448149505
+        - id: 27485300448149506
+        - id: 27485300448149507
+        - id: 27844684529385472
+        - id: 30414726505771008
+        - id: 30414726543519744
+        - id: 96361969112301568
+        - id: 89406086252433408
+        - id: 41271086445309952
+        - id: 69089139299000320
+        - id: 57895615610298368
+        - id: 57895615635464192
+        - id: 57895615635464195
+        - id: 57895615635464196
+        - id: 57944457445711872
+        - id: 57946303618949120
+        - id: 57945295408930816
+        - id: 65917110429925376
+        - id: 32880758041460736
+        - id: 32880758041460737
+        - id: 55334710864326656
+        - id: 43003040915070976
+        - id: 43003040931848192
+        - id: 43003040931848193
+        - id: 43003040931848194
+        - id: 43003040931848195
+        - id: 43003040931848196
+        - id: 43003040931848197
+        - id: 43003040931848198
+        - id: 43004000253059072
+        - id: 43003040931848200
+        - id: 43003040931848201
+        - id: 43003040931848202
+        - id: 43003040931848203
+        - id: 43003040931848204
+        - id: 43003040931848205
+        - id: 43003040931848206
+        - id: 43061790419005440
+        - id: 43061790419005441
+        - id: 87262139168837632
+        - id: 43061790419005442
+        - id: 43061790419005443
+        - id: 45584566202777600
+        - id: 50705766868434944
+        - id: 52902852804354048
+        - id: 55334710897881088
+        - id: 56084385773387776
+        - id: 56084385790164992
+        - id: 56085848704679936
+        - id: 56471210140631040
+        - id: 58663897720233984
+        - id: 58663897745399808
+        - id: 58663897745399809
+        - id: 58663897745399810
+        - id: 58663897745399811
+        - id: 58663897745399812
+        - id: 66277700972650496
+        - id: 66277701002010624
+        - id: 83334956624977920
+        - id: 83334956650143744
+        - id: 68042996217532416
+        - id: 68090245530243072
+        - id: 71302802550280192
+        - id: 71334537195409408
+        - id: 71334537207992320
+        - id: 71706790756229120
+        - id: 71706790785589248
+        - id: 73204834027421696
+        - id: 73479797837209600
+        - id: 73542654880632832
+        - id: 73542654901604352
+        - id: 77091346304716800
+        - id: 77091346317299712
+        - id: 77092546836156416
+        - id: 84410561432985600
+        - id: 84410561453957120
+        - id: 87262139189809152
+        - id: 87262139189809153
+        - id: 87262139189809154
+        - id: 110071458889318400
+        - id: 110071458910289920
+        - id: 116314341456617487
+        - id: 116314341456617488
+        - id: 116674886805602304
+        - id: 116674886839156736
+        - id: 116314341423063040
+        - id: 116314341456617472
+        - id: 116314341456617473
+        - id: 116314341456617474
+        - id: 116314341456617475
+        - id: 116314341456617476
+        - id: 116314341456617477
+        - id: 116314341456617478
+        - id: 116314341456617479
+        - id: 116314341456617480
+        - id: 116314341456617481
+        - id: 116314341456617482
+        - id: 116314341456617483
+        - id: 116314341456617484
+        - id: 116314341456617485
+        - id: 116314341456617486
+        - id: 116965285130518528

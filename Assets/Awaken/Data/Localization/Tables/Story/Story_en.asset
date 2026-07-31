@@ -1,0 +1,560 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Story_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: ef7c34a5b6b91b74bbd4d9f8df67b47c, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2105433060097654826
+  m_TableData:
+  - m_Id: 68879341088931840
+    m_Localized: <i>There seems to be a strange traffic jam in the main plaza...<br><br>Glarexus
+      is sitting right at its center, causing townsfolk to constantly bump into him
+      and giving an irritated side-eye to everyone disturbing his meditation.</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 68879341122486272
+    m_Localized: Hey... Could find a different meditation spot?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 68879341122486273
+    m_Localized: <i>He gives you an angry glare, then returns to his meditation.
+      You notice that he's sitting on a large stone mosaic depicting the sun surrounded
+      by the two moons.<br><br>Is he praying, worried about the upcoming Eclipse?</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 68879341122486274
+    m_Localized: Don't worry, friend, we'll stop the Eclipse. Though your prayers
+      certainly will help.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 68879341126680576
+    m_Localized: <i>As you reassure him you see his tense muscles relax.<br><br>He
+      moves a bit from his spot so that he doesn't block the traffic anymore and
+      returns to his prayers.</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 68879341126680577
+    m_Localized: Thank you!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 68879341126680578
+    m_Localized: <i>You see Golomo standing next to a big boulder.<br><br>He's gesticulating
+      wildly, eyes locked on the rock's rough surface...</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 68879341126680579
+    m_Localized: Are they... talking?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 68879341126680580
+    m_Localized: "<i>Not only are they talking \u2014 you're almost certain they're
+      <font=\"Rounded-Black SDF\">flirting!</font><br><br>Well, Golomos are known
+      for their social nature and less-than-stellar eyesight...</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 68879341126680581
+    m_Localized: May speak with the <i>lady</i> for a second?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 68879341126680582
+    m_Localized: <i>You take the rock and use all your artistic ability to bring
+      'Ms. Golomo' to life.<br><br>He's absolutely smitten when he sees his beautiful
+      bride!</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 68879341126680583
+    m_Localized: All the best to the young couple!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 68879341126680584
+    m_Localized: <i>Out of the corner of your eye you notice Iceling abashedly trailing
+      behind you, clearly building up the courage to come and ask you something.</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 68879341126680585
+    m_Localized: What is it, buddy?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 68879341126680586
+    m_Localized: "<i>He shyly nods to a chunky block of ice.<br>Inside is a leather
+      ball \u2014 one of his favorite toys.<br><br>The poor thing must have frozen
+      it by accident.</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 68879341126680587
+    m_Localized: I know just what to do!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 68879341126680588
+    m_Localized: <i>You take the frozen ball to the Brewing Cauldron and hold it
+      over the fire in the kitchen.<br><br>Soon, the ball is released from its icy
+      prison. Iceling is overwhelmed with joy!</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 68879341126680589
+    m_Localized: Have fun! But be careful next time!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 69947439804055552
+    m_Localized: Iceling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 69947439816638464
+    m_Localized: Golomo
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 69947439816638465
+    m_Localized: Glarexus
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 69984989718061056
+    m_Localized: The Eclipse is upon us!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 69984989747421184
+    m_Localized: Brace yourself, Tamer. It's time to face your deepest fears...
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 69984989747421185
+    m_Localized: I'm not afraid. Let's put an end to this.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 77944132052172800
+    m_Localized: Eftus
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 77944132068950016
+    m_Localized: Prowler
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 77944132068950017
+    m_Localized: Frogmar
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 77944132068950018
+    m_Localized: Fale
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 77944132068950019
+    m_Localized: Bolb
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 77944132068950020
+    m_Localized: <i>Eftus is on the verge of tears! You have never seen him in such
+      a state before.<br><br>In his hands rests a broken fishing rod.</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 77944132068950021
+    m_Localized: Oh no! What happened?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 77944132068950022
+    m_Localized: <i>He points in the direction of a Pinequeak in the training area.</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 77944132068950023
+    m_Localized: "Oh, those nasty troublemakers! Don\u2019t worry, I\u2019m gonna
+      get you a brand new rod!"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 77944132068950024
+    m_Localized: "<i>You remember you should still have your childhood fishing rod
+      somewhere in your tent. It\u2019s not anything special, but it was designed
+      to fish under ice. It's therefore smaller and should be perfect for Eftus\u2019s
+      little hands!</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 77944132068950025
+    m_Localized: There - hope you like it!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 77944132068950026
+    m_Localized: <i>Eftus's eyes light up with excitement.<br><br>The second he puts
+      his hands on the rod, he stops paying any attention to you.</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 77944132068950027
+    m_Localized: Well - have fun I guess!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 77944132068950028
+    m_Localized: "<i>Prowler is staring at you with her giant pleading eyes. It\u2019s
+      hypnotizing...</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 77944132068950029
+    m_Localized: Oh no...
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 77944132068950030
+    m_Localized: <i>You are drawn into those great bottomless pits of cuteness.<br><br>Suddenly,
+      you feel an overwhelming urge to give her something... shiny.</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 77944132068950031
+    m_Localized: Must... Give... Shiny...
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 77944132068950032
+    m_Localized: <i>As soon as you hand her a shiny trinket the hypnotizing spell
+      breaks and she scurries off with her prize.<br><br>You follow her to reveal
+      a HUGE stash of shiny treasure.</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 77944132068950033
+    m_Localized: So here's where all my money has been disappearing to!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 77944132068950034
+    m_Localized: <i>Frogmars usually tend to the furnaces around the village and
+      keep them lit with their fiery breath, but something seems wrong with this
+      one.<br><br>The embers are dying and the poor Frogmar seems to struggle to
+      light them back up...</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 77944132068950035
+    m_Localized: Are you alright?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 77944132068950036
+    m_Localized: <i>The creature doesn't respond. He tries huffing and puffing at
+      the coals again and again, but only seems to let out a strained wheeze...</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 77944132068950037
+    m_Localized: I think I know what might be the problem here...
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 77944132068950038
+    m_Localized: <i>You toss Frogmar a few pieces of coal and he chomps down on them
+      eagerly.<br><br>When his belly's full, he takes a step back and, with a deep
+      inhale, blows a powerful blast of fire into the furnace. The flames are reignited
+      and going strong again!</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 77944132068950039
+    m_Localized: Always eat before work, buddy! Breakfast is the most important meal
+      of the day!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 77944132068950040
+    m_Localized: <i>As you walk along the pier a sudden splash of water hits your
+      face. You turn to see Fale sticking his head out of the water waiting for your
+      reaction.</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 77944132068950041
+    m_Localized: "That\u2019s how you want to play, huh?"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 77944132068950042
+    m_Localized: <i>You can see Fale getting visibly excited. Finally, someone who
+      wants to play!</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 77944132068950043
+    m_Localized: Let's make waves! Splash him back with all you've got
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 77944132068950044
+    m_Localized: <i>You splash Fale with water and he lets out a joyful shriek. Soon,
+      you're both caught up in a playful water fight, splashing each other until
+      the whole pier is soaking wet. By the end, both of you are exhausted but grinning
+      from ear to ear.</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 77944132068950045
+    m_Localized: Thanks buddy, that was fun!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 77944132068950046
+    m_Localized: <i>You feel the ground quake as you approach the towering figure
+      in the center of the square. You see Bolb jumping up and down with a pair of
+      maracas, clearly lacking the coordination for whatever it is he's trying to
+      do.</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 77944132068950047
+    m_Localized: You wanna dance, big boy?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 77944132068950048
+    m_Localized: <i>His head snaps towards you and before you know it the maracas
+      have been pushed into your hands, with Bolb's giant head looking at you in
+      eager anticipation...</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 77944132068950049
+    m_Localized: You want me to play some music for you? Alrighty!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 77944132068950050
+    m_Localized: "<i>You shake the maracas as Bolb starts showing off his iconic
+      dance moves. Who knew the chill guy had so much energy! Let\u2019s just hope
+      the mosaic floor survives this...</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 77944132068950051
+    m_Localized: Shake Shake
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 80485312693272576
+    m_Localized: May I have your attention, Tamer?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 80485312705855488
+    m_Localized: What is it?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 80485312705855489
+    m_Localized: "Your commitment to protecting our village is unmatched, yet The
+      Dragon Guardian will not save us from the Eclipse\u2019s implications!"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 80485312705855490
+    m_Localized: Elder, what is the Eclipse exactly?
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 80485312705855491
+    m_Localized: You see, a long time ago we shared the world with creatures called
+      Fey and we lived in harmony. Their proficiency in the magical arts was unparalleled.
+      But one day... We are not sure how and why - they led to opening a breach to
+      another world. It was far from friendly.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 80485312705855492
+    m_Localized: With a great sacrifice of Dragon Guardians, the passage was sealed,
+      but something remained. The moon of the Shadow Realm, as we call it, has lingered
+      in our sky ever since.<br>Every 1000 years, when two of the moons eclipse our
+      sun, the portal to the Shadow Realm opens again.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 80485312705855493
+    m_Localized: But this time, Dragon Guardians are no more.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 80485312705855494
+    m_Localized: I need to ask... to beg you for one last sacrifice for our village
+      and the rest of the world.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 80485312705855495
+    m_Localized: Defeat the creature guarding the portal and once you enter the Shadow
+      Realm, locate whatever is sending those monsters into our world.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 80485312705855496
+    m_Localized: "You made it thus far, giving us hope that you\u2019ll be able to
+      stop the Eclipse - you and your intrepid mystlings."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 81528770012102656
+    m_Localized: <i>A piercing shriek fills the air. Eardrums ache, glass shatters,
+      and at the center of this cacophony sits a small Pinequeak... crying.<br><br>You
+      try shouting to it over the noise.</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 81528770028879872
+    m_Localized: "WHAT\u2019S WRONG, LITTLE ONE?!"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 81528770028879873
+    m_Localized: <i>Little Pinequeak snaps its head towards you at the speed of light,
+      the cries stopping instantly.<br><br>As it looks straight into your eyes, its
+      expression suddenly shifts...</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 81528770028879874
+    m_Localized: Uh-oh...
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 81528770028879875
+    m_Localized: <i>With a mischievous grin, it hurls a dung bomb right at your face
+      and starts laughing maniacally.</i>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 81528770028879876
+    m_Localized: You got me this time, you little devil!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  - m_Id: 81528770028879877
+    m_Localized: Pinequeak
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654826
+  references:
+    version: 2
+    RefIds:
+    - rid: 2105433060097654826
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 68879341088931840
+        - id: 68879341122486272
+        - id: 68879341122486273
+        - id: 68879341122486274
+        - id: 68879341126680576
+        - id: 68879341126680577
+        - id: 68879341126680578
+        - id: 68879341126680579
+        - id: 68879341126680580
+        - id: 68879341126680581
+        - id: 68879341126680582
+        - id: 68879341126680583
+        - id: 68879341126680584
+        - id: 68879341126680585
+        - id: 68879341126680586
+        - id: 68879341126680587
+        - id: 68879341126680588
+        - id: 68879341126680589
+        - id: 69947439804055552
+        - id: 69947439816638464
+        - id: 69947439816638465
+        - id: 69984989718061056
+        - id: 69984989747421184
+        - id: 69984989747421185
+        - id: 77944132052172800
+        - id: 77944132068950016
+        - id: 77944132068950017
+        - id: 77944132068950018
+        - id: 77944132068950019
+        - id: 77944132068950020
+        - id: 77944132068950021
+        - id: 77944132068950022
+        - id: 77944132068950023
+        - id: 77944132068950024
+        - id: 77944132068950025
+        - id: 77944132068950026
+        - id: 77944132068950027
+        - id: 77944132068950028
+        - id: 77944132068950029
+        - id: 77944132068950030
+        - id: 77944132068950031
+        - id: 77944132068950032
+        - id: 77944132068950033
+        - id: 77944132068950034
+        - id: 77944132068950035
+        - id: 77944132068950036
+        - id: 77944132068950037
+        - id: 77944132068950038
+        - id: 77944132068950039
+        - id: 77944132068950040
+        - id: 77944132068950041
+        - id: 77944132068950042
+        - id: 77944132068950043
+        - id: 77944132068950044
+        - id: 77944132068950045
+        - id: 77944132068950046
+        - id: 77944132068950047
+        - id: 77944132068950048
+        - id: 77944132068950049
+        - id: 77944132068950050
+        - id: 77944132068950051
+        - id: 80485312693272576
+        - id: 80485312705855488
+        - id: 80485312705855489
+        - id: 80485312705855490
+        - id: 80485312705855491
+        - id: 80485312705855492
+        - id: 80485312705855493
+        - id: 80485312705855494
+        - id: 80485312705855495
+        - id: 80485312705855496
+        - id: 81528770012102656
+        - id: 81528770028879872
+        - id: 81528770028879873
+        - id: 81528770028879874
+        - id: 81528770028879875
+        - id: 81528770028879876
+        - id: 81528770028879877

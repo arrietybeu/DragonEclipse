@@ -1,0 +1,340 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -299433217, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Story Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Story
+  m_TableCollectionNameGuidString: 160a8e9dd3ae7ec46a0a5e3971577ae0
+  m_Entries:
+  - m_Id: 69984989718061056
+    m_Key: Story_StoryEnd_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69984989747421184
+    m_Key: Story_StoryEnd_Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69984989747421185
+    m_Key: Story_StoryEnd_Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68879341088931840
+    m_Key: Story_Hub_Glarexus_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68879341122486272
+    m_Key: Story_Hub_Glarexus_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68879341122486273
+    m_Key: Story_Hub_Glarexus_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68879341122486274
+    m_Key: Story_Hub_Glarexus_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68879341126680576
+    m_Key: Story_Hub_Glarexus_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68879341126680577
+    m_Key: Story_Hub_Glarexus_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68879341126680578
+    m_Key: Story_Hub_Golomo_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68879341126680579
+    m_Key: Story_Hub_Golomo_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68879341126680580
+    m_Key: Story_Hub_Golomo_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68879341126680581
+    m_Key: Story_Hub_Golomo_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68879341126680582
+    m_Key: Story_Hub_Golomo_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68879341126680583
+    m_Key: Story_Hub_Golomo_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68879341126680584
+    m_Key: Story_Hub_Iceling_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68879341126680585
+    m_Key: Story_Hub_Iceling_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68879341126680586
+    m_Key: Story_Hub_Iceling_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68879341126680587
+    m_Key: Story_Hub_Iceling_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68879341126680588
+    m_Key: Story_Hub_Iceling_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68879341126680589
+    m_Key: Story_Hub_Iceling_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81528770012102656
+    m_Key: Story_Hub_Pinequeak_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81528770028879872
+    m_Key: Story_Hub_Pinequeak_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81528770028879873
+    m_Key: Story_Hub_Pinequeak_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81528770028879874
+    m_Key: Story_Hub_Pinequeak_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81528770028879875
+    m_Key: Story_Hub_Pinequeak_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81528770028879876
+    m_Key: Story_Hub_Pinequeak_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69947439804055552
+    m_Key: Story_HUB_Header_Iceling_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69947439816638464
+    m_Key: Story_HUB_Header_Golomo_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69947439816638465
+    m_Key: Story_HUB_Header_Glarexus_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81528770028879877
+    m_Key: Story_HUB_Header_Pinequeak_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77944132052172800
+    m_Key: Story_HUB_Header_Eftus_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77944132068950016
+    m_Key: Story_HUB_Header_Prowler_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77944132068950017
+    m_Key: Story_HUB_Header_Frogmar_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77944132068950018
+    m_Key: Story_HUB_Header_Fale_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77944132068950019
+    m_Key: Story_HUB_Header_Bolb_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77944132068950020
+    m_Key: Story_Hub_Eftus_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77944132068950021
+    m_Key: Story_Hub_Eftus_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77944132068950022
+    m_Key: Story_Hub_Eftus_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77944132068950023
+    m_Key: Story_Hub_Eftus_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77944132068950024
+    m_Key: Story_Hub_Eftus_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77944132068950025
+    m_Key: Story_Hub_Eftus_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77944132068950026
+    m_Key: Story_Hub_Eftus_7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77944132068950027
+    m_Key: Story_Hub_Eftus_8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77944132068950028
+    m_Key: Story_Hub_Prowler_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77944132068950029
+    m_Key: Story_Hub_Prowler_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77944132068950030
+    m_Key: Story_Hub_Prowler_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77944132068950031
+    m_Key: Story_Hub_Prowler_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77944132068950032
+    m_Key: Story_Hub_Prowler_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77944132068950033
+    m_Key: Story_Hub_Prowler_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77944132068950034
+    m_Key: Story_Hub_Frogmar_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77944132068950035
+    m_Key: Story_Hub_Frogmar_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77944132068950036
+    m_Key: Story_Hub_Frogmar_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77944132068950037
+    m_Key: Story_Hub_Frogmar_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77944132068950038
+    m_Key: Story_Hub_Frogmar_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77944132068950039
+    m_Key: Story_Hub_Frogmar_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77944132068950040
+    m_Key: Story_Hub_Fale_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77944132068950041
+    m_Key: Story_Hub_Fale_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77944132068950042
+    m_Key: Story_Hub_Fale_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77944132068950043
+    m_Key: Story_Hub_Fale_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77944132068950044
+    m_Key: Story_Hub_Fale_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77944132068950045
+    m_Key: Story_Hub_Fale_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77944132068950046
+    m_Key: Story_Hub_Bolb_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77944132068950047
+    m_Key: Story_Hub_Bolb_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77944132068950048
+    m_Key: Story_Hub_Bolb_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77944132068950049
+    m_Key: Story_Hub_Bolb_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77944132068950050
+    m_Key: Story_Hub_Bolb_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77944132068950051
+    m_Key: Story_Hub_Bolb_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80485312693272576
+    m_Key: Story_enter_shadowRealm_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80485312705855488
+    m_Key: Story_enter_shadowRealm_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80485312705855489
+    m_Key: Story_enter_shadowRealm_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80485312705855490
+    m_Key: Story_enter_shadowRealm_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80485312705855491
+    m_Key: Story_enter_shadowRealm_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80485312705855492
+    m_Key: Story_enter_shadowRealm_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80485312705855493
+    m_Key: Story_enter_shadowRealm_7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80485312705855494
+    m_Key: Story_enter_shadowRealm_8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80485312705855495
+    m_Key: Story_enter_shadowRealm_9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80485312705855496
+    m_Key: Story_enter_shadowRealm_10
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7110646315898634921
+  references:
+    version: 2
+    RefIds:
+    - rid: 7110646315898634921
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1701941403850

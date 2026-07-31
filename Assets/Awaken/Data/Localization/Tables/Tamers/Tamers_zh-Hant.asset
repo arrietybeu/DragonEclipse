@@ -1,0 +1,179 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Tamers_zh-Hant
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: zh-Hant
+  m_SharedData: {fileID: 11400000, guid: 4bdcaf64e4a5916478186f30c14ef387, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2105433060097654833
+  m_TableData:
+  - m_Id: 10119456537821184
+    m_Localized: "\u5C1A\u672A\u89E3\u9396"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654833
+  - m_Id: 10119527421558784
+    m_Localized: "\u53EF\u5728\u904A\u73A9\u671F\u9593\u89E3\u9396\u6B64\u8A13\u7DF4\u5BB6\uFF01"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654833
+  - m_Id: 54659618039738368
+    m_Localized: "\u7384\u5967\u9B54\u5203"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654833
+  - m_Id: 54659618073292800
+    m_Localized: "\u6BCF\u5834\u5C0D\u6230\u7D50\u675F\u5F8C\uFF0C\u51FA\u73FE\u5728\u734E\u52F5\u756B\u9762\u7684\u7B2C\u4E00\u5F35\u5361\u724C\u70BA\u514D\u8CBB\u3002"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654833
+  - m_Id: 54659618073292801
+    m_Localized: "\u9B6F\u83BD\u862D\u8FEA"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654833
+  - m_Id: 78626348725248000
+    m_Localized: "\u5C0D\u6230\u958B\u59CB\u6642\uFF0C\u4E00\u500B\u96A8\u6A5F\u5947\u9748\u9032\u5316\u3002\u6B64\u5947\u9748\u7121\u6CD5\u6062\u5FA9\u751F\u547D\u503C\uFF0C\u4E14\u751F\u547D\u503C\u4E0A\u9650\u6E1B\u534A\u3002"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654833
+  - m_Id: 78626348750413824
+    m_Localized: "\u5C0D\u6230\u958B\u59CB\u6642\uFF0C\u4E00\u500B\u96A8\u6A5F\u5947\u9748\u9032\u5316\u3002"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654833
+  - m_Id: 69538106172317696
+    m_Localized: "\u958B\u5834\u9032\u5316"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654833
+  - m_Id: 69538106197483520
+    m_Localized: "\u4EE5\u9032\u5316\u578B\u614B\u958B\u59CB\u63A2\u96AA\u3002\u751F\u547D\u503C\u4E0A\u9650\u6E1B\u534A\uFF0C\u4E14\u7121\u6CD5\u6062\u5FA9\u751F\u547D\u503C\u3002"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654833
+  - m_Id: 54659618073292803
+    m_Localized: "\u8393\u96C5\xB7\u5E03\u9B6F\u8C9D\u91CC"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654833
+  - m_Id: 54659618073292804
+    m_Localized: "\u958B\u5834\u6642\u6709{Tamer.EmberSeeds}\u9846\u5947\u8393\u3002"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654833
+  - m_Id: 68455510805913600
+    m_Localized: "\u958B\u5834\u6642\u6709\u66F4\u591A\u5947\u8393\u3002"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654833
+  - m_Id: 54659618073292805
+    m_Localized: "\u5FB7\u5361\xB7\u5361\u5A01"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654833
+  - m_Id: 54659618073292806
+    m_Localized: "\u968A\u4F0D\u50C5\u9650{Tamer.TeamSize}\u500B\u5947\u9748\uFF0C\u4F46\u80FD\u91CF\u6C60\u63D0\u5347\u81F3{Tamer.CombatEnergy}\u3002"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654833
+  - m_Id: 68455510805913601
+    m_Localized: "\u968A\u4F0D\u50C5\u9650{Tamer.TeamSize}\u500B\u5947\u9748\uFF0C\u4F46\u80FD\u91CF\u6C60\u63D0\u5347\u3002"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654833
+  - m_Id: 54659618073292807
+    m_Localized: "\u83F2\u5229\xB7\u83F2\u5229\u666E"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654833
+  - m_Id: 54659618073292808
+    m_Localized: "\u4E00\u8F2A\u7D50\u675F\u6642\u767C\u52D5\u7684\u5947\u9748\u53EF\u767C\u52D5\u5169\u6B21\u3002\u8D0F\u5F97\u5C0D\u6230\u7372\u5F97\u7684\u91D1\u5E63\u6E1B\u5C11{Tamer.GoldAfterCombatMultiplier}%\u3002"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654833
+  - m_Id: 68455510805913602
+    m_Localized: "\u4E00\u8F2A\u7D50\u675F\u6642\u767C\u52D5\u7684\u5947\u9748\u53EF\u767C\u52D5\u5169\u6B21\u3002"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654833
+  - m_Id: 69538106197483521
+    m_Localized: "\u96D9\u91CD\u767C\u52D5"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654833
+  - m_Id: 69538106197483522
+    m_Localized: "\u5982\u679C\u6B64\u5947\u9748\u5728\u4E00\u8F2A\u7D50\u675F\u6642\u767C\u52D5\uFF0C\u5247\u53EF\u767C\u52D5\u5169\u6B21\u3002"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654833
+  - m_Id: 54659618073292809
+    m_Localized: "\u82AD\u82AD\u62C9\xB7\u666E\u840A"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654833
+  - m_Id: 54659618073292810
+    m_Localized: "\u5947\u9748\u5728\u5C0D\u6230\u7B2C\u4E00\u8F2A\u9020\u6210\u96D9\u500D\u50B7\u5BB3\u3002\u5C0D\u6230\u671F\u9593\u6BCF\u4E00\u8F2A\u640D\u5931{Tamer.LoseMystberryEveryRound}\u9846\u5947\u8393\u3002"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654833
+  - m_Id: 68455510805913603
+    m_Localized: "\u5947\u9748\u5728\u5C0D\u6230\u7B2C\u4E00\u8F2A\u9020\u6210\u96D9\u500D\u50B7\u5BB3\u3002"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654833
+  - m_Id: 69538106197483523
+    m_Localized: "\u5F37\u529B\u958B\u5C40"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654833
+  - m_Id: 69538106197483524
+    m_Localized: "\u5C0D\u6230\u7B2C\u4E00\u8F2A\u9020\u6210\u96D9\u500D\u50B7\u5BB3\u3002"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654833
+  references:
+    version: 2
+    RefIds:
+    - rid: 2105433060097654833
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 10119456537821184
+        - id: 10119527421558784
+        - id: 54659618039738368
+        - id: 54659618073292800
+        - id: 54659618073292801
+        - id: 78626348725248000
+        - id: 78626348750413824
+        - id: 69538106172317696
+        - id: 69538106197483520
+        - id: 54659618073292803
+        - id: 54659618073292804
+        - id: 68455510805913600
+        - id: 54659618073292805
+        - id: 54659618073292806
+        - id: 68455510805913601
+        - id: 54659618073292807
+        - id: 54659618073292808
+        - id: 68455510805913602
+        - id: 69538106197483521
+        - id: 69538106197483522
+        - id: 54659618073292809
+        - id: 54659618073292810
+        - id: 68455510805913603
+        - id: 69538106197483523
+        - id: 69538106197483524

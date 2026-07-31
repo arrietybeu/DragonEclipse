@@ -1,0 +1,565 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Compendium_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 98a8d947820b5a3448a76aaf025ea69e, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 8829885829830410405
+  m_TableData:
+  - m_Id: 54475884666880
+    m_Localized: Bases du combat
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 17316704231424
+    m_Localized: "Caract\xE9ristiques"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 17316704231425
+    m_Localized: "Mystlings et ennemis sont consid\xE9r\xE9s comme des cr\xE9atures.\n<b>Sant\xE9\_:</b>
+      quand une cr\xE9ature perd toute sa sant\xE9, elle s'\xE9vanouit et est retir\xE9e
+      du combat. Les Mystlings comme les ennemis ont de la sant\xE9.\n<b>Puissance\_:</b>
+      les d\xE9g\xE2ts qu'un Mystling inflige en attaquant. Ce total peut \xEAtre
+      modifi\xE9, par exemple par les effets des cartes ou des \xE9tats. La Puissance
+      est r\xE9serv\xE9e aux Mystlings.\n<b>Activation\_:</b> chaque Mystling poss\xE8de
+      une capacit\xE9 unique qui se d\xE9clenche durant la phase des cr\xE9atures,
+      \xE0 condition qu'il ne se trouve pas en premi\xE8re position.\n<b>Talent\_:</b>
+      chaque Mystling a \xE9galement une capacit\xE9 sp\xE9ciale pouvant se d\xE9clencher
+      dans certaines circonstances, comme par exemple le fait de subir des d\xE9g\xE2ts
+      ou de vaincre un ennemi."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 17316704231426
+    m_Localized: "Cartes et \xE9nergie"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 17316704231427
+    m_Localized: "Utilisez vos cartes pour donner des instructions \xE0 vos Mystlings
+      et vaincre les ennemis. Pour activer l'effet d'une carte, faites-la glisser
+      jusqu'\xE0 un Mystling ou un ennemi.\n\nJouer des cartes co\xFBte de l'\xE9nergie.
+      Vous commencez chaque round avec 3 en \xE9nergie et, quand vous n'avez plus
+      assez d'\xE9nergie pour jouer d'autres cartes, il est temps de mettre un terme
+      \xE0 votre tour.\n\nAu d\xE9but de chaque round, vous r\xE9cup\xE9rez toute
+      votre \xE9nergie et vous piochez de nouvelles cartes dans votre main."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055488
+    m_Localized: Round
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055489
+    m_Localized: "Chaque round est constitu\xE9 de deux phases\_: celle du joueur
+      et celle des cr\xE9atures."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 17316704231430
+    m_Localized: Phase du joueur
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 17316704231431
+    m_Localized: "Pendant cette phase, vous jouez vos cartes et vous avez la possibilit\xE9
+      de d\xE9placer vos Mystlings et d'utiliser des consommables. Lorsque vous appuyez
+      sur le bouton Fin du tour, vous mettez un terme \xE0 la phase du joueur et
+      la phase des cr\xE9atures se lance automatiquement."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 17316704231432
+    m_Localized: "D\xE9placer vos Mystlings"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 17316704231433
+    m_Localized: "\xC0 tout moment, vous pouvez modifier la position de vos Mystlings
+      en les faisant glisser l\xE0 o\xF9 vous souhaitez les placer. N'oubliez pas
+      que la position de chaque Mystling d\xE9termine lesquels utiliseront leur capacit\xE9
+      d'activation et lequel attaquera \xE0 la fin du round.\n\nVous pouvez \xE9galement
+      modifier la position de vos Mystlings sur la carte du monde en cliquant sur
+      les fl\xE8ches \xE0 c\xF4t\xE9 de leur portrait."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 17316704231434
+    m_Localized: "Phase des cr\xE9atures"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 17316704231435
+    m_Localized: "Une fois que vous avez mis un terme \xE0 votre tour, c'est aux
+      cr\xE9atures d'agir, en commen\xE7ant par les ennemis.\n\nLes intentions de
+      ces derniers s'affichent au-dessus de leur t\xEAte et sont visibles d\xE8s
+      le d\xE9but du round. N'h\xE9sitez pas \xE0 amener le curseur de la souris
+      sur les symboles visibles au-dessus d'eux pour savoir ce qu'ils vont faire.
+      \xC0 chaque fois, la cible de leur action est entour\xE9e d'une aura rouge.\n\nTous
+      les ennemis agissent l'un apr\xE8s l'autre, du dernier au premier (autrement
+      dit, de DROITE \xE0 GAUCHE).\n\nC'est ensuite au tour de vos Mystlings d'attaquer,
+      eux aussi du dernier au premier (et donc, de GAUCHE \xE0 DROITE). Le Mystling
+      en <style=\"Blue\">premi\xE8re ligne</style> attaque, tandis que les autres
+      utilisent leur capacit\xE9 d'activation."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 17316704231436
+    m_Localized: "Activation des b\xE9n\xE9dictions"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 17316704231437
+    m_Localized: "Les effets des b\xE9n\xE9dictions et talents se d\xE9clenchent
+      dans des conditions particuli\xE8res et peuvent interrompre le d\xE9roulement
+      normal du round.\nLisez bien les infobulles de vos b\xE9n\xE9dictions afin
+      de maximiser le potentiel de votre \xE9quipe\_!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 17316704231438
+    m_Localized: Consommables
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 17316704231439
+    m_Localized: "Les consommables sont des objets \xE0 usage unique pouvant d\xE9clencher
+      des effets divers et vari\xE9s. Vous pouvez les utiliser au combat en les faisant
+      glisser sur la cible souhait\xE9e (ou juste en cliquant dessus pour ceux qui
+      ne n\xE9cessitent pas de cible)."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 17316704231440
+    m_Localized: "Capacit\xE9 de dompteur"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 17316704231441
+    m_Localized: "Chaque dompteur poss\xE8de une capacit\xE9 sp\xE9ciale. Certaines
+      fonctionnent en situation de combat, les autres, non. Si votre dompteur a une
+      capacit\xE9 sp\xE9ciale de combat, vos Mystlings re\xE7oivent un effet d'\xE9tat
+      sp\xE9cial, repr\xE9sent\xE9 par une ic\xF4ne entour\xE9e d'une aura verte."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055490
+    m_Localized: Progression
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055491
+    m_Localized: "R\xE9compenses"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055492
+    m_Localized: "Vous trouverez deux types de r\xE9compenses dans les coffres au
+      tr\xE9sor et \xE0 l'issue des combats\_:\n<b>Or\_:</b> les pi\xE8ces d'or peuvent
+      \xEAtre d\xE9pens\xE9es \xE0 la boutique pour acheter de nouvelles cartes ou
+      des consommables, ou \xE0 la clinique, afin de soigner, ranimer ou entra\xEEner
+      vos Mystlings.\n<b>Mystibaies\_:</b> peuvent uniquement \xEAtre d\xE9pens\xE9es
+      apr\xE8s un combat, pour acheter de nouvelles cartes ou des b\xE9n\xE9dictions
+      pour vos Mystlings. Servent \xE9galement \xE0 ranimer les Mystlings \xE9vanouis."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055493
+    m_Localized: "B\xE9n\xE9dictions"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055494
+    m_Localized: "Les b\xE9n\xE9dictions sont des capacit\xE9s passives sp\xE9ciales
+      que vous pouvez acheter pour vos Mystlings \xE0 l'aide de Mystibaies. Chaque
+      b\xE9n\xE9diction a un effet et des conditions de d\xE9clenchement uniques.\n\nLe
+      prix d'une b\xE9n\xE9diction augmente de 2 pour chaque b\xE9n\xE9diction que
+      poss\xE8de d\xE9j\xE0 ce Mystling."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055495
+    m_Localized: "\xC9volution"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055496
+    m_Localized: "Quand un Mystling re\xE7oit sa 4e b\xE9n\xE9diction, il \xE9volue
+      pour prendre une forme plus puissante.\n\nLa carte d'un Mystling \xE9volu\xE9
+      est am\xE9lior\xE9e, et vous pouvez alors choisir un talent parmi les trois\_qui
+      vous sont propos\xE9s, dont certains peuvent \xE9craser le talent d'origine
+      de votre Mystling."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055497
+    m_Localized: Gain de niveau
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055498
+    m_Localized: "Que vous l'emportiez ou non, apr\xE8s chaque partie, vous gagnez
+      des points d'exp\xE9rience et, d\xE8s que vous en avez assez, votre niveau
+      augmente, ce qui vous permet de d\xE9bloquer de nouveaux Mystlings, dompteurs
+      et b\xE9n\xE9dictions.\n\nVous pouvez changer de dompteur et/ou de Mystlings
+      en lan\xE7ant une nouvelle partie. Quant aux cartes et b\xE9n\xE9dictions que
+      vous gagnez, elles appara\xEEtront ensuite dans les boutiques entre deux parties."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055499
+    m_Localized: "D\xE9compte avant l'\xC9clipse"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055500
+    m_Localized: "Chaque partie est limit\xE9e dans le temps, le nombre de combats
+      auquel vous pouvez prendre part avant l'\xC9clipse \xE9tant d\xE9termin\xE9
+      par le niveau de difficult\xE9. Lorsque l'\xC9clipse arrive, cela lance le
+      combat contre le boss final."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055501
+    m_Localized: Village
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055502
+    m_Localized: Se promener dans le village
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055503
+    m_Localized: "Le village est l'endroit o\xF9 vous habitez, ainsi que votre base
+      d'op\xE9rations. Vous y revenez syst\xE9matiquement apr\xE8s chaque partie.\n\nVous
+      pouvez interagir avec les Mystlings et les villageois pour en savoir plus \xE0
+      leur sujet. Et pensez \xE0 garder un \u0153il sur vos \xE9l\xE8ves, car ils
+      pourraient avoir besoin de vous pour les aider \xE0 r\xE9gler divers probl\xE8mes."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055504
+    m_Localized: Cuisine
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055505
+    m_Localized: "Avant de repartir \xE0 l'aventure, pensez \xE0 vous rendre \xE0
+      la cuisine pour commander un consommable au hasard. Et ne vous pr\xE9occupez
+      pas du prix, c'est gratuit\_!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055506
+    m_Localized: Effets
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055507
+    m_Localized: "Effets d'\xE9tat"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055508
+    m_Localized: "<b>Boucliers\_:</b> stoppent un total \xE9quivalent de <style=\"Blue\">d\xE9g\xE2ts</style>
+      jusqu'au round suivant."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055512
+    m_Localized: "<b>Esquive\_:</b> emp\xEAche la cr\xE9ature de subir des <style=\"Blue\">d\xE9g\xE2ts</style>.
+      Diminue de 1 apr\xE8s chaque coup au but."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055511
+    m_Localized: "<b>\xC9cran\_:</b> r\xE9duit les prochains <style=\"Blue\">d\xE9g\xE2ts</style>
+      subis \xE0 1."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055515
+    m_Localized: "<b>Ranimation\_:</b> ranime instantan\xE9ment cette cr\xE9ature
+      \xE0 50\_% de son maximum de <style=\"Blue\">sant\xE9</style> quand elle s'\xE9vanouit.
+      La valeur de l'\xE9tat diminue de 1 apr\xE8s chaque ranimation."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055520
+    m_Localized: "<b>Garde\_:</b> r\xE9duit les <style=\"Blue\">d\xE9g\xE2ts</style>
+      subis de 50\_%. Diminue de 1 par round."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055509
+    m_Localized: "<b>Col\xE8re\_:</b> augmente la Puissance jusqu'\xE0 la fin du
+      combat."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055510
+    m_Localized: "<b>Force\_:</b> augmente la Puissance jusqu'\xE0 la fin du round."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055513
+    m_Localized: "<b>Attaques multiples\_:</b> augmente pendant 1\_tour le nombre
+      d'attaques par incr\xE9ment d'Attaques multiples."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055514
+    m_Localized: "<b>Attaques multiples permanentes\_:</b> augmente jusqu'\xE0 la
+      fin du combat le nombre d'attaques par incr\xE9ment d'Attaques multiples."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055516
+    m_Localized: "<b>\xC9pines\_:</b> quand cette cr\xE9ature est attaqu\xE9e, son
+      agresseur subit des <style=\"Blue\">d\xE9g\xE2ts</style> \xE9gaux \xE0 sa valeur
+      d'\xC9pines. Cet \xE9tat se dissipe juste apr\xE8s."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055517
+    m_Localized: "<b>Vuln\xE9rabilit\xE9\_:</b> lorsque cette cr\xE9ature subit des
+      <style=\"Blue\">d\xE9g\xE2ts</style>, de quelque source que ce soit, ceux-ci
+      sont augment\xE9s de sa valeur de Vuln\xE9rabilit\xE9. La valeur de cet \xE9tat
+      diminue de 1 apr\xE8s chaque coup."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055518
+    m_Localized: "<b>Faiblesse\_:</b> r\xE9duit la Puissance en fonction du nombre
+      d'incr\xE9ments de Faiblesse."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055519
+    m_Localized: "<b>Vol de vie\_:</b> quand cette cr\xE9ature attaque, elle se soigne
+      d'un montant \xE9gal aux <style=\"Blue\">d\xE9g\xE2ts</style> inflig\xE9s \xE0
+      l'ennemi."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055521
+    m_Localized: "<b>Sans d\xE9fense\_:</b> augmente les <style=\"Blue\">d\xE9g\xE2ts</style>
+      subis de 100\_%. Diminue \xE0 chaque round."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055522
+    m_Localized: "<b>\xC9tourdissement\_:</b> la cr\xE9ature ne peut pas s'activer
+      ou attaquer. Diminue de 1 au d\xE9but du round."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055523
+    m_Localized: "D\xE9clencheurs"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 67300346634240
+    m_Localized: "<b>Bless\xE9\_:</b> quand la cr\xE9ature perd de la <style=\"Blue\">sant\xE9</style>.\n<b>Attaqu\xE9\_:</b>
+      quand la cr\xE9ature subit des <style=\"Blue\">d\xE9g\xE2ts</style> de quelque
+      sorte que ce soit, m\xEAme si elle ne perd pas de <style=\"Blue\">sant\xE9</style>.\n<b>K.-O.\_:</b>
+      quand la cr\xE9ature triomphe d'un adversaire.\n<b>\xC9vanoui\_:</b> Quand
+      la <style=\"Blue\">sant\xE9</style> de la cr\xE9ature tombe \xE0 z\xE9ro."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055528
+    m_Localized: "Mots-cl\xE9s"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 67405132931072
+    m_Localized: "<b>\xC9puiser\_:</b> lorsque vous jouez cette carte, elle est ensuite
+      retir\xE9e de votre deck jusqu'\xE0 la fin du combat.\n<b>Surcharge\_:</b>
+      vous pouvez jouer cette carte un nombre de fois \xE9gal au nombre de cartes
+      jou\xE9es pendant ce tour.\n<b>Croissance\_:</b> chaque fois que vous jouez
+      cette carte, sa puissance augmente de sa valeur de Croissance jusqu'\xE0 la
+      fin du combat.\n<b>Pourrissement\_:</b> chaque fois que vous jouez cette carte,
+      sa puissance diminue de sa valeur de Pourrissement jusqu'\xE0 la fin du combat.\n<b>Enchanter
+      la position\_:</b> applique un enchantement sur la position en question."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055534
+    m_Localized: Cartes
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055535
+    m_Localized: "B\xE9n\xE9dictions"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055536
+    m_Localized: Consommables
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055537
+    m_Localized: "<b>Steak cru\_:</b> conf\xE8re de la Force au Mystling s\xE9lectionn\xE9."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055538
+    m_Localized: "<b>Cheesecake aux framboises\_:</b> conf\xE8re des boucliers au
+      Mystling s\xE9lectionn\xE9."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055539
+    m_Localized: "<b>Soupe nourrissante\_:</b> soigne le Mystling s\xE9lectionn\xE9."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055540
+    m_Localized: "<b>Dessert \xE9labor\xE9\_:</b> applique Ranimation au Mystling
+      s\xE9lectionn\xE9."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055541
+    m_Localized: "<b>Plat \xE9quilibr\xE9\_:</b> +2\_consommables au hasard."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055542
+    m_Localized: "<b>Infusion de plantes\_:</b> augmente de mani\xE8re permanente
+      la Puissance du Mystling s\xE9lectionn\xE9."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055543
+    m_Localized: "<b>Salade de fruits\_:</b> augmente de mani\xE8re permanente le
+      maximum de <style=\"Blue\">sant\xE9</style> du Mystling s\xE9lectionn\xE9."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055544
+    m_Localized: "<b>Salade compos\xE9e\_:</b> conf\xE8re Esquive au Mystling s\xE9lectionn\xE9."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055545
+    m_Localized: "<b>Bol d'ail\_:</b> permet de piocher des cartes."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 54475893055546
+    m_Localized: "<b>Th\xE9 puissant\_:</b> +2\_en \xE9nergie."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410405
+  - m_Id: 264007820933885952
+    m_Localized: Mystling Eggs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 264007820933885953
+    m_Localized: 'To gain a new Mystling, you need to hatch its Egg first. Every
+      new unlocked Egg will show up in the Hatchery building in your village.
+
+      To
+      hatch it you will have to complete a challenge. You can check your progress
+      in the Hatchery building in between runs.
+
+      Once your challenge is completed
+      your Egg will hatch a new Mystlign will be available for a new run.'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 8829885829830410405
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 54475884666880
+        - id: 17316704231424
+        - id: 17316704231425
+        - id: 17316704231426
+        - id: 17316704231427
+        - id: 54475893055488
+        - id: 54475893055489
+        - id: 17316704231430
+        - id: 17316704231431
+        - id: 17316704231432
+        - id: 17316704231433
+        - id: 17316704231434
+        - id: 17316704231435
+        - id: 17316704231436
+        - id: 17316704231437
+        - id: 17316704231438
+        - id: 17316704231439
+        - id: 17316704231440
+        - id: 17316704231441
+        - id: 54475893055490
+        - id: 54475893055491
+        - id: 54475893055492
+        - id: 54475893055493
+        - id: 54475893055494
+        - id: 54475893055495
+        - id: 54475893055496
+        - id: 54475893055497
+        - id: 54475893055498
+        - id: 54475893055499
+        - id: 54475893055500
+        - id: 54475893055501
+        - id: 54475893055502
+        - id: 54475893055503
+        - id: 54475893055504
+        - id: 54475893055505
+        - id: 54475893055506
+        - id: 54475893055507
+        - id: 54475893055508
+        - id: 54475893055512
+        - id: 54475893055511
+        - id: 54475893055515
+        - id: 54475893055520
+        - id: 54475893055509
+        - id: 54475893055510
+        - id: 54475893055513
+        - id: 54475893055514
+        - id: 54475893055516
+        - id: 54475893055517
+        - id: 54475893055518
+        - id: 54475893055519
+        - id: 54475893055521
+        - id: 54475893055522
+        - id: 54475893055523
+        - id: 67300346634240
+        - id: 54475893055528
+        - id: 67405132931072
+        - id: 54475893055534
+        - id: 54475893055535
+        - id: 54475893055536
+        - id: 54475893055537
+        - id: 54475893055538
+        - id: 54475893055539
+        - id: 54475893055540
+        - id: 54475893055541
+        - id: 54475893055542
+        - id: 54475893055543
+        - id: 54475893055544
+        - id: 54475893055545
+        - id: 54475893055546

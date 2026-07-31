@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -299433217, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Keywords Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Keywords
+  m_TableCollectionNameGuidString: 3d2e94ba04dc8c442bd3c6d9d26f5f58
+  m_Entries:
+  - m_Id: 3445264334848
+    m_Key: KeywordName_Overload
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3569226989568
+    m_Key: KeywordDesc_Overload
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3958399680512
+    m_Key: KeywordName_Exhaust
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4067308978176
+    m_Key: KeywordDesc_Exhaust
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55826930826842112
+    m_Key: KeywordName_Accumulate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55826999063973888
+    m_Key: KeywordDesc_Accumulate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55827062259552256
+    m_Key: KeywordName_Deacumulate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55827172670410752
+    m_Key: KeywordDesc_Deacumulate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86266413391618048
+    m_Key: KeywordName_EnchantArena
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86266413412589568
+    m_Key: KeywordDesc_EnchantArena
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2103540039680
+    m_Key: KeywordName_Boomerang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2305462222848
+    m_Key: KeywordDesc_Boomerang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2503508869120
+    m_Key: KeywordName_Clone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2596051992576
+    m_Key: KeywordDesc_Clone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5756648800256
+    m_Key: KeywordName_Marked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5860579459072
+    m_Key: KeywordDesc_Marked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5978716225536
+    m_Key: KeywordName_Stay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6061062995968
+    m_Key: KeywordDesc_Stay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6165513748480
+    m_Key: KeywordName_Quick
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6298116669440
+    m_Key: KeywordDesc_Quick
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6405587320832
+    m_Key: KeywordName_Yoyo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6498130444288
+    m_Key: KeywordDesc_Yoyo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34068222202462208
+    m_Key: KeywordName_Durability
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34068222215045120
+    m_Key: KeywordDesc_Durability
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7337901011925467137
+  references:
+    version: 2
+    RefIds:
+    - rid: 7337901011925467137
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1701692022722

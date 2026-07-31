@@ -1,0 +1,233 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Effects_pl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl
+  m_SharedData: {fileID: 11400000, guid: 9e26056865956cc4bb283677b789606b, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2105433060097654793
+  m_TableData:
+  - m_Id: 1054703992832
+    m_Localized: <style="Blue">Aktywacja</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654793
+  - m_Id: 1106876940288
+    m_Localized: "Wywo\u0142uje zdolno\u015B\u0107 aktywowan\u0105 mystlinga"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654793
+  - m_Id: 1137247895552
+    m_Localized: "<style=\"Blue\">Og\u0142uszenie</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654793
+  - m_Id: 1167065202688
+    m_Localized: "Op\xF3\u017Ania najbli\u017Csz\u0105 akcj\u0119 o {Effect0.ValueInt}
+      rund\u0119"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654793
+  - m_Id: 1203266240512
+    m_Localized: <style="Blue">Rana</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654793
+  - m_Id: 1233293262848
+    m_Localized: "Obra\u017Cenia, kt\xF3re przechodz\u0105 przez os\u0142on\u0119"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654793
+  - m_Id: 1349962022912
+    m_Localized: "Superzdolno\u015B\u0107"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654793
+  - m_Id: 1396862730240
+    m_Localized: "Wyj\u0105tkowo pot\u0119\u017Cna zdolno\u015B\u0107 wroga"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654793
+  - m_Id: 12301384671113216
+    m_Localized: "<style=\"Blue\">Przywo\u0142anie</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654793
+  - m_Id: 12301419358007296
+    m_Localized: "Przywo\u0142anie towarzyszy na pole walki"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654793
+  - m_Id: 1266516344832
+    m_Localized: "Wy\u0142\u0105czenie wyga\u015Bni\u0119cia"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654793
+  - m_Id: 1311223431168
+    m_Localized: "Wy\u0142\u0105cza wybrane wyga\u015Bni\u0119cie stanu. "
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654793
+  - m_Id: 71045737244336128
+    m_Localized: <style="Blue">Omdlenie</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654793
+  - m_Id: 71045737273696256
+    m_Localized: "Omdla\u0142y stw\xF3r nie bierze udzia\u0142u w walce do czasu
+      o\u017Cywienia (natychmiastowe o\u017Cywienie omdla\u0142ego stwora tak\u017Ce
+      liczy si\u0119 jako omdlenie)"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654793
+  - m_Id: 55757007826788352
+    m_Localized: Premia
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654793
+  - m_Id: 55757007851954176
+    m_Localized: Kara
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654793
+  - m_Id: 55757007851954177
+    m_Localized: "Og\u0142uszenie"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654793
+  - m_Id: 55757007851954178
+    m_Localized: Aktywacja
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654793
+  - m_Id: 55757007851954179
+    m_Localized: Atak
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654793
+  - m_Id: 113733529649422336
+    m_Localized: Unik
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654793
+  - m_Id: 113733529682976768
+    m_Localized: Odpoczynek
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654793
+  - m_Id: 59806798797979648
+    m_Localized: Wzmocnienie!
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654793
+  - m_Id: 84836185721085952
+    m_Localized: Efekt areny
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654793
+  - m_Id: 84844454871113728
+    m_Localized: "Pocz\u0105tek rundy: +{Effect0.ValueInt} p. <style=\"Blue\">os\u0142ony</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654793
+  - m_Id: 85091811579731968
+    m_Localized: "Pocz\u0105tek rundy: +{Effect0.ValueInt} p. <style=\"Blue\">si\u0142y</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654793
+  - m_Id: 84844454871113730
+    m_Localized: "Pocz\u0105tek rundy: +{Effect0.ValueInt} p. <style=\"Blue\">bezbronno\u015Bci</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654793
+  - m_Id: 84844454871113731
+    m_Localized: "P\xF3ki jeste\u015B na tej pozycji, wszystkie otrzymywane obra\u017Cenia
+      s\u0105 zmniejszane o {Effect0.ValueInt}"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654793
+  - m_Id: 84844454871113732
+    m_Localized: "Pocz\u0105tek rundy: leczy {Effect0.ValueInt} PZ"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654793
+  - m_Id: 84844454871113733
+    m_Localized: "P\xF3ki jeste\u015B na tej pozycji, zyskujesz {Effect0.ValueInt}
+      p. mocy. Pocz\u0105tek rundy: otrzymujesz {Effect1.ValueInt} obra\u017Ce\u0144"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654793
+  - m_Id: 85478340458258432
+    m_Localized: "P\xF3ki jeste\u015B na tej pozycji, zyskujesz {Effect0.ValueInt}
+      p. mocy. Pocz\u0105tek rundy: otrzymujesz {Effect1.ValueInt} obra\u017Ce\u0144"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654793
+  - m_Id: 84844454871113734
+    m_Localized: 'Koniec rundy: <style="Blue">aktywacja</style>'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654793
+  - m_Id: 84844454871113735
+    m_Localized: "Pocz\u0105tek rundy: otrzymujesz {Effect0.ValueInt} p. obra\u017Ce\u0144"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654793
+  - m_Id: 97530737351184384
+    m_Localized: Efekt {StatusName} zablokowany
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654793
+  references:
+    version: 2
+    RefIds:
+    - rid: 2105433060097654793
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 1054703992832
+        - id: 1106876940288
+        - id: 1137247895552
+        - id: 1167065202688
+        - id: 1203266240512
+        - id: 1233293262848
+        - id: 1349962022912
+        - id: 1396862730240
+        - id: 12301384671113216
+        - id: 12301419358007296
+        - id: 1266516344832
+        - id: 1311223431168
+        - id: 71045737244336128
+        - id: 71045737273696256
+        - id: 55757007826788352
+        - id: 55757007851954176
+        - id: 55757007851954177
+        - id: 55757007851954178
+        - id: 55757007851954179
+        - id: 113733529649422336
+        - id: 113733529682976768
+        - id: 59806798797979648
+        - id: 84836185721085952
+        - id: 84844454871113728
+        - id: 85091811579731968
+        - id: 84844454871113730
+        - id: 84844454871113731
+        - id: 84844454871113732
+        - id: 84844454871113733
+        - id: 85478340458258432
+        - id: 84844454871113734
+        - id: 84844454871113735
+        - id: 97530737351184384

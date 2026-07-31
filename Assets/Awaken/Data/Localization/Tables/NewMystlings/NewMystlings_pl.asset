@@ -1,0 +1,972 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: NewMystlings_pl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl
+  m_SharedData: {fileID: 11400000, guid: b78b8f3ad9016ae4098421aca5096d55, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 8829885829830410418
+  m_TableData:
+  - m_Id: 5776446886887424
+    m_Localized: Pinequeak
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053248
+    m_Localized: "Niezwyk\u0142y Pinequeak"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053249
+    m_Localized: "Pinequeaki maj\u0105 z\u0142o\u015Bliwe usposobienie, gro\u017Ane
+      spojrzenie i ogrom sztuczek na podor\u0119dziu. Wszystko to sprawia, \u017Ce
+      w pe\u0142ni zas\u0142uguj\u0105 na sw\u0105 z\u0142\u0105 s\u0142aw\u0119.
+      Tak jak inne szkodniki, w ka\u017Cdym mie\u015Bcie nazywa si\u0119 je inaczej.
+      Najcz\u0119stsze wersje to \u201Eso\u015Bniok\u201D i \u201Ejodlak\u201D."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053250
+    m_Localized: <style="Blue">Atakuje</style> losowego wroga z {Effect0.Attack.PowerModifier}%
+      <style="Blue">mocy</style>
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053251
+    m_Localized: "Kiedy Pinequeak zostaje <smallcaps><style=\"Blue\">zraniony</style></smallcaps>:
+      dobierasz do r\u0119ki kart\u0119 <style=\"Blue\">{Effect0.ValueString}</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053252
+    m_Localized: "Kiedy Pinequeak zostaje <smallcaps><style=\"Blue\">zraniony</style></smallcaps>:
+      dobierasz do r\u0119ki dwie nieulepszone karty <style=\"Blue\">{Effect0.ValueString}</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053253
+    m_Localized: "Kiedy Pinequeak zostaje <smallcaps><style=\"Blue\">zraniony</style></smallcaps>:
+      dobierasz do r\u0119ki kart\u0119 <style=\"Blue\">{Effect0.ValueString}</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053255
+    m_Localized: "Kiedy Pinequeak zostaje <smallcaps><style=\"Blue\">zraniony</style></smallcaps>:
+      dobierasz do r\u0119ki dwie nieulepszone karty <style=\"Blue\">{Effect0.ValueString}</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053256
+    m_Localized: "Zwi\u0119ksza <style=\"Blue\">zdrowie</style> o {Mystling.Health}"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 12276047190016000
+    m_Localized: "Zwi\u0119ksza <style=\"Blue\">moc</style> o {Mystling.Power}"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053258
+    m_Localized: Iceling
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053259
+    m_Localized: "Niezwyk\u0142y Iceling"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053260
+    m_Localized: "Icelingi zwykle stroni\u0105 od ludzi, ale niekt\xF3re wykszta\u0142ci\u0142y
+      w sobie swoist\u0105 ciekawo\u015B\u0107. Najodwa\u017Cniejsze osobniki zapuszczaj\u0105
+      si\u0119 nawet poza o\u015Bnie\u017Cone szczyty g\xF3r, kt\xF3re zamieszkuj\u0105."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053261
+    m_Localized: "Iceling daje {Effect0.ValueInt} p. <smallcaps><style=\"Blue\">si\u0142y</style></smallcaps>
+      mystlingowi z przodu (mo\u017Ce to by\u0107 on sam)"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053262
+    m_Localized: "Iceling zyskuje dodatkow\u0105 <style=\"Blue\">moc</style> r\xF3wn\u0105
+      <style=\"Blue\">liczbie kart</style> w twojej r\u0119ce"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053263
+    m_Localized: "Iceling zyskuje dodatkow\u0105 <style=\"Blue\">moc</style> r\xF3wn\u0105
+      <style=\"Blue\">liczbie kart</style> w twojej r\u0119ce.\nPocz\u0105tek walki:
+      <style=\"Blue\">dobierasz</style> {Effect0.ValueInt} {Effect0.ValueIntInt:p:kart\u0119|karty|kart}"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053264
+    m_Localized: "Iceling zyskuje dodatkow\u0105 <style=\"Blue\">moc</style> r\xF3wn\u0105
+      <style=\"Blue\">liczbie kart</style> w twojej r\u0119ce.\nKoniec rundy: podwaja
+      <style=\"Blue\">si\u0142\u0119</style> mystlinga z przodu"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 12304182178594816
+    m_Localized: "Iceling zyskuje dodatkow\u0105 <style=\"Blue\">moc</style> r\xF3wn\u0105
+      <style=\"Blue\">liczbie kart</style> w twojej r\u0119ce.\nPocz\u0105tek walki:
+      <smallcaps><style=\"Blue\">og\u0142usza</style></smallcaps> wszystkich wrog\xF3w"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053266
+    m_Localized: "Pocz\u0105tek walki: <style=\"Blue\">dobierasz</style> {Effect0.ValueInt}
+      {Effect0.ValueIntInt:p:kart\u0119|karty|kart}"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053267
+    m_Localized: "Koniec rundy: podwaja <smallcaps><style=\"Blue\">si\u0142\u0119</style></smallcaps>
+      mystlinga z przodu"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 12304182178594817
+    m_Localized: "Pocz\u0105tek walki: <smallcaps><style=\"Blue\">og\u0142usza</style></smallcaps>
+      wszystkich wrog\xF3w"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053269
+    m_Localized: Golomo
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053270
+    m_Localized: "Niezwyk\u0142y Golomo"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053271
+    m_Localized: "Golomo tworz\u0105 zgrane spo\u0142eczno\u015Bci. Unikaj\u0105
+      kontaktu zar\xF3wno z lud\u017Ami, jak i z innymi stworami. Zagro\u017Cone
+      wpadaj\u0105 czasem w sza\u0142 i roznosz\u0105 wszystko na swojej drodze,
+      wywo\u0142uj\u0105c przy tym lokalne trz\u0119sienia ziemi."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053272
+    m_Localized: "Golomo daje wrogowi z przodu +{Effect0.ValueInt} <smallcaps><style=\"Blue\">bezbronno\u015Bci</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053273
+    m_Localized: "Golomo <smallcaps><style=\"Blue\">o\u017Cywa</style></smallcaps>
+      raz na walk\u0119"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053274
+    m_Localized: "Golomo <smallcaps><style=\"Blue\">o\u017Cywa</style></smallcaps>
+      dwa razy na walk\u0119"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053275
+    m_Localized: "Golomo <smallcaps><style=\"Blue\">o\u017Cywa</style></smallcaps>
+      raz na walk\u0119.\nPocz\u0105tek walki: Golomo zyskuje +{Effect1.ValueInt}
+      <smallcaps><style=\"Blue\">{Effect1.ValueIntInt:p:wielocios|wielociosy|wielocios\xF3w}</style></smallcaps>
+      na sta\u0142e"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 12295938882256896
+    m_Localized: "Golomo <smallcaps><style=\"Blue\">o\u017Cywa</style></smallcaps>
+      raz na walk\u0119.\nKiedy Golomo <style=\"Blue\">omdlewa</style>, podwaja <smallcaps><style=\"Blue\">bezbronno\u015B\u0107</style></smallcaps>
+      na wszystkich wrogach"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053277
+    m_Localized: "Golomo <smallcaps><style=\"Blue\">o\u017Cywa</style></smallcaps>
+      dwa razy na walk\u0119"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053278
+    m_Localized: "Pocz\u0105tek walki: Golomo zyskuje +{Effect1.ValueInt} <smallcaps><style=\"Blue\">{Effect1.ValueIntInt:p:wielocios|wielociosy|wielocios\xF3w}</style></smallcaps>
+      na sta\u0142e"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 12295938882256897
+    m_Localized: "Kiedy Golomo <style=\"Blue\">omdlewa</style>, podwaja <smallcaps><style=\"Blue\">bezbronno\u015B\u0107</style></smallcaps>
+      na wszystkich wrogach"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053280
+    m_Localized: Glarexus
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053281
+    m_Localized: "Niezwyk\u0142y Glarexus"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053282
+    m_Localized: "Glarexusy to istoty dostojne i opanowane. Nie interesuj\u0105 si\u0119
+      \u015Bwiatem zewn\u0119trznym, bo nie wymagaj\u0105 po\u017Cywienia. Niszcz\u0105
+      jednak wszystko, co zak\u0142\xF3ci ich medytacj\u0119. Glarexusy potrafi\u0105
+      w cudowny spos\xF3b materializowa\u0107 \u015Bwiat\u0142o, a zdolno\u015B\u0107
+      ta jest zar\xF3wno ich najpot\u0119\u017Cniejsz\u0105 broni\u0105, jak i zbroj\u0105.
+      Legenda g\u0142osi, \u017Ce czasem Glarexus pojawia si\u0119 przy zmar\u0142ym,
+      by zaprowadzi\u0107 jego dusz\u0119 do nowego cia\u0142a."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053283
+    m_Localized: "Glarexus zyskuje +{Effect0.ValueInt} p. <smallcaps><style=\"Blue\">os\u0142ony</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053284
+    m_Localized: "Na koniec rundy Glarexus traci {Effect1.ValueInt} p. <smallcaps><style=\"Blue\">os\u0142ony</style></smallcaps>
+      zamiast wszystkich"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053285
+    m_Localized: "Na koniec rundy Glarexus zachowuje wszystkie p. <smallcaps><style=\"Blue\">os\u0142ony</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053286
+    m_Localized: "Na koniec rundy Glarexus traci {Effect1.ValueInt} p. <smallcaps><style=\"Blue\">os\u0142ony</style></smallcaps>
+      zamiast wszystkich.\nKoniec rundy: Glarexus zadaje <style=\"Blue\">obra\u017Cenia</style>
+      r\xF3wne {Effect2.AdditionalValueString}% warto\u015Bci swojej <smallcaps><style=\"Blue\">os\u0142ony</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 12286811510521856
+    m_Localized: "Na koniec rundy Glarexus traci {Effect2.ValueInt} p. <smallcaps><style=\"Blue\">os\u0142ony</style></smallcaps>
+      zamiast wszystkich.\nKiedy atak wroga zostaje <style=\"Blue\">w pe\u0142ni
+      zablokowany</style> przez <smallcaps><style=\"Blue\">os\u0142on\u0119</style></smallcaps>,
+      odbija na wroga {Effect1.AdditionalValueString}% otrzymanych obra\u017Ce\u0144"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053288
+    m_Localized: "Na koniec rundy Glarexus zachowuje wszystkie p. <smallcaps><style=\"Blue\">os\u0142ony</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053289
+    m_Localized: "Koniec rundy: Glarexus zadaje <style=\"Blue\">obra\u017Cenia</style>
+      r\xF3wne {Effect2.AdditionalValueString}% warto\u015Bci swojej <smallcaps><style=\"Blue\">os\u0142ony</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 12286811510521857
+    m_Localized: "Kiedy atak wroga zostaje <style=\"Blue\">w pe\u0142ni zablokowany</style>
+      przez <smallcaps><style=\"Blue\">os\u0142on\u0119</style></smallcaps>, odbija
+      na wroga {Effect1.AdditionalValueString}% otrzymanych obra\u017Ce\u0144"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053291
+    m_Localized: Prowler
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053292
+    m_Localized: Prowler
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053293
+    m_Localized: "Niewielkie Prowlery bezszelestnie przemierzaj\u0105 le\u015Bne
+      ost\u0119py, \u017Cywi\u0105c si\u0119 orzechami i owocami runa. Dzie\u0144
+      przesypiaj\u0105 zwykle w gniazdach, kt\xF3re skrz\u0119tnie skrywaj\u0105
+      w dziuplach. Treserzy cz\u0119sto otrzymuj\u0105 pro\u015Bby o oswojenie jakiego\u015B
+      Prowlera, jednak zwykle odmawiaj\u0105, uznaj\u0105c to za nieetyczne. Nieliczne
+      pr\xF3by oswajania Prowler\xF3w sko\u0144czy\u0142y si\u0119 marnie, s\u0105
+      one bowiem zbyt dumne i gro\u017Ane, by przebywa\u0107 w\u015Br\xF3d ludzi."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053294
+    m_Localized: "<style=\"Blue\">Dobierasz</style> {Effect0.ValueInt} {Effect0.ValueIntInt:p:kart\u0119|karty|kart}"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053295
+    m_Localized: "Pocz\u0105tek walki: <style=\"Blue\">zyskujesz</style> {Effect0.ValuePercentage}%
+      ca\u0142kowitej liczby <style=\"Blue\">mystjag\xF3d</style>. Prowler nie mo\u017Ce
+      ewoluowa\u0107"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053335
+    m_Localized: Drosithia
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053336
+    m_Localized: "Niezwyk\u0142a Drosithia"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053337
+    m_Localized: "Drosithie s\u0105 z natury potulne i pomocne, aczkolwiek zaistnia\u0142a
+      sytuacja zmusi\u0142a je do zachowania wi\u0119kszej ostro\u017Cno\u015Bci.
+      Z niewiadomych przyczyn smoczy stra\u017Cnicy poluj\u0105 na nie, co doprowadzi\u0142o
+      ten gatunek na skraj wymarcia."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053338
+    m_Localized: "Drosithia zadaje <style=\"Blue\">losowemu</style> wrogowi {Effect0.ValueInt}
+      p. <style=\"Blue\">obra\u017Ce\u0144</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053339
+    m_Localized: "Nie mo\u017Cna jej <style=\"Blue\">o\u017Cywi\u0107</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053343
+    m_Localized: "Aktywacja: Drosithia zadaje <style=\"Blue\">losowemu</style> wrogowi
+      5 p. <style=\"Blue\">obra\u017Ce\u0144</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 32555650210930688
+    m_Localized: Smocza aura
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 32555650231902208
+    m_Localized: Po {Effect0.Conditions.0} walkach Drosithia <style="Blue">ewoluuje</style>
+      w smoka
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053346
+    m_Localized: Bolb
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053347
+    m_Localized: "Niezwyk\u0142y Bolb"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053348
+    m_Localized: "Bolby kochaj\u0105 si\u0119 nudzi\u0107 i leni\u0107. Z tego w\u0142a\u015Bnie
+      powodu sztuk\u0119 kamufla\u017Cu i zastawiania pu\u0142apek opanowa\u0142y
+      do perfekcji. Zdarza si\u0119 spotka\u0107 Bolba poza trz\u0119sawiskami otaczaj\u0105cymi
+      ukryte w g\u0119stych lasach jeziora, aczkolwiek jest to bardzo rzadkie. Stworzenia
+      te opuszczaj\u0105 swe legowiska tylko wtedy, kiedy s\u0105 bardzo g\u0142odne.
+      Od co najmniej dw\xF3ch tygodni."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053349
+    m_Localized: Bolb <style="Blue">leczy</style> sobie {Effect0.ValueInt} PZ
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053350
+    m_Localized: "<style=\"Blue\">Odbija</style> {Effect1.AdditionalValueString}%
+      otrzymywanych <style=\"Blue\">obra\u017Ce\u0144</style> we wroga. Bolb nie
+      mo\u017Ce otrzyma\u0107 <smallcaps><style=\"Blue\">os\u0142ony</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053351
+    m_Localized: "<style=\"Blue\">Odbija</style> {Effect1.AdditionalValueString}%
+      otrzymywanych <style=\"Blue\">obra\u017Ce\u0144</style> we wroga. Bolb nie
+      mo\u017Ce otrzyma\u0107 <smallcaps><style=\"Blue\">os\u0142ony</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053353
+    m_Localized: "<style=\"Blue\">Odbija</style> {Effect1.AdditionalValueString}%
+      otrzymywanych <style=\"Blue\">obra\u017Ce\u0144</style> we wroga. Bolb nie
+      mo\u017Ce otrzyma\u0107 <smallcaps><style=\"Blue\">os\u0142ony</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053354
+    m_Localized: "Zwi\u0119ksza <style=\"Blue\">zdrowie<style=\"Blue\"> o {Mystling.Health}
+      p."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053355
+    m_Localized: 'Aktywacja: Bolb <style="Blue">leczy</style> sobie {Effect2.ValueInt}
+      PZ'
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053356
+    m_Localized: "Odbija {Effect1.ValueInt}% otrzymywanych <style=\"Blue\">obra\u017Ce\u0144</style>
+      we wroga"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053324
+    m_Localized: Frogmar
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053325
+    m_Localized: "Niezwyk\u0142y Frogmar"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053326
+    m_Localized: "Energiczne i nieprzewidywalne Frogmary s\u0142yn\u0105 ze swej
+      m\u015Bciwej natury. Nadepnij jednemu na odcisk, a nie spocznie, a\u017C nie
+      zaznasz niewyobra\u017Calnego b\xF3lu. Frogmary lubi\u0105 ludzi oraz pozosta\u0142e
+      mystlingi, poniewa\u017C jednak do\u015B\u0107 cz\u0119sto dochodzi u nich
+      do wybuch\xF3w gniewu, inni staraj\u0105 si\u0119 ich unika\u0107."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053327
+    m_Localized: "Frogmar zyskuje +{Effect0.ValueInt} <smallcaps><style=\"Blue\">si\u0142y</style></smallcaps>
+      i traci {Effect1.ValueInt} p. <smallcaps><style=\"Blue\">os\u0142ony</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053328
+    m_Localized: "Frogmar podwaja otrzymywane punkty <smallcaps><style=\"Blue\">os\u0142ony</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053329
+    m_Localized: "Frogmar podwaja otrzymywane punkty <smallcaps><style=\"Blue\">os\u0142ony</style></smallcaps>.\nPierwszy
+      atak \u017Cabona w walce zadaje potr\xF3jne <style=\"Blue\">obra\u017Cenia</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053330
+    m_Localized: "Frogmar potraja otrzymywane punkty <smallcaps><style=\"Blue\">os\u0142ony</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053331
+    m_Localized: "Frogmar podwaja otrzymywane punkty <smallcaps><style=\"Blue\">os\u0142ony</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053332
+    m_Localized: "Zmiana talentu: pierwszy atak Frogmara w walce zadaje potr\xF3jne
+      <style=\"Blue\">obra\u017Cenia</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053333
+    m_Localized: "Frogmar potraja otrzymywane punkty <smallcaps><style=\"Blue\">os\u0142ony</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053334
+    m_Localized: "<smallcaps><style=\"Blue\">Aktywacja</style></smallcaps>: Frogmar
+      zyskuje +{Effect1.ValueInt} <smallcaps><style=\"Blue\">si\u0142y</style></smallcaps>
+      i traci {Effect2.ValueInt} p. <smallcaps><style=\"Blue\">os\u0142ony</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053313
+    m_Localized: Fale
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053314
+    m_Localized: "Niezwyk\u0142y Fale"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053315
+    m_Localized: "Fale s\u0105 przyjazne i rozkoszne. Lubi\u0105 si\u0119 pluska\u0107
+      w p\u0142ytkiej wodzie, przechadza\u0107 po pla\u017Cy na swych kr\xF3tkich
+      n\xF3\u017Ckach i nurkowa\u0107 w g\u0142\u0119biny z innymi stworzeniami.
+      Pomimo swego wygl\u0105du mo\u017Cna je wy\u0107wiczy\u0107 w walce. Potrafi\u0105
+      by\u0107 zaciek\u0142ymi obro\u0144cami i pomocnikami \u2013 no i wprost kochaj\u0105
+      rywalizacj\u0119."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053316
+    m_Localized: "Fale <smallcaps><style=\"Blue\">aktywuje</style></smallcaps> wszystkie
+      pozosta\u0142e mystlingi"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053317
+    m_Localized: "Fale <smallcaps><style=\"Blue\">o\u017Cywia</style></smallcaps>
+      pierwszego mystlinga, kt\xF3ry <style=\"Blue\">omdleje</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053318
+    m_Localized: "Fale <smallcaps><style=\"Blue\">o\u017Cywia</style></smallcaps>
+      pierwsze dwa mystlingi, kt\xF3re <style=\"Blue\">omdlej\u0105</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053319
+    m_Localized: "Fale <smallcaps><style=\"Blue\">o\u017Cywia</style></smallcaps>
+      pierwszego mystlinga, kt\xF3ry <style=\"Blue\">omdleje</style>.\nKiedy inny
+      mystling jest <smallcaps><style=\"Blue\">aktywowany</style></smallcaps>, Fale
+      zyskuje +{Effect0.ValueInt} <smallcaps><style=\"Blue\">si\u0142y</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053320
+    m_Localized: "Fale <smallcaps><style=\"Blue\">o\u017Cywia</style></smallcaps>
+      pierwszego mystlinga, kt\xF3ry <style=\"Blue\">omdleje</style>.\nKiedy dowolny
+      inny mystling <style=\"Blue\">omdleje</style>, <smallcaps><style=\"Blue\">og\u0142usza</style></smallcaps>
+      wszystkich wrog\xF3w"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053321
+    m_Localized: "Fale <smallcaps><style=\"Blue\">o\u017Cywia</style></smallcaps>
+      pierwsze dwa mystlingi, kt\xF3re <style=\"Blue\">omdlej\u0105</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053322
+    m_Localized: "Kiedy inny mystling jest <smallcaps><style=\"Blue\">aktywowany</style></smallcaps>,
+      Fale zyskuje +{Effect0.ValueInt} <smallcaps><style=\"Blue\">si\u0142y</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053323
+    m_Localized: "Kiedy dowolny inny mystling <style=\"Blue\">omdleje</style>, <smallcaps><style=\"Blue\">og\u0142usza</style></smallcaps>
+      wszystkich wrog\xF3w"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053302
+    m_Localized: Eftus
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053303
+    m_Localized: "Niezwyk\u0142y Eftus"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053304
+    m_Localized: "Eftusom nie przeszkadza obecno\u015B\u0107 innych, p\xF3ki tylko
+      nie przeszkadzaj\u0105 im w ich niezrozumia\u0142ych dzia\u0142aniach. Ignoruj\u0105
+      inne mystlingi oraz treser\xF3w i reaguj\u0105 tylko na tych, kt\xF3rzy wyrz\u0105dz\u0105
+      im fizyczn\u0105 krzywd\u0119. Powiadaj\u0105, \u017Ce pewnego razu grupa Eftus\xF3w
+      porwa\u0142a statek pirat\xF3w i od tej pory przemierza wzburzone morza. "
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053305
+    m_Localized: "Eftus zadaje {Effect0.ValueInt} p. <style=\"Blue\">obra\u017Ce\u0144</style>
+      <style=\"Blue\">ostatniemu</style> wrogowi"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053306
+    m_Localized: "<style=\"Blue\">Og\u0142uszenie</style>: zyskujesz {Effect0.ValueInt}
+      szt. mystjag\xF3d"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053307
+    m_Localized: "<style=\"Blue\">Og\u0142uszenie</style>: zyskujesz {Effect0.ValueInt}
+      szt. mystjag\xF3d, a Eftus zyskuje na sta\u0142e +{Effect1.ValueInt} p. <style=\"Blue\">zdrowia</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053308
+    m_Localized: "<style=\"Blue\">Og\u0142uszenie</style>: zyskujesz {Effect0.ValueInt}
+      szt. mystjag\xF3d, a Eftus zyskuje na sta\u0142e +{Effect1.ValueInt} p. <style=\"Blue\">mocy</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053309
+    m_Localized: "<style=\"Blue\">Og\u0142uszenie</style>: zyskujesz {Effect0.ValueInt}
+      szt. mystjag\xF3d oraz +{Effect1.ValueInt} p. <style=\"Blue\">energii</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053310
+    m_Localized: "<style=\"Blue\">Og\u0142uszenie</style>: Eftus zyskuje na sta\u0142e
+      +{Effect1.ValueInt} p. <style=\"Blue\">zdrowia</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053311
+    m_Localized: "<style=\"Blue\">Og\u0142uszenie</style>: Eftus zyskuje na sta\u0142e
+      +{Effect1.ValueInt} p. <style=\"Blue\">mocy</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 5776446912053312
+    m_Localized: "Og\u0142uszenie: +{Effect1.ValueInt} p. <style=\"Blue\">energii</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 31100841666019328
+    m_Localized: "Fale s\u0105 przyjazne i rozkoszne. Lubi\u0105 si\u0119 pluska\u0107
+      w p\u0142ytkiej wodzie, przechadza\u0107 po pla\u017Cy na swych kr\xF3tkich
+      n\xF3\u017Ckach i nurkowa\u0107 w g\u0142\u0119biny razem z innymi stworzeniami.
+      Pomimo swego wygl\u0105du mo\u017Cna je wy\u0107wiczy\u0107 w walce!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 31100841678602240
+    m_Localized: "Niewielkie Prowlery bezszelestnie przemierzaj\u0105 le\u015Bne
+      ost\u0119py, \u017Cywi\u0105c si\u0119 orzechami i owocami runa. Dzie\u0144
+      przesypiaj\u0105 zwykle w gniazdach, kt\xF3re skrz\u0119tnie skrywaj\u0105
+      w dziuplach."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 63394363265777664
+    m_Localized: "Te g\xF3rskie stworzenia prowadz\u0105 \u017Cywot samotniczy, aczkolwiek
+      najbardziej ciekawskie osobniki zapuszczaj\u0105 si\u0119 na niziny, dzi\u0119ki
+      czemu mo\u017Cna je tam czasem spotka\u0107. Icelingi wykazuj\u0105 zaskakuj\u0105cy
+      wigor i zami\u0142owanie do tresury."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 63747457782644736
+    m_Localized: "Drobna posta\u0107 Pinequeak\xF3w kryje prawdziwie \u017Cywio\u0142owego
+      ducha. Ich wybuchowe jak ma\u0142o co usposobienie i dobrze ukierunkowana furia
+      potrafi\u0105 odwr\xF3ci\u0107 losy ka\u017Cdej walki."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 31100841678602241
+    m_Localized: "B\u0142yksusy to istoty dostojne i opanowane. Nie interesuj\u0105
+      si\u0119 \u015Bwiatem zewn\u0119trznym, bo nie wymagaj\u0105 po\u017Cywienia.
+      Niszcz\u0105 jednak wszystko, co zak\u0142\xF3ci ich medytacj\u0119!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 45921139486171136
+    m_Localized: Emberling
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 45921139511336960
+    m_Localized: "Niezwyk\u0142y Emberling"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 45921139511336961
+    m_Localized: "Emberling zadaje {Effect0.ValueInt} p. <style=\"Blue\">obra\u017Ce\u0144</style>
+      wszystkim wrogom oraz {Effect1.ValueInt} p. <style=\"Blue\">obra\u017Ce\u0144</style>
+      pozosta\u0142ym mystlingom"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 45921139511336962
+    m_Localized: "Kiedy Emberling atakuje kart\u0105, mo\u017Ce dowolnie wybra\u0107
+      cel (nie dotyczy kart dzia\u0142aj\u0105cych na losowych lub wszystkich wrog\xF3w)"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 45921139511336965
+    m_Localized: "Kiedy Emberling atakuje kart\u0105, mo\u017Ce dowolnie wybra\u0107
+      cel (nie dotyczy kart dzia\u0142aj\u0105cych na losowych lub wszystkich wrog\xF3w).\nAtak:
+      wr\xF3g za celem otrzymuje 50% obra\u017Ce\u0144"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 45921139511336966
+    m_Localized: "Aktywacja: Emberling zadaje {Effect0.ValueInt} p. <style=\"Blue\">obra\u017Ce\u0144</style>
+      wszystkim wrogom oraz {Effect0.ValueInt} p. <style=\"Blue\">obra\u017Ce\u0144</style>
+      pozosta\u0142ym mystlingom"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 45921139511336967
+    m_Localized: "Zwi\u0119ksza <style=\"Blue\">moc</style> Emberlinga o {Mystling.Power}"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 45921139511336968
+    m_Localized: "Atak: wr\xF3g za celem otrzymuje 50% <style=\"Blue\">obra\u017Ce\u0144</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 45921139511336969
+    m_Localized: Luminesca
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 45921139511336970
+    m_Localized: "Niezwyk\u0142a Luminesca"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 45921139511336971
+    m_Localized: "Luminesca daje mystlingowi z przodu {Effect0.ValueInt} p. <smallcaps><style=\"Blue\">si\u0142y</style></smallcaps>
+      i {Effect1.ValueInt} p. <smallcaps><style=\"Blue\">os\u0142ony</style></smallcaps>
+      oraz <style=\"Blue\">leczy</style> mu {Effect2.ValueInt} PZ, po czym sama siebie
+      <smallcaps><style=\"Blue\">og\u0142usza</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 45921139511336972
+    m_Localized: Co druga <smallcaps><style="Blue">zraniona</style></smallcaps> Luminesca
+      zyskuje {Effect0.ValueInt} p. <smallcaps><style="Blue">uniku</style></smallcaps>
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 45921139511336976
+    m_Localized: "<smallcaps><style=\"Blue\">Aktywacja</style></smallcaps>: Luminesca
+      daje dodatkowe {Effect1.ValueInt} p. <smallcaps><style=\"Blue\">si\u0142y</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 45921139511336977
+    m_Localized: "<smallcaps><style=\"Blue\">Aktywacja</style></smallcaps>: Luminesca
+      daje dodatkowe {Effect2.ValueInt} p. <smallcaps><style=\"Blue\">os\u0142ony</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 45921139511336978
+    m_Localized: '<smallcaps><style="Blue">Aktywacja</style></smallcaps>: Luminesca
+      <style="Blue">leczy</style> dodatkowe {Effect3.ValueInt} p. <style="Blue">zdrowia</style>'
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 55722999243939840
+    m_Localized: Gaiadon
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 55722999269105665
+    m_Localized: "Posta\u0107 podstawowa: Gaiadon zyskuje {Effect0.ValueInt} <style=\"Blue\">smoczy
+      \u0142adunek</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 55722999269105666
+    m_Localized: "Po zgromadzeniu 5 <style=\"Blue\">smoczych \u0142adunk\xF3w</style>
+      Gaiadon przekszta\u0142ca si\u0119 do ko\u0144ca rundy w posta\u0107 smoka.\nPosta\u0107
+      smoka: zyskuje {Effect3.ValueInt} p. <style=\"Blue\">si\u0142y</style> oraz
+      {Effect2.ValueInt} p. <style=\"Blue\">os\u0142ony</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 55722999269105673
+    m_Localized: Lear
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 55722999269105674
+    m_Localized: "Niezwyk\u0142y Lear"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 55722999269105675
+    m_Localized: Lear zyskuje {Effect0.ValueInt} p. <style="Blue">zdrowia</style>
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 55722999269105676
+    m_Localized: "Kiedy Lear zostaje <smallcaps><style=\"Blue\">zraniony</style></smallcaps>:
+      Lear zyskuje tyle p. <smallcaps><style=\"Blue\">si\u0142y</style></smallcaps>,
+      ile straci\u0142 p. zdrowia"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 55722999269105678
+    m_Localized: "Zmniejsza na sta\u0142e liczb\u0119 otrzymywanych <style=\"Blue\">obra\u017Ce\u0144</style>
+      o {Effect0.AdditionalValueString}% <br><smallcaps><style=\"Blue\">Zraniony</style></smallcaps>:
+      zyskuje tyle p. <smallcaps><style=\"Blue\">si\u0142y</style></smallcaps>, ile
+      straci\u0142 p. <style=\"Blue\">zdrowia</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 55722999269105679
+    m_Localized: "Zwi\u0119ksza na sta\u0142e liczb\u0119 otrzymywanych <style=\"Blue\">obra\u017Ce\u0144</style>
+      o {Effect1.AdditionalValueString}% <br><style=\"Blue\">Zraniony</style>: zyskuje
+      dwa razy tyle p. <style=\"Blue\">si\u0142y</style>, ile straci\u0142 p. <style=\"Blue\">zdrowia</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 56431011013140483
+    m_Localized: "Przy ka\u017Cdej <smallcaps><style=\"Blue\">aktywacji</style></smallcaps>
+      Lear zyskuje {Effect1.ValueInt} p. <style=\"Blue\">zdrowia</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 56431011013140484
+    m_Localized: "Zmniejsza na sta\u0142e liczb\u0119 otrzymywanych <style=\"Blue\">obra\u017Ce\u0144</style>
+      o {Effect0.AdditionalValueString}%"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  - m_Id: 56431011013140485
+    m_Localized: "Zwi\u0119ksza na sta\u0142e liczb\u0119 otrzymywanych <style=\"Blue\">obra\u017Ce\u0144</style>
+      o {Effect1.AdditionalValueString}% i podwaja liczb\u0119 zyskiwanych p. <smallcaps><style=\"Blue\">si\u0142y</style></smallcaps>,
+      kiedy zostaje <smallcaps><style=\"Blue\">zraniony</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410418
+  references:
+    version: 2
+    RefIds:
+    - rid: 8829885829830410418
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 5776446886887424
+        - id: 5776446912053248
+        - id: 5776446912053249
+        - id: 5776446912053250
+        - id: 5776446912053251
+        - id: 5776446912053252
+        - id: 5776446912053253
+        - id: 5776446912053255
+        - id: 5776446912053256
+        - id: 12276047190016000
+        - id: 5776446912053258
+        - id: 5776446912053259
+        - id: 5776446912053260
+        - id: 5776446912053261
+        - id: 5776446912053262
+        - id: 5776446912053263
+        - id: 5776446912053264
+        - id: 12304182178594816
+        - id: 5776446912053266
+        - id: 5776446912053267
+        - id: 12304182178594817
+        - id: 5776446912053269
+        - id: 5776446912053270
+        - id: 5776446912053271
+        - id: 5776446912053272
+        - id: 5776446912053273
+        - id: 5776446912053274
+        - id: 5776446912053275
+        - id: 12295938882256896
+        - id: 5776446912053277
+        - id: 5776446912053278
+        - id: 12295938882256897
+        - id: 5776446912053280
+        - id: 5776446912053281
+        - id: 5776446912053282
+        - id: 5776446912053283
+        - id: 5776446912053284
+        - id: 5776446912053285
+        - id: 5776446912053286
+        - id: 12286811510521856
+        - id: 5776446912053288
+        - id: 5776446912053289
+        - id: 12286811510521857
+        - id: 5776446912053291
+        - id: 5776446912053292
+        - id: 5776446912053293
+        - id: 5776446912053294
+        - id: 5776446912053295
+        - id: 5776446912053335
+        - id: 5776446912053336
+        - id: 5776446912053337
+        - id: 5776446912053338
+        - id: 5776446912053339
+        - id: 5776446912053343
+        - id: 32555650210930688
+        - id: 32555650231902208
+        - id: 5776446912053346
+        - id: 5776446912053347
+        - id: 5776446912053348
+        - id: 5776446912053349
+        - id: 5776446912053350
+        - id: 5776446912053351
+        - id: 5776446912053353
+        - id: 5776446912053354
+        - id: 5776446912053355
+        - id: 5776446912053356
+        - id: 5776446912053324
+        - id: 5776446912053325
+        - id: 5776446912053326
+        - id: 5776446912053327
+        - id: 5776446912053328
+        - id: 5776446912053329
+        - id: 5776446912053330
+        - id: 5776446912053331
+        - id: 5776446912053332
+        - id: 5776446912053333
+        - id: 5776446912053334
+        - id: 5776446912053313
+        - id: 5776446912053314
+        - id: 5776446912053315
+        - id: 5776446912053316
+        - id: 5776446912053317
+        - id: 5776446912053318
+        - id: 5776446912053319
+        - id: 5776446912053320
+        - id: 5776446912053321
+        - id: 5776446912053322
+        - id: 5776446912053323
+        - id: 5776446912053302
+        - id: 5776446912053303
+        - id: 5776446912053304
+        - id: 5776446912053305
+        - id: 5776446912053306
+        - id: 5776446912053307
+        - id: 5776446912053308
+        - id: 5776446912053309
+        - id: 5776446912053310
+        - id: 5776446912053311
+        - id: 5776446912053312
+        - id: 31100841666019328
+        - id: 31100841678602240
+        - id: 63394363265777664
+        - id: 63747457782644736
+        - id: 31100841678602241
+        - id: 45921139486171136
+        - id: 45921139511336960
+        - id: 45921139511336961
+        - id: 45921139511336962
+        - id: 45921139511336965
+        - id: 45921139511336966
+        - id: 45921139511336967
+        - id: 45921139511336968
+        - id: 45921139511336969
+        - id: 45921139511336970
+        - id: 45921139511336971
+        - id: 45921139511336972
+        - id: 45921139511336976
+        - id: 45921139511336977
+        - id: 45921139511336978
+        - id: 55722999243939840
+        - id: 55722999269105665
+        - id: 55722999269105666
+        - id: 55722999269105673
+        - id: 55722999269105674
+        - id: 55722999269105675
+        - id: 55722999269105676
+        - id: 55722999269105678
+        - id: 55722999269105679
+        - id: 56431011013140483
+        - id: 56431011013140484
+        - id: 56431011013140485

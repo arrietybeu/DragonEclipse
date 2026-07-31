@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -299433217, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Consumables Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Consumables
+  m_TableCollectionNameGuidString: b8b796d25edb0ec4c938fd327613d882
+  m_Entries:
+  - m_Id: 43425364957011968
+    m_Key: mystling_strength
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43425364990566400
+    m_Key: mystling_strength_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43425364990566401
+    m_Key: mystling_shield
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43425364990566402
+    m_Key: mystling_shield_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43425364990566403
+    m_Key: mystling_heal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43425364990566404
+    m_Key: mystling_heal_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43425364990566405
+    m_Key: mystling_apply_revive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43425364990566406
+    m_Key: mystling_apply_revive_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43425364990566407
+    m_Key: random_consumables
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43425364990566408
+    m_Key: random_consumables_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43425364990566409
+    m_Key: mystling_power_perm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43425364990566410
+    m_Key: mystling_power_perm_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43425364990566411
+    m_Key: mystling_health_perm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43425364990566412
+    m_Key: mystling_health_perm_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43425364990566413
+    m_Key: mystling_dodge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43425364990566414
+    m_Key: mystling_dodge_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43425364990566415
+    m_Key: draw
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43425364990566416
+    m_Key: draw_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43425364990566417
+    m_Key: gain_energy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43425364990566418
+    m_Key: gain_energy_desc
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 3009405546846748682
+  references:
+    version: 2
+    RefIds:
+    - rid: 3009405546846748682
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1710848592355

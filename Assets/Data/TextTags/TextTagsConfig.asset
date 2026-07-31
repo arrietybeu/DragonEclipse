@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -231790291, guid: 38c182211c9dbb644a0c37b4dfa3eda9, type: 3}
+  m_Name: TextTagsConfig
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _isActive: 1
+  <Rules>k__BackingField:
+  - <BeginTag>k__BackingField: '[colorT]'
+    <EndTag>k__BackingField: '[/colorT]'
+    <OverrideColor>k__BackingField: 1
+    <Color>k__BackingField: {r: 0.19607843, g: 0.63529414, b: 0.60784316, a: 1}
+    <OverrideBold>k__BackingField: 1
+    <Bold>k__BackingField: 1
+    <OverrideItalic>k__BackingField: 0
+    <Italic>k__BackingField: 0
+    <OverrideSize>k__BackingField: 0
+    <Size>k__BackingField: 0

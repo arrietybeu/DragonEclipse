@@ -1,0 +1,312 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -299433217, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Compendium Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Compendium
+  m_TableCollectionNameGuidString: 1f414a204150955438fdb555616b0266
+  m_Entries:
+  - m_Id: 54475884666880
+    m_Key: tab_basics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17316704231424
+    m_Key: basics_statistics_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17316704231425
+    m_Key: basics_statistics_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17316704231426
+    m_Key: basics_cards_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17316704231427
+    m_Key: basics_cards_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055488
+    m_Key: basics_round_phase_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055489
+    m_Key: basics_round_phase_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17316704231430
+    m_Key: basics_player_phase_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17316704231431
+    m_Key: basics_player_phase_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17316704231432
+    m_Key: basics_moving_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17316704231433
+    m_Key: basics_moving_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17316704231434
+    m_Key: basics_creature_phase_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17316704231435
+    m_Key: basics_creature_phase_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17316704231436
+    m_Key: basics_blessings_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17316704231437
+    m_Key: basics_blessings_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17316704231438
+    m_Key: basics_consumables_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17316704231439
+    m_Key: basics_consumables_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17316704231440
+    m_Key: basics_tamer_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17316704231441
+    m_Key: basics_tamer_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055490
+    m_Key: tab_prog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055491
+    m_Key: prog_currencies_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055492
+    m_Key: prog_currencies_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055493
+    m_Key: prog_blessings_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055494
+    m_Key: prog_blessings_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055495
+    m_Key: prog_evo_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055496
+    m_Key: prog_evo_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055497
+    m_Key: prog_xp_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055498
+    m_Key: prog_xp_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055499
+    m_Key: prog_timer_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055500
+    m_Key: prog_timer_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055501
+    m_Key: tab_village
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055502
+    m_Key: village_interactions_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055503
+    m_Key: village_interactions_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055504
+    m_Key: village_kitchen_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055505
+    m_Key: village_kitchen_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055506
+    m_Key: tab_effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055507
+    m_Key: effects_status_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055508
+    m_Key: effects_status_shields
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055512
+    m_Key: effects_status_dodge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055511
+    m_Key: effects_status_insulate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055515
+    m_Key: effects_status_revive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055520
+    m_Key: effects_status_guarded
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055509
+    m_Key: effects_status_wrath
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055510
+    m_Key: effects_status_strength
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055513
+    m_Key: effects_status_multistrike
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055514
+    m_Key: effects_status_multistrike_perm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055516
+    m_Key: effects_status_thorns
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055517
+    m_Key: effects_status_vulnerable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055518
+    m_Key: effects_status_weakness
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055519
+    m_Key: effects_status_lifesteal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055521
+    m_Key: effects_status_exposed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055522
+    m_Key: effects_status_stun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055523
+    m_Key: effects_triggers_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67300346634240
+    m_Key: effects_triggers_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055528
+    m_Key: effects_keywords_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67405132931072
+    m_Key: effects_keywords_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055534
+    m_Key: tab_cards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055535
+    m_Key: tab_blessings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055536
+    m_Key: tab_cons
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055537
+    m_Key: cons_mystling_strength
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055538
+    m_Key: cons_mystling_shield
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055539
+    m_Key: cons_mystling_heal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055540
+    m_Key: cons_mystling_apply_revive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055541
+    m_Key: cons_random_consumables
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055542
+    m_Key: cons_mystling_power_perm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055543
+    m_Key: cons_mystling_health_perm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055544
+    m_Key: cons_mystling_dodge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055545
+    m_Key: cons_draw
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54475893055546
+    m_Key: cons_gain_energy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 264007820933885952
+    m_Key: prog_eggs_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 264007820933885953
+    m_Key: prog_eggs_desc
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6002179029492826117
+  references:
+    version: 2
+    RefIds:
+    - rid: 6002179029492826117
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1722498983649

@@ -1,0 +1,643 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Story_vi
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: vi
+  m_SharedData: {fileID: 11400000, guid: ef7c34a5b6b91b74bbd4d9f8df67b47c, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 8099901647879405576
+  m_TableData:
+  - m_Id: 68879341088931840
+    m_Localized: "<i>H\xECnh nh\u01B0 qu\u1EA3ng tr\u01B0\u1EDDng trung t\xE2m \u0111ang
+      b\u1ECB t\u1EAFc ngh\u1EBDn m\u1ED9t c\xE1ch k\u1EF3 l\u1EA1...<br><br>Glarexus
+      ng\u1ED3i ch\xECnh \xECnh ngay ch\xEDnh gi\u1EEFa, khi\u1EBFn d\xE2n l\xE0ng
+      li\xEAn t\u1EE5c va ph\u1EA3i h\u1EAFn, c\xF2n h\u1EAFn th\xEC li\u1EBFc x\xE9o
+      \u0111\u1EA7y b\u1EF1c b\u1ED9i v\u1EC1 ph\xEDa b\u1EA5t c\u1EE9 ai l\xE0m
+      phi\u1EC1n bu\u1ED5i thi\u1EC1n \u0111\u1ECBnh c\u1EE7a m\xECnh.</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 68879341122486272
+    m_Localized: "N\xE0y... T\xECm ch\u1ED7 kh\xE1c ng\u1ED3i thi\u1EC1n \u0111\u01B0\u1EE3c
+      kh\xF4ng?"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 68879341122486273
+    m_Localized: "<i>H\u1EAFn n\xE9m cho b\u1EA1n m\u1ED9t c\xE1i nh\xECn gi\u1EADn
+      d\u1EEF, r\u1ED3i l\u1EA1i nh\u1EAFm m\u1EAFt thi\u1EC1n ti\u1EBFp. B\u1EA1n
+      ch\u1EE3t nh\u1EADn ra h\u1EAFn \u0111ang ng\u1ED3i tr\xEAn m\u1ED9t b\u1EE9c
+      kh\u1EA3m \u0111\xE1 l\u1EDBn kh\u1EAFc h\xECnh m\u1EB7t tr\u1EDDi \u0111\u01B0\u1EE3c
+      hai v\u1EA7ng tr\u0103ng v\xE2y quanh.<br><br>Ph\u1EA3i ch\u0103ng h\u1EAFn
+      \u0111ang c\u1EA7u nguy\u1EC7n, lo l\u1EAFng cho k\u1EF3 Eclipse s\u1EAFp t\u1EDBi?</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 68879341122486274
+    m_Localized: "\u0110\u1EEBng lo, b\u1EA1n hi\u1EC1n, ch\xFAng ta s\u1EBD ng\u0103n
+      \u0111\u01B0\u1EE3c Eclipse. D\xF9 l\u1EDDi c\u1EA7u nguy\u1EC7n c\u1EE7a c\u1EADu
+      ch\u1EAFc ch\u1EAFn c\u0169ng gi\xFAp \xEDch nhi\u1EC1u."
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 68879341126680576
+    m_Localized: "<i>Nghe b\u1EA1n tr\u1EA5n an, nh\u1EEFng b\xF3 c\u01A1 c\u0103ng
+      c\u1EE9ng c\u1EE7a h\u1EAFn d\u1EA7n gi\xE3n ra.<br><br>H\u1EAFn nh\xEDch kh\u1ECFi
+      ch\u1ED7 c\u0169 m\u1ED9t ch\xFAt \u0111\u1EC3 kh\xF4ng c\xF2n ch\u1EAFn l\u1ED1i
+      \u0111i n\u1EEFa, r\u1ED3i quay v\u1EC1 v\u1EDBi l\u1EDDi c\u1EA7u nguy\u1EC7n
+      c\u1EE7a m\xECnh.</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 68879341126680577
+    m_Localized: "C\u1EA3m \u01A1n c\u1EADu!"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 68879341126680578
+    m_Localized: "<i>B\u1EA1n th\u1EA5y Golomo \u0111ang \u0111\u1EE9ng c\u1EA1nh
+      m\u1ED9t t\u1EA3ng \u0111\xE1 l\u1EDBn.<br><br>C\u1EADu ta khua ch\xE2n m\xFAa
+      tay d\u1EEF d\u1ED9i, \xE1nh m\u1EAFt d\xE1n ch\u1EB7t v\xE0o b\u1EC1 m\u1EB7t
+      g\u1ED3 gh\u1EC1 c\u1EE7a t\u1EA3ng \u0111\xE1...</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 68879341126680579
+    m_Localized: "H\u1ECD... \u0111ang n\xF3i chuy\u1EC7n v\u1EDBi nhau \xE0?"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 68879341126680580
+    m_Localized: "<i>Kh\xF4ng ch\u1EC9 n\xF3i chuy\u1EC7n \u2014 b\u1EA1n g\u1EA7n
+      nh\u01B0 ch\u1EAFc ch\u1EAFn h\u1ECD \u0111ang <font=\"Rounded-Black SDF\">t\xE1n
+      t\u1EC9nh nhau!</font><br><br>\u1EEA th\xEC, Golomo v\u1ED1n n\u1ED5i ti\u1EBFng
+      l\xE0 lo\xE0i th\xEDch giao du v\xE0 c\xF3 th\u1ECB l\u1EF1c... kh\xF4ng l\u1EA5y
+      g\xEC l\xE0m xu\u1EA5t s\u1EAFc.</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 68879341126680581
+    m_Localized: "Cho t\xF4i n\xF3i chuy\u1EC7n v\u1EDBi <i>qu\xFD c\xF4</i> \u0111\xE2y
+      m\u1ED9t ch\xFAt \u0111\u01B0\u1EE3c ch\u1EE9?"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 68879341126680582
+    m_Localized: "<i>B\u1EA1n c\u1EA7m t\u1EA3ng \u0111\xE1 l\xEAn v\xE0 d\u1ED1c
+      h\u1EBFt t\xE0i ngh\u1EC7 h\u1ED9i h\u1ECDa c\u1EE7a m\xECnh \u0111\u1EC3 th\u1ED5i
+      h\u1ED3n cho 'N\xE0ng Golomo'.<br><br>V\u1EEBa tr\xF4ng th\u1EA5y c\xF4 d\xE2u
+      xinh \u0111\u1EB9p, c\u1EADu ta l\u1EADp t\u1EE9c say nh\u01B0 \u0111i\u1EBFu
+      \u0111\u1ED5!</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 68879341126680583
+    m_Localized: "Ch\xFAc \u0111\xF4i tr\u1EBB tr\u0103m n\u0103m h\u1EA1nh ph\xFAc!"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 68879341126680584
+    m_Localized: "<i>Kh\xF3e m\u1EAFt b\u1EA1n tho\xE1ng th\u1EA5y Iceling r\u1EE5t
+      r\xE8 l\u1EBDo \u0111\u1EBDo theo sau, r\xF5 r\xE0ng \u0111ang l\u1EA5y h\u1EBFt
+      can \u0111\u1EA3m \u0111\u1EC3 t\u1EDBi h\u1ECFi b\u1EA1n \u0111i\u1EC1u g\xEC
+      \u0111\xF3.</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 68879341126680585
+    m_Localized: "C\xF3 chuy\u1EC7n g\xEC th\u1EBF, nh\xF3c?"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 68879341126680586
+    m_Localized: "<i>C\u1EADu b\xE9 ng\u01B0\u1EE3ng ng\xF9ng h\u1EA5t \u0111\u1EA7u
+      v\u1EC1 ph\xEDa m\u1ED9t t\u1EA3ng b\u0103ng d\xE0y c\u1ED9p.<br>B\xEAn trong
+      l\xE0 m\u1ED9t qu\u1EA3 b\xF3ng da \u2014 m\u1ED9t trong nh\u1EEFng m\xF3n
+      \u0111\u1ED3 ch\u01A1i c\u1EADu y\xEAu th\xEDch nh\u1EA5t.<br><br>Ch\u1EAFc
+      h\u1EB3n c\u1EADu nh\xF3c t\u1ED9i nghi\u1EC7p \u0111\xE3 l\u1EE1 tay \u0111\xF3ng
+      b\u0103ng n\xF3.</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 68879341126680587
+    m_Localized: "T\u1EDB bi\u1EBFt ph\u1EA3i l\xE0m g\xEC r\u1ED3i!"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 68879341126680588
+    m_Localized: "<i>B\u1EA1n mang qu\u1EA3 b\xF3ng \u0111\xF3ng b\u0103ng t\u1EDBi
+      V\u1EA1c N\u1EA5u r\u1ED3i h\u01A1 n\xF3 tr\xEAn b\u1EBFp l\u1EEDa trong nh\xE0
+      b\u1EBFp.<br><br>Ch\u1EB3ng m\u1EA5y ch\u1ED1c, qu\u1EA3 b\xF3ng \u0111\u01B0\u1EE3c
+      gi\u1EA3i tho\xE1t kh\u1ECFi nh\xE0 t\xF9 b\u0103ng gi\xE1. Iceling m\u1EEBng
+      \u0111\u1EBFn ngh\u1EB9n l\u1EDDi!</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 68879341126680589
+    m_Localized: "Ch\u01A1i vui nh\xE9! Nh\u01B0ng l\u1EA7n sau c\u1EA9n th\u1EADn
+      h\u01A1n \u0111\u1EA5y!"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 69947439804055552
+    m_Localized: Iceling
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 69947439816638464
+    m_Localized: Golomo
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 69947439816638465
+    m_Localized: Glarexus
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 69984989718061056
+    m_Localized: "Eclipse \u0111\xE3 \u1EADp \u0111\u1EBFn r\u1ED3i!"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 69984989747421184
+    m_Localized: "H\xE3y v\u1EEFng l\xF2ng, Tamer. \u0110\xE3 \u0111\u1EBFn l\xFAc
+      \u0111\u1ED1i m\u1EB7t v\u1EDBi n\u1ED7i s\u1EE3 s\xE2u th\u1EB3m nh\u1EA5t
+      trong b\u1EA1n..."
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 69984989747421185
+    m_Localized: "Ta kh\xF4ng s\u1EE3. H\xE3y k\u1EBFt th\xFAc chuy\u1EC7n n\xE0y
+      th\xF4i."
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 77944132052172800
+    m_Localized: Eftus
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 77944132068950016
+    m_Localized: Prowler
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 77944132068950017
+    m_Localized: Frogmar
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 77944132068950018
+    m_Localized: Fale
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 77944132068950019
+    m_Localized: Bolb
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 77944132068950020
+    m_Localized: "<i>Eftus \u0111ang ch\u1EF1c tr\xE0o n\u01B0\u1EDBc m\u1EAFt! B\u1EA1n
+      ch\u01B0a t\u1EEBng th\u1EA5y c\u1EADu ta trong b\u1ED9 d\u1EA1ng n\xE0y bao
+      gi\u1EDD.<br><br>Tr\xEAn tay c\u1EADu l\xE0 m\u1ED9t chi\u1EBFc c\u1EA7n c\xE2u
+      g\xE3y \u0111\xF4i.</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 77944132068950021
+    m_Localized: "\xD4i kh\xF4ng! Chuy\u1EC7n g\xEC \u0111\xE3 x\u1EA3y ra v\u1EADy?"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 77944132068950022
+    m_Localized: "<i>C\u1EADu ta ch\u1EC9 tay v\u1EC1 ph\xEDa m\u1ED9t con Pinequeak
+      \u1EDF khu t\u1EADp luy\u1EC7n.</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 77944132068950023
+    m_Localized: "\xD4i, m\u1EA5y \u0111\u1EE9a ph\xE1 ph\xE1ch \u0111\xE1ng gh\xE9t
+      \u0111\xF3! \u0110\u1EEBng lo, t\u1EDB s\u1EBD ki\u1EBFm cho c\u1EADu m\u1ED9t
+      chi\u1EBFc c\u1EA7n m\u1EDBi toanh!"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 77944132068950024
+    m_Localized: "<i>B\u1EA1n ch\u1EE3t nh\u1EDB ra chi\u1EBFc c\u1EA7n c\xE2u th\u1EDDi
+      th\u01A1 \u1EA5u c\u1EE7a m\xECnh v\u1EABn c\xF2n n\u1EB1m \u0111\xE2u \u0111\xF3
+      trong l\u1EC1u. N\xF3 ch\u1EB3ng c\xF3 g\xEC \u0111\u1EB7c bi\u1EC7t, nh\u01B0ng
+      v\u1ED1n \u0111\u01B0\u1EE3c l\xE0m \u0111\u1EC3 c\xE2u d\u01B0\u1EDBi l\u1EDBp
+      b\u0103ng n\xEAn nh\u1ECF g\u1ECDn h\u01A1n \u2014 v\u1EEBa kh\xEDt v\u1EDBi
+      \u0111\xF4i b\xE0n tay b\xE9 x\xEDu c\u1EE7a Eftus!</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 77944132068950025
+    m_Localized: "\u0110\xE2y n\xE0y - mong l\xE0 c\u1EADu th\xEDch!"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 77944132068950026
+    m_Localized: "<i>M\u1EAFt Eftus s\xE1ng r\u1EF1c l\xEAn v\xEC ph\u1EA5n kh\xEDch.<br><br>Ngay
+      kho\u1EA3nh kh\u1EAFc ch\u1EA1m tay v\xE0o chi\u1EBFc c\u1EA7n, c\u1EADu ta
+      ch\u1EB3ng c\xF2n \u0111\u1EC3 \xFD g\xEC \u0111\u1EBFn b\u1EA1n n\u1EEFa.</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 77944132068950027
+    m_Localized: "\u1EEA th\xEC - ch\xFAc c\xE2u vui v\u1EBB v\u1EADy!"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 77944132068950028
+    m_Localized: "<i>Prowler \u0111ang nh\xECn b\u1EA1n ch\u1EB1m ch\u1EB1m b\u1EB1ng
+      \u0111\xF4i m\u1EAFt to tr\xF2n van n\xE0i. Th\u1EADt l\xE0 th\xF4i mi\xEAn...</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 77944132068950029
+    m_Localized: "\xD4i kh\xF4ng..."
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 77944132068950030
+    m_Localized: "<i>B\u1EA1n b\u1ECB h\xFAt v\xE0o hai v\u1EF1c th\u1EB3m d\u1EC5
+      th\u01B0\u01A1ng kh\xF4ng \u0111\xE1y \u1EA5y.<br><br>B\u1ED7ng nhi\xEAn, m\u1ED9t
+      th\xF4i th\xFAc m\xE3nh li\u1EC7t tr\xE0o d\xE2ng: ph\u1EA3i t\u1EB7ng c\xF4
+      n\xE0ng th\u1EE9 g\xEC \u0111\xF3... l\u1EA5p l\xE1nh.</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 77944132068950031
+    m_Localized: "Ph\u1EA3i... T\u1EB7ng... \u0110\u1ED3 l\u1EA5p l\xE1nh..."
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 77944132068950032
+    m_Localized: "<i>Ngay khi b\u1EA1n \u0111\u01B0a cho c\xF4 n\xE0ng m\u1ED9t m\xF3n
+      \u0111\u1ED3 l\u1EA5p l\xE1nh, b\xF9a th\xF4i mi\xEAn li\u1EC1n tan bi\u1EBFn
+      v\xE0 c\xF4 ta v\u1ECDt \u0111i c\xF9ng chi\u1EBFn l\u1EE3i ph\u1EA9m.<br><br>B\u1EA1n
+      l\u1EA7n theo v\xE0 ph\xE1t hi\u1EC7n ra m\u1ED9t kho b\xE1u l\u1EA5p l\xE1nh
+      KH\u1ED4NG L\u1ED2.</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 77944132068950033
+    m_Localized: "Th\xEC ra ti\u1EC1n c\u1EE7a m\xECnh bay \u0111i \u0111\xE2u h\u1EBFt
+      l\xE0 v\xEC th\u1EBF n\xE0y!"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 77944132068950034
+    m_Localized: "<i>Frogmar th\u01B0\u1EDDng tr\xF4ng coi c\xE1c l\xF2 l\u1EEDa
+      quanh l\xE0ng v\xE0 gi\u1EEF ch\xFAng lu\xF4n ch\xE1y b\u1EB1ng h\u01A1i th\u1EDF
+      n\xF3ng r\u1EF1c c\u1EE7a m\xECnh, nh\u01B0ng con n\xE0y c\xF3 v\u1EBB \u0111ang
+      g\u1EB7p tr\u1EE5c tr\u1EB7c.<br><br>Than h\u1ED3ng \u0111ang l\u1EE5i d\u1EA7n,
+      c\xF2n ch\xFA Frogmar t\u1ED9i nghi\u1EC7p th\xEC loay hoay m\xE3i v\u1EABn
+      kh\xF4ng nh\xF3m l\u1EA1i \u0111\u01B0\u1EE3c...</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 77944132068950035
+    m_Localized: "C\u1EADu \u1ED5n ch\u1EE9?"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 77944132068950036
+    m_Localized: "<i>Sinh v\u1EADt \u1EA5y kh\xF4ng \u0111\xE1p l\u1EDDi. C\u1EADu
+      ta c\u1ED1 ph\xEC ph\xF2 th\u1ED5i v\xE0o \u0111\u1ED1ng than h\u1EBFt l\u1EA7n
+      n\xE0y \u0111\u1EBFn l\u1EA7n kh\xE1c, nh\u01B0ng ch\u1EC9 ph\xE1t ra \u0111\u01B0\u1EE3c
+      nh\u1EEFng ti\u1EBFng kh\xF2 kh\xE8 y\u1EBFu \u1EDBt...</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 77944132068950037
+    m_Localized: "T\u1EDB ngh\u0129 t\u1EDB bi\u1EBFt v\u1EA5n \u0111\u1EC1 n\u1EB1m
+      \u1EDF \u0111\xE2u r\u1ED3i..."
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 77944132068950038
+    m_Localized: "<i>B\u1EA1n n\xE9m cho Frogmar v\xE0i c\u1EE5c than v\xE0 c\u1EADu
+      ta ng\u1EA5u nghi\u1EBFn nhai rau r\xE1u.<br><br>Khi c\xE1i b\u1EE5ng \u0111\xE3
+      c\u0103ng tr\xF2n, c\u1EADu l\xF9i l\u1EA1i m\u1ED9t b\u01B0\u1EDBc, h\xEDt
+      m\u1ED9t h\u01A1i th\u1EADt s\xE2u r\u1ED3i phun m\u1ED9t lu\u1ED3ng l\u1EEDa
+      c\u1EF1c m\u1EA1nh v\xE0o l\xF2. Ng\u1ECDn l\u1EEDa b\xF9ng ch\xE1y tr\u1EDF
+      l\u1EA1i, h\u1EEBng h\u1EF1c nh\u01B0 x\u01B0a!</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 77944132068950039
+    m_Localized: "Nh\u1EDB \u0103n no tr\u01B0\u1EDBc khi l\xE0m vi\u1EC7c nh\xE9,
+      nh\xF3c! B\u1EEFa s\xE1ng l\xE0 b\u1EEFa quan tr\u1ECDng nh\u1EA5t trong ng\xE0y
+      \u0111\u1EA5y!"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 77944132068950040
+    m_Localized: "<i>\u0110ang thong th\u1EA3 d\u1EA1o tr\xEAn c\u1EA7u t\xE0u th\xEC
+      b\u1EA5t ng\u1EDD m\u1ED9t v\u1ED1c n\u01B0\u1EDBc b\u1EAFn th\u1EB3ng v\xE0o
+      m\u1EB7t b\u1EA1n. B\u1EA1n quay l\u1EA1i v\xE0 th\u1EA5y Fale l\xF3 \u0111\u1EA7u
+      l\xEAn kh\u1ECFi m\u1EB7t n\u01B0\u1EDBc, h\u1ED3i h\u1ED9p ch\u1EDD xem b\u1EA1n
+      ph\u1EA3n \u1EE9ng ra sao.</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 77944132068950041
+    m_Localized: "Mu\u1ED1n ch\u01A1i ki\u1EC3u \u0111\xF3 h\u1EA3?"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 77944132068950042
+    m_Localized: "<i>B\u1EA1n th\u1EA5y r\xF5 Fale ph\u1EA5n kh\xEDch h\u1EB3n l\xEAn.
+      Cu\u1ED1i c\xF9ng c\u0169ng c\xF3 ng\u01B0\u1EDDi ch\u1ECBu ch\u01A1i c\xF9ng!</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 77944132068950043
+    m_Localized: "Qu\u1EADy s\xF3ng n\xE0o! T\xE9 n\u01B0\u1EDBc tr\u1EA3 \u0111\u0169a
+      h\u1EBFt s\u1EE9c b\xECnh sinh"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 77944132068950044
+    m_Localized: "<i>B\u1EA1n t\xE9 n\u01B0\u1EDBc v\xE0o Fale v\xE0 c\u1EADu ta
+      r\xFA l\xEAn sung s\u01B0\u1EDBng. Ch\u1EB3ng m\u1EA5y ch\u1ED1c c\u1EA3 hai
+      lao v\xE0o m\u1ED9t tr\u1EADn th\u1EE7y chi\u1EBFn vui nh\u1ED9n, t\u1EA1t
+      n\u01B0\u1EDBc qua l\u1EA1i cho t\u1EDBi khi c\u1EA3 c\u1EA7u t\xE0u \u01B0\u1EDBt
+      s\u0169ng. \u0110\u1EBFn cu\u1ED1i, c\u1EA3 hai \u0111\u1EC1u r\xE3 r\u1EDDi
+      nh\u01B0ng c\u01B0\u1EDDi toe to\xE9t \u0111\u1EBFn t\u1EADn mang tai.</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 77944132068950045
+    m_Localized: "C\u1EA3m \u01A1n nh\xF3c, vui th\u1EADt \u0111\u1EA5y!"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 77944132068950046
+    m_Localized: "<i>M\u1EB7t \u0111\u1EA5t rung l\xEAn d\u01B0\u1EDBi ch\xE2n khi
+      b\u1EA1n ti\u1EBFn l\u1EA1i g\u1EA7n b\xF3ng h\xECnh kh\u1ED5ng l\u1ED3 gi\u1EEFa
+      qu\u1EA3ng tr\u01B0\u1EDDng. Bolb \u0111ang nh\u1EA3y t\u01B0ng t\u01B0ng v\u1EDBi
+      \u0111\xF4i maracas tr\xEAn tay, r\xF5 r\xE0ng l\xE0 thi\u1EBFu h\u1EB3n s\u1EF1
+      nh\u1ECBp nh\xE0ng cho b\u1EA5t c\u1EE9 \u0111i\u1EC1u g\xEC c\u1EADu ta \u0111ang
+      c\u1ED1 l\xE0m.</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 77944132068950047
+    m_Localized: "Mu\u1ED1n nh\u1EA3y m\u1ED9t \u0111i\u1EC7u kh\xF4ng, anh b\u1EA1n
+      to x\xE1c?"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 77944132068950048
+    m_Localized: "<i>C\u1EADu ta quay ph\u1EAFt \u0111\u1EA7u v\u1EC1 ph\xEDa b\u1EA1n,
+      v\xE0 tr\u01B0\u1EDBc khi b\u1EA1n k\u1ECBp hi\u1EC3u chuy\u1EC7n g\xEC, \u0111\xF4i
+      maracas \u0111\xE3 n\u1EB1m g\u1ECDn trong tay b\u1EA1n, c\xF2n c\xE1i \u0111\u1EA7u
+      to \u0111\xF9ng c\u1EE7a Bolb th\xEC nh\xECn b\u1EA1n \u0111\u1EA7y h\xE1o
+      h\u1EE9c ch\u1EDD \u0111\u1EE3i...</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 77944132068950049
+    m_Localized: "C\u1EADu mu\u1ED1n t\u1EDB ch\u01A1i nh\u1EA1c cho c\u1EADu \xE0?
+      \u0110\u01B0\u1EE3c th\xF4i!"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 77944132068950050
+    m_Localized: "<i>B\u1EA1n l\u1EAFc \u0111\xF4i maracas trong khi Bolb b\u1EAFt
+      \u0111\u1EA7u ph\xF4 di\u1EC5n nh\u1EEFng v\u0169 \u0111i\u1EC7u tr\u1EE9 danh
+      c\u1EE7a m\xECnh. Ai m\xE0 ng\u1EDD g\xE3 thong dong n\xE0y l\u1EA1i tr\xE0n
+      tr\u1EC1 s\u1EE9c s\u1ED1ng \u0111\u1EBFn th\u1EBF! Ch\u1EC9 mong n\u1EC1n
+      kh\u1EA3m \u0111\xE1 s\u1ED1ng s\xF3t qua m\xE0n n\xE0y...</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 77944132068950051
+    m_Localized: "L\u1EAFc l\u1EAFc n\xE0o"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 80485312693272576
+    m_Localized: "Ta xin ph\xE9p l\xE0m phi\u1EC1n m\u1ED9t ch\xFAt, Tamer?"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 80485312705855488
+    m_Localized: "C\xF3 chuy\u1EC7n g\xEC v\u1EADy \u1EA1?"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 80485312705855489
+    m_Localized: "T\u1EA5m l\xF2ng con d\xE0nh cho vi\u1EC7c b\u1EA3o v\u1EC7 ng\xF4i
+      l\xE0ng n\xE0y l\xE0 kh\xF4ng ai s\xE1nh b\u1EB1ng, th\u1EBF nh\u01B0ng Dragon
+      Guardian s\u1EBD ch\u1EB3ng c\u1EE9u \u0111\u01B0\u1EE3c ch\xFAng ta kh\u1ECFi
+      nh\u1EEFng h\u1EC7 l\u1EE5y c\u1EE7a Eclipse \u0111\xE2u!"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 80485312705855490
+    m_Localized: "Elder, r\u1ED1t cu\u1ED9c th\xEC Eclipse l\xE0 g\xEC \u1EA1?"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 80485312705855491
+    m_Localized: "Con th\u1EA5y \u0111\u1EA5y, t\u1EEB r\u1EA5t l\xE2u v\u1EC1 tr\u01B0\u1EDBc,
+      ch\xFAng ta t\u1EEBng chung s\u1ED1ng h\xF2a thu\u1EADn v\u1EDBi nh\u1EEFng
+      sinh v\u1EADt g\u1ECDi l\xE0 Fey. T\xE0i ngh\u1EC7 ph\xE1p thu\u1EADt c\u1EE7a
+      h\u1ECD th\xEC kh\xF4ng g\xEC b\xEC k\u1ECBp. Nh\u01B0ng r\u1ED3i m\u1ED9t
+      ng\xE0y kia... Ch\xFAng ta kh\xF4ng r\xF5 b\u1EB1ng c\xE1ch n\xE0o v\xE0 v\xEC
+      l\u1EBD g\xEC - h\u1ECD \u0111\xE3 m\u1EDF ra m\u1ED9t v\u1EBFt n\u1EE9t d\u1EABn
+      sang m\u1ED9t th\u1EBF gi\u1EDBi kh\xE1c. V\xE0 th\u1EBF gi\u1EDBi \u1EA5y
+      ch\u1EB3ng h\u1EC1 th\xE2n thi\u1EC7n."
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 80485312705855492
+    m_Localized: "B\u1EB1ng s\u1EF1 hy sinh to l\u1EDBn c\u1EE7a c\xE1c Dragon Guardian,
+      l\u1ED1i \u0111i \u1EA5y \u0111\xE3 b\u1ECB phong \u1EA5n, nh\u01B0ng v\u1EABn
+      c\xF3 th\u1EE9 \u1EDF l\u1EA1i. M\u1EB7t tr\u0103ng c\u1EE7a Shadow Realm,
+      nh\u01B0 c\xE1ch ch\xFAng ta v\u1EABn g\u1ECDi, t\u1EEB \u0111\xF3 \u0111\u1EBFn
+      nay v\u1EABn treo l\u01A1 l\u1EEDng tr\xEAn b\u1EA7u tr\u1EDDi.<br>C\u1EE9
+      m\u1ED7i 1000 n\u0103m, khi hai v\u1EA7ng tr\u0103ng che khu\u1EA5t m\u1EB7t
+      tr\u1EDDi c\u1EE7a ch\xFAng ta, c\xE1nh c\u1ED5ng d\u1EABn t\u1EDBi Shadow
+      Realm l\u1EA1i m\u1EDF ra m\u1ED9t l\u1EA7n n\u1EEFa."
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 80485312705855493
+    m_Localized: "Nh\u01B0ng l\u1EA7n n\xE0y, c\xE1c Dragon Guardian \u0111\xE3 kh\xF4ng
+      c\xF2n n\u1EEFa."
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 80485312705855494
+    m_Localized: "Ta bu\u1ED9c ph\u1EA3i nh\u1EDD c\u1EADy... ph\u1EA3i c\u1EA7u
+      xin con th\u1EF1c hi\u1EC7n m\u1ED9t hy sinh cu\u1ED1i c\xF9ng, v\xEC ng\xF4i
+      l\xE0ng n\xE0y v\xE0 v\xEC c\u1EA3 ph\u1EA7n c\xF2n l\u1EA1i c\u1EE7a th\u1EBF
+      gi\u1EDBi."
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 80485312705855495
+    m_Localized: "H\xE3y \u0111\xE1nh b\u1EA1i sinh v\u1EADt canh gi\u1EEF c\xE1nh
+      c\u1ED5ng, r\u1ED3i khi \u0111\xE3 b\u01B0\u1EDBc v\xE0o Shadow Realm, h\xE3y
+      t\xECm cho ra k\u1EBB \u0111ang th\u1EA3 l\u0169 qu\xE1i v\u1EADt kia sang
+      th\u1EBF gi\u1EDBi c\u1EE7a ch\xFAng ta."
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 80485312705855496
+    m_Localized: "Con \u0111\xE3 \u0111i \u0111\u01B0\u1EE3c xa \u0111\u1EBFn nh\u01B0\u1EDDng
+      n\xE0y, mang l\u1EA1i cho ch\xFAng ta hy v\u1ECDng r\u1EB1ng con s\u1EBD ng\u0103n
+      \u0111\u01B0\u1EE3c Eclipse - con v\xE0 nh\u1EEFng Mystling gan d\u1EA1 c\u1EE7a
+      con."
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 81528770012102656
+    m_Localized: "<i>M\u1ED9t ti\u1EBFng th\xE9t ch\xF3i tai x\xE9 to\u1EA1c kh\xF4ng
+      gian. M\xE0ng nh\u0129 nh\u1EE9c bu\u1ED1t, k\xEDnh v\u1EE1 tan t\xE0nh, v\xE0
+      gi\u1EEFa m\u1EDB \xE2m thanh h\u1ED7n lo\u1EA1n \u1EA5y l\xE0 m\u1ED9t ch\xFA
+      Pinequeak b\xE9 nh\u1ECF... \u0111ang kh\xF3c.<br><br>B\u1EA1n c\u1ED1 h\xE9t
+      th\u1EADt to \u0111\u1EC3 \xE1t \u0111i ti\u1EBFng \u1ED3n.</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 81528770028879872
+    m_Localized: "C\xD3 CHUY\u1EC6N G\xCC V\u1EACY, NH\xD3C CON?!"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 81528770028879873
+    m_Localized: "<i>Ch\xFA Pinequeak b\xE9 nh\u1ECF quay ph\u1EAFt \u0111\u1EA7u
+      v\u1EC1 ph\xEDa b\u1EA1n nhanh nh\u01B0 ch\u1EDBp, ti\u1EBFng kh\xF3c t\u1EAFt
+      l\u1ECBm ngay l\u1EADp t\u1EE9c.<br><br>Khi n\xF3 nh\xECn th\u1EB3ng v\xE0o
+      m\u1EAFt b\u1EA1n, v\u1EBB m\u1EB7t \u1EA5y b\u1ED7ng thay \u0111\u1ED5i...</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 81528770028879874
+    m_Localized: "\u01A0-\u1ED3..."
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 81528770028879875
+    m_Localized: "<i>V\u1EDBi m\u1ED9t n\u1EE5 c\u01B0\u1EDDi tinh qu\xE1i, n\xF3
+      n\xE9m th\u1EB3ng m\u1ED9t qu\u1EA3 bom ph\xE2n v\xE0o m\u1EB7t b\u1EA1n r\u1ED3i
+      c\u01B0\u1EDDi s\u1EB1ng s\u1EB7c nh\u01B0 \u0111i\xEAn d\u1EA1i.</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 81528770028879876
+    m_Localized: "L\u1EA7n n\xE0y m\xE0y th\u1EAFng r\u1ED3i \u0111\u1EA5y, con qu\u1EF7
+      nh\u1ECF!"
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  - m_Id: 81528770028879877
+    m_Localized: Pinequeak
+    m_Metadata:
+      m_Items:
+      - rid: 8099901647879405576
+  references:
+    version: 2
+    RefIds:
+    - rid: 8099901647879405576
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 68879341088931840
+        - id: 68879341122486272
+        - id: 68879341122486273
+        - id: 68879341122486274
+        - id: 68879341126680576
+        - id: 68879341126680577
+        - id: 68879341126680578
+        - id: 68879341126680579
+        - id: 68879341126680580
+        - id: 68879341126680581
+        - id: 68879341126680582
+        - id: 68879341126680583
+        - id: 68879341126680584
+        - id: 68879341126680585
+        - id: 68879341126680586
+        - id: 68879341126680587
+        - id: 68879341126680588
+        - id: 68879341126680589
+        - id: 69947439804055552
+        - id: 69947439816638464
+        - id: 69947439816638465
+        - id: 69984989718061056
+        - id: 69984989747421184
+        - id: 69984989747421185
+        - id: 77944132052172800
+        - id: 77944132068950016
+        - id: 77944132068950017
+        - id: 77944132068950018
+        - id: 77944132068950019
+        - id: 77944132068950020
+        - id: 77944132068950021
+        - id: 77944132068950022
+        - id: 77944132068950023
+        - id: 77944132068950024
+        - id: 77944132068950025
+        - id: 77944132068950026
+        - id: 77944132068950027
+        - id: 77944132068950028
+        - id: 77944132068950029
+        - id: 77944132068950030
+        - id: 77944132068950031
+        - id: 77944132068950032
+        - id: 77944132068950033
+        - id: 77944132068950034
+        - id: 77944132068950035
+        - id: 77944132068950036
+        - id: 77944132068950037
+        - id: 77944132068950038
+        - id: 77944132068950039
+        - id: 77944132068950040
+        - id: 77944132068950041
+        - id: 77944132068950042
+        - id: 77944132068950043
+        - id: 77944132068950044
+        - id: 77944132068950045
+        - id: 77944132068950046
+        - id: 77944132068950047
+        - id: 77944132068950048
+        - id: 77944132068950049
+        - id: 77944132068950050
+        - id: 77944132068950051
+        - id: 80485312693272576
+        - id: 80485312705855488
+        - id: 80485312705855489
+        - id: 80485312705855490
+        - id: 80485312705855491
+        - id: 80485312705855492
+        - id: 80485312705855493
+        - id: 80485312705855494
+        - id: 80485312705855495
+        - id: 80485312705855496
+        - id: 81528770012102656
+        - id: 81528770028879872
+        - id: 81528770028879873
+        - id: 81528770028879874
+        - id: 81528770028879875
+        - id: 81528770028879876
+        - id: 81528770028879877

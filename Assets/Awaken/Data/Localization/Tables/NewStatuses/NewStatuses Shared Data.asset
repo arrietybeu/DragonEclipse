@@ -1,0 +1,284 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -299433217, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: NewStatuses Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: NewStatuses
+  m_TableCollectionNameGuidString: f1385e7956ee45f49b213c43fd432edb
+  m_Entries:
+  - m_Id: 2817150533636
+    m_Key: status_strength_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2817150533637
+    m_Key: status_strength_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2817150533638
+    m_Key: status_shield_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2817150533639
+    m_Key: status_shield_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2817150533642
+    m_Key: status_dodge_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2817150533643
+    m_Key: status_dodge_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2817150533644
+    m_Key: status_thorns_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2817150533645
+    m_Key: status_thorns_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11577478002884608
+    m_Key: status_stun_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11577478036439040
+    m_Key: status_stun_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2817150533648
+    m_Key: status_multistrike_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2817150533649
+    m_Key: status_multistrike_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2817150533650
+    m_Key: status_weakness_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2817150533651
+    m_Key: status_weakness_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2817154727940
+    m_Key: status_strength_round_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2817154727941
+    m_Key: status_strength_round_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2817154727948
+    m_Key: status_vulnerable_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2817154727949
+    m_Key: status_vulnerable_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2817154727950
+    m_Key: status_revive_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2817154727951
+    m_Key: status_revive_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64893457373667328
+    m_Key: status_revive100_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9029693395288064
+    m_Key: status_damage_reduce_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9029693412065280
+    m_Key: status_damage_reduce_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16331961937240064
+    m_Key: status_addpower_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16331961954017280
+    m_Key: status_addpower_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25039761924276224
+    m_Key: status_guarded_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25039761949442048
+    m_Key: status_guarded_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64830575973834752
+    m_Key: status_guarded_perm_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25039761949442049
+    m_Key: status_exposed_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25039761949442050
+    m_Key: status_exposed_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26428515930939392
+    m_Key: status_lifesteal_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26428515956105216
+    m_Key: status_lifesteal_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37357454379524096
+    m_Key: status_lifesteal50_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37357454404689920
+    m_Key: status_lifesteal50_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27119552156516352
+    m_Key: status_multistrike_perm_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27119552181682176
+    m_Key: status_multistrike_perm_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37357454404689921
+    m_Key: status_shadowform_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37357454404689922
+    m_Key: status_shadowform_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44573523078881280
+    m_Key: status_confused_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44573523099852800
+    m_Key: status_confused_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47868807976394752
+    m_Key: status_indestructible_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47868808005754880
+    m_Key: status_indestructible_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47868808005754881
+    m_Key: status_acid_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47868808005754882
+    m_Key: status_acid_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54352449930076160
+    m_Key: status_dragon_charge_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54352449955241984
+    m_Key: status_dragon_charge_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2817150533632
+    m_Key: status_poison_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2817150533633
+    m_Key: status_poison_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2817150533634
+    m_Key: status_wrath_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2817150533635
+    m_Key: status_wrath_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2817150533640
+    m_Key: status_counter_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2817150533641
+    m_Key: status_counter_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2817150533652
+    m_Key: status_immune_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2817150533653
+    m_Key: status_immune_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2817154727936
+    m_Key: status_badluck_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2817154727937
+    m_Key: status_badluck_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2817154727938
+    m_Key: status_confuse_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2817154727939
+    m_Key: status_confuse_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2817154727942
+    m_Key: status_convert_shield_power_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2817154727943
+    m_Key: status_convert_shield_power_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2817154727944
+    m_Key: status_negative_strength_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2817154727945
+    m_Key: status_negative_strength_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2817154727946
+    m_Key: status_energy_next_round_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2817154727947
+    m_Key: status_energy_next_round_desc
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 3009405773554384900
+  references:
+    version: 2
+    RefIds:
+    - rid: 3009405773554384900
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1711710661356

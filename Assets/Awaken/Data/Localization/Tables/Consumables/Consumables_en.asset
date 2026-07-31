@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Consumables_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: e4ecad868d5af854a938ee182106f444, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2105433060097654786
+  m_TableData:
+  - m_Id: 43425364957011968
+    m_Localized: Raw Steak
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654786
+  - m_Id: 43425364990566400
+    m_Localized: Apply {Effect0.ValueInt} <style="Blue">Strength</style> to selected
+      Mystling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654786
+  - m_Id: 43425364990566401
+    m_Localized: Raspberry Cheesecake
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654786
+  - m_Id: 43425364990566402
+    m_Localized: Apply {Effect0.ValueInt} <style="Blue">Shields</style> to selected
+      Mystling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654786
+  - m_Id: 43425364990566403
+    m_Localized: Nutritious Soup
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654786
+  - m_Id: 43425364990566404
+    m_Localized: Heal {Effect0.ValueInt} Health of selected Mystling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654786
+  - m_Id: 43425364990566405
+    m_Localized: Fancy Dessert
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654786
+  - m_Id: 43425364990566406
+    m_Localized: Apply {Effect0.ValueInt} <style="Blue">Revive</style> to selected
+      Mystling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654786
+  - m_Id: 43425364990566407
+    m_Localized: Well-balanced dish
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654786
+  - m_Id: 43425364990566408
+    m_Localized: Gain {Effect0.ValueInt} Random Consumables
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654786
+  - m_Id: 43425364990566409
+    m_Localized: Hot Brew
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654786
+  - m_Id: 43425364990566410
+    m_Localized: Permanently increase selected Mystling's Power by {Effect0.ValueInt}
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654786
+  - m_Id: 43425364990566411
+    m_Localized: Fruit Salad
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654786
+  - m_Id: 43425364990566412
+    m_Localized: Permanently increase selected Mystling's Max Health by {Effect0.ValueInt}
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654786
+  - m_Id: 43425364990566413
+    m_Localized: Fresh Greens
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654786
+  - m_Id: 43425364990566414
+    m_Localized: Apply {Effect0.ValueInt} <style="Blue">Dodge</style> to selected
+      Mystling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654786
+  - m_Id: 43425364990566415
+    m_Localized: Bowl of Garlic
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654786
+  - m_Id: 43425364990566416
+    m_Localized: Draw {Effect0.ValueInt} Cards
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654786
+  - m_Id: 43425364990566417
+    m_Localized: Strong Tea
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654786
+  - m_Id: 43425364990566418
+    m_Localized: Gain {Effect0.ValueInt} Energy
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654786
+  references:
+    version: 2
+    RefIds:
+    - rid: 2105433060097654786
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 43425364957011968
+        - id: 43425364990566400
+        - id: 43425364990566401
+        - id: 43425364990566402
+        - id: 43425364990566403
+        - id: 43425364990566404
+        - id: 43425364990566405
+        - id: 43425364990566406
+        - id: 43425364990566407
+        - id: 43425364990566408
+        - id: 43425364990566409
+        - id: 43425364990566410
+        - id: 43425364990566411
+        - id: 43425364990566412
+        - id: 43425364990566413
+        - id: 43425364990566414
+        - id: 43425364990566415
+        - id: 43425364990566416
+        - id: 43425364990566417
+        - id: 43425364990566418

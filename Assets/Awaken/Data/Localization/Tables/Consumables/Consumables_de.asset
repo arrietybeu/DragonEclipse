@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Consumables_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: e4ecad868d5af854a938ee182106f444, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2105433060097654789
+  m_TableData:
+  - m_Id: 43425364957011968
+    m_Localized: Rohes Fleisch
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654789
+  - m_Id: 43425364990566400
+    m_Localized: "Wirke {Effect0.ValueInt} <style=\"Blue\">St\xE4rke</style> auf
+      einen ausgew\xE4hlten Mystling."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654789
+  - m_Id: 43425364990566401
+    m_Localized: "Himbeer-K\xE4sekuchen"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654789
+  - m_Id: 43425364990566402
+    m_Localized: "Wirke {Effect0.ValueInt} <style=\"Blue\">Schilde</style> auf einen
+      ausgew\xE4hlten Mystling."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654789
+  - m_Id: 43425364990566403
+    m_Localized: "Kr\xE4ftige Suppe"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654789
+  - m_Id: 43425364990566404
+    m_Localized: "Heile {Effect0.ValueInt} Gesundheit bei einem ausgew\xE4hlten Mystling."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654789
+  - m_Id: 43425364990566405
+    m_Localized: "K\xF6stliche Nachspeise"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654789
+  - m_Id: 43425364990566406
+    m_Localized: "Wirke {Effect0.ValueInt} <style=\"Blue\">Wiederbeleben</style>
+      auf einen ausgew\xE4hlten Mystling."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654789
+  - m_Id: 43425364990566407
+    m_Localized: Ausgewogene Mahlzeit
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654789
+  - m_Id: 43425364990566408
+    m_Localized: "Erhalte {Effect0.ValueInt} zuf\xE4llige Verbrauchsgegenst\xE4nde."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654789
+  - m_Id: 43425364990566409
+    m_Localized: "Hei\xDFgetr\xE4nk"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654789
+  - m_Id: 43425364990566410
+    m_Localized: "Erh\xF6he die Kraft eines ausgew\xE4hlten Mystlings permanent um
+      {Effect0.ValueInt}."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654789
+  - m_Id: 43425364990566411
+    m_Localized: Obstsalat
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654789
+  - m_Id: 43425364990566412
+    m_Localized: "Erh\xF6he die max. Gesundheit eines ausgew\xE4hlten Mystlings permanent
+      um {Effect0.ValueInt}."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654789
+  - m_Id: 43425364990566413
+    m_Localized: "Blattgem\xFCse"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654789
+  - m_Id: 43425364990566414
+    m_Localized: "Wirke {Effect0.ValueInt} <style=\"Blue\">Ausweichen</style> auf
+      einen ausgew\xE4hlten Mystling."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654789
+  - m_Id: 43425364990566415
+    m_Localized: Schale mit Knoblauch
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654789
+  - m_Id: 43425364990566416
+    m_Localized: Ziehe {Effect0.ValueInt} Karten.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654789
+  - m_Id: 43425364990566417
+    m_Localized: Starker Tee
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654789
+  - m_Id: 43425364990566418
+    m_Localized: Erhalte {Effect0.ValueInt} Energie.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654789
+  references:
+    version: 2
+    RefIds:
+    - rid: 2105433060097654789
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 43425364957011968
+        - id: 43425364990566400
+        - id: 43425364990566401
+        - id: 43425364990566402
+        - id: 43425364990566403
+        - id: 43425364990566404
+        - id: 43425364990566405
+        - id: 43425364990566406
+        - id: 43425364990566407
+        - id: 43425364990566408
+        - id: 43425364990566409
+        - id: 43425364990566410
+        - id: 43425364990566411
+        - id: 43425364990566412
+        - id: 43425364990566413
+        - id: 43425364990566414
+        - id: 43425364990566415
+        - id: 43425364990566416
+        - id: 43425364990566417
+        - id: 43425364990566418

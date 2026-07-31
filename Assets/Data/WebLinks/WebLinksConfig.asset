@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -46750814, guid: 13e3d7364124faa49ea73536fee1f417, type: 3}
+  m_Name: WebLinksConfig
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _isActive: 1
+  <DiscordWebLink>k__BackingField:
+    <Link>k__BackingField: https://discord.com/invite/X6WNQUUJnx
+    <UseSteamOverlay>k__BackingField: 0
+  <FeedbackWebLink>k__BackingField:
+    <Link>k__BackingField: https://steamcommunity.com/app/2626860/discussions/
+    <UseSteamOverlay>k__BackingField: 1
+  <SteamWishlistWebLink>k__BackingField:
+    <Link>k__BackingField: steam://openurl/https://store.steampowered.com/app/2626860/Dragon_Eclipse/
+    <UseSteamOverlay>k__BackingField: 1
+  <PrivacyPolicyWebLink>k__BackingField:
+    <Link>k__BackingField: https://sites.google.com/awakenrealms.com/dragon-eclipse-privacy-policy/
+    <UseSteamOverlay>k__BackingField: 0

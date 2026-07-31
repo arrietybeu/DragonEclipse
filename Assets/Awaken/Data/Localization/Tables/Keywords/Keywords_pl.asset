@@ -1,0 +1,166 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Keywords_pl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl
+  m_SharedData: {fileID: 11400000, guid: 0a017febadd476040bcc53a62978373b, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2105433060097654800
+  m_TableData:
+  - m_Id: 2103540039680
+    m_Localized: Bumerang
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654800
+  - m_Id: 2305462222848
+    m_Localized: "Po u\u017Cyciu wraca na r\u0119k\u0119 gracza."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654800
+  - m_Id: 2503508869120
+    m_Localized: Klonowanie
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654800
+  - m_Id: 2596051992576
+    m_Localized: "Wtasowuje kopi\u0119 karty do stosu kart odrzuconych."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654800
+  - m_Id: 3445264334848
+    m_Localized: <smallcaps><style="Blue">Kaskada</style></smallcaps>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654800
+  - m_Id: 3569226989568
+    m_Localized: "Zagraj t\u0119 kart\u0119 tyle razy, ile w tej rundzie zagrano
+      dot\u0105d innych kart"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654800
+  - m_Id: 3958399680512
+    m_Localized: <smallcaps><style="Blue">Wyczerpanie</style></smallcaps>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654800
+  - m_Id: 4067308978176
+    m_Localized: "Po zagraniu karta jest usuwana z talii do ko\u0144ca walki"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654800
+  - m_Id: 5756648800256
+    m_Localized: Znaczona
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654800
+  - m_Id: 5860579459072
+    m_Localized: Dobierana w pierwszej rundzie walki.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654800
+  - m_Id: 5978716225536
+    m_Localized: Zostaje
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654800
+  - m_Id: 6061062995968
+    m_Localized: "Po zako\u0144czeniu rundy zostaje w r\u0119ce gracza."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654800
+  - m_Id: 6165513748480
+    m_Localized: "P\u0119d"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654800
+  - m_Id: 6298116669440
+    m_Localized: "Niedobranie na pocz\u0105tku rundy zmniejsza koszt do 0."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654800
+  - m_Id: 6405587320832
+    m_Localized: Jojo
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654800
+  - m_Id: 6498130444288
+    m_Localized: "Po u\u017Cyciu wtasowujesz t\u0119 kart\u0119 do stosu kart do
+      dobrania. "
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654800
+  - m_Id: 55826930826842112
+    m_Localized: <smallcaps><style="Blue">Wzrost</style></smallcaps>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654800
+  - m_Id: 55826999063973888
+    m_Localized: "Po ka\u017Cdym zagraniu tej karty jej warto\u015B\u0107 ro\u015Bnie
+      do ko\u0144ca walki o warto\u015B\u0107 <smallcaps><style=\"Blue\">wzrostu</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654800
+  - m_Id: 55827062259552256
+    m_Localized: <smallcaps><style="Blue">Usychanie</style></smallcaps>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654800
+  - m_Id: 55827172670410752
+    m_Localized: "Po ka\u017Cdym zagraniu tej karty jej warto\u015B\u0107 maleje
+      do ko\u0144ca walki o warto\u015B\u0107 <smallcaps><style=\"Blue\">usychania</style></smallcaps>
+      (a\u017C do zera)"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654800
+  - m_Id: 86266413391618048
+    m_Localized: <smallcaps><style="Blue">Zaczarowanie pozycji</style></smallcaps>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654800
+  - m_Id: 86266413412589568
+    m_Localized: "Zmienia <style=\"Blue\">pozycj\u0119</style> w <style=\"Blue\">zaczarowan\u0105</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654800
+  references:
+    version: 2
+    RefIds:
+    - rid: 2105433060097654800
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 2103540039680
+        - id: 2305462222848
+        - id: 2503508869120
+        - id: 2596051992576
+        - id: 3445264334848
+        - id: 3569226989568
+        - id: 3958399680512
+        - id: 4067308978176
+        - id: 5756648800256
+        - id: 5860579459072
+        - id: 5978716225536
+        - id: 6061062995968
+        - id: 6165513748480
+        - id: 6298116669440
+        - id: 6405587320832
+        - id: 6498130444288
+        - id: 55826930826842112
+        - id: 55826999063973888
+        - id: 55827062259552256
+        - id: 55827172670410752
+        - id: 86266413391618048
+        - id: 86266413412589568

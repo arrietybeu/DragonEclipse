@@ -1,0 +1,189 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Tamers_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 4bdcaf64e4a5916478186f30c14ef387, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2105433060097654830
+  m_TableData:
+  - m_Id: 10119456537821184
+    m_Localized: "Nicht verf\xFCgbar"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654830
+  - m_Id: 10119527421558784
+    m_Localized: "Dieser B\xE4ndiger wird im Laufe des Spiels freigeschaltet!"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654830
+  - m_Id: 54659618039738368
+    m_Localized: Arkana Stand'Ard
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654830
+  - m_Id: 54659618073292800
+    m_Localized: Die erste Karte, die nach jedem Kampf im Belohnungsbildschirm gekauft
+      wird, ist kostenlos.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654830
+  - m_Id: 54659618073292801
+    m_Localized: "Randolph der R\xFCcksichtslose"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654830
+  - m_Id: 78626348725248000
+    m_Localized: "Ein zuf\xE4lliger Mystling ist von Beginn an entwickelt. Dieser
+      Mystling kann nicht geheilt werden und besitzt nur die halbe max. Gesundheit."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654830
+  - m_Id: 78626348750413824
+    m_Localized: "Ein zuf\xE4lliger Mystling ist von Beginn an entwickelt."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654830
+  - m_Id: 69538106172317696
+    m_Localized: Startentwicklung
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654830
+  - m_Id: 69538106197483520
+    m_Localized: "Abenteuer mit Entwicklung begonnen. Max. Gesundheit halbiert. Keine
+      Heilung m\xF6glich."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654830
+  - m_Id: 54659618073292803
+    m_Localized: "Maia Bl\xFCtenbeere"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654830
+  - m_Id: 54659618073292804
+    m_Localized: Beginne mit {Tamer.EmberSeeds} Mystbeeren.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654830
+  - m_Id: 68455510805913600
+    m_Localized: Beginne mit mehr Mystbeeren.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654830
+  - m_Id: 54659618073292805
+    m_Localized: Deckard Kartwell
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654830
+  - m_Id: 54659618073292806
+    m_Localized: "Das Team ist auf {Tamer.TeamSize} Mystlinge begrenzt, aber der
+      Energiepool ist auf {Tamer.CombatEnergy} erh\xF6ht."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654830
+  - m_Id: 68455510805913601
+    m_Localized: "Das Team ist auf {Tamer.TeamSize} Mystlinge begrenzt, aber der
+      Energiepool ist erh\xF6ht."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654830
+  - m_Id: 54659618073292807
+    m_Localized: Philip Phillips
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654830
+  - m_Id: 54659618073292808
+    m_Localized: Mystlinge, die am Ende der Runde aktiviert werden, werden doppelt
+      aktiviert. Verdient nach einem siegreichen Kampf {Tamer.GoldAfterCombatMultiplier}
+      % weniger Gold.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654830
+  - m_Id: 68455510805913602
+    m_Localized: Mystlinge, die am Ende der Runde aktiviert werden, werden doppelt
+      aktiviert.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654830
+  - m_Id: 69538106197483521
+    m_Localized: Doppelaktivierung
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654830
+  - m_Id: 69538106197483522
+    m_Localized: Wenn dieser Mystling am Ende der Runde aktiviert wird, wird er doppelt
+      aktiviert.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654830
+  - m_Id: 54659618073292809
+    m_Localized: Barbara Primus
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654830
+  - m_Id: 54659618073292810
+    m_Localized: Mystlinge bewirken in der ersten Kampfrunde doppelten Schaden. Verliere
+      jede Kampfrunde {Tamer.LoseMystberryEveryRound} Mystbeere.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654830
+  - m_Id: 68455510805913603
+    m_Localized: Mystlinge bewirken in der ersten Kampfrunde doppelten Schaden.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654830
+  - m_Id: 69538106197483523
+    m_Localized: Starker Anfang
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654830
+  - m_Id: 69538106197483524
+    m_Localized: Schaden wird in der ersten Kampfrunde verdoppelt.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654830
+  references:
+    version: 2
+    RefIds:
+    - rid: 2105433060097654830
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 10119456537821184
+        - id: 10119527421558784
+        - id: 54659618039738368
+        - id: 54659618073292800
+        - id: 54659618073292801
+        - id: 78626348725248000
+        - id: 78626348750413824
+        - id: 69538106172317696
+        - id: 69538106197483520
+        - id: 54659618073292803
+        - id: 54659618073292804
+        - id: 68455510805913600
+        - id: 54659618073292805
+        - id: 54659618073292806
+        - id: 68455510805913601
+        - id: 54659618073292807
+        - id: 54659618073292808
+        - id: 68455510805913602
+        - id: 69538106197483521
+        - id: 69538106197483522
+        - id: 54659618073292809
+        - id: 54659618073292810
+        - id: 68455510805913603
+        - id: 69538106197483523
+        - id: 69538106197483524

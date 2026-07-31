@@ -1,0 +1,1475 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: NewBlessings_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: f4cfff6834414d54eb2d4ddde52f4900, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2105433060097654806
+  m_TableData:
+  - m_Id: 1054480997097474
+    m_Localized: Whenever you gain Strength, gain {0} more
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 1054480997097473
+    m_Localized: Force Catalyst
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 1077412796375040
+    m_Localized: Shield Materializer
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 1077412821540864
+    m_Localized: Whenever this Mystling gains <smallcaps><style="Blue">Shields</style></smallcaps>,
+      it gains {Effect0.ValueInt} more
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 1077412825735172
+    m_Localized: Ancient Shield
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 1077412825735173
+    m_Localized: 'Start of Battle: This Mystling gains {Effect0.ValueInt} <smallcaps><style="Blue">Shields</style></smallcaps>'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 1077412825735174
+    m_Localized: Glarexus Armor
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 1077412825735175
+    m_Localized: 'Start of Round: This Mystling gains {Effect0.ValueInt} <smallcaps><style="Blue">Shields</style></smallcaps>'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 2097134497243153
+    m_Localized: Symbiotic Flower
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 2097134497243154
+    m_Localized: 'When this Mystling is <smallcaps><style="Blue">hurt</style></smallcaps>:
+      <style="Blue">Draw</style> {Effect0.ValueInt} card'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 2097134497243159
+    m_Localized: Backup Deck
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 2097134497243160
+    m_Localized: 'Start of Battle: <style="Blue">Draw</style> {Effect0.ValueInt}
+      cards'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 2097134497243161
+    m_Localized: Energy Materializer
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 2097134497243162
+    m_Localized: 'Start of Battle: Gain {Effect0.ValueInt} <style="Blue">Energy</style>'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 2097134497243163
+    m_Localized: Energy Absorber
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 2097134497243164
+    m_Localized: '<style="Blue">Knock Out</style>: <style="Blue">Reduce Energy cost</style>
+      of next card drawn by {Effect0.ValueIntAbs}'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 2153463886757888
+    m_Localized: Heart-shaped Crystal
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 2153463916118016
+    m_Localized: <style="Blue">Permanently increase</style> Max Health of this Mystling
+      by {Blessing.MapEffects.ChangeMaxHealth}
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 2153463916118019
+    m_Localized: Red-Ink Pen
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 2153463916118020
+    m_Localized: 'Every 10th card drawn: <style="Blue">Reduce</style> its <style="Blue">cost</style>
+      by {Effect0.ValueIntAbs} until the end of Round'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 32593217694277632
+    m_Localized: When this Mystling <smallcaps><style="Blue">Activates</style></smallcaps>
+      it applies {Effect0.ValueInt} <smallcaps><style="Blue">Shields</style></smallcaps>
+      to the front Mystling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 7139979398553600
+    m_Localized: Heavy Amulet
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 7139979423719424
+    m_Localized: 'Every time this Mystling is <smallcaps><style="Blue">hurt</style></smallcaps>:
+      it gains {Effect0.ValueInt} <smallcaps><style="Blue">Strength</style></smallcaps>'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 11226257450672128
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 11226257471643648
+    m_Localized: 'Every 5th: Mystling behind strikes'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 11226257471643649
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 11226257471643650
+    m_Localized: 'Every 10th Activation: Front Mystling strikes'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 11226257471643653
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 11226257471643654
+    m_Localized: 'Every 5th Strike: Attack all enemies'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 11226257471643655
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 11226257471643656
+    m_Localized: 'Hurt: Add a card to Discard Pile'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 11226257471643657
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 11226257471643658
+    m_Localized: 'Every 5th card played: Draw 1'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 11226257475837952
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 11226257475837953
+    m_Localized: 'Shields gained: Draw 1'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 11226257475837954
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 11226257475837955
+    m_Localized: 'Vulnerable applied to an enemy: Increase Power by 1'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 11226257475837956
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 11226257475837957
+    m_Localized: 'Hurt: Apply 2 Vulnerable to front enemy'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 11228053451644928
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 11228053451644929
+    m_Localized: 'Every 10th Strike: Other Mystlings strike'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 11230838310117376
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 11230838331088896
+    m_Localized: 'Every 5th Strike: Mystling behind strikes'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 11230838331088897
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 11230838331088898
+    m_Localized: 'Every 10th Activation: Front Mystling strikes'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 11230838331088899
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 11230838331088900
+    m_Localized: 'Every 10th Strike: Other Mystlings strike'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 11230838331088901
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 11230838331088902
+    m_Localized: 'Every 5th Strike: Attack all enemies'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 11230838331088903
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 11230838331088904
+    m_Localized: 'Hurt: Add Blind Anger card to Discard Pile'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 11230838331088905
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 11230838331088906
+    m_Localized: 'Every 5th card played: Draw 1'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 11230838331088907
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 11230838331088908
+    m_Localized: 'Shields gained: Draw 1'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 11230838331088909
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 11230838331088910
+    m_Localized: 'Vulnerable applied to an enemy: Increase Power by 1'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 11230838331088911
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 11230838331088912
+    m_Localized: 'Hurt: Apply 2 Vulnerable to front enemy'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12196354172461056
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12196354193432576
+    m_Localized: 'Every 5th Strike: Mystling behind strikes'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12196354193432577
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12196354193432578
+    m_Localized: 'Every 6th Activation: Front Mystling strikes'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12196354193432579
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12196354193432580
+    m_Localized: 'Every 7th Strike: Other Mystlings strike'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12196354193432581
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12196354193432582
+    m_Localized: 'Every 9th Strike: Attack all enemies'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12196354193432583
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12196354193432584
+    m_Localized: 'Hurt: Add Blind Anger card to Discard Pile'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12196354193432585
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12196354193432586
+    m_Localized: 'Every 5th card played: Draw 1'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12196354193432587
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12196354193432588
+    m_Localized: 'Shields gained: Draw 1'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12196354193432589
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12196354193432590
+    m_Localized: 'Vulnerable applied to an enemy: Increase Power by 1'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12196354193432591
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12196354193432592
+    m_Localized: 'Hurt: Apply 2 Vulnerable to front enemy'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12312627640344576
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12312627669704704
+    m_Localized: First card played on this Mystling is played twice
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12312627669704705
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12312627669704706
+    m_Localized: 'After activation: Decrease random card cost in hand by 1 '
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12312627669704707
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12312627669704708
+    m_Localized: Evolve Mystling instantly. It can't obtain any more Blessings
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12312627669704709
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12312627669704710
+    m_Localized: Copies ability of Blessing to the right
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12312627669704711
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12312627669704712
+    m_Localized: Copies ability of Blessing to the left
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12312627669704713
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12312627669704714
+    m_Localized: Gain 2 Multistrike permanently. Set Power to 1. Can't receive Strength
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12320229292097536
+    m_Localized: Orb of the Eighth
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12320229313069056
+    m_Localized: <style="Blue">First card</style> played on this Mystling is <style="Blue">triggered
+      twice</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12320229313069059
+    m_Localized: Evolver
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12320229313069060
+    m_Localized: <style="Blue">Evolve</style> this Mystling instantly. It <style="Blue">can't
+      obtain</style> more Blessings
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12320229313069061
+    m_Localized: Empty Scroll
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12320229313069062
+    m_Localized: <style="Blue">Duplicate next</style> Blessing this Mystling receives
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12320229313069063
+    m_Localized: Tabula Rasa
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12320229313069064
+    m_Localized: <style="Blue">Duplicates previous</style> Blessing this Mystling
+      received
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12320229313069065
+    m_Localized: Whistling Mask
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12320229313069066
+    m_Localized: This Mystling permanently gains <smallcaps><style="Blue">Multistrike</style></smallcaps>
+      {Effect0.ValueInt}. Can't receive <smallcaps><style="Blue">Strength</smallcaps></style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12572487837622272
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12572487858593792
+    m_Localized: 'Knock Out: Increase Power by 1 permanently'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12572487858593793
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12572487858593794
+    m_Localized: 'Any Creature faints: Activate twice'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12572487858593795
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12572487858593796
+    m_Localized: 'Any Creature faints: Strike'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12572487858593797
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12572487858593798
+    m_Localized: 'Faint: Gain {0} Mystberries'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12572487858593799
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12572487858593800
+    m_Localized: Gain 1 Multistrike permanently. Can't obtain any more Blessings
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12572487858593801
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12572487858593802
+    m_Localized: 'Faint: Heal other Mystlings for {0} Health'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12572487858593803
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12572487858593804
+    m_Localized: 'Every 5th Strike: Gain {0} Energy'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12572487858593805
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12572487858593806
+    m_Localized: 'Every 4th Strike: Strike again'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12572487858593807
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12572487858593808
+    m_Localized: 'Every 3rd Strike: Draw {0}'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12572487858593809
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12572487858593810
+    m_Localized: 'Every 5th Hit: Gain {0} Energy'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12572487858593811
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12572487858593812
+    m_Localized: 'Every 10th Activation: Gain {0} Energy'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12572487858593813
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12572487858593814
+    m_Localized: 'Knock Out: Gain {0} Mystberries'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12572487858593815
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12572487858593816
+    m_Localized: 'Every 5th Activation: Activate'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12572487858593817
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12572487858593818
+    m_Localized: 'Every 3rd Hit: Draw {0}'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12572487858593819
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12572487858593820
+    m_Localized: Keep Strength at the start of your turn. Reduce Max Health to 5
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12572487858593821
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12572487858593822
+    m_Localized: 'Every 3rd Card Played: Activate'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12572487858593823
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12572487858593824
+    m_Localized: 'Every 3rd Card Played: Activate'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12572487858593825
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12572487858593826
+    m_Localized: 'Every 3rd Card Played: Gain {0} Energy'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12572487858593827
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12572487858593828
+    m_Localized: 'Faint: Gain {0} Energy next round'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12572487858593829
+    m_Localized: New Blessing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12572487858593830
+    m_Localized: 'Increase Power by 10 permanently. Start of Battle: Deal 5 damage
+      to a random Mystling'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12574292898291712
+    m_Localized: Smithing Hammer
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12574292919263232
+    m_Localized: 'Every 3rd <style="Blue">Knock Out</style>: Permanently increase
+      <style="Blue">Power</style> of this Mystling by {Effect0.ValueInt}'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12574292919263233
+    m_Localized: Soul Twine
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12574292919263234
+    m_Localized: When any Creature <style="Blue">faints</style> this Mystling <smallcaps><style="Blue">Activates</style></smallcaps>
+      twice
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12574292919263237
+    m_Localized: Emergency Bag
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12574292919263238
+    m_Localized: 'When this Mystling <style="Blue">Faints</style>: Gain {Effect0.ValueInt}
+      Mystberries'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12574292919263239
+    m_Localized: Aerial Shell
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12574292919263240
+    m_Localized: Permanently add {Effect0.ValueInt} <smallcaps><style="Blue">Multistrike</style></smallcaps>.
+      All other Blessings on this Mystling are disabled
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12574292919263241
+    m_Localized: Life Ornament
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12574292919263242
+    m_Localized: 'When this Mystling <style="Blue">Faints</style>: <style="Blue">Heal</style>
+      other Mystlings for {Effect0.ValueInt} Health'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12574292919263243
+    m_Localized: Perpetuum Mobile
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12574292919263244
+    m_Localized: 'Every <style="Blue">5th Attack</style> of this Mystling: <style="Blue">Reduce
+      Energy cost</style> of the next card drawn by {Effect0.ValueIntAbs}'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12574292919263247
+    m_Localized: Cards Stockbook
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12574292919263248
+    m_Localized: <style="Blue">Draw</style> {Effect0.ValueInt} Card on every <style="Blue">3rd
+      Attack</style> of this Mystling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12574292919263249
+    m_Localized: Glowing Box
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12574292919263250
+    m_Localized: 'Every 5th time this Mystling is <smallcaps><style="Blue">hurt</style></smallcaps>:
+      Gain {Effect0.ValueInt} <style="Blue">Energy</style> next round'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12574292919263251
+    m_Localized: Blue Candle
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12574292919263252
+    m_Localized: 'Every 10th <smallcaps><style="Blue">Activation</style></smallcaps>
+      of this Mystling: <style="Blue">Reduce Energy cost</style> of the next card
+      drawn by {Effect0.ValueIntAbs}'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12574292919263253
+    m_Localized: Thief's Mask
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12574292919263254
+    m_Localized: '<style="Blue">Knock Out</style>: Gain {Effect0.ValueInt} Mystberry'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12574292919263257
+    m_Localized: Odd Weight
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12574292919263258
+    m_Localized: 'Every 3rd time this Mystling is <style="Blue">attacked</style>:
+      <style="Blue">Draw</style> {Effect0.ValueInt}'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12574292919263259
+    m_Localized: Infernal Root
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12574292919263260
+    m_Localized: This Mystling keeps <smallcaps><style="Blue">Strength</style></smallcaps>
+      at the start of your Round
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12574292919263267
+    m_Localized: Smooth Stone
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12574292919263268
+    m_Localized: 'When this Mystling <style="Blue">Faints</style>: Gain {Effect0.ValueInt}
+      <style="Blue">Energy</style> next round'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12574292919263269
+    m_Localized: Unidentified Feather
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12574292919263270
+    m_Localized: 'Permanently increase <style="Blue">Power</style> of this Mystling
+      by {Blessing.MapEffects.ChangePower}. Start of Battle: <style="Blue">Wound</style>
+      this Mystling for {Effect0.ValueInt} <style="Blue">damage</style>'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12616652625616898
+    m_Localized: Ancient Idol
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12616652625616899
+    m_Localized: 'Start of Battle: This Mystling gains <smallcaps><style="Blue">Shields</style></smallcaps>
+      equal to number of your Mystberries'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12616652625616900
+    m_Localized: Mystic Horn
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12616652625616901
+    m_Localized: This Mystling gains {Effect0.ValueInt} <smallcaps><style="Blue">Power</style></smallcaps>
+      after any of your Mystlings <style="Blue">faints</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12616652625616902
+    m_Localized: Titanium Bead
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12616652625616903
+    m_Localized: 'Start of Battle: Increase <style="Blue">Power</style> of this Mystling
+      by {Effect0.AdditionalValueString} for every other Mystling alive'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12616652625616904
+    m_Localized: Raging Twig
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 12616652625616905
+    m_Localized: 'Start of Battle: This Mystling gains 0-10 (random) <smallcaps><style="Blue">Strength</style></smallcaps>'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 13316158157602816
+    m_Localized: Floating Stone
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 13316158174380032
+    m_Localized: 'Start of Battle: Apply {Effect0.ValueInt} <smallcaps><style="Blue">Insulate</style></smallcaps>
+      to this Mystling'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 13353743697428480
+    m_Localized: Evil Agreement
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 13353743722594304
+    m_Localized: <style="Blue">Permanently increase</style> Max Health of this Mystling
+      by {Blessing.MapEffects.ChangeMaxHealth}. This Mystling can't be <smallcaps><style="Blue">revived</style></smallcaps>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 13356556225724416
+    m_Localized: Safety Collar
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 13356556225724417
+    m_Localized: 'Start of Battle: Gain {Effect0.AdditionalValueString} <smallcaps><style="Blue">Shields</style></smallcaps>
+      for every Blessing equipped to this Mystling'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 13359693867106304
+    m_Localized: Ointment Bottle
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 13359693867106305
+    m_Localized: <smallcaps><style="Blue">Reviving</style></smallcaps> this Mystling
+      (after Battle) is free
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 13363163160494080
+    m_Localized: Howling Talon
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 13363163160494081
+    m_Localized: Increase <style="Blue">Power</style> of this Mystling by {Blessing.Charges}.
+      <style="Blue">Decrease</style> this value by {Effect1.ValueIntAbs} <style="Blue">after
+      each Battle</style> until it reaches {Effect0.AdditionalValueString}
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 15183072714670080
+    m_Localized: Power Fruit
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 15183072739835904
+    m_Localized: Permanently increase <style="Blue">Power</style> of this Mystling
+      by {Blessing.MapEffects.ChangePower}
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 15183072744030222
+    m_Localized: Fire Ashes
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 15183072744030223
+    m_Localized: 'After <smallcaps><style="Blue">Revive</style></smallcaps>: Permanently
+      increase <style="Blue">Power</style> of this Mystling by {Effect0.ValueInt}'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 15183072744030224
+    m_Localized: Green Cap
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 15183072744030225
+    m_Localized: '<style="Blue">Faint</style>: <smallcaps><style="Blue">Revive</style></smallcaps>
+      this Mystling with <style="Blue">full Health</style>. Works only once '
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 15183072744030242
+    m_Localized: Cobalt Button
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 15183072744030243
+    m_Localized: Every time this Mystling gains <smallcaps><style="Blue">Shields</style></smallcaps>,
+      it deals {Effect0.ValueInt} <style="Blue">damage</style> to a random Enemy
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 28242725364084736
+    m_Localized: Force Catalyst
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 28242725380861952
+    m_Localized: Whenever this Mystling gains <smallcaps><style="Blue">Strength</style></smallcaps>,
+      it gains {Effect0.ValueInt} more
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 30751376074194944
+    m_Localized: Helping Dagger
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 30751376099360768
+    m_Localized: Each time this Mystling <smallcaps><style="Blue">Activates</style></smallcaps>
+      it applies {Effect0.ValueInt} <smallcaps><style="Blue">Vulnerable</style></smallcaps>
+      to Random Enemy
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 30751376099360769
+    m_Localized: Poisoned Totem
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 30751376099360770
+    m_Localized: After this Mystling attacks, it applies {Effect0.ValueInt} <smallcaps><style="Blue">Vulnerable</style></smallcaps>
+      to attacked Enemy
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 30751376099360771
+    m_Localized: Herb Bag
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 30751376099360772
+    m_Localized: 'When this Mystling is <style="Blue">attacked</style>: <style="Blue">Heal</style>
+      {Effect0.ValueInt} Health of the Mystling behind'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 30751376099360773
+    m_Localized: Anger Connector
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 30751376099360774
+    m_Localized: When this Mystling <style="Blue">Faints</style> it applies {Effect0.ValueInt}
+      <smallcaps><style="Blue">Vulnerable</style></smallcaps> to Enemy that defeated
+      it
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 30751376099360775
+    m_Localized: Life Absorber
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 30751376099360776
+    m_Localized: '<style="Blue">Knock Out</style>: <style="Blue">Permanently increase</style>
+      Max Health of this Mystling by {Effect0.ValueInt}'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 30751376099360777
+    m_Localized: Cursed Earing
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 30751376099360778
+    m_Localized: When this Mystling is <style="Blue">attacked</style> it applies
+      {Effect0.ValueInt} <smallcaps><style="Blue">Vulnerable</style></smallcaps>
+      to the front Enemy
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 30751376099360779
+    m_Localized: Fiery Aura
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 30751376099360780
+    m_Localized: When this Mystling is <smallcaps><style="Blue">hurt</style></smallcaps>
+      it applies {Effect0.ValueInt} <smallcaps><style="Blue">Vulnerable</style></smallcaps>
+      to all Enemies
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 30751376099360781
+    m_Localized: Silk Cape
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 30751376099360782
+    m_Localized: 'Whenever this Mystling''s <smallcaps><style="Blue">Shields</style></smallcaps>
+      are blocking <style="Blue">damage</style>: Deal {Effect0.ValueInt} <style="Blue">damage</style>
+      to a random Enemy'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 30751376099360783
+    m_Localized: Primitive Hand Fan
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 30751376099360784
+    m_Localized: This Mystling always <style="Blue">targets the last Enemy</style>
+      when <style="Blue">attacking</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 30751376099360785
+    m_Localized: Crispy Snack
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 30751376099360786
+    m_Localized: 'End of Battle: <smallcaps><style="Blue">Heal</style></smallcaps>
+      this Mystling for {Effect0.ValueInt} <style="Blue">Health</style>'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 30751376099360787
+    m_Localized: Deep Pouch
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 30751376099360788
+    m_Localized: 'End of Battle: Gain {Effect0.ValueInt} <style="Blue">Mystberries</style>'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 30751376099360789
+    m_Localized: Wisdom Ruby
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 30751376099360790
+    m_Localized: 'Every 2nd <smallcaps><style="Blue">Activation</style></smallcaps>
+      of this Mystling: Apply {Effect0.ValueInt} <smallcaps><style="Blue">Strength</style></smallcaps>
+      to Mystling ahead'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 30751376099360791
+    m_Localized: Life Seed
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 30751376099360792
+    m_Localized: 'Every 5th <smallcaps><style="Blue">Activation</style></smallcaps>
+      of this Mystling: <style="Blue">Heal</style> Mystling with lowest Health for
+      {Effect0.ValueInt}'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 30751376099360793
+    m_Localized: Bottled Tornado
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 30751376099360794
+    m_Localized: 'Start of Battle: Increase <style="Blue">Power</style> of this Mystling
+      by {Effect0.AdditionalValueString} for every other Mystling fainted'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 30751376099360795
+    m_Localized: Reinforced Plate
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 30751376099360796
+    m_Localized: 'When this Mystling fully blocks an <style="Blue">Attack</style>:
+      <style="Blue">Draw</style> {Effect0.ValueInt} card'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 32593139952852992
+    m_Localized: Holy Shield
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 39054421041029120
+    m_Localized: Rage Doubler
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 39054421053612032
+    m_Localized: '<style="Blue">Knock Out</style>: Double <smallcaps><style="Blue">Strength</style></smallcaps>'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 39054421053612033
+    m_Localized: All-seeing Eye
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  - m_Id: 39054421053612034
+    m_Localized: 'Every 5th <smallcaps><style="Blue">Activation</style></smallcaps>
+      of this Mystling: Reduce <style="Blue">Energy</style> cost of a random card
+      in your hand by {Effect0.ValueIntAbs} until the end of Round'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654806
+  references:
+    version: 2
+    RefIds:
+    - rid: 2105433060097654806
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 1054480997097474
+        - id: 1054480997097473
+        - id: 1077412796375040
+        - id: 1077412821540864
+        - id: 1077412825735172
+        - id: 1077412825735173
+        - id: 1077412825735174
+        - id: 1077412825735175
+        - id: 2097134497243153
+        - id: 2097134497243154
+        - id: 2097134497243159
+        - id: 2097134497243160
+        - id: 2097134497243161
+        - id: 2097134497243162
+        - id: 2097134497243163
+        - id: 2097134497243164
+        - id: 2153463886757888
+        - id: 2153463916118016
+        - id: 2153463916118019
+        - id: 2153463916118020
+        - id: 32593217694277632
+        - id: 7139979398553600
+        - id: 7139979423719424
+        - id: 11226257450672128
+        - id: 11226257471643648
+        - id: 11226257471643649
+        - id: 11226257471643650
+        - id: 11226257471643653
+        - id: 11226257471643654
+        - id: 11226257471643655
+        - id: 11226257471643656
+        - id: 11226257471643657
+        - id: 11226257471643658
+        - id: 11226257475837952
+        - id: 11226257475837953
+        - id: 11226257475837954
+        - id: 11226257475837955
+        - id: 11226257475837956
+        - id: 11226257475837957
+        - id: 11228053451644928
+        - id: 11228053451644929
+        - id: 11230838310117376
+        - id: 11230838331088896
+        - id: 11230838331088897
+        - id: 11230838331088898
+        - id: 11230838331088899
+        - id: 11230838331088900
+        - id: 11230838331088901
+        - id: 11230838331088902
+        - id: 11230838331088903
+        - id: 11230838331088904
+        - id: 11230838331088905
+        - id: 11230838331088906
+        - id: 11230838331088907
+        - id: 11230838331088908
+        - id: 11230838331088909
+        - id: 11230838331088910
+        - id: 11230838331088911
+        - id: 11230838331088912
+        - id: 12196354172461056
+        - id: 12196354193432576
+        - id: 12196354193432577
+        - id: 12196354193432578
+        - id: 12196354193432579
+        - id: 12196354193432580
+        - id: 12196354193432581
+        - id: 12196354193432582
+        - id: 12196354193432583
+        - id: 12196354193432584
+        - id: 12196354193432585
+        - id: 12196354193432586
+        - id: 12196354193432587
+        - id: 12196354193432588
+        - id: 12196354193432589
+        - id: 12196354193432590
+        - id: 12196354193432591
+        - id: 12196354193432592
+        - id: 12312627640344576
+        - id: 12312627669704704
+        - id: 12312627669704705
+        - id: 12312627669704706
+        - id: 12312627669704707
+        - id: 12312627669704708
+        - id: 12312627669704709
+        - id: 12312627669704710
+        - id: 12312627669704711
+        - id: 12312627669704712
+        - id: 12312627669704713
+        - id: 12312627669704714
+        - id: 12320229292097536
+        - id: 12320229313069056
+        - id: 12320229313069059
+        - id: 12320229313069060
+        - id: 12320229313069061
+        - id: 12320229313069062
+        - id: 12320229313069063
+        - id: 12320229313069064
+        - id: 12320229313069065
+        - id: 12320229313069066
+        - id: 12572487837622272
+        - id: 12572487858593792
+        - id: 12572487858593793
+        - id: 12572487858593794
+        - id: 12572487858593795
+        - id: 12572487858593796
+        - id: 12572487858593797
+        - id: 12572487858593798
+        - id: 12572487858593799
+        - id: 12572487858593800
+        - id: 12572487858593801
+        - id: 12572487858593802
+        - id: 12572487858593803
+        - id: 12572487858593804
+        - id: 12572487858593805
+        - id: 12572487858593806
+        - id: 12572487858593807
+        - id: 12572487858593808
+        - id: 12572487858593809
+        - id: 12572487858593810
+        - id: 12572487858593811
+        - id: 12572487858593812
+        - id: 12572487858593813
+        - id: 12572487858593814
+        - id: 12572487858593815
+        - id: 12572487858593816
+        - id: 12572487858593817
+        - id: 12572487858593818
+        - id: 12572487858593819
+        - id: 12572487858593820
+        - id: 12572487858593821
+        - id: 12572487858593822
+        - id: 12572487858593823
+        - id: 12572487858593824
+        - id: 12572487858593825
+        - id: 12572487858593826
+        - id: 12572487858593827
+        - id: 12572487858593828
+        - id: 12572487858593829
+        - id: 12572487858593830
+        - id: 12574292898291712
+        - id: 12574292919263232
+        - id: 12574292919263233
+        - id: 12574292919263234
+        - id: 12574292919263237
+        - id: 12574292919263238
+        - id: 12574292919263239
+        - id: 12574292919263240
+        - id: 12574292919263241
+        - id: 12574292919263242
+        - id: 12574292919263243
+        - id: 12574292919263244
+        - id: 12574292919263247
+        - id: 12574292919263248
+        - id: 12574292919263249
+        - id: 12574292919263250
+        - id: 12574292919263251
+        - id: 12574292919263252
+        - id: 12574292919263253
+        - id: 12574292919263254
+        - id: 12574292919263257
+        - id: 12574292919263258
+        - id: 12574292919263259
+        - id: 12574292919263260
+        - id: 12574292919263267
+        - id: 12574292919263268
+        - id: 12574292919263269
+        - id: 12574292919263270
+        - id: 12616652625616898
+        - id: 12616652625616899
+        - id: 12616652625616900
+        - id: 12616652625616901
+        - id: 12616652625616902
+        - id: 12616652625616903
+        - id: 12616652625616904
+        - id: 12616652625616905
+        - id: 13316158157602816
+        - id: 13316158174380032
+        - id: 13353743697428480
+        - id: 13353743722594304
+        - id: 13356556225724416
+        - id: 13356556225724417
+        - id: 13359693867106304
+        - id: 13359693867106305
+        - id: 13363163160494080
+        - id: 13363163160494081
+        - id: 15183072714670080
+        - id: 15183072739835904
+        - id: 15183072744030222
+        - id: 15183072744030223
+        - id: 15183072744030224
+        - id: 15183072744030225
+        - id: 15183072744030242
+        - id: 15183072744030243
+        - id: 28242725364084736
+        - id: 28242725380861952
+        - id: 30751376074194944
+        - id: 30751376099360768
+        - id: 30751376099360769
+        - id: 30751376099360770
+        - id: 30751376099360771
+        - id: 30751376099360772
+        - id: 30751376099360773
+        - id: 30751376099360774
+        - id: 30751376099360775
+        - id: 30751376099360776
+        - id: 30751376099360777
+        - id: 30751376099360778
+        - id: 30751376099360779
+        - id: 30751376099360780
+        - id: 30751376099360781
+        - id: 30751376099360782
+        - id: 30751376099360783
+        - id: 30751376099360784
+        - id: 30751376099360785
+        - id: 30751376099360786
+        - id: 30751376099360787
+        - id: 30751376099360788
+        - id: 30751376099360789
+        - id: 30751376099360790
+        - id: 30751376099360791
+        - id: 30751376099360792
+        - id: 30751376099360793
+        - id: 30751376099360794
+        - id: 30751376099360795
+        - id: 30751376099360796
+        - id: 32593139952852992
+        - id: 39054421041029120
+        - id: 39054421053612032
+        - id: 39054421053612033
+        - id: 39054421053612034

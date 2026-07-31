@@ -1,0 +1,829 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: NewBlessings_pl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl
+  m_SharedData: {fileID: 11400000, guid: f4cfff6834414d54eb2d4ddde52f4900, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 8829885829830410409
+  m_TableData:
+  - m_Id: 39054421041029120
+    m_Localized: "Podwojenie zasi\u0119gu"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 39054421053612032
+    m_Localized: "<style=\"Blue\">Og\u0142uszenie</style>: podwaja <smallcaps><style=\"Blue\">si\u0142\u0119</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 1077412796375040
+    m_Localized: "Wzmacniacz os\u0142ony"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 1077412821540864
+    m_Localized: "Za ka\u017Cdym razem, kiedy ten mystling zyskuje <smallcaps><style=\"Blue\">os\u0142on\u0119</style></smallcaps>,
+      dostaje {Effect0.ValueInt} p. wi\u0119cej"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 1077412825735172
+    m_Localized: "Pradawna os\u0142ona"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 1077412825735173
+    m_Localized: "Pocz\u0105tek walki: ten mystling zyskuje {Effect0.ValueInt} p.
+      <smallcaps><style=\"Blue\">os\u0142ony</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 1077412825735174
+    m_Localized: Zbroja Glarexusa
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 1077412825735175
+    m_Localized: "Pocz\u0105tek rundy: ten mystling zyskuje {Effect0.ValueInt} p.
+      <smallcaps><style=\"Blue\">os\u0142ony</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 2097134497243159
+    m_Localized: Zapasowa talia
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 2097134497243160
+    m_Localized: "Pocz\u0105tek walki: <style=\"Blue\">dobierasz</style> {Effect0.ValueInt}
+      {Effect0.ValueIntInt:p:kart\u0119|karty|kart}"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12320229292097536
+    m_Localized: "Kula \xD3smego"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12320229313069056
+    m_Localized: <style="Blue">Pierwsza karta</style> zagrywana na tego mystlinga
+      jest <style="Blue">aktywowana dwukrotnie</style>
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12320229313069059
+    m_Localized: Ewolucjonista
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12320229313069060
+    m_Localized: "Ten mystling natychmiast <style=\"Blue\">ewoluuje</style>, ale
+      <style=\"Blue\">nie mo\u017Ce otrzyma\u0107</style> \u017Cadnych innych b\u0142ogos\u0142awie\u0144stw"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12320229313069061
+    m_Localized: "Pusty zw\xF3j"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12320229313069062
+    m_Localized: "<style=\"Blue\">Zduplikuj nast\u0119pne</style> b\u0142ogos\u0142awie\u0144stwo
+      otrzymane przez tego mystlinga"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12320229313069063
+    m_Localized: Tabula Rasa
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12320229313069064
+    m_Localized: "<style=\"Blue\">Duplikuje poprzednie</style> b\u0142ogos\u0142awie\u0144stwo
+      otrzymane przez tego mystlinga"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12320229313069065
+    m_Localized: "Gwi\u017Cd\u017C\u0105ca maska"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12320229313069066
+    m_Localized: "Ten mystling zyskuje na sta\u0142e <smallcaps><style=\"Blue\">wielocios</style></smallcaps>
+      {Effect0.ValueInt}. Nie mo\u017Ce otrzyma\u0107 <smallcaps><style=\"Blue\">si\u0142y</smallcaps></style>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12574292919263233
+    m_Localized: "Sp\u0119tanie dusz"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12574292919263234
+    m_Localized: "Kiedy dowolny stw\xF3r <style=\"Blue\">omdleje</style>, ten mystling
+      <smallcaps><style=\"Blue\">aktywuje si\u0119</style></smallcaps> dwukrotnie"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12574292919263237
+    m_Localized: Torba awaryjna
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12574292919263238
+    m_Localized: "Kiedy ten mystling <style=\"Blue\">omdleje</style>: zyskujesz {Effect0.ValueInt}
+      szt. mystjag\xF3d"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12574292919263241
+    m_Localized: "Znak \u017Cycia"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12574292919263242
+    m_Localized: "Kiedy ten mystling <style=\"Blue\">omdleje</style>: <style=\"Blue\">leczy</style>
+      pozosta\u0142ym mystlingom {Effect0.ValueInt} PZ"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12574292919263247
+    m_Localized: Zapas kart
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12574292919263248
+    m_Localized: "Przy ka\u017Cdym <style=\"Blue\">trzecim ataku</style> tego mystlinga
+      <style=\"Blue\">dobierz</style> {Effect0.ValueInt} {Effect0.ValueIntInt:p:kart\u0119|karty|kart}"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12574292919263267
+    m_Localized: "G\u0142adki kamie\u0144"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12574292919263268
+    m_Localized: 'Kiedy ten mystling <style="Blue">omdleje</style>: w kolejnej rundzie
+      zyskujesz {Effect0.ValueInt} p. <style="Blue">energii</style>'
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12616652625616898
+    m_Localized: "Prastary bo\u017Cek"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12616652625616899
+    m_Localized: "Pocz\u0105tek walki: ten mystling zyskuje tyle <smallcaps><style=\"Blue\">p.
+      os\u0142ony</style></smallcaps>, ile masz mystjag\xF3d"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12616652625616900
+    m_Localized: "Mistyczny r\xF3g"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12616652625616901
+    m_Localized: "Kiedy dowolny z twoich pozosta\u0142ych mystling\xF3w <style=\"Blue\">omdleje</style>,
+      ten mystling zyskuje {Effect0.ValueInt} p. <smallcaps><style=\"Blue\">mocy</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12616652625616904
+    m_Localized: "Ch\u0142oszcz\u0105ca r\xF3zga"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12616652625616905
+    m_Localized: "Pocz\u0105tek walki: ten mystling zyskuje od 0 do 10 (losowo) p.
+      <smallcaps><style=\"Blue\">si\u0142y</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 13359693867106304
+    m_Localized: "Pojemnik z ma\u015Bci\u0105"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 13359693867106305
+    m_Localized: "<smallcaps><style=\"Blue\">O\u017Cywienie</style></smallcaps> tego
+      mystlinga (po walce) jest darmowe"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 15183072714670080
+    m_Localized: Owoc mocy
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 15183072739835904
+    m_Localized: "Na sta\u0142e zwi\u0119ksza <style=\"Blue\">moc</style> tego mystlinga
+      o {Blessing.MapEffects.ChangePower}"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 15183072744030222
+    m_Localized: "Ognisty popi\xF3\u0142"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 15183072744030223
+    m_Localized: "Po <smallcaps><style=\"Blue\">o\u017Cywieniu</style></smallcaps>:
+      <style=\"Blue\">moc</style> tego mystlinga ro\u015Bnie na sta\u0142e o {Effect0.ValueInt}"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 15183072744030224
+    m_Localized: "G\u0105ska"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 15183072744030225
+    m_Localized: "<style=\"Blue\">Omdlenie</style>: <smallcaps><style=\"Blue\">o\u017Cywia</style></smallcaps>
+      tego mystlinga z <style=\"Blue\">pe\u0142nym zdrowiem</style>. Dzia\u0142a
+      tylko raz "
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 2153463886757888
+    m_Localized: "Kryszta\u0142 w kszta\u0142cie serca"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 2153463916118016
+    m_Localized: "<style=\"Blue\">Na sta\u0142e zwi\u0119ksza</style> maks. zdrowie
+      tego mystlinga o {Blessing.MapEffects.ChangeMaxHealth}"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 2097134497243163
+    m_Localized: "Poch\u0142aniacz energii"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 2097134497243164
+    m_Localized: "<style=\"Blue\">Og\u0142uszenie</style>: <style=\"Blue\">zmniejsza
+      koszt w energii</style> nast\u0119pnej dobranej karty o {Effect0.ValueIntAbs}"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 2097134497243161
+    m_Localized: Materializator energii
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 2097134497243162
+    m_Localized: "Pocz\u0105tek walki: zyskujesz {Effect0.ValueInt} p. <style=\"Blue\">energii</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 2153463916118019
+    m_Localized: "Pi\xF3ro z czerwonym atramentem"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 2153463916118020
+    m_Localized: "Co dziesi\u0105ta dobrana karta: do ko\u0144ca rundy <style=\"Blue\">koszt</style>
+      tej karty jest <style=\"Blue\">mniejszy</style> o {Effect0.ValueIntAbs}"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12616652625616902
+    m_Localized: Tytanowy koralik
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12616652625616903
+    m_Localized: "Pocz\u0105tek walki: ten mystling zyskuje {Effect0.AdditionalValueString}
+      p. <style=\"Blue\">mocy</style> za ka\u017Cdego innego \u017Cywego mystlinga"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 13316158157602816
+    m_Localized: "Lewituj\u0105cy kamie\u0144"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 13316158174380032
+    m_Localized: "Pocz\u0105tek walki: ten mystling otrzymuje {Effect0.ValueInt}
+      izolacj\u0119<smallcaps><style=\"Blue\">"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 13356556225724416
+    m_Localized: "Ko\u0142nierz ochronny"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 13356556225724417
+    m_Localized: "Pocz\u0105tek walki: ten mystling zyskuje {Effect0.AdditionalValueString}
+      p. <smallcaps><style=\"Blue\">os\u0142ony</style></smallcaps> za ka\u017Cde
+      aktywne na nim b\u0142ogos\u0142awie\u0144stwo"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 13363163160494080
+    m_Localized: "Skowycz\u0105cy szpon"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 13363163160494081
+    m_Localized: "Zwi\u0119ksza <style=\"Blue\">moc</style> tego mystlinga o {Blessing.Charges}.
+      Warto\u015B\u0107 ta <style=\"Blue\">maleje</style> o {Effect1.ValueIntAbs}
+      <style=\"Blue\">po ka\u017Cdej walce</style>, a\u017C do {Effect0.AdditionalValueString}"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 13353743697428480
+    m_Localized: "Pakt ze z\u0142em"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 13353743722594304
+    m_Localized: "<style=\"Blue\">Na sta\u0142e zwi\u0119ksza</style> maks. zdrowie
+      tego mystlinga o {Blessing.MapEffects.ChangeMaxHealth}. Tego mystlinga nie
+      mo\u017Cna <smallcaps><style=\"Blue\">o\u017Cywi\u0107</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 7139979398553600
+    m_Localized: "Ci\u0119\u017Cki amulet"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 7139979423719424
+    m_Localized: "Za ka\u017Cdym razem, kiedy ten mystling zostaje <smallcaps><style=\"Blue\">zraniony</style></smallcaps>,
+      zyskuje {Effect0.ValueInt} p. <smallcaps><style=\"Blue\">si\u0142y</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 39054421053612033
+    m_Localized: "Wszechwidz\u0105ce oko"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 39054421053612034
+    m_Localized: "Co pi\u0105t\u0105 <smallcaps><style=\"Blue\">aktywacj\u0119</style></smallcaps>
+      tego mystlinga: do ko\u0144ca rundy zmniejsza koszt w <style=\"Blue\">energii</style>
+      losowej karty w twojej r\u0119ce o {Effect0.ValueIntAbs}"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12574292898291712
+    m_Localized: "M\u0142otek kowalski"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12574292919263232
+    m_Localized: "Co trzecie <style=\"Blue\">og\u0142uszenie</style>: <style=\"Blue\">moc</style>
+      tego mystlinga ro\u015Bnie na sta\u0142e o {Effect0.ValueInt}"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12574292919263239
+    m_Localized: Powietrzna skorupa
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12574292919263240
+    m_Localized: "Dodaje na sta\u0142e {Effect0.ValueIntInt} <smallcaps><style=\"Blue\">{Effect0.ValueIntInt:p:wielocios|wielociosy|wielocios\xF3w}</style></smallcaps>.
+      Ten mystling traci wszystkie pozosta\u0142e b\u0142ogos\u0142awie\u0144stwa"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12574292919263243
+    m_Localized: Perpetuum mobile
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12574292919263244
+    m_Localized: "Co <style=\"Blue\">pi\u0105ty</style> atak tego mystlinga: <style=\"Blue\">zmniejsza
+      koszt w energii</style> nast\u0119pnej dobranej karty o {Effect0.ValueIntAbs}"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12574292919263249
+    m_Localized: "L\u015Bni\u0105ce pude\u0142ko"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12574292919263250
+    m_Localized: "Co pi\u0105ty raz, kiedy ten mystling zostaje <smallcaps><style=\"Blue\">zraniony</style></smallcaps>:
+      w nast\u0119pnej rundzie zyskasz {Effect0.ValueInt} p. <style=\"Blue\">energii</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12574292919263251
+    m_Localized: "Niebieska \u015Bwieca"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12574292919263252
+    m_Localized: "Co dziesi\u0105ta <smallcaps><style=\"Blue\">aktywacja</style></smallcaps>
+      tego mystlinga: <style=\"Blue\">zmniejsza koszt w energii</style> nast\u0119pnej
+      dobranej karty o {Effect0.ValueIntAbs}"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12574292919263253
+    m_Localized: "Maska z\u0142odzieja"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12574292919263254
+    m_Localized: "<style=\"Blue\">Og\u0142uszenie</style>: zyskujesz {Effect0.ValueInt}
+      szt. mystjag\xF3d"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12574292919263257
+    m_Localized: Dziwna waga
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12574292919263258
+    m_Localized: 'Co trzeci raz, kiedy ten mystling zostaje <style="Blue">zaatakowany</style>:
+      <style="Blue">dobierasz</style> {Effect0.ValueInt}'
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12574292919263259
+    m_Localized: "Piekielny korze\u0144"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12574292919263260
+    m_Localized: "Ten mystling zachowuje <smallcaps><style=\"Blue\">si\u0142\u0119</style></smallcaps>
+      na pocz\u0105tku twojej rundy"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 15183072744030242
+    m_Localized: Kobaltowy guzik
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 15183072744030243
+    m_Localized: "Za ka\u017Cdym razem, kiedy ten mystling zyskuje <smallcaps><style=\"Blue\">os\u0142on\u0119</style></smallcaps>,
+      zadaje losowemu wrogowi {Effect0.ValueInt} p. <style=\"Blue\">obra\u017Ce\u0144</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12574292919263269
+    m_Localized: "Nieznane pi\xF3ro"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 12574292919263270
+    m_Localized: "Na sta\u0142e zwi\u0119ksza <style=\"Blue\">moc</style> tego mystlinga
+      o {Blessing.MapEffects.ChangePower}. Pocz\u0105tek walki: <style=\"Blue\">rani</style>
+      tego mystlinga za {Effect0.ValueInt} p. <style=\"Blue\">obra\u017Ce\u0144</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 28242725364084736
+    m_Localized: "Katalizator si\u0142y"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 28242725380861952
+    m_Localized: "Za ka\u017Cdym razem, kiedy ten mystling zyskuje <smallcaps><style=\"Blue\">si\u0142\u0119</style></smallcaps>,
+      dostaje {Effect0.ValueInt} p. wi\u0119cej"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 30751376074194944
+    m_Localized: Pomocny sztylet
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 30751376099360768
+    m_Localized: "Przy ka\u017Cdej <smallcaps><style=\"Blue\">aktywacji</style></smallcaps>
+      ten mystling daje losowemu wrogowi {Effect0.ValueInt}bezbronno\u015B\u0107<smallcaps><style=\"Blue\">"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 30751376099360769
+    m_Localized: Zatruty totem
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 30751376099360770
+    m_Localized: "Po przeprowadzeniu ataku ten mystling daje losowemu wrogowi {Effect0.ValueInt}
+      bezbronno\u015B\u0107<smallcaps><style=\"Blue\">"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 30751376099360771
+    m_Localized: "Torba z zio\u0142ami"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 30751376099360772
+    m_Localized: "Kiedy ten mystling zostaje <style=\"Blue\">zaatakowany</style>:
+      <style=\"Blue\">leczy</style> mystlingowi za sob\u0105 {Effect0.ValueInt} PZ"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 30751376099360773
+    m_Localized: "Powi\u0119\u017A gniewu"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 30751376099360774
+    m_Localized: "Kiedy ten mystling <style=\"Blue\">omdlewa</style>, daje {Effect0.ValueInt}
+      p. <smallcaps><style=\"Blue\">bezbronno\u015Bci</style></smallcaps> wrogowi,
+      kt\xF3ry go pokona\u0142"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 30751376099360775
+    m_Localized: "Poch\u0142aniacz \u017Cycia"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 30751376099360776
+    m_Localized: "<style=\"Blue\">Og\u0142uszenie</style>: maks. zdrowie tego mystlinga
+      <style=\"Blue\">ro\u015Bnie na sta\u0142e</style> o {Effect0.ValueInt}"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 30751376099360777
+    m_Localized: "Przekl\u0119ty kolczyk"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 30751376099360778
+    m_Localized: "Kiedy ten mystling zostaje <style=\"Blue\">zaatakowany</style>,
+      daje wrogowi z przodu {Effect0.ValueInt} p. <smallcaps><style=\"Blue\">bezbronno\u015Bci</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 30751376099360779
+    m_Localized: Ognista aura
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 30751376099360780
+    m_Localized: "Kiedy ten mystling zostaje <smallcaps><style=\"Blue\">zraniony</style></smallcaps>,
+      daje wszystkim wrogom {Effect0.ValueInt} p. <smallcaps><style=\"Blue\">bezbronno\u015Bci</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 30751376099360781
+    m_Localized: "Jedwabna opo\u0144cza"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 30751376099360782
+    m_Localized: "Za ka\u017Cdym razem, kiedy <smallcaps><style=\"Blue\">os\u0142ona</style></smallcaps>
+      tego mystlinga blokuje <style=\"Blue\">obra\u017Cenia</style>: zadaje {Effect0.ValueInt}
+      p. <style=\"Blue\">obra\u017Ce\u0144</style> losowemu wrogowi"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 30751376099360783
+    m_Localized: Prymitywny wachlarz
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 30751376099360784
+    m_Localized: Kiedy ten mystling </style>atakuje<style="Blue">, zawsze <style="Blue">wybiera
+      ostatniego wroga</style>
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 30751376099360785
+    m_Localized: "Chrupka przek\u0105ska"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 30751376099360786
+    m_Localized: 'Koniec walki: <smallcaps><style="Blue">ulecz</style></smallcaps>
+      temu mystlingowi {Effect0.ValueInt} p. <style="Blue">zdrowia</style>'
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 30751376099360787
+    m_Localized: "G\u0142\u0119boka sakwa"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 30751376099360788
+    m_Localized: "Koniec walki: zyskujesz {Effect0.ValueInt} szt. <style=\"Blue\">mystjag\xF3d</style>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 30751376099360789
+    m_Localized: "Rubin m\u0105dro\u015Bci"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 30751376099360790
+    m_Localized: "Co drug\u0105 <smallcaps><style=\"Blue\">aktywacj\u0119</style></smallcaps>
+      tego mystlinga: daj mystlingowi przed sob\u0105 {Effect0.ValueInt} p. <smallcaps><style=\"Blue\">si\u0142y</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 30751376099360791
+    m_Localized: "Nasionko \u017Cycia"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 30751376099360792
+    m_Localized: "Co pi\u0105t\u0105 <smallcaps><style=\"Blue\">aktywacj\u0119</style></smallcaps>
+      tego mystlinga: <style=\"Blue\">ulecz</style> {Effect0.ValueInt} PZ mystlingowi
+      z najni\u017Cszym zdrowiem"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 30751376099360793
+    m_Localized: Burza w butelce
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 30751376099360794
+    m_Localized: "Pocz\u0105tek walki: ten mystling zyskuje {Effect0.AdditionalValueString}
+      p. <style=\"Blue\">mocy</style> za ka\u017Cdego innego omdla\u0142ego mystlinga"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 30751376099360795
+    m_Localized: "Wzmocniona p\u0142yta"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 30751376099360796
+    m_Localized: "Kiedy ten mystling w pe\u0142ni zablokuje <style=\"Blue\">atak</style>:
+      <style=\"Blue\">dobierz</style> {Effect0.ValueInt} kart\u0119"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 2097134497243153
+    m_Localized: Symbiotyczny kwiat
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 2097134497243154
+    m_Localized: "Kiedy ten mystling zostaje <smallcaps><style=\"Blue\">zraniony</style></smallcaps>:
+      <style=\"Blue\">dobierz</style> {Effect0.ValueInt} kart\u0119"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 32593139952852992
+    m_Localized: "\u015Awi\u0119ta tarcza"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  - m_Id: 32593217694277632
+    m_Localized: "Kiedy ten mystling zostaje <smallcaps><style=\"Blue\">aktywowany</style></smallcaps>,
+      daje mystlingowi z przodu {Effect0.ValueInt} p. <smallcaps><style=\"Blue\">os\u0142ony</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885829830410409
+  references:
+    version: 2
+    RefIds:
+    - rid: 8829885829830410409
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 39054421041029120
+        - id: 39054421053612032
+        - id: 1077412796375040
+        - id: 1077412821540864
+        - id: 1077412825735172
+        - id: 1077412825735173
+        - id: 1077412825735174
+        - id: 1077412825735175
+        - id: 2097134497243159
+        - id: 2097134497243160
+        - id: 12320229292097536
+        - id: 12320229313069056
+        - id: 12320229313069059
+        - id: 12320229313069060
+        - id: 12320229313069061
+        - id: 12320229313069062
+        - id: 12320229313069063
+        - id: 12320229313069064
+        - id: 12320229313069065
+        - id: 12320229313069066
+        - id: 12574292919263233
+        - id: 12574292919263234
+        - id: 12574292919263237
+        - id: 12574292919263238
+        - id: 12574292919263241
+        - id: 12574292919263242
+        - id: 12574292919263247
+        - id: 12574292919263248
+        - id: 12574292919263267
+        - id: 12574292919263268
+        - id: 12616652625616898
+        - id: 12616652625616899
+        - id: 12616652625616900
+        - id: 12616652625616901
+        - id: 12616652625616904
+        - id: 12616652625616905
+        - id: 13359693867106304
+        - id: 13359693867106305
+        - id: 15183072714670080
+        - id: 15183072739835904
+        - id: 15183072744030222
+        - id: 15183072744030223
+        - id: 15183072744030224
+        - id: 15183072744030225
+        - id: 2153463886757888
+        - id: 2153463916118016
+        - id: 2097134497243163
+        - id: 2097134497243164
+        - id: 2097134497243161
+        - id: 2097134497243162
+        - id: 2153463916118019
+        - id: 2153463916118020
+        - id: 12616652625616902
+        - id: 12616652625616903
+        - id: 13316158157602816
+        - id: 13316158174380032
+        - id: 13356556225724416
+        - id: 13356556225724417
+        - id: 13363163160494080
+        - id: 13363163160494081
+        - id: 13353743697428480
+        - id: 13353743722594304
+        - id: 7139979398553600
+        - id: 7139979423719424
+        - id: 39054421053612033
+        - id: 39054421053612034
+        - id: 12574292898291712
+        - id: 12574292919263232
+        - id: 12574292919263239
+        - id: 12574292919263240
+        - id: 12574292919263243
+        - id: 12574292919263244
+        - id: 12574292919263249
+        - id: 12574292919263250
+        - id: 12574292919263251
+        - id: 12574292919263252
+        - id: 12574292919263253
+        - id: 12574292919263254
+        - id: 12574292919263257
+        - id: 12574292919263258
+        - id: 12574292919263259
+        - id: 12574292919263260
+        - id: 15183072744030242
+        - id: 15183072744030243
+        - id: 12574292919263269
+        - id: 12574292919263270
+        - id: 28242725364084736
+        - id: 28242725380861952
+        - id: 30751376074194944
+        - id: 30751376099360768
+        - id: 30751376099360769
+        - id: 30751376099360770
+        - id: 30751376099360771
+        - id: 30751376099360772
+        - id: 30751376099360773
+        - id: 30751376099360774
+        - id: 30751376099360775
+        - id: 30751376099360776
+        - id: 30751376099360777
+        - id: 30751376099360778
+        - id: 30751376099360779
+        - id: 30751376099360780
+        - id: 30751376099360781
+        - id: 30751376099360782
+        - id: 30751376099360783
+        - id: 30751376099360784
+        - id: 30751376099360785
+        - id: 30751376099360786
+        - id: 30751376099360787
+        - id: 30751376099360788
+        - id: 30751376099360789
+        - id: 30751376099360790
+        - id: 30751376099360791
+        - id: 30751376099360792
+        - id: 30751376099360793
+        - id: 30751376099360794
+        - id: 30751376099360795
+        - id: 30751376099360796
+        - id: 2097134497243153
+        - id: 2097134497243154
+        - id: 32593139952852992
+        - id: 32593217694277632

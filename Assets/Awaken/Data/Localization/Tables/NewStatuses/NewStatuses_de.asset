@@ -1,0 +1,440 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: NewStatuses_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 34301eff957f73749b54541df78e6573, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2105433060097654820
+  m_TableData:
+  - m_Id: 2817150533632
+    m_Localized: Gift
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 2817150533633
+    m_Localized: Zu Beginn der Runde verliert Kreatur 1 Gesundheit. Wird nach jedem
+      Treffer um 1 verringert.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 2817150533634
+    m_Localized: Zorn
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 2817150533635
+    m_Localized: "Erh\xF6he Kraft. Wird nach jedem Treffer um 1 verringert."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 2817150533636
+    m_Localized: <smallcaps><style="Blue">Zorn</style></smallcaps>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 2817150533637
+    m_Localized: "Erh\xF6ht die <style=\"Blue\">Kraft</style> bis zum <style=\"Blue\">Kampfende</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 2817150533638
+    m_Localized: <smallcaps><style="Blue">Schilde</style></smallcaps>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 2817150533639
+    m_Localized: "Verhindert <style=\"Blue\">Schaden</style> bis n\xE4chste Runde."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 2817150533640
+    m_Localized: Gegenangriff
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 2817150533641
+    m_Localized: "Getroffener Mystling schl\xE4gt zur\xFCck. Wird nach jedem Treffer
+      um 1 verringert."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 2817150533642
+    m_Localized: <smallcaps><style="Blue">Ausweichen</style></smallcaps>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 2817150533643
+    m_Localized: <style="Blue">Bewahrt</style> Kreatur vor <style="Blue">Schaden</style>.
+      <smallcaps><style="Blue">Ausweichen</style></smallcaps> sinkt nach jedem <style="Blue">Treffer</style>
+      um 1.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 2817150533644
+    m_Localized: <smallcaps><style="Blue">Dornen</style></smallcaps>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 2817150533645
+    m_Localized: "Wenn diese Kreatur <style=\"Blue\">getroffen</style> wird, erleidet
+      der Angreifer <style=\"Blue\">Schaden</style> in H\xF6he der <smallcaps><style=\"Blue\">Dornen</style></smallcaps>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 2817150533648
+    m_Localized: <smallcaps><style="Blue">Mehrfachangriff</style></smallcaps>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 2817150533649
+    m_Localized: "Erh\xF6he die Anzahl der Angriffe f\xFCr jeden <smallcaps><style=\"Blue\">Mehrfachangriff</style></smallcaps>-Konter
+      um 1."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 2817150533650
+    m_Localized: "<smallcaps><style=\"Blue\">Schw\xE4che</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 2817150533652
+    m_Localized: "Immunit\xE4t"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 2817150533653
+    m_Localized: "Verhindert das Wirken von Schw\xE4che. Verringert sich mit jeder
+      Schw\xE4che um 1."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 2817154727936
+    m_Localized: Pech
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 2817154727937
+    m_Localized: "Verhindert das Wirken von St\xE4rkung. Verringert sich mit jeder
+      St\xE4rkung um 1."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 2817154727938
+    m_Localized: Verwirrt
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 2817154727939
+    m_Localized: "Kreatur trifft eigenen Verb\xFCndeten. Verf\xE4llt nach Treffer."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 2817154727940
+    m_Localized: "<smallcaps><style=\"Blue\">St\xE4rke</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 2817154727941
+    m_Localized: "Erh\xF6ht <style=\"Blue\">Kraft</style> bis zum Ende der Runde."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 2817154727942
+    m_Localized: Schild zu Kraft
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 2817154727943
+    m_Localized: Wandelt Schild bis zum Ende der Runde in Kraft um.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 2817154727944
+    m_Localized: "Ersch\xF6pfung"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 2817154727945
+    m_Localized: 'Verringert Kraft bis zum Ende des Kampfs. '
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 2817154727946
+    m_Localized: Aufladen
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 2817154727947
+    m_Localized: "Erhalte n\xE4chste Runde Energie in H\xF6he des Statuswerts."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 2817154727948
+    m_Localized: <smallcaps><style="Blue">Verwundbarkeit</style></smallcaps>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 2817154727949
+    m_Localized: "Kreatur erleidet zus\xE4tzlichen <style=\"Blue\">Schaden</style>
+      in H\xF6he der <smallcaps><style=\"Blue\">Verwundbarkeit</style></smallcaps>.
+      Reduziere den Statuswert nach jedem <style=\"Blue\">Treffer</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 2817154727950
+    m_Localized: <smallcaps><style="Blue">Wiederbeleben</style></smallcaps>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 2817154727951
+    m_Localized: "<style=\"Blue\">Heile</style> diese Kreatur auf 50 % ihrer maximalen
+      Gesundheit, sodass sie nicht <style=\"Blue\">kampfunf\xE4hig</style> wird."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 11577478002884608
+    m_Localized: "<smallcaps><style=\"Blue\">Bet\xE4ubt</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 11577478036439040
+    m_Localized: "Kreatur kann im n\xE4chsten Zug weder <style=\"Blue\">aktiviert</style>
+      werden noch <style=\"Blue\">angreifen</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 2817150533651
+    m_Localized: "Reduziert <style=\"Blue\">Kraft</style> um <smallcaps><style=\"Blue\">Schw\xE4che</style></smallcaps>.
+      <smallcaps><style=\"Blue\">Schw\xE4che</style></smallcaps> verschwindet nach
+      einem <style=\"Blue\">Angriff<style=\"Blue\">."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 64893457373667328
+    m_Localized: "<style=\"Blue\">Heile</style> diese Kreatur auf ihre maximale Gesundheit,
+      sodass sie nicht <style=\"Blue\">kampfunf\xE4hig</style> wird."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 9029693395288064
+    m_Localized: <smallcaps><style="Blue">Abschirmen</style></smallcaps>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 9029693412065280
+    m_Localized: "Reduziere den n\xE4chsten eingehenden <style=\"Blue\">Schaden</style>
+      auf 1."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 16331961937240064
+    m_Localized: <style="Blue">Kraft</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 16331961954017280
+    m_Localized: "Erh\xF6ht die Kraft bis zum Kampfende."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 25039761924276224
+    m_Localized: <smallcaps><style="Blue">Abwehrhaltung</style></smallcaps>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 25039761949442048
+    m_Localized: Reduziere den erlittenen <style="Blue">Schaden</style> um 50 %.
+      <smallcaps><style="Blue">Abwehrhaltung</style></smallcaps> sinkt jede <style="Blue">Runde</style>
+      um 1.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 64830575973834752
+    m_Localized: Reduziere den erlittenen <style="Blue">Schaden</style> um 50 %.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 25039761949442049
+    m_Localized: "<smallcaps><style=\"Blue\">Ungesch\xFCtzt</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 25039761949442050
+    m_Localized: "Erh\xF6he den erlittenen <style=\"Blue\">Schaden</style> um 100
+      %."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 26428515930939392
+    m_Localized: <smallcaps><style="Blue">Lebensraub</style></smallcaps>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 26428515956105216
+    m_Localized: Die Kreatur <style="Blue">heilt</style> sich selbst um den <style="Blue">Schaden</style>.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 37357454379524096
+    m_Localized: <smallcaps><style="Blue">Halber Lebensraub</style></smallcaps>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 37357454404689920
+    m_Localized: "Angriff: Heile dich selbst um die H\xE4lfte des bei einem Gegner
+      bewirkten Schadens."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 27119552156516352
+    m_Localized: <smallcaps><style="Blue">Permanenter Mehrfachangriff</style></smallcaps>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 27119552181682176
+    m_Localized: "Erh\xF6he die Anzahl der Angriffe f\xFCr jeden gekonterten <smallcaps><style=\"Blue\">Mehrfachangriff</smallcaps></style>
+      permanent um 1."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 37357454404689921
+    m_Localized: <smallcaps><style="Blue">Schattengestalt</style></smallcaps>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 37357454404689922
+    m_Localized: "<style=\"Blue\">Lenkt</style> eingehenden <style=\"Blue\">Schaden</style>
+      auf den Verb\xFCndeten hinter dir. Kann Statuseffekte erhalten."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 44573523078881280
+    m_Localized: <smallcaps><style="Blue">Verwirrt</style></smallcaps>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 44573523099852800
+    m_Localized: "Beim <style=\"Blue\">Angreifen</style> wird ein <style=\"Blue\">zuf\xE4lliger</style>
+      Verb\xFCndeter (oder auch er selbst) statt eines Mystlings ins Ziel genommen."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 47868807976394752
+    m_Localized: "<smallcaps><style=\"Blue\">Unzerst\xF6rbar</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 47868808005754880
+    m_Localized: "Die Kreatur ist <style=\"Blue\">immun</style> gegen <style=\"Blue\">Schaden</style>.
+      <style=\"Blue\">Unzerst\xF6rbar</style> sinkt jeden <style=\"Blue\">Zug</style>
+      um 1."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 47868808005754881
+    m_Localized: "<smallcaps><style=\"Blue\">S\xE4ure</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 47868808005754882
+    m_Localized: "Rundenbeginn: Bewirke 1 Schaden f\xFCr jeden <smallcaps><style=\"Blue\">S\xE4ure</style></smallcaps>marker."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 54352449930076160
+    m_Localized: <smallcaps><style="Blue">Drachenladung</style></smallcaps>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  - m_Id: 54352449955241984
+    m_Localized: "Wenn du 5 Drachenladungen erh\xE4ltst, nimm bis zum Ende der Runde
+      Drachengestalt an.\nDrachengestalt: Erhalte 5 <style=\"Blue\">St\xE4rke</style>
+      und 20 <style=\"Blue\">Schilde</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654820
+  references:
+    version: 2
+    RefIds:
+    - rid: 2105433060097654820
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 2817150533632
+        - id: 2817150533633
+        - id: 2817150533634
+        - id: 2817150533635
+        - id: 2817150533636
+        - id: 2817150533637
+        - id: 2817150533638
+        - id: 2817150533639
+        - id: 2817150533640
+        - id: 2817150533641
+        - id: 2817150533642
+        - id: 2817150533643
+        - id: 2817150533644
+        - id: 2817150533645
+        - id: 2817150533648
+        - id: 2817150533649
+        - id: 2817150533650
+        - id: 2817150533652
+        - id: 2817150533653
+        - id: 2817154727936
+        - id: 2817154727937
+        - id: 2817154727938
+        - id: 2817154727939
+        - id: 2817154727940
+        - id: 2817154727941
+        - id: 2817154727942
+        - id: 2817154727943
+        - id: 2817154727944
+        - id: 2817154727945
+        - id: 2817154727946
+        - id: 2817154727947
+        - id: 2817154727948
+        - id: 2817154727949
+        - id: 2817154727950
+        - id: 2817154727951
+        - id: 11577478002884608
+        - id: 11577478036439040
+        - id: 2817150533651
+        - id: 64893457373667328
+        - id: 9029693395288064
+        - id: 9029693412065280
+        - id: 16331961937240064
+        - id: 16331961954017280
+        - id: 25039761924276224
+        - id: 25039761949442048
+        - id: 64830575973834752
+        - id: 25039761949442049
+        - id: 25039761949442050
+        - id: 26428515930939392
+        - id: 26428515956105216
+        - id: 37357454379524096
+        - id: 37357454404689920
+        - id: 27119552156516352
+        - id: 27119552181682176
+        - id: 37357454404689921
+        - id: 37357454404689922
+        - id: 44573523078881280
+        - id: 44573523099852800
+        - id: 47868807976394752
+        - id: 47868808005754880
+        - id: 47868808005754881
+        - id: 47868808005754882
+        - id: 54352449930076160
+        - id: 54352449955241984

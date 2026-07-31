@@ -1,0 +1,169 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Keywords_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 0a017febadd476040bcc53a62978373b, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2105433060097654801
+  m_TableData:
+  - m_Id: 2103540039680
+    m_Localized: Boomerang
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654801
+  - m_Id: 2305462222848
+    m_Localized: "Revient dans votre main apr\xE8s avoir \xE9t\xE9 utilis\xE9e."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654801
+  - m_Id: 2503508869120
+    m_Localized: Clone
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654801
+  - m_Id: 2596051992576
+    m_Localized: "Copie une autre carte avant d'\xEAtre d\xE9fauss\xE9e."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654801
+  - m_Id: 3445264334848
+    m_Localized: <smallcaps><style="Blue">Surcharge</style></smallcaps>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654801
+  - m_Id: 3569226989568
+    m_Localized: "Ex\xE9cute l'effet autant de fois que le nombre de cartes jou\xE9es
+      pendant le round."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654801
+  - m_Id: 3958399680512
+    m_Localized: "<smallcaps><style=\"Blue\">\xC9puiser une carte</style></smallcaps>"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654801
+  - m_Id: 4067308978176
+    m_Localized: "Cette carte est retir\xE9e de votre deck jusqu'\xE0 la fin du combat
+      apr\xE8s avoir \xE9t\xE9 jou\xE9e."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654801
+  - m_Id: 5756648800256
+    m_Localized: "Marqu\xE9e"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654801
+  - m_Id: 5860579459072
+    m_Localized: "Pioch\xE9e au cours du premier round du combat."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654801
+  - m_Id: 5978716225536
+    m_Localized: Reste
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654801
+  - m_Id: 6061062995968
+    m_Localized: "Reste dans votre main \xE0 la fin du round."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654801
+  - m_Id: 6165513748480
+    m_Localized: Rapide
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654801
+  - m_Id: 6298116669440
+    m_Localized: "Si cette carte n'est pas pioch\xE9e au d\xE9but du round, son co\xFBt
+      en \xE9nergie est de 0."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654801
+  - m_Id: 6405587320832
+    m_Localized: Yoyo
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654801
+  - m_Id: 6498130444288
+    m_Localized: "Apr\xE8s avoir \xE9t\xE9 jou\xE9e, n'est pas d\xE9fauss\xE9e mais
+      rem\xE9lang\xE9e dans la pioche. "
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654801
+  - m_Id: 55826930826842112
+    m_Localized: <smallcaps><style="Blue">Croissance</style></smallcaps>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654801
+  - m_Id: 55826999063973888
+    m_Localized: "Chaque fois que cette carte est jou\xE9e, sa puissance augmente
+      de sa valeur de <smallcaps><style=\"Blue\">Croissance</style></smallcaps> jusqu'\xE0
+      la fin du combat."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654801
+  - m_Id: 55827062259552256
+    m_Localized: <smallcaps><style="Blue">Pourrissement</style></smallcaps>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654801
+  - m_Id: 55827172670410752
+    m_Localized: "Chaque fois que cette carte est jou\xE9e, sa puissance d\xE9cro\xEEt
+      de sa valeur de <smallcaps><style=\"Blue\">Pourrissement</style></smallcaps>
+      jusqu'\xE0 atteindre z\xE9ro. Se r\xE9initialise \xE0 chaque combat."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654801
+  - m_Id: 86266413391618048
+    m_Localized: <smallcaps><style="Blue">Enchanter la position</style></smallcaps>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654801
+  - m_Id: 86266413412589568
+    m_Localized: "Applique un <style=\"Blue\">enchantement</style> \xE0 une <style=\"Blue\">position</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654801
+  references:
+    version: 2
+    RefIds:
+    - rid: 2105433060097654801
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 2103540039680
+        - id: 2305462222848
+        - id: 2503508869120
+        - id: 2596051992576
+        - id: 3445264334848
+        - id: 3569226989568
+        - id: 3958399680512
+        - id: 4067308978176
+        - id: 5756648800256
+        - id: 5860579459072
+        - id: 5978716225536
+        - id: 6061062995968
+        - id: 6165513748480
+        - id: 6298116669440
+        - id: 6405587320832
+        - id: 6498130444288
+        - id: 55826930826842112
+        - id: 55826999063973888
+        - id: 55827062259552256
+        - id: 55827172670410752
+        - id: 86266413391618048
+        - id: 86266413412589568

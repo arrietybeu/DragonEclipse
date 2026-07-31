@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1048800707, guid: 2c2fad6e12bde213441ca9711c1f22fd, type: 3}
+  m_Name: ActionsHelperConfig
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _isActive: 1
+  Actions:
+  - Type: 0
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:81a4e3b9a8853ed4c8a6c71542a0f2c3
+      m_TableEntryReference:
+        m_KeyId: 2604505859723264
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  - Type: 1
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:81a4e3b9a8853ed4c8a6c71542a0f2c3
+      m_TableEntryReference:
+        m_KeyId: 2604639632855040
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables:
+      - name: target
+        variable:
+          rid: 8540156823898161191
+      - name: power
+        variable:
+          rid: 8540156823898161192
+      - name: repeat
+        variable:
+          rid: 8540156823898161193
+  - Type: 2
+    Localization:
+      m_TableReference:
+        m_TableCollectionName: GUID:81a4e3b9a8853ed4c8a6c71542a0f2c3
+      m_TableEntryReference:
+        m_KeyId: 2604911033683968
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 8540156823898161191
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: Front Mystling
+    - rid: 8540156823898161192
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: X
+    - rid: 8540156823898161193
+      type: {class: StringVariable, ns: UnityEngine.Localization.SmartFormat.PersistentVariables, asm: Unity.Localization}
+      data:
+        m_Value: X

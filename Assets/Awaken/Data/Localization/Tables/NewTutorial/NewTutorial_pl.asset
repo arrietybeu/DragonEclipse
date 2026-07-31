@@ -1,0 +1,1439 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: NewTutorial_pl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl
+  m_SharedData: {fileID: 11400000, guid: cb6e8b1fd3dc49f4da0b21f44699aec9, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 8829885851983675397
+  m_TableData:
+  - m_Id: 451756015616
+    m_Localized: "Witaj w \u015Bwiecie gry Dragon Eclipse!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 451785375744
+    m_Localized: "Do przemieszczania tresera \u015Bcie\u017Ckami s\u0142u\u017C\u0105
+      klawisze <color=red>W</color=red>, <color=red>A</color=red>, <color=red>S</color=red>
+      oraz <color=red>D</color=red>. Mo\u017Cesz te\u017C klikn\u0105\u0107 \u015Bcie\u017Ck\u0119
+      <color=red>lewym przyciskiem myszy</color=red>.\n<br>Aby wykona\u0107 dzia\u0142anie
+      na jakim\u015B przedmiocie, naci\u015Bnij klawisz <color=red>E</color=red>
+      lub kliknij nazw\u0119 danej rzeczy."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 451785375745
+    m_Localized: "Wyb\xF3r tresera"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 451785375746
+    m_Localized: "Zanim wyruszysz w drog\u0119, musisz wybra\u0107 <color=red>tresera</color=red>,
+      kt\xF3rym b\u0119dziesz sterowa\u0107. Ka\u017Cda osoba ma <color=red>specjaln\u0105
+      zdolno\u015B\u0107</color=red>.\n\nAktualnie wyb\xF3r masz mocno ograniczony.
+      Kolejnych treser\xF3w odblokujesz w trakcie swoich przyg\xF3d!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 451789570048
+    m_Localized: "Poziomy trudno\u015Bci"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 451789570049
+    m_Localized: "Je\u015Bli czujesz si\u0119 na si\u0142ach, mo\u017Cesz wybra\u0107
+      wy\u017Cszy <color=red>poziom trudno\u015Bci</color=red>. Teraz masz dost\u0119p
+      tylko do jednego. Kolejny odblokujesz po pokonaniu bossa."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 451789570050
+    m_Localized: "Wyb\xF3r mystling\xF3w"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 451789570051
+    m_Localized: "Twoja dru\u017Cyna sk\u0142ada si\u0119 z maksymalnie trzech mystling\xF3w
+      o r\xF3\u017Cnych <color=red>wsp\xF3\u0142czynnikach</color=red> i <color=red>zdolno\u015Bciach</color=red>.
+      Ka\u017Cdy te\u017C dodaje do talii pocz\u0105tkowej specjaln\u0105 <color=red>kart\u0119</color=red>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 451789570073
+    m_Localized: "Post\u0119py"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 451789570074
+    m_Localized: "Podczas swojej przygody b\u0119dziesz zdobywa\u0107 <color=red>punkty
+      do\u015Bwiadczenia</color=red>. Kiedy zgromadzisz ich do\u015B\u0107, awansujesz
+      na wy\u017Cszy poziom i uzyskasz dost\u0119p do nowych treser\xF3w, mystling\xF3w,
+      kart itd."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391828
+    m_Localized: Jajo mystlinga
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391829
+    m_Localized: "Wygl\u0105da na to, \u017Ce masz jajo mystlinga! Doprowad\u017A
+      do jego wyklucia i u\u017Cyj go, kiedy zaczniesz <color=red>now\u0105 gr\u0119</color=red>.
+      Zbierz je wszystkie!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 451789570077
+    m_Localized: "Wkr\xF3tce nadejdzie za\u0107mienie"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 451789570078
+    m_Localized: "Ka\u017Cda walka przybli\u017Ca nadej\u015Bcie za\u0107mienia o
+      <color=red>jeden dzie\u0144</color=red>. Kiedy licznik dojdzie do <color=red>zera</color=red>,
+      rozpocznie si\u0119 walka fina\u0142owa. M\u0105drze wykorzystaj dost\u0119pny
+      czas!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391831
+    m_Localized: Starszy wioski
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391832
+    m_Localized: Lyanne
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391834
+    m_Localized: "Jestem zwyczajnie z ciebie dumna, wiesz? Widzia\u0142am, jak ci\u0119\u017Cko
+      na to pracujesz, a teraz zostaniesz prawdziwym treserem i..."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391835
+    m_Localized: Lyn. <i><b>Lyn.</i></b>
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391836
+    m_Localized: "H\u0119? Co jest?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391837
+    m_Localized: "Chyba si\u0119 zgubili\u015Bmy."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391838
+    m_Localized: "<wiggle>COOO...?!</wiggle> Dziewczyno, nie powinna\u015B by\u0107,
+      nie wiem, przygotowana na takie rzeczy?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391839
+    m_Localized: Nie jestem <i>treserem</i>, tylko kartografem...
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391840
+    m_Localized: <shake>AAA!</shake> Co to za <i><b>paskuda</i></b>?!
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391841
+    m_Localized: "Nie martw si\u0119, zajm\u0119 si\u0119 tym! <b><br><size=16><align=left><smallcaps>Rozegraj
+      samouczek</smallcaps></align></size></b>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391842
+    m_Localized: "To potw\xF3r! Biegnij, Lyn, BIEGNIJ! <b><br><size=16><align=left><smallcaps>Pomi\u0144
+      samouczek</smallcaps></align></size></b>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391843
+    m_Localized: "Uff... By\u0142o blisko! A teraz wr\xF3\u0107my do wioski, zanim
+      ceremonia dobiegnie ko\u0144ca!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391844
+    m_Localized: "W drog\u0119!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391845
+    m_Localized: "To by\u0142o... Za-r\u0105-bis-te. Tworzysz ze swoimi mystami supera\u015Bny
+      zesp\xF3\u0142. Ale mo\u017Cemy ju\u017C rusza\u0107? Ceremonia czeka."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391846
+    m_Localized: "W drog\u0119!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391847
+    m_Localized: Na co czekasz?
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391848
+    m_Localized: "Czas nam rusza\u0107!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391849
+    m_Localized: "To tw\xF3j wielki dzie\u0144, a ty nadal tutaj?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391850
+    m_Localized: "Zjedz\u0105 bez nas ca\u0142e jedzenie... Po\u015Bpiesz si\u0119!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391851
+    m_Localized: "Je\u015Bli si\u0119 nie po\u015Bpieszysz, mog\u0105 wybra\u0107
+      na tresera kogo\u015B innego."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391852
+    m_Localized: "Je\u015Bli potrzebujesz czego\u015B na drog\u0119, nasz kucharz
+      przygotuje ci prowiant, za darmo!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391853
+    m_Localized: "A, tu jeste\u015B. Podejd\u017A bli\u017Cej, dziecko."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391854
+    m_Localized: "<i>Podejd\u017A</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391855
+    m_Localized: "Zebrali\u015Bmy si\u0119 tu dzisiaj, by powita\u0107 now\u0105
+      twarz w szeregach naszych treser\xF3w!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391856
+    m_Localized: "M\u0142ody treserze... Niech Stra\u017Cnik Ziemi ci\u0119 prowadzi.
+      <br><br><i>Gestem nakazuje ci podej\u015B\u0107 bli\u017Cej.</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391857
+    m_Localized: "<i>Podejd\u017A</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391858
+    m_Localized: "<i>Majestatyczny olbrzym g\xF3ruje nad tob\u0105. <br><br>\u015Api
+      tu od stuleci i w milczeniu strze\u017Ce naszej wioski oraz jej mieszka\u0144c\xF3w.</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391859
+    m_Localized: <i>Dotknij smoka</i>
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391860
+    m_Localized: "<i>Dotykasz czubka nosa smoczego Stra\u017Cnika, jak nowym treserom
+      nakazuje tradycja. <br><br>W tej samej chwili czujesz, jak ziemia dr\u017Cy
+      pod twoimi nogami, a wzrok zasnuwa ci mg\u0142a...</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391861
+    m_Localized: "Podchodzisz do olbrzymiej postaci, by dotkn\u0105\u0107 czubka
+      jej nosa, jak nowym treserom nakazuje tradycja. \u0141uski zdaj\u0105 si\u0119
+      l\u015Bni\u0107, wypolerowane przez deszcz i wiatr. Nie wszyscy, kt\xF3rzy
+      dotkn\u0119li pos\u0105gu, zostawali treserami... Rozwa\u017Casz to przez chwil\u0119.
+      Wtem twoje my\u015Bli zalewa fala niepokoj\u0105cych wizji!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391862
+    m_Localized: "<i>Twoje my\u015Bli zalewa fala dziwnych wizji \u2013 ciemne s\u0142o\u0144ce,
+      za\u0107mione dwoma ksi\u0119\u017Cycami...</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391863
+    m_Localized: "<i>Mroczne postacie wynurzaj\u0105ce si\u0119 z portalu g\u0142\u0119boko
+      w lesie, <b>twoim lesie</b>, zaraz za granicami wioski...</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391864
+    m_Localized: "<i>I \u0142agodny, cho\u0107 stanowczy g\u0142os dudni\u0105cy
+      ci w g\u0142owie:</i><br><br> \u201E<font=\"Rounded-Black SDF\">Potrzebujemy
+      ci\u0119... twojej pomocy... Znajd\u017A spos\xF3b...</font>\u201D"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391865
+    m_Localized: "Wszystko w porz\u0105dku?<br><br><i>Kiedy dochodzisz do siebie,
+      czujesz na sobie zmartwione spojrzenia mieszka\u0144c\xF3w. To musia\u0142a
+      by\u0107 utrata przytomno\u015Bci.</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391866
+    m_Localized: Tak, chyba...
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391867
+    m_Localized: "Dobrze si\u0119 czujesz, dziecko? Po tym upadku na ziemi\u0119
+      bez czucia bardzo si\u0119 martwili\u015Bmy..."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391868
+    m_Localized: "Eee, wszystko gra... Chyba. Nawiedzi\u0142a mnie wizja... "
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391869
+    m_Localized: "<i>Kiedy wstajesz, czujesz, jak ziemia zn\xF3w dr\u017Cy. Tylko
+      \u017Ce tym razem <shake>to nie jest wizja!</shake> <br><br>Gdy mury p\u0119kaj\u0105,
+      a niebo ciemnieje, zebranych ogarnia panika.</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391870
+    m_Localized: "Co to by\u0142o? Co si\u0119 dzieje?! "
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391871
+    m_Localized: "To si\u0119 dzieje... Och, smoczy Stra\u017Cnicy, ratujcie nas..."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391872
+    m_Localized: "Co to by\u0142o? Co si\u0119 dzieje?!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391873
+    m_Localized: "Pos\u0142uchaj uwa\u017Cnie, treserze. Musisz si\u0119 uda\u0107
+      do lasu i poszuka\u0107 \u015Blad\xF3w zniszczenia poza nasz\u0105 wiosk\u0105."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391874
+    m_Localized: Jasne, szefie!
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391875
+    m_Localized: "Zg\u0142o\u015B si\u0119 do mnie, kiedy tylko co\u015B znajdziesz.
+      <br><br>Oby nie by\u0142o za p\xF3\u017Ano..."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391876
+    m_Localized: "<i>Oddal si\u0119</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391877
+    m_Localized: "Znasz drog\u0119, ale nie znasz zako\u0144czenia. Odwagi."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391878
+    m_Localized: "Uwa\u017Caj na siebie. I odwagi."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391879
+    m_Localized: "Wszyscy mamy nadziej\u0119 wkr\xF3tce zn\xF3w ci\u0119 zobaczy\u0107...
+      kiedy przyniesiesz krzepi\u0105ce wie\u015Bci. "
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391880
+    m_Localized: "Mam nadziej\u0119, \u017Ce twoje mystlingi s\u0105 dobrze odkarmione.
+      Czeka was d\u0142uga w\u0119dr\xF3wka."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391881
+    m_Localized: "Pami\u0119taj, \u017Ce nie chodzi o to, by nigdy nie upa\u015B\u0107,
+      lecz by za ka\u017Cdym razem si\u0119 podnosi\u0107."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391882
+    m_Localized: "Powinienem powiedzie\u0107 co\u015B m\u0105drego... ale czas rusza\u0107. "
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391883
+    m_Localized: "Uff... Ciesz\u0119 si\u0119, \u017Ce zd\u0105\u017Cyli\u015Bmy
+      na ceremoni\u0119. <br>Pe\u0142noprawny treser, co?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391884
+    m_Localized: Tak, to ja!
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391885
+    m_Localized: "Hej, chyba cz\u0119\u015B\u0107 mystling\xF3w posz\u0142a za nami
+      z lasu a\u017C tutaj! Biedactwa zdaj\u0105 si\u0119 takie wystraszone...<br><br>Ej,
+      <wave>musimy im pom\xF3c!</wave> Chcesz kt\xF3rego\u015B adoptowa\u0107?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391886
+    m_Localized: "Jasne! Cho\u0107 tu, maluchu... Ze mn\u0105 b\u0119dziesz bezpieczny!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391887
+    m_Localized: "Ooo, sp\xF3jrzcie tylko na siebie! Wygl\u0105dacie razem <bounce>tak
+      s\u0142odko</bounce>. <br><br>Wiem, \u017Ce dobrze si\u0119 nim zaopiekujesz,
+      mamusiu!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391888
+    m_Localized: "I znowu mnie co\u015B rozproszy\u0142o. <br><br>Starszy wioski
+      kaza\u0142 mi powiedzie\u0107, \u017Ce <font=\"Rounded-Black SDF\">czeka na
+      ciebie przy Stra\u017Cniku!</font> I raczej nie \u017Cartowa\u0142."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45304894210514947
+    m_Localized: "\u017Beby zosta\u0107 prawdziwym treserem, musisz wykszta\u0142ci\u0107
+      <bounce>wi\u0119\u017A</bounce> ze swoimi mystlingami!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45304894210514948
+    m_Localized: "Wr\xF3\u0107my do <wave>podstaw</wave> i od\u015Bwie\u017Cmy ci
+      pami\u0119\u0107."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45304894210514959
+    m_Localized: <bounce>Doskonale!</bounce> Masz ogromny talent, ale ta odrobina
+      <wave>pomocy</wave> chyba nie zaszkodzi.
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45304894210514960
+    m_Localized: "We\u017A jednego ze sob\u0105! Ostatni prezent ode mnie dla naszego
+      nieustraszonego <bounce>tresera</bounce>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45304894210514961
+    m_Localized: "\u015Awiat poza nasz\u0105 wiosk\u0105 oszala\u0142!\nNadchodz\u0105ce
+      <shake>za\u0107mienie</shake> rozmywa granic\u0119 mi\u0119dzy naszym \u015Bwiatem
+      a krain\u0105 mroku."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45304894210514962
+    m_Localized: "Przez mroczne portale przenikaj\u0105 do nas <wiggle>stworzenia
+      przesi\u0105kni\u0119te z\u0142em</wiggle>. Musisz je powstrzyma\u0107!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45304894210514963
+    m_Localized: "Wykorzystaj zdobyt\u0105 wiedz\u0119 i powstrzymaj <shake>za\u0107mienie!</shake>
+      Jeste\u015B nasz\u0105 jedyn\u0105 <bounce>nadziej\u0105!</bounce>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45304894210514966
+    m_Localized: "Gratulacje, treserze!\n<br>\nUda\u0142o ci si\u0119 pokona\u0107
+      bossa, ale to nie koniec zagro\u017Cenia! Mamy nadziej\u0119, \u017Ce postanowisz
+      si\u0119 jeszcze sprawdzi\u0107 na wy\u017Cszych poziomach trudno\u015Bci.\nMasz
+      do odblokowania jeszcze wiele zawarto\u015Bci. Do tego planujemy z czasem dodawa\u0107
+      mn\xF3stwo nowych wyzwa\u0144 i dodatkowych element\xF3w.\n<br>\nMamy szczer\u0105
+      nadziej\u0119, \u017Ce b\u0119dziesz mi\u0142o wspomina\u0107 czas sp\u0119dzony
+      w Dragon Eclipse. Je\u015Bli podoba\u0142a ci si\u0119 nasza gra, powiedz o
+      niej znajomym albo napisz recenzj\u0119 w serwisie Steam. Bardzo nam to pomo\u017Ce.\n<br>\nDzi\u0119kujemy!\nZesp\xF3\u0142
+      Fardust"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391913
+    m_Localized: Odblokowano nowego tresera!
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 45300613990391914
+    m_Localized: "Nowy treser do\u0142\u0105cza do naszej sprawy! Je\u015Bli chcesz
+      skorzysta\u0107 ze <color=red>specjalnej umiej\u0119tno\u015Bci</color=red>
+      tej postaci, wystarczy \u017Ce wybierzesz j\u0105 podczas rozpoczynania <color=red>nowej
+      gry</color=red>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 13009066783744000
+    m_Localized: "Sprawd\u017A swoj\u0105 si\u0142\u0119"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 13009066808909824
+    m_Localized: "Wygl\u0105da na to, \u017Ce boss strzeg\u0142 tego <color=red>kryszta\u0142u
+      za\u0107mienia</color=red>.<br>\nNie przejmuj si\u0119 obron\u0105, on nie
+      gryzie. Postaraj si\u0119 zada\u0107 mu jak najwi\u0119cej obra\u017Ce\u0144
+      \u2013 masz na to tylko kilka rund. Daj z siebie wszystko i spr\xF3buj zdoby\u0107
+      jak najlepsz\u0105 lokat\u0119 w <color=red>rankingu</color=red>. Udowodnij,
+      \u017Ce jeste\u015B najlepszym treserem w historii!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 35532752173924352
+    m_Localized: "Zagraj <style=\"Blue\">kart\u0119</style> na <style=\"Blue\">mystlinga</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 35532752194895872
+    m_Localized: "<style=\"Blue\">Atakuj\u0105ce</style> mystlingi zadaj\u0105 obra\u017Cenia
+      r\xF3wne swojej <style=\"Blue\">mocy</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 35532752194895873
+    m_Localized: Wydaj 3 p. <style="Blue">energii</style> na zagrywanie kart.
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 35532752194895874
+    m_Localized: "Zako\u0144cz tur\u0119, by rozpocz\u0105\u0107 <style=\"Blue\">faz\u0119
+      stwor\xF3w</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 35532752194895875
+    m_Localized: "Mystlingi znajduj\u0105ce si\u0119 z ty\u0142u <style=\"Blue\">aktywuj\u0105
+      si\u0119</style>, a te z przodu <style=\"Blue\">atakuj\u0105</style>. Zako\u0144cz
+      tur\u0119, by rozpocz\u0105\u0107 <style=\"Blue\">faz\u0119 stwor\xF3w</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 35532752194895876
+    m_Localized: "Wrogowie podejmuj\u0105 dzia\u0142ania kolejno od <style=\"Blue\">prawej</style>
+      do <style=\"Blue\">lewej</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 35532752194895877
+    m_Localized: "<style=\"Blue\">Umie\u015B\u0107</style> kursor na ikonie <style=\"Blue\">zamiar\xF3w</style>
+      wroga."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 35532752194895878
+    m_Localized: "Zagraj kart\u0119 <style=\"Blue\">Garda!</style> na <style=\"Blue\">mystlingu</style>,
+      by <style=\"Blue\">zablokowa\u0107</style> nadchodz\u0105ce obra\u017Cenia."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 35532752194895879
+    m_Localized: "<style=\"Blue\">Przeci\u0105gnij</style> mystlinga, by zmieni\u0107
+      jego pozycj\u0119."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 35532752194895880
+    m_Localized: "Przemie\u015B\u0107 mystlingi, by dostosowa\u0107 si\u0119 do aktualnej
+      sytuacji na polu walki."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 35532752194895881
+    m_Localized: "Mystlingi i wrogowie mog\u0105 nak\u0142ada\u0107 efekty <style=\"Blue\">stanu</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 35532752194895882
+    m_Localized: "<style=\"Blue\">Umie\u015B\u0107</style> kursor na ikonie <style=\"Blue\">stanu</style>
+      (pod stworem), by pozna\u0107 jego dzia\u0142anie."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 35532752194895883
+    m_Localized: "Znasz ju\u017C podstawy! Teraz samodzielnie doko\u0144cz walk\u0119."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37707288547368960
+    m_Localized: "Za ka\u017Cde zwyci\u0119stwo otrzymasz pewn\u0105 liczb\u0119
+      <style=\"Blue\">mystjag\xF3d</style>. Mo\u017Cesz za nie kupowa\u0107 nowe
+      <style=\"Blue\">b\u0142ogos\u0142awie\u0144stwa</style> i <style=\"Blue\">karty</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37707288547368961
+    m_Localized: "We\u017A jedn\u0105 kart\u0119 za darmo."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37707288547368962
+    m_Localized: "<style=\"Blue\">B\u0142ogos\u0142awie\u0144stwa</style> dzia\u0142aj\u0105
+      podobnie jak talenty. Daj\u0105 twoim mystlingom dodatkowe zdolno\u015Bci,
+      kt\xF3re aktywuj\u0105 si\u0119 w okre\u015Blonych okoliczno\u015Bciach."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37707288547368963
+    m_Localized: "Wybierz jednego ze swoich mystling\xF3w."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37707288547368964
+    m_Localized: "Wybierz b\u0142ogos\u0142awie\u0144stwo."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37707288547368965
+    m_Localized: "Kup b\u0142ogos\u0142awie\u0144stwo."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37705988774502400
+    m_Localized: "<i>Starszy wioski stoi przy o\u0142tarzu smoczego Stra\u017Cnika
+      i prowadzi cotygodniowy wiec wioski.<br><br>Zebrani ludzie sprawiaj\u0105 wra\u017Cenie
+      bardziej poruszonych i zdenerwowanych ni\u017C zwykle.</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 42406671578546176
+    m_Localized: "Starszy, mog\u0119 prosi\u0107 na s\u0142owo?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37705988774502401
+    m_Localized: "Eee, chwileczk\u0119.<br><br>Tak, Marianne, gromadzimy zasoby,
+      by... Nie, nie, spokojnie, nie ma potrzeby <i>chwyta\u0107 za bro\u0144</i>,
+      wystarczy... <br><br><shake>Prosz\u0119 wszystkich o spok\xF3j!</shake><br><font=\"Rounded-Black
+      SDF\">Panika niczego nie rozwi\u0105\u017Ce.</font>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 42424946089771008
+    m_Localized: "A teraz przepraszam.<br><br><i>Starszy przeciska si\u0119 przez
+      zgromadzonych, by pom\xF3wi\u0107 z tob\u0105 z dala od zgie\u0142ku.</i><br><br>O
+      co chodzi, treserze?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 42406671599517696
+    m_Localized: "W lesie by\u0142o co\u015B dziwnego."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37705988774502402
+    m_Localized: "<i>Opowiadasz starszemu o dziwnych ruinach i znalezionej w nich
+      bestii.<br><br>Opisujesz panuj\u0105c\u0105 tam nieziemsk\u0105 atmosfer\u0119,
+      tak jakby powi\u0105zan\u0105 z czym\u015B mrocznym i przedwiecznym.</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 42424946089771009
+    m_Localized: "Ach... Nie powiem, by mnie to dziwi\u0142o. Tego w\u0142a\u015Bnie
+      obawia\u0142em si\u0119 od samego pocz\u0105tku.<br><br>Twoja podr\xF3\u017C
+      mo\u017Ce si\u0119 sta\u0107 o wiele trudniejsza i bardziej niebezpieczna,
+      ni\u017C si\u0119 spodziewali\u015Bmy."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37705988774502403
+    m_Localized: Jak to?
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37705988774502404
+    m_Localized: "Zdaje si\u0119, \u017Ce powsta\u0142o pewnego rodzaju p\u0119kni\u0119cie
+      rzeczywisto\u015Bci, w wyniku czego otworzy\u0142a si\u0119 <font=\"Rounded-Black
+      SDF\">brama do krainy cieni.</font><br><br>Musimy dzia\u0142a\u0107 szybko
+      i ustali\u0107, jak j\u0105 zamkn\u0105\u0107."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 42424946089771010
+    m_Localized: "<font=\"Rounded-Black SDF\">Stra\u017Cnik...</font><br><br>Czuj\u0119,
+      jak z ka\u017Cd\u0105 chwil\u0105 s\u0142abnie, jakby zatruwa\u0142y go cienie.<br><br>Nie
+      powiedzia\u0142em o tym jeszcze mieszka\u0144com, ale oni chyba te\u017C to
+      wyczuwaj\u0105."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 42406671599517697
+    m_Localized: "Co mam robi\u0107?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37705988774502405
+    m_Localized: "Id\u017A porozmawia\u0107 z <font=\"Rounded-Black SDF\">Ordosem.</font><br><br>Powinien
+      zna\u0107 t\u0119 materi\u0119 lepiej ni\u017C ja. By\u0107 mo\u017Ce znajdzie
+      rozwi\u0105zanie w jednej ze swoich starych ksi\u0105g."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 42424946089771011
+    m_Localized: "Ja zostan\u0119 tutaj i postaram si\u0119 uspokoi\u0107 ludzi."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37705988774502407
+    m_Localized: "<i>Widzisz cz\u0142owieka przygarbionego nad wielk\u0105, zamkni\u0119t\u0105
+      na k\u0142\xF3dk\u0119 ksi\u0119g\u0105. Mruczy co\u015B pod nosem.<br><br>Ordos,
+      miejscowy uczony, bibliotekarz hobbista, a tak\u017Ce tw\xF3j dawny nauczyciel,
+      wygl\u0105da dok\u0142adnie tak samo, jak w dawnych czasach. Dowodem up\u0142ywu
+      lat i nadmiernych zmartwie\u0144 jest tylko du\u017Ca zmarszczka na czole."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 42415937366507520
+    m_Localized: <font="vinque-rg SDF"><size=120%><shake a=0.5>Nam qui cagat...</shake></size></font><br><br>Nie,
+      to nie tak...<br><br><font="vinque-rg SDF"><size=120%><shake a=0.5>Nam qui
+      cacat...</shake></size></font>
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 42406671599517699
+    m_Localized: "Cze\u015B\u0107, Ordosie. Dawno\u015Bmy si\u0119 nie widzieli."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37705988774502408
+    m_Localized: "<i>Zdaje si\u0119 ci\u0119 nie s\u0142ysze\u0107, ca\u0142kowicie
+      pogr\u0105\u017Cony we w\u0142asnych my\u015Blach i mamrotanych s\u0142owach.</i><br><br><font=\"vinque-rg
+      SDF\"><shake a=0.5><size=120%>... et numquam abstergit...</size><size=150%>
+      Deorum iram cognoscet!</size></shake></font>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37705988774502410
+    m_Localized: "<i>Jego s\u0142owom towarzysz\u0105 kr\u0105\u017C\u0105ce wok\xF3\u0142
+      niego dziwne iskry. Po chwili ksi\u0119ga unosi si\u0119 z jego kolan, porwana
+      nadprzyrodzon\u0105 si\u0142\u0105, cho\u0107 wci\u0105\u017C zamkni\u0119ta,
+      jakby wszystkie jej strony by\u0142y ze sob\u0105 sklejone.<br><br>Wystraszony
+      starzec zrywa si\u0119 na r\xF3wne nogi i w ko\u0144cu ci\u0119 dostrzega."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 42415937366507521
+    m_Localized: "Ach! To ty!<br>Dobrze ci\u0119 widzie\u0107, naprawd\u0119!<br><br>Jak
+      d\u0142ugo ju\u017C tu stoisz? Trzeba by\u0142o podej\u015B\u0107 i si\u0119
+      przywita\u0107!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37705988774502411
+    m_Localized: "Ciebie te\u017C dobrze widzie\u0107, Ordosie. Musz\u0119 z tob\u0105
+      o czym\u015B porozmawia\u0107."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37705988774502412
+    m_Localized: "<i>W miar\u0119 jak opisujesz to, co wydarzy\u0142o si\u0119 w
+      lesie, Ordos coraz szerzej otwiera oczy, a zmarszczka na jego czole stopniowo
+      si\u0119 pog\u0142\u0119bia.</i><br><br>Okropne wie\u015Bci, zwyczajnie okropne...<br><br><i>Si\u0119ga
+      po ci\u0119\u017Ck\u0105 ksi\u0119g\u0119 i zaczyna j\u0105 gor\u0105czkowo
+      kartkowa\u0107. W ko\u0144cu obraca j\u0105 w twoj\u0105 stron\u0119.</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37705988774502414
+    m_Localized: "Na widocznych stronach znajduje si\u0119 opis wielkiego kataklizmu
+      sprzed wielu eon\xF3w. Du\u017Ca cz\u0119\u015B\u0107 informacji zagin\u0119\u0142a
+      w odm\u0119tach czasu...<br><br>Z tych urywk\xF3w, kt\xF3re udaje ci si\u0119
+      przet\u0142umaczy\u0107, wynika, \u017Ce odpowiada za to <font=\"Rounded-Black
+      SDF\">podw\xF3jne za\u0107mienie</font> \u2013 nadprzyrodzone zdarzenie polegaj\u0105ce
+      na przes\u0142oni\u0119ciu s\u0142o\u0144ca przez oba ksi\u0119\u017Cyce jednocze\u015Bnie."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 42406671599517700
+    m_Localized: "Zaraz, ju\u017C to gdzie\u015B widzia..."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37705988774502415
+    m_Localized: "<i>Rozpoznajesz przedstawione na ilustracji wydarzenie \u2013 to
+      w\u0142a\u015Bnie ukaza\u0142o ci si\u0119 w wizji towarzysz\u0105cej trz\u0119sieniu
+      ziemi! Czy\u017Cby by\u0142a przestrog\u0105?</i><br><br>Co masz na my\u015Bli?
+      Gdzie to mog\u0142o by\u0107?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 42406671599517701
+    m_Localized: "Tu\u017C przed trz\u0119sieniem ziemi nawiedzi\u0142a mnie dziwna
+      wizja."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37705988774502416
+    m_Localized: "<i>Ordos cofa si\u0119 o krok i otwiera oczy tak szeroko, \u017Ce
+      wygl\u0105daj\u0105, jakby ga\u0142ki mia\u0142y mu zaraz wypa\u015B\u0107
+      z oczodo\u0142\xF3w.</i><br><br>Ty... To <font=\"Rounded-Black SDF\"><bounce>niewiarygodne!</bounce></font>
+      Och, mo\u017Ce jednak nie czeka nas zguba!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37705988774502417
+    m_Localized: "Co masz na my\u015Bli?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37705988774502418
+    m_Localized: "Wygl\u0105da na to, \u017Ce Stra\u017Cnik usi\u0142owa\u0142 si\u0119
+      z tob\u0105 porozumie\u0107. Musia\u0142 <font=\"Rounded-Black SDF\">ci\u0119
+      wybra\u0107</font>."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 42415937366507522
+    m_Localized: "Wieki temu kr\u0105\u017Cy\u0142y legendy o <font=\"Rounded-Black
+      SDF\">smoczych wybra\u0144cach</font> \u2013 treserach pob\u0142ogos\u0142awionych
+      przez Stra\u017Cnik\xF3w, od kt\xF3rych otrzymali si\u0142\u0119 i pomoc.<br><br>Najwyra\u017Aniej
+      nasz Stra\u017Cnik nie spa\u0142 tak g\u0142\u0119boko, jak s\u0105dzili\u015Bmy...
+      I uzna\u0142 ci\u0119 za osob\u0119 godn\u0105 przyj\u0119cia cz\u0105stki
+      jego mocy."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 38046161593167872
+    m_Localized: "Czyli wybra\u0142 mnie... \u017Ceby co w\u0142a\u015Bciwie zrobi\u0107?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37705988774502420
+    m_Localized: "Ocali\u0107 nas od nadci\u0105gaj\u0105cej zag\u0142ady, jak mniemam.<br><br>Nie
+      zdo\u0142a\u0142em przet\u0142umaczy\u0107 zbyt wiele, jednak opowie\u015B\u0107
+      o za\u0107mieniu wspomina\u0142a o <font=\"Rounded-Black SDF\">krysztale</font>
+      \u2013 bardzo pot\u0119\u017Cnym, kt\xF3ry zapewne zn\xF3w gdzie\u015B tam
+      si\u0119 pojawi\u0142.<br><br>Musisz go znale\u017A\u0107 i spr\xF3bowa\u0107
+      go zniszczy\u0107, je\u015Bli to w og\xF3le mo\u017Cliwe."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 42406671599517702
+    m_Localized: "Zrobi\u0119, co w mojej mocy."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37705988774502421
+    m_Localized: "Odwagi, treserze.<br><br>Wygl\u0105da na to, \u017Ce losy ca\u0142ego
+      \u015Bwiata s\u0105 w twoich r\u0119kach."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37705988774502426
+    m_Localized: "<i>Starszy wioski wpatruje si\u0119 spod zmarszczonych brwi w g\xF3ruj\u0105c\u0105
+      nad nim sylwetk\u0119 Stra\u017Cnika. Min\u0119 ma bardzo powa\u017Cn\u0105.<br><br>Gdy
+      si\u0119 zbli\u017Casz, s\u0142yszysz cichy, mozolny oddech \u015Bpi\u0105cego
+      olbrzyma. Zmatowia\u0142e \u0142uski pokrywaj\u0105 ciemne plamy.</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 42406671599517704
+    m_Localized: "Och, witaj, treserze. Jakie\u015B wie\u015Bci?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 42406671599517705
+    m_Localized: "Na pustyni znajdowa\u0142y si\u0119 kolejne ruiny. Tym razem by\u0142
+      w nich inny treser."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37705988774502427
+    m_Localized: "Inny treser, powiadasz? <size=75%>Czy to mo\u017Cliwe...</size><br><br>To
+      raczej ma\u0142o prawdopodobne, ale... czy przypadkiem nie mia\u0142 przy sobie
+      dziwnej laski, kt\xF3r\u0105 przywo\u0142ywa\u0142 <font=\"Rounded-Black SDF\">widmowe
+      mystlingi?</font>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 42406671599517706
+    m_Localized: "W\u0142a\u015Bnie tak! Wiesz, kto to by\u0142?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 42406671599517707
+    m_Localized: "Mia\u0142em to nieszcz\u0119\u015Bcie go zna\u0107, owszem.<br><br>Kiedy\u015B
+      by\u0142 uczniem Ordosa, w pierwszych latach mojej s\u0142u\u017Cby jako starszy
+      wioski. Bardzo bystry osobnik, ale zawsze mia\u0142 ten... ogie\u0144 w oczach,
+      kt\xF3ry ju\u017C wtedy naprawd\u0119 mnie przera\u017Ca\u0142."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37705988774502428
+    m_Localized: "Co si\u0119 z nim sta\u0142o? Czemu odszed\u0142?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37705988774502429
+    m_Localized: "<i>Starszy wioski milczy przed d\u0142u\u017Csz\u0105 chwil\u0119,
+      w kt\xF3rej wraca my\u015Blami do dawnych czas\xF3w.</i><br><br>Zosta\u0142
+      wygnany.<br><font=\"Rounded-Black SDF\">Za zamach na \u017Cycie Stra\u017Cnika.</font>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 42406671599517708
+    m_Localized: "Bogowie. Czemu mia\u0142by co\u015B takiego zrobi\u0107?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 42406671599517709
+    m_Localized: "Trudno orzec. Nigdy nie sprawia\u0142 wra\u017Cenia do ko\u0144ca...
+      poczytalnego.<br><br>Je\u015Bli chcesz dowiedzie\u0107 si\u0119 o nim wi\u0119cej,
+      <font=\"Rounded-Black SDF\">spytaj Ordosa</font>. W ko\u0144cu przez wiele
+      lat dzielili jedn\u0105 pracowni\u0119 i pasj\u0119 do pog\u0142\u0119biania
+      wiedzy. Je\u015Bli ktokolwiek mia\u0142by co\u015B wiedzie\u0107, to w\u0142a\u015Bnie
+      Ordos."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37705988774502435
+    m_Localized: "<i>Ordos siedzi plecami do ciebie, poch\u0142oni\u0119ty badaniem
+      niewielkiej, starej ksi\u0105\u017Ceczki w poprzecieranej sk\xF3rzanej ok\u0142adce.<br><br><font=\"vinque-rg
+      SDF\"><size=120%>... Draco paulo cum adipem culo...</size></font><br><br>To
+      musi by\u0107 cz\u0119\u015B\u0107 dawnej modlitwy..."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37705988774502436
+    m_Localized: "Cze\u015B\u0107, Ordosie. Mog\u0119 o co\u015B zapyta\u0107?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37705988774502437
+    m_Localized: "Ach! Zn\xF3w si\u0119 przez ciebie najad\u0142em strachu.<br><br>W
+      czym rzecz, m\u0142ody treserze?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 42406671599517710
+    m_Localized: "Podobno mia\u0142e\u015B kiedy\u015B ucznia, kt\xF3rego potem wygnano
+      z wioski."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37705988774502439
+    m_Localized: "A, zgadza si\u0119. Nazywa\u0142 si\u0119...<br><br>To w zasadzie
+      nieistotne, prawda? Imi\u0119, pod kt\xF3rym go zna\u0142em, zapewne i tak
+      nie by\u0142o prawdziwe."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 42438740392263680
+    m_Localized: "Przyby\u0142 do naszej wioski jako m\u0142odzieniec. Twierdzi\u0142,
+      \u017Ce pragnie skorzysta\u0107 z mojej biblioteki, a w zamian zaoferowa\u0142
+      pomoc w badaniach.<br><br>By\u0142... bardzo ujmuj\u0105cy i po gar\u015Bci
+      komplement\xF3w z jego strony ugi\u0105\u0142em si\u0119 i przyj\u0105\u0142em
+      go na termin."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 42406671599517712
+    m_Localized: "By\u0142 bardzo zamkni\u0119ty w sobie. Fascynowa\u0142y go stare
+      podania i legendy, mia\u0142 na ich punkcie wr\u0119cz obsesj\u0119.<br><br>Przekopywa\u0142
+      si\u0119 przez stare tomiszcza w poszukiwaniu dowodu istnienia czarownego ludu.
+      \u015Al\u0119cza\u0142 nad setkami map, by odnale\u017A\u0107 \u015Blady ich
+      ruin..."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37705988774502441
+    m_Localized: "I chowa\u0142 g\u0142\u0119bok\u0105, niewyja\u015Bnion\u0105 uraz\u0119
+      do <font=\"Rounded-Black SDF\">smok\xF3w</font>. Ma\u0142o kto z nas rozumia\u0142,
+      jak wielk\u0105 darzy\u0142 je nienawi\u015Bci\u0105.<br><br>Ach, ale to tylko
+      opowie\u015Bci z dawnych lat. Czemu o to pytasz?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 42406671599517713
+    m_Localized: "Na mojej drodze stan\u0105\u0142 chyba ten tw\xF3j ucze\u0144.
+      Zdawa\u0142 si\u0119 w\u0142ada\u0107 magi\u0105 cieni."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 42406671599517714
+    m_Localized: "<i>Ordos patrzy na ciebie. Wyczuwasz w nim g\u0142\u0119boki smutek,
+      jakiego nigdy jeszcze nie zdradza\u0142.</i><br><br>Czy\u017Cby? To... niefortunne
+      wie\u015Bci. Wygl\u0105da na to, \u017Ce niewiele si\u0119 zmieni\u0142 przez
+      te wszystkie lata..."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37705988774502449
+    m_Localized: "Treserze! Szybko! <font=\"Rounded-Black SDF\">Ordos</font> chyba
+      znalaz\u0142 rozwi\u0105zanie!<br><br>Jak najszybciej z nim porozmawiaj!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37705988774502450
+    m_Localized: "Ju\u017C id\u0119!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37705988774502451
+    m_Localized: "<i>Po raz pierwszy od wielu tygodni Ordos nie kartkuje nerwowo
+      w g\u0142\u0119bokim zamy\u015Bleniu ksi\u0105g wype\u0142nionych zapomnian\u0105
+      wiedz\u0105. Tym razem kr\u0105\u017Cy w t\u0119 i z powrotem, r\xF3wnie nerwowo,
+      ale te\u017C z wyra\u017An\u0105 ekscytacj\u0105.</i><br><br>Treserze! O, czeka\u0142em
+      na ciebie. Chod\u017A, chod\u017A!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37705988774502452
+    m_Localized: "Pami\u0119tasz te portale w ruinach? Musisz spr\xF3bowa\u0107 <font=\"Rounded-Black
+      SDF\">do nich wej\u015B\u0107.</font><br><br>Tak, wiem, \u017Ce to brzmi jak
+      jakie\u015B wariactwo, wr\u0119cz nieodpowiedzialnie, ale wys\u0142uchaj mnie!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 42406671599517716
+    m_Localized: Aha...
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 42416728437407744
+    m_Localized: "Potwory, kt\xF3re z tob\u0105 walczy\u0142y w ruinach, przybywaj\u0105
+      tu przez portale, ale to nie one je <font=\"Rounded-Black SDF\">otwieraj\u0105</font>.<br><br>Ich
+      \u017Ar\xF3d\u0142o musi zatem znajdowa\u0107 si\u0119 po drugiej stronie \u2013
+      to zapewne kryszta\u0142 kieruj\u0105cy wszystkimi innymi kryszta\u0142ami,
+      kt\xF3re si\u0119 dot\u0105d pojawia\u0142y."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 42406671599517717
+    m_Localized: "Je\u015Bli go zniszczysz, <font=\"Rounded-Black SDF\">by\u0107
+      mo\u017Ce unicestwisz \u017Ar\xF3d\u0142o si\u0142 cienia</font>, kt\xF3re
+      napastuj\u0105 nasz\u0105 wiosk\u0119!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37705988774502453
+    m_Localized: "Czyli <font=\"Rounded-Black SDF\">mog\u0119</font> je zniszczy\u0107?
+      To nie brzmi zbyt obiecuj\u0105co..."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37705988774502454
+    m_Localized: "Wiem, wiem, ale... to najlepsze, co mo\u017Cemy w tej chwili zrobi\u0107.
+      A <font=\"Rounded-Black SDF\">ko\u0144czy si\u0119 nam czas.</font><br><br>Smoczy
+      Stra\u017Cnik kona, a mieszka\u0144cy maj\u0105 coraz wi\u0119ksze k\u0142opoty
+      z obron\u0105 wioski przed potworami..."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 42406671599517718
+    m_Localized: ...
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 42406671599517719
+    m_Localized: "Prosz\u0119... Tylko ty masz jak\u0105kolwiek szans\u0119 w tej
+      walce. Wiem, \u017Ce prosz\u0119 o wiele, ale...<br><br>Ca\u0142a wioska na
+      ciebie liczy."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37705988774502455
+    m_Localized: "Chyba nie mamy innego wyj\u015Bcia. Jak mog\u0119 odm\xF3wi\u0107?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37705988774502456
+    m_Localized: "<bounce w=0.7>Dzi\u0119kuj\u0119</bounce>, treserze.<br>Jeste\u015Bmy
+      twoimi d\u0142u\u017Cnikami.<br><br>Niech smoki ci\u0119 prowadz\u0105."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37707288551563264
+    m_Localized: "<i>Kiedy tylko wchodzisz do wioski, Lyanne rzuca ci si\u0119 w
+      ramiona.</i><br><br>Bogowie, jeste\u015B z powrotem! Tak si\u0119 martwi\u0142am!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 42406671599517720
+    m_Localized: "Martwi\u0142a\u015B si\u0119? Czemu? Co si\u0119 sta\u0142o?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37707288551563265
+    m_Localized: "<i>Odsuwa si\u0119 nieco od ciebie i spuszcza wzrok. Wargi jej
+      dr\u017C\u0105, jakby mia\u0142a si\u0119 za chwil\u0119 rozp\u0142aka\u0107.</i><br><br>Stra\u017Cnik...
+      <font=\"Rounded-Black SDF\">Nie \u017Cyje.</font>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 42406671599517721
+    m_Localized: Co? Jak? Nie... nie rozumiem...
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 42406671599517722
+    m_Localized: "Choroba... Czarne plamy... W ko\u0144cu go pokona\u0142y. Chyba
+      nawet bogowie nie s\u0105 odporni na wp\u0142yw za\u0107mienia.<br><br>Czy...
+      czy to ju\u017C koniec? Czy naprawd\u0119 nie ma ju\u017C dla nas nadziei?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37712648813355008
+    m_Localized: "Nie. Zawsze jest nadzieja. To jeszcze nie koniec, dopilnuj\u0119
+      tego."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37707288551563267
+    m_Localized: "<font=\"Rounded-Black SDF\">Jak?</font><br><br>Jak walczy\u0107
+      z si\u0142\u0105 tak pot\u0119\u017Cn\u0105, \u017Ce potrafi zabi\u0107 smoka?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 42406671599517723
+    m_Localized: "To proste. O\u015Blim uporem i brakiem instynktu samozachowawczego."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 42406671599517724
+    m_Localized: "... Nigdy nie przestaniesz mnie zadziwia\u0107, wiesz?<br><br><i>Przysuwa
+      si\u0119 bli\u017Cej i \u015Bciska ci\u0119 mocno. Czujesz, jak na twoje rami\u0119
+      sp\u0142ywa \u0142za.</i><br><br>Tylko prosz\u0119... nie daj si\u0119 zabi\u0107."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37712648834326528
+    m_Localized: "Nie martw si\u0119. Wr\xF3c\u0119 na kolacj\u0119."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37707288551563277
+    m_Localized: "Na \u015Bwi\u0119te \u0142uski, uda\u0142o ci si\u0119!<br><bounce>Naprawd\u0119
+      ci si\u0119 uda\u0142o!</bounce><br><br><i>Lyanne podbiega do ciebie z maluj\u0105c\u0105
+      si\u0119 na twarzy rado\u015Bci\u0105 wymieszan\u0105 z niedowierzaniem.<br><br>Wkr\xF3tce
+      widzisz wok\xF3\u0142 siebie przyjazne oblicza. Wszyscy zaczynaj\u0105 m\xF3wi\u0107
+      jeden przez drugiego, usi\u0142uj\u0105c ci pogratulowa\u0107.</i>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 42406671599517725
+    m_Localized: "Uda\u0142o si\u0119?"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 42406671599517726
+    m_Localized: "Uda\u0142o.<br><br>Chyba zawdzi\u0119czamy ci \u017Cycie, treserze.
+      A przynajmniej nasz dom."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37712648834326533
+    m_Localized: "Ale uda\u0142o mi si\u0119 zniszczy\u0107 tylko \u017Ar\xF3d\u0142o
+      cieni. Potwory wci\u0105\u017C grasuj\u0105 po \u015Bwiecie..."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37707288551563279
+    m_Localized: "Ach, to prawda, lecz...<br><br>My\u015Bl\u0119, \u017Ce z tym sobie
+      poradzimy. Zw\u0142aszcza z tak uzdolnionym treserem po naszej stronie."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37707288551563280
+    m_Localized: "Kiedy ci\u0119 nie by\u0142o, otoczy\u0142y nas te ma\u0142e <shake
+      a=0.5>cholery</shake>.<br><br>Mog\u0119 z dum\u0105 poinformowa\u0107, \u017Ce
+      uda\u0142o mi si\u0119 rozwali\u0107 krzes\u0142em \u0142eb jednemu z tych
+      okropnych robali!<br><br>Mo\u017Ce nie jestem treserem, ale... No, nie by\u0142oby
+      ci raczej ze mn\u0105 \u0142atwo. <bounce>Ha!</bounce>"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 42406671599517728
+    m_Localized: "Ach, jasne. Na pewno wszyscy uwa\u017Caliby ci\u0119 za najbardziej
+      <font=\"Rounded-Black SDF\">przera\u017Caj\u0105cego</font> tresera."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37707288551563281
+    m_Localized: "<i>Starszy wioski odchrz\u0105kuje niepewnie.</i><br><br>Khm...
+      No c\xF3\u017C, treserze.<br><br>Bardzo si\u0119 ciesz\u0119 z twojego powrotu.
+      Uda\u0142o ci si\u0119 ocali\u0107 nasz\u0105 ma\u0142\u0105 wiosk\u0119. Jeste\u015Bmy
+      ci dozgonnie wdzi\u0119czni."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 42406671599517730
+    m_Localized: "Chcia\u0142bym m\xF3c nale\u017Cycie odp\u0142aci\u0107 ci za ca\u0142\u0105
+      ci\u0119\u017Ck\u0105 prac\u0119, jednak nie s\u0105 to najlepsze czasy...<br><br>Po
+      trz\u0119sieniu ziemi i ca\u0142ym tym zniszczeniu..."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37712648834326534
+    m_Localized: "Wioska to m\xF3j dom. Zwyczajnie si\u0119 ciesz\u0119, \u017Ce
+      dane mi j\u0105 by\u0142o ocali\u0107."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 37707288551563283
+    m_Localized: "<i>Twarz starszego wioski rozja\u015Bnia si\u0119 niemal ojcowsk\u0105
+      dum\u0105.</i><br><br>Ach... Stra\u017Cnik naprawd\u0119 wiedzia\u0142, kogo
+      wybra\u0107 do tego zadania."
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 42406671599517731
+    m_Localized: "<i>Tu twoja podr\xF3\u017C dobiega ko\u0144ca. Uda\u0142o ci si\u0119
+      ocali\u0107 wiosk\u0119 i powstrzyma\u0107 nadej\u015Bcie za\u0107mienia, co
+      dowodzi, \u017Ce jeste\u015B wspania\u0142ym treserem \u2013 mo\u017Ce najlepszym,
+      jakiego kiedykolwiek widzia\u0142a wioska.<br>Ludzie ca\u0142e wieki b\u0119d\u0105
+      opowiada\u0107 o twych bohaterskich czynach. Mo\u017Ce nawet Ordos unie\u015Bmiertelni
+      ci\u0119 w jednej ze swoich ksi\u0105g... je\u015Bli go \u0142adnie poprosisz.<br><br>Ale
+      te\u017C wraz z ko\u0144cem jednego rozdzia\u0142u twoich przyg\xF3d rozpoczyna
+      si\u0119 kolejny. Jakie nowe opowie\u015Bci utka dla ciebie los? Jedno jest
+      pewne: tam, gdzie kiedy\u015B panowa\u0142y rozpacz i l\u0119k, teraz l\u015Bni
+      nadzieja.</i><br><br>\u015Awietna robota \u2013 i dzi\u0119kujemy za gr\u0119!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 42410027705417728
+    m_Localized: "Zobaczmy, co przyniesie przysz\u0142o\u015B\u0107!"
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  - m_Id: 39865059588440064
+    m_Localized: Ordos
+    m_Metadata:
+      m_Items:
+      - rid: 8829885851983675397
+  references:
+    version: 2
+    RefIds:
+    - rid: 8829885851983675397
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 451756015616
+        - id: 451785375744
+        - id: 451785375745
+        - id: 451785375746
+        - id: 451789570048
+        - id: 451789570049
+        - id: 451789570050
+        - id: 451789570051
+        - id: 451789570073
+        - id: 451789570074
+        - id: 45300613990391828
+        - id: 45300613990391829
+        - id: 451789570077
+        - id: 451789570078
+        - id: 45300613990391831
+        - id: 45300613990391832
+        - id: 45300613990391834
+        - id: 45300613990391835
+        - id: 45300613990391836
+        - id: 45300613990391837
+        - id: 45300613990391838
+        - id: 45300613990391839
+        - id: 45300613990391840
+        - id: 45300613990391841
+        - id: 45300613990391842
+        - id: 45300613990391843
+        - id: 45300613990391844
+        - id: 45300613990391845
+        - id: 45300613990391846
+        - id: 45300613990391847
+        - id: 45300613990391848
+        - id: 45300613990391849
+        - id: 45300613990391850
+        - id: 45300613990391851
+        - id: 45300613990391852
+        - id: 45300613990391853
+        - id: 45300613990391854
+        - id: 45300613990391855
+        - id: 45300613990391856
+        - id: 45300613990391857
+        - id: 45300613990391858
+        - id: 45300613990391859
+        - id: 45300613990391860
+        - id: 45300613990391861
+        - id: 45300613990391862
+        - id: 45300613990391863
+        - id: 45300613990391864
+        - id: 45300613990391865
+        - id: 45300613990391866
+        - id: 45300613990391867
+        - id: 45300613990391868
+        - id: 45300613990391869
+        - id: 45300613990391870
+        - id: 45300613990391871
+        - id: 45300613990391872
+        - id: 45300613990391873
+        - id: 45300613990391874
+        - id: 45300613990391875
+        - id: 45300613990391876
+        - id: 45300613990391877
+        - id: 45300613990391878
+        - id: 45300613990391879
+        - id: 45300613990391880
+        - id: 45300613990391881
+        - id: 45300613990391882
+        - id: 45300613990391883
+        - id: 45300613990391884
+        - id: 45300613990391885
+        - id: 45300613990391886
+        - id: 45300613990391887
+        - id: 45300613990391888
+        - id: 45304894210514947
+        - id: 45304894210514948
+        - id: 45304894210514959
+        - id: 45304894210514960
+        - id: 45304894210514961
+        - id: 45304894210514962
+        - id: 45304894210514963
+        - id: 45304894210514966
+        - id: 45300613990391913
+        - id: 45300613990391914
+        - id: 13009066783744000
+        - id: 13009066808909824
+        - id: 35532752173924352
+        - id: 35532752194895872
+        - id: 35532752194895873
+        - id: 35532752194895874
+        - id: 35532752194895875
+        - id: 35532752194895876
+        - id: 35532752194895877
+        - id: 35532752194895878
+        - id: 35532752194895879
+        - id: 35532752194895880
+        - id: 35532752194895881
+        - id: 35532752194895882
+        - id: 35532752194895883
+        - id: 37707288547368960
+        - id: 37707288547368961
+        - id: 37707288547368962
+        - id: 37707288547368963
+        - id: 37707288547368964
+        - id: 37707288547368965
+        - id: 37705988774502400
+        - id: 42406671578546176
+        - id: 37705988774502401
+        - id: 42424946089771008
+        - id: 42406671599517696
+        - id: 37705988774502402
+        - id: 42424946089771009
+        - id: 37705988774502403
+        - id: 37705988774502404
+        - id: 42424946089771010
+        - id: 42406671599517697
+        - id: 37705988774502405
+        - id: 42424946089771011
+        - id: 37705988774502407
+        - id: 42415937366507520
+        - id: 42406671599517699
+        - id: 37705988774502408
+        - id: 37705988774502410
+        - id: 42415937366507521
+        - id: 37705988774502411
+        - id: 37705988774502412
+        - id: 37705988774502414
+        - id: 42406671599517700
+        - id: 37705988774502415
+        - id: 42406671599517701
+        - id: 37705988774502416
+        - id: 37705988774502417
+        - id: 37705988774502418
+        - id: 42415937366507522
+        - id: 38046161593167872
+        - id: 37705988774502420
+        - id: 42406671599517702
+        - id: 37705988774502421
+        - id: 37705988774502426
+        - id: 42406671599517704
+        - id: 42406671599517705
+        - id: 37705988774502427
+        - id: 42406671599517706
+        - id: 42406671599517707
+        - id: 37705988774502428
+        - id: 37705988774502429
+        - id: 42406671599517708
+        - id: 42406671599517709
+        - id: 37705988774502435
+        - id: 37705988774502436
+        - id: 37705988774502437
+        - id: 42406671599517710
+        - id: 37705988774502439
+        - id: 42438740392263680
+        - id: 42406671599517712
+        - id: 37705988774502441
+        - id: 42406671599517713
+        - id: 42406671599517714
+        - id: 37705988774502449
+        - id: 37705988774502450
+        - id: 37705988774502451
+        - id: 37705988774502452
+        - id: 42406671599517716
+        - id: 42416728437407744
+        - id: 42406671599517717
+        - id: 37705988774502453
+        - id: 37705988774502454
+        - id: 42406671599517718
+        - id: 42406671599517719
+        - id: 37705988774502455
+        - id: 37705988774502456
+        - id: 37707288551563264
+        - id: 42406671599517720
+        - id: 37707288551563265
+        - id: 42406671599517721
+        - id: 42406671599517722
+        - id: 37712648813355008
+        - id: 37707288551563267
+        - id: 42406671599517723
+        - id: 42406671599517724
+        - id: 37712648834326528
+        - id: 37707288551563277
+        - id: 42406671599517725
+        - id: 42406671599517726
+        - id: 37712648834326533
+        - id: 37707288551563279
+        - id: 37707288551563280
+        - id: 42406671599517728
+        - id: 37707288551563281
+        - id: 42406671599517730
+        - id: 37712648834326534
+        - id: 37707288551563283
+        - id: 42406671599517731
+        - id: 42410027705417728
+        - id: 39865059588440064

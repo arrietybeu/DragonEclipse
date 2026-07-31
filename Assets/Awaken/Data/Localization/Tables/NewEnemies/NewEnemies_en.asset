@@ -1,0 +1,1064 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: NewEnemies_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: adcfc443eb956b24bacf98517e3ba782, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2105433060097654809
+  m_TableData:
+  - m_Id: 3202074980499459
+    m_Localized: Dark Eftus
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 3202074980499460
+    m_Localized: Terok
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 3202074980499463
+    m_Localized: Eldrithia
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 32874378098188288
+    m_Localized: This creature is immune to <style="Blue">Stun</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 3202074980499466
+    m_Localized: Phantom Pinequeak
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 3202074980499467
+    m_Localized: Phantom Iceling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 3202074980499468
+    m_Localized: Phantom Golomo
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 3202074980499469
+    m_Localized: Phantom Glarexus
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 3202074980499470
+    m_Localized: Phantom Prowler
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 3202074980499471
+    m_Localized: Damage
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 3202074980499472
+    m_Localized: Debuff
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 3202074980499473
+    m_Localized: Rest
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 3202074980499474
+    m_Localized: Stunned
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 3202074980499475
+    m_Localized: This creature will <style="Blue">Attack</style> the <style="Blue">front</style>
+      Mystling for {Action.Power} <style="Blue">damage</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 3202074980499477
+    m_Localized: This creature will <style="Blue">Attack</style> the <style="Blue">last</style>
+      Mystling for {Action.Power} <style="Blue">damage</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 3202074980499478
+    m_Localized: This creature will <style="Blue">Attack</style> a <style="Blue">random</style>
+      Mystling for {Action.Power} <style="Blue">damage</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 3202074980499479
+    m_Localized: This creature will deal {Effect0.ValueInt} <style="Blue">damage</style>
+      {Action.Repeat} times to <style="Blue">random</style> Mystlings
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 3202074980499480
+    m_Localized: This creature will <style="Blue">Attack</style> <style="Blue">all
+      Mystlings</style> for {Action.Power} <style="Blue">damage</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 3202074980499481
+    m_Localized: This creature deals <style="Blue">damage</style> equal to its current
+      <style="Blue">Health</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 3202074980499482
+    m_Localized: Rest
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 3202074980499483
+    m_Localized: This creature will apply a Buff
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 3202074980499484
+    m_Localized: This creature will apply a Debuff
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 18385638579576832
+    m_Localized: This creature will apply <smallcaps><style="Blue">Vulnerable</style></smallcaps>
+      to <style="Blue">all</style> Mystlings
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 3202074980499486
+    m_Localized: This creature will <style="Blue">Summon</style> a creature
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 3202074980499503
+    m_Localized: On Round 4
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 3202074980499504
+    m_Localized: On Round 5
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 3202074980499505
+    m_Localized: On Round 6
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 30043252048601089
+    m_Localized: Dark Drosithia
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 30043252048601088
+    m_Localized: Lesser Dark Drosithia
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 3202074980499495
+    m_Localized: 'Start of Round: This creature gains {Effect0.ValueInt} <style="Blue">Thorns</style>'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 3202074980499499
+    m_Localized: 'Card played: Gain {Effect0.ValueInt} <style="Blue">Strength</style>'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 8647932836388864
+    m_Localized: 'On Round 4: Strike random Mystlings 4 times'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 10073376659939328
+    m_Localized: 'On Round 4: Strike random Mystlings 4 times'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 12232867249725440
+    m_Localized: 'On Round 4: Strike random Mystlings 4 times'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 14838014429700096
+    m_Localized: Buff
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 14838014450671616
+    m_Localized: Curse
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 14838014450671617
+    m_Localized: One less Energy point next Round
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 14838014450671618
+    m_Localized: Add a <style="Blue">Curse card</style> to the Deck
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 14838014450671619
+    m_Localized: Increase Energy cost of next card drawn
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 15098057276334080
+    m_Localized: Steal Mystberries from the Player
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 15107087159861248
+    m_Localized: Reduce Player's Hand Size for one turn
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 18375964392235008
+    m_Localized: Drag Mystling with the <style="Blue">lowest Health<style="Blue">
+      to the <style="Blue">front</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 18386934791479296
+    m_Localized: This creature will apply <smallcaps><style="Blue">Vulnerable</style></smallcaps>
+      to the Mystling with <style="Blue">lowest Health</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 18373772805480449
+    m_Localized: This creature will <smallcaps><style="Blue">Stun</style></smallcaps>
+      the <style="Blue">middle</style> Mystling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 18373772805480448
+    m_Localized: This creature will <smallcaps><style="Blue">Stun</style></smallcaps>
+      the <style="Blue">front</style> Mystling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 18372613688598528
+    m_Localized: This creature will apply <smallcaps><style="Blue">Weakness</style></smallcaps>
+      to the <style="Blue">front</style> Mystling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 18372613688598529
+    m_Localized: This creature will apply <smallcaps><style="Blue">Weakness</style></smallcaps>
+      to a <style="Blue">random</style> Mystling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 18372613688598530
+    m_Localized: This creature will apply <smallcaps><style="Blue">Vulnerable</style></smallcaps>
+      to the <style="Blue">front</style> Mystling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 18372613688598531
+    m_Localized: This creature will gain <smallcaps><style="Blue">Dodge</style></smallcaps>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 18372613688598532
+    m_Localized: This creature will gain <smallcaps><style="Blue">Wrath</style></smallcaps>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 18372613688598533
+    m_Localized: This creature will apply <smallcaps><style="Blue">Wrath</style></smallcaps>
+      to the <style="Blue">front</style> Enemy
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 18372613688598534
+    m_Localized: This creature will apply <smallcaps><style="Blue">Wrath</style></smallcaps>
+      to <style="Blue">all</style> Enemies
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 18372613688598535
+    m_Localized: This creature will gain <smallcaps><style="Blue">Shields</style></smallcaps>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 18372613688598536
+    m_Localized: This creature will gain <smallcaps><style="Blue">Thorns</style></smallcaps>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 18372613688598537
+    m_Localized: This creature will apply <smallcaps><style="Blue">Thorns</style></smallcaps>
+      to <style="Blue">front</style> Enemy
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 18372613688598538
+    m_Localized: This creature will <style="Blue">Heal</style> <style="Blue">itself</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 18372613688598539
+    m_Localized: This creature will <style="Blue">Heal</style> the <style="Blue">front</style>
+      Enemy
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 20982582464290816
+    m_Localized: Apply Vulnerable to a random Mystling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 20988887249788928
+    m_Localized: This creature will apply <smallcaps><style="Blue">Vulnerable</style></smallcaps>
+      to a <style="Blue">random</style> Mystling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 21275692424437760
+    m_Localized: This creature will <style="Blue">Attack</style> the <style="Blue">middle</style>
+      Mystling for {Action.Power} <style="Blue">damage</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 21275692445409280
+    m_Localized: This creature will <style="Blue">Attack</style> Mystling with <style="Blue">lowest
+      Health</style> for {Action.Power} <style="Blue">damage</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 22377819417944064
+    m_Localized: Dark Prowler
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 22377819430526976
+    m_Localized: Dark Drosithia's Egg
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 23882141503791104
+    m_Localized: <smallcaps><style="Blue">Wound</style></smallcaps> for {Effect0.ValueInt}
+      <style="Blue">damage</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 23882141503791105
+    m_Localized: <smallcaps><style="Blue">Wound</style></smallcaps> middle Mystling
+      for {Effect0.ValueInt} <style="Blue">damage</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 23882141503791106
+    m_Localized: <smallcaps><style="Blue">Wound</style></smallcaps> last Mystling
+      for {Effect0.ValueInt} <style="Blue">damage</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 23882141503791107
+    m_Localized: <smallcaps><style="Blue">Wound</style></smallcaps> all Mystlings
+      for {Effect0.ValueInt} <style="Blue">damage</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 23882141503791108
+    m_Localized: <smallcaps><style="Blue">Wound</style></smallcaps> random Mystling
+      for {Effect0.ValueInt} <style="Blue">damage</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 28198348632694784
+    m_Localized: 'Health below half: Gain {Effect0.ValueInt} <style="Blue">Wrath</style> '
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 28200547500761088
+    m_Localized: 'On <style="Blue">Hurt</style>: Gain {Effect0.ValueInt} <style="Blue">Vulnerable</style>
+      and Give {Effect1.ValueInt} <style="Blue">Vulnerable</style> to the attacking
+      Mystling.'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 28204206989058048
+    m_Localized: 'Health below half: Gain {Effect0.ValueInt} permanent <style="Blue">Multistrike</style>'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 28205321759563776
+    m_Localized: This creature will apply <smallcaps><style="Blue">Weakness</style></smallcaps>
+      to <style="Blue">itself</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 28209715775348736
+    m_Localized: This creature prepares a <style="Blue">Strong Attack</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 28218877917863936
+    m_Localized: This creature will apply <smallcaps><style="Blue">Vulnerable</style></smallcaps>
+      to <style="Blue">itself</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 28624890869432320
+    m_Localized: This creature will become <smallcaps><style="Blue">Guarded</style></smallcaps>
+      for {Effect0.ValueInt] Rounds
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 28624890886209536
+    m_Localized: This creature will become <smallcaps><style="Blue">Exposed</style></smallcaps>
+      for {Effect0.ValueInt] Round
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 28880172346318848
+    m_Localized: Gremlin
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 29980607761162240
+    m_Localized: 'Other Gremlin <style="Blue">faints</style>: Restore full Health,
+      gain {Effect1.ValueInt} <style="Blue">Shields</style> and gain  {Effect3.ValueInt}
+      <style="Blue">Wrath</style> <br>Keep <style="Blue">Shields</style> at the end
+      of Round'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 29987358854160384
+    m_Localized: Lesser Shadowling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 29987358875131904
+    m_Localized: Shadowling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 29987358875131905
+    m_Localized: Sneakabbys
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 29987945507266560
+    m_Localized: This creature will deal {Action.Power} <style="Blue">damage</style>
+      to <style="Blue">itself</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 29990354140864512
+    m_Localized: This creature will <smallcaps><style="Blue">Stun</style></smallcaps>
+      a <style="Blue">random</style> Mystling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 30026794803470336
+    m_Localized: 'When <style="Blue">attacked</style>: Gain {Effect0.ValueInt} <style="Blue">Multistrike</style>'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 30026794803470337
+    m_Localized: 'Health below half: Gain {Effect0.ValueInt} permanent <style="Blue">Multistrike</style>'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 32875559818174464
+    m_Localized: Permanent Lifesteal
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 30026794803470339
+    m_Localized: 'Always moves to front <br>Start of Battle: Gain {Effect1.ValueInt}
+      <style="Blue">Shields</style>'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 30047564703277056
+    m_Localized: 'This creature will cast a <style="Blue">Curse</style>: <smallcaps><style="Blue">Steal</style></smallcaps>
+      {Effect0.ValueInt} Gold or 1 Mystberry'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 30040975212617728
+    m_Localized: Worm
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 30040975221006336
+    m_Localized: Necroworm
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 30040975221006337
+    m_Localized: Small Worm
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 30040975221006338
+    m_Localized: Small Necroworm
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 30040975221006339
+    m_Localized: Shadeclaw
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 30040975221006340
+    m_Localized: Ghostclaw
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 30040975221006341
+    m_Localized: Darktailen
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 30040975221006342
+    m_Localized: Fourtailen
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 30040975221006343
+    m_Localized: When this creature <style="Blue">Faints</style> it will summon one
+      Small Worm
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 30040975221006344
+    m_Localized: When this creature <style="Blue">Faints</style> it will summon one
+      Small Necroworm
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 30047428094795776
+    m_Localized: 'This creature will cast a <style="Blue">Curse</style>: Remove all
+      Buffs from front Mystling'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 30067048314904576
+    m_Localized: Lesser Umbra
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 30317001696157696
+    m_Localized: 'When <style="Blue">attacked</style>: Gain {Effect0.ValueInt} <style="Blue">Wrath</style>
+      <br>Become <style="Blue">Exposed</style> every 4th Round (Increase damage received
+      by 100% for one turn, gain <style="Blue">Weakness</style> instead of <style="Blue">Wrath</style>
+      after hit)'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 31416745155698688
+    m_Localized: Increase Energy cost of next {Effect0.ValueInt} cards drawn
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 32864254604419072
+    m_Localized: Phantamer
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 32864254625390592
+    m_Localized: Umbra
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 32864254625390593
+    m_Localized: Special Ability
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 32885125649866752
+    m_Localized: 'Start of Round: Steal {Effect1.ValueInt} Mystberry OR {Effect0.ValueInt}
+      Gold'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 32885125670838272
+    m_Localized: 'Immune to <style="Blue">Stun</style> <br>Start of Battle: Gain
+      {Effect1.ValueInt} <style="Blue">Dodge</style>'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 32885125670838273
+    m_Localized: 'Immune to <style="Blue">Stun</style> <br>Start of Round: Summon
+      2 Phantoms if possible. <br>Phantom <style="Blue">faints</style>: Lose {Effect3.ValueInt}
+      <style="Blue">HP</style> and Gain {Effect2.ValueInt} <style="Blue">Wrath</style> '
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 33956972290187264
+    m_Localized: This creature will <style="Blue">Attack</style> the front Mystling
+      for {Action.Power} <style="Blue">damage</style> 5 times
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 33956972315353088
+    m_Localized: This creature will <style="Blue">Attack</style> the front Mystling
+      for {Action.Power} <style="Blue">damage</style> 10 times
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 34099718414868480
+    m_Localized: This creature will <smallcaps><style="Blue">Stun</style></smallcaps>
+      <style="Blue">all</style> Mystlings
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 40897011834232832
+    m_Localized: This creature will <style="Blue">explode</style> after attacking
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 40919038213300224
+    m_Localized: This creature will gain <smallcaps><style="Blue">Lifesteal</style></smallcaps>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 40937100899590144
+    m_Localized: This creature will enter <smallcaps><style="Blue">Shadow Form</style></smallcaps>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 40937100899590145
+    m_Localized: This creature will leave <smallcaps><style="Blue">Shadow Form</style></smallcaps>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 41237795473268736
+    m_Localized: This creature will <style="Blue">Attack</style> the front Mystling
+      for {Action.Power} <style="Blue">damage</style> 6 times
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 41239606510821376
+    m_Localized: Skitterpaw's Egg
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 41239606510821377
+    m_Localized: Skitterpaw
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 41240425125715968
+    m_Localized: 'Immune to <style="Blue">Stun</style> <br>Health below half: At
+      the beginning of the next Round, absorb an Egg behind and gain {Effect2.ValueInt}
+      Max Health and {Effect1.ValueInt} <style="Blue">Wrath</style>'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 41266718798061568
+    m_Localized: This creature will enter another <style="Blue">Phase</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 41288302803886080
+    m_Localized: Red Fungusmo
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 41288302829051904
+    m_Localized: Green Fungusmo
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 41288302829051905
+    m_Localized: 'After emerging from the ground this creature gains 10 Max Health
+      and 3 <style="Blue">Wrath</style> for every 1 Health missing
+
+      Upon entering
+      the ground it gains <style="Blue">Insulate</style> and reduces Max Health'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 41288302829051906
+    m_Localized: After emerging from the ground this creature explodes dealing 20
+      damage to every creature
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 41634209193861120
+    m_Localized: All cards played next Round are Exhausted
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 42678251386118144
+    m_Localized: When this creature is <style="Blue">attacked</style> it gains {Effect0.ValueInt}
+      <style="Blue">Wrath</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 42678251419672576
+    m_Localized: When this creature is <style="Blue">attacked</style> it applies
+      {Effect0.ValueInt} <style="Blue">Vulnerable</style> to attacking Mystling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 43421786716577792
+    m_Localized: Eclipse Crystal
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 43809184386457600
+    m_Localized: This creature will deal {Action.Power} <style="Blue">damage</style>
+      to <style="Blue">all</style> creatures
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 44089582999904256
+    m_Localized: Exalted Shadowling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 44089583020875776
+    m_Localized: Faceless Shadowling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 51448208789938176
+    m_Localized: Darkeye
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 51448208810909696
+    m_Localized: Blue Darkeye
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 51448208810909697
+    m_Localized: Centervil
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 51448208810909698
+    m_Localized: Siren
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 51448208810909699
+    m_Localized: Dogring
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 51448208810909700
+    m_Localized: 'Keep <style="Blue">Shields</style> between Rounds <br>When <style="Blue">attacked</style>:
+      Gain {Effect0.ValueInt} <style="Blue">Thorns</style>'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 51448208810909701
+    m_Localized: '<style="Blue">Faint</style>: Apply {Effect0.ValueInt} <style="Blue">Thorns</style>
+      for every Round survived to all enemies'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 51448208810909703
+    m_Localized: 'Card played: Heal {Effect0.ValueInt} Health'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 51712258333548544
+    m_Localized: This creature will become <smallcaps><style="Blue">Indestructible</style></smallcaps>
+      for one Round
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 51714386443706368
+    m_Localized: This creature will apply <smallcaps><style="Blue">Acid</style></smallcaps>
+      to the <style="Blue">front</style> Mystling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 51715039991767040
+    m_Localized: This creature will apply <smallcaps><style="Blue">Acid</style></smallcaps>
+      to a <style="Blue">random</style> Mystling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 53218264817410048
+    m_Localized: This creature will <style="Blue">Attack</style> the front Mystling
+      for {Action.Power} <style="Blue">damage</style> 3 times
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 58687513618882560
+    m_Localized: Become <style="Blue">Exposed</style> every 4th Round (Increase damage
+      received by 100% for one turn)
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 58688421891219456
+    m_Localized: 'When other Pinequeak <style="Blue">faints</style>: Gain 1 <style="Blue">Multistrike</style>
+      and 1 <style="Blue">Dodge</style>'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 58691717615919104
+    m_Localized: Big Pine
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 58691793004339200
+    m_Localized: Small Pine
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 61231874130952192
+    m_Localized: '<style="Blue">Hurt</style>: Gain {Effect0.ValueInt} <style="Blue">Dodge</style>'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 63320537472024576
+    m_Localized: Drag the <style="Blue">last Mystling</style> to the <style="Blue">front</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 63320537492996096
+    m_Localized: This creature will apply <smallcaps><style="Blue">Vulnerable</style></smallcaps>
+      to the <style="Blue">last</style> Mystling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 63368020864647168
+    m_Localized: 'Health below half: Gain {Effect0.ValueInt} <style="Blue">Weakness</style> '
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 63760706464907264
+    m_Localized: This creature will <style="Blue">do nothing</style>
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 68491981210370048
+    m_Localized: Become <color=#40E0D0>Exposed</color=#40E0D0> every 4th Round (Increase
+      damage received by 100% for one turn)
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 69187890315378688
+    m_Localized: Uttur
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 69187890344738816
+    m_Localized: 'This creature gains {Effect0.ValueInt} <style="Blue">Vulnerable</style>
+      every turn '
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 70619883263606784
+    m_Localized: Spider
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 70619883288772608
+    m_Localized: Knight
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 70619883288772609
+    m_Localized: 'Start of Round: Apply {Effect0.ValueInt} <style="Blue">Weakness</style>
+      to the last attacking Mystling'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 70619883288772610
+    m_Localized: 'Start of Round: Get {Effect0.ValueInt} <style="Blue">Dodge<style="Blue">'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  - m_Id: 76760452109836288
+    m_Localized: Apply Dodge to Front Enemy
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654809
+  references:
+    version: 2
+    RefIds:
+    - rid: 2105433060097654809
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 3202074980499459
+        - id: 3202074980499460
+        - id: 3202074980499463
+        - id: 32874378098188288
+        - id: 3202074980499466
+        - id: 3202074980499467
+        - id: 3202074980499468
+        - id: 3202074980499469
+        - id: 3202074980499470
+        - id: 3202074980499471
+        - id: 3202074980499472
+        - id: 3202074980499473
+        - id: 3202074980499474
+        - id: 3202074980499475
+        - id: 3202074980499477
+        - id: 3202074980499478
+        - id: 3202074980499479
+        - id: 3202074980499480
+        - id: 3202074980499481
+        - id: 3202074980499482
+        - id: 3202074980499483
+        - id: 3202074980499484
+        - id: 18385638579576832
+        - id: 3202074980499486
+        - id: 3202074980499503
+        - id: 3202074980499504
+        - id: 3202074980499505
+        - id: 30043252048601089
+        - id: 30043252048601088
+        - id: 3202074980499495
+        - id: 3202074980499499
+        - id: 8647932836388864
+        - id: 10073376659939328
+        - id: 12232867249725440
+        - id: 14838014429700096
+        - id: 14838014450671616
+        - id: 14838014450671617
+        - id: 14838014450671618
+        - id: 14838014450671619
+        - id: 15098057276334080
+        - id: 15107087159861248
+        - id: 18375964392235008
+        - id: 18386934791479296
+        - id: 18373772805480449
+        - id: 18373772805480448
+        - id: 18372613688598528
+        - id: 18372613688598529
+        - id: 18372613688598530
+        - id: 18372613688598531
+        - id: 18372613688598532
+        - id: 18372613688598533
+        - id: 18372613688598534
+        - id: 18372613688598535
+        - id: 18372613688598536
+        - id: 18372613688598537
+        - id: 18372613688598538
+        - id: 18372613688598539
+        - id: 20982582464290816
+        - id: 20988887249788928
+        - id: 21275692424437760
+        - id: 21275692445409280
+        - id: 22377819417944064
+        - id: 22377819430526976
+        - id: 23882141503791104
+        - id: 23882141503791105
+        - id: 23882141503791106
+        - id: 23882141503791107
+        - id: 23882141503791108
+        - id: 28198348632694784
+        - id: 28200547500761088
+        - id: 28204206989058048
+        - id: 28205321759563776
+        - id: 28209715775348736
+        - id: 28218877917863936
+        - id: 28624890869432320
+        - id: 28624890886209536
+        - id: 28880172346318848
+        - id: 29980607761162240
+        - id: 29987358854160384
+        - id: 29987358875131904
+        - id: 29987358875131905
+        - id: 29987945507266560
+        - id: 29990354140864512
+        - id: 30026794803470336
+        - id: 30026794803470337
+        - id: 32875559818174464
+        - id: 30026794803470339
+        - id: 30047564703277056
+        - id: 30040975212617728
+        - id: 30040975221006336
+        - id: 30040975221006337
+        - id: 30040975221006338
+        - id: 30040975221006339
+        - id: 30040975221006340
+        - id: 30040975221006341
+        - id: 30040975221006342
+        - id: 30040975221006343
+        - id: 30040975221006344
+        - id: 30047428094795776
+        - id: 30067048314904576
+        - id: 30317001696157696
+        - id: 31416745155698688
+        - id: 32864254604419072
+        - id: 32864254625390592
+        - id: 32864254625390593
+        - id: 32885125649866752
+        - id: 32885125670838272
+        - id: 32885125670838273
+        - id: 33956972290187264
+        - id: 33956972315353088
+        - id: 34099718414868480
+        - id: 40897011834232832
+        - id: 40919038213300224
+        - id: 40937100899590144
+        - id: 40937100899590145
+        - id: 41237795473268736
+        - id: 41239606510821376
+        - id: 41239606510821377
+        - id: 41240425125715968
+        - id: 41266718798061568
+        - id: 41288302803886080
+        - id: 41288302829051904
+        - id: 41288302829051905
+        - id: 41288302829051906
+        - id: 41634209193861120
+        - id: 42678251386118144
+        - id: 42678251419672576
+        - id: 43421786716577792
+        - id: 43809184386457600
+        - id: 44089582999904256
+        - id: 44089583020875776
+        - id: 51448208789938176
+        - id: 51448208810909696
+        - id: 51448208810909697
+        - id: 51448208810909698
+        - id: 51448208810909699
+        - id: 51448208810909700
+        - id: 51448208810909701
+        - id: 51448208810909703
+        - id: 51712258333548544
+        - id: 51714386443706368
+        - id: 51715039991767040
+        - id: 53218264817410048
+        - id: 58687513618882560
+        - id: 58688421891219456
+        - id: 58691717615919104
+        - id: 58691793004339200
+        - id: 61231874130952192
+        - id: 63320537472024576
+        - id: 63320537492996096
+        - id: 63368020864647168
+        - id: 63760706464907264
+        - id: 68491981210370048
+        - id: 69187890315378688
+        - id: 69187890344738816
+        - id: 70619883263606784
+        - id: 70619883288772608
+        - id: 70619883288772609
+        - id: 70619883288772610
+        - id: 76760452109836288

@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -299433217, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: Tamers Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Tamers
+  m_TableCollectionNameGuidString: 3ff1859342fb87b4991ebcc4b41de820
+  m_Entries:
+  - m_Id: 54659618039738368
+    m_Key: TamerName_Default
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54659618073292800
+    m_Key: TamerDesc_Default
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54659618073292801
+    m_Key: TamerName_EvolveMyst
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78626348725248000
+    m_Key: TamerDesc_EvolveMyst
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78626348750413824
+    m_Key: TamerDesc_EvolveMyst_Short
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69538106172317696
+    m_Key: TamerEvolveMyst_Blessing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69538106197483520
+    m_Key: TamerEvolveMyst_Blessing_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54659618073292803
+    m_Key: TamerName_Mystberries
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54659618073292804
+    m_Key: TamerDesc_Mystberries
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68455510805913600
+    m_Key: TamerDesc_Mystberries_Short
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54659618073292805
+    m_Key: TamerName_TwoMyst
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54659618073292806
+    m_Key: TamerDesc_TwoMyst
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68455510805913601
+    m_Key: TamerDesc_TwoMyst_Short
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54659618073292807
+    m_Key: TamerName_ActivateTwice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54659618073292808
+    m_Key: TamerDesc_ActivateTwice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68455510805913602
+    m_Key: TamerDesc_ActivateTwice_Short
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69538106197483521
+    m_Key: TamerActivateTwice_Status
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69538106197483522
+    m_Key: TamerActivateTwice_Status_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54659618073292809
+    m_Key: TamerName_DoubleDamage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54659618073292810
+    m_Key: TamerDesc_DoubleDamage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68455510805913603
+    m_Key: TamerDesc_DoubleDamage_Short
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69538106197483523
+    m_Key: TamerDoubleDamage_Status
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69538106197483524
+    m_Key: TamerDoubleDamage_Status_desc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10119456537821184
+    m_Key: 'TamerName_Locked
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10119527421558784
+    m_Key: TamerDesc_Locked
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7337901169320132614
+  references:
+    version: 2
+    RefIds:
+    - rid: 7337901169320132614
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1702301944423

@@ -1,0 +1,1024 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -622809992, guid: 76ad3cbe9d98d83f7de53e0a92768023, type: 3}
+  m_Name: NewEnemies_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: adcfc443eb956b24bacf98517e3ba782, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2105433060097654812
+  m_TableData:
+  - m_Id: 3202074980499459
+    m_Localized: Dunkler Eftus
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 3202074980499460
+    m_Localized: Terok
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 3202074980499463
+    m_Localized: Eldrithia
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 3202074980499466
+    m_Localized: Phantom-Pinequeak
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 3202074980499467
+    m_Localized: Phantom-Iceling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 3202074980499468
+    m_Localized: Phantom-Golomo
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 3202074980499469
+    m_Localized: Phantom-Glarexus
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 3202074980499470
+    m_Localized: Phantom-Prowler
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 3202074980499471
+    m_Localized: Schaden
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 3202074980499472
+    m_Localized: "Schw\xE4chung"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 3202074980499473
+    m_Localized: Ausruhen
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 3202074980499474
+    m_Localized: "Bet\xE4ubt"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 3202074980499475
+    m_Localized: "Diese Kreatur f\xFChrt einen <style=\"Blue\">Angriff</style> gegen
+      den <style=\"Blue\">vordersten</style> Mystling aus und bewirkt {Action.Power}
+      <style=\"Blue\">Schaden</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 3202074980499477
+    m_Localized: "Diese Kreatur f\xFChrt einen <style=\"Blue\">Angriff</style> gegen
+      den <style=\"Blue\">letzten</style> Mystling aus und bewirkt {Action.Power}
+      <style=\"Blue\">Schaden</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 3202074980499478
+    m_Localized: "Diese Kreatur f\xFChrt einen <style=\"Blue\">Angriff</style> gegen
+      einen <style=\"Blue\">zuf\xE4lligen</style> Mystling aus und bewirkt {Action.Power}
+      <style=\"Blue\">Schaden</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 3202074980499479
+    m_Localized: "Diese Kreatur bewirkt {Action.Repeat}-mal {Effect0.ValueInt} <style=\"Blue\">Schaden</style>
+      bei <style=\"Blue\">zuf\xE4lligen</style> Mystlingen."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 3202074980499480
+    m_Localized: "Diese Kreatur f\xFChrt einen <style=\"Blue\">Angriff</style> gegen
+      <style=\"Blue\">alle Mystlinge</style> aus und bewirkt {Action.Power} <style=\"Blue\">Schaden</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 3202074980499481
+    m_Localized: "Diese Kreatur bewirkt <style=\"Blue\">Schaden</style> in H\xF6he
+      ihrer aktuellen <style=\"Blue\">Gesundheit</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 3202074980499482
+    m_Localized: Ausruhen
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 3202074980499483
+    m_Localized: "Diese Kreatur bewirkt eine St\xE4rkung."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 3202074980499484
+    m_Localized: "Diese Kreatur bewirkt eine Schw\xE4chung."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 3202074980499485
+    m_Localized: Bewege einen Mystling an die vorderste Position.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 3202074980499486
+    m_Localized: "Diese Kreatur <style=\"Blue\">beschw\xF6rt</style> eine Kreatur."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 14838014429700096
+    m_Localized: "St\xE4rkung"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 18375964392235008
+    m_Localized: Ziehe den Mystling mit der <style="Blue">niedrigsten Gesundheit</style>
+      nach <style="Blue">vorne</style>.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 30040975212617728
+    m_Localized: Wurm
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 30040975221006336
+    m_Localized: Nekrowurm
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 30040975221006339
+    m_Localized: Shadeclaw
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 30040975221006340
+    m_Localized: Ghostclaw
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 30040975221006341
+    m_Localized: Darktailen
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 30040975221006342
+    m_Localized: Fourtailen
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 32864254604419072
+    m_Localized: Phantamer
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 33956972290187264
+    m_Localized: "Diese Kreatur f\xFChrt 5-mal einen <style=\"Blue\">Angriff</style>
+      gegen den vordersten Mystling aus und bewirkt {Action.Power} <style=\"Blue\">Schaden</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 69187890315378688
+    m_Localized: Uttur
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 30040975221006337
+    m_Localized: Kleiner Wurm
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 30040975221006338
+    m_Localized: Kleiner Nekrowurm
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 70619883263606784
+    m_Localized: Spinne
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 70619883288772608
+    m_Localized: Ritter
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 22377819417944064
+    m_Localized: Dunkler Prowler
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 22377819430526976
+    m_Localized: Dunkle-Drosithia-Ei
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 30043252048601088
+    m_Localized: Niedere Dunkle Drosithia
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 30043252048601089
+    m_Localized: Dunkle Drosithia
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 28880172346318848
+    m_Localized: Gremlin
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 29987358854160384
+    m_Localized: Niederer Shadowling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 29987358875131904
+    m_Localized: Shadowling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 44089582999904256
+    m_Localized: Erhabener Shadowling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 44089583020875776
+    m_Localized: Gesichtsloser Shadowling
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 29987358875131905
+    m_Localized: Sneakabbys
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 41288302803886080
+    m_Localized: Roter Fungusmo
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 41288302829051904
+    m_Localized: "Gr\xFCner Fungusmo"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 30067048314904576
+    m_Localized: Niederer Umbra
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 41239606510821376
+    m_Localized: Skitterpaw-Ei
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 51448208789938176
+    m_Localized: Darkeye
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 51448208810909696
+    m_Localized: Blauer Darkeye
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 51448208810909697
+    m_Localized: Centervil
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 51448208810909698
+    m_Localized: Siren
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 51448208810909699
+    m_Localized: Dogring
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 32864254625390592
+    m_Localized: Umbra
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 41239606510821377
+    m_Localized: Skitterpaw
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 43421786716577792
+    m_Localized: Kristall der Finsternis
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 32864254625390593
+    m_Localized: "Spezialf\xE4higkeit"
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 30040975221006343
+    m_Localized: "Wenn diese Kreatur <style=\"Blue\">kampfunf\xE4hig</style> wird,
+      beschw\xF6rt sie einen Kleinen Wurm."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 30040975221006344
+    m_Localized: "Wenn diese Kreatur <style=\"Blue\">kampfunf\xE4hig</style> wird,
+      beschw\xF6rt sie einen Nekrowurm."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 3202074980499495
+    m_Localized: "Rundenbeginn: Diese Kreatur erh\xE4lt {Effect0.ValueInt} <style=\"Blue\">Dornen</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 32874378098188288
+    m_Localized: "Diese Kreatur ist immun gegen <style=\"Blue\">Bet\xE4uben</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 32875559818174464
+    m_Localized: Permanenter Lebensraub
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 32885125649866752
+    m_Localized: 'Rundenbeginn: Stiehl {Effect1.ValueInt} Mystbeere ODER {Effect0.ValueInt}
+      Gold.'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 42678251386118144
+    m_Localized: "Wenn diese Kreatur <style=\"Blue\">angegriffen</style> wird, erh\xE4lt
+      sie {Effect0.ValueInt} <style=\"Blue\">Zorn</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 42678251419672576
+    m_Localized: Wenn diese Kreatur <style="Blue">angegriffen</style> wird, bewirkt
+      sie {Effect0.ValueInt} <style="Blue">Verwundbarkeit</style> beim angreifenden
+      Mystling.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 41288302829051905
+    m_Localized: "Nachdem diese Kreatur aus dem Boden aufsteigt, erh\xE4lt sie 10
+      max. Gesundheit und 3 <style=\"Blue\">Zorn</style> je 1 fehlende Gesundheit.\nWenn
+      sie in den Boden eintaucht, erh\xE4lt sie <style=\"Blue\">Abschirmen</style>
+      und reduziert ihre max. Gesundheit."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 41288302829051906
+    m_Localized: Nachdem diese Kreatur aus dem Boden aufsteigt, explodiert sie und
+      bewirkt 20 Schaden bei jeder Kreatur.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 63368020864647168
+    m_Localized: "Gesundheit unter H\xE4lfte: Erhalte {Effect0.ValueInt} <style=\"Blue\">Schw\xE4che</style>. "
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 28198348632694784
+    m_Localized: "Gesundheit unter H\xE4lfte: Erhalte {Effect0.ValueInt} <style=\"Blue\">Zorn</style>. "
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 69187890344738816
+    m_Localized: "Diese Kreatur erh\xE4lt jeden Zug {Effect0.ValueInt} <style=\"Blue\">Verwundbarkeit</style>. "
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 28204206989058048
+    m_Localized: "Gesundheit unter H\xE4lfte: Erhalte {Effect0.ValueInt} <style=\"Blue\">Permanenter
+      Mehrfachangriff</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 29980607761162240
+    m_Localized: "Anderer Gremlin wird <style=\"Blue\">kampfunf\xE4hig</style>: Stelle
+      die volle Gesundheit wieder her, erhalte {Effect1.ValueInt} <style=\"Blue\">Schilde</style>
+      und {Effect3.ValueInt} <style=\"Blue\">Zorn</style>.<br>Behalte <style=\"Blue\">Schilde</style>
+      am Ende der Runde."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 70619883288772609
+    m_Localized: "Rundenbeginn: Wirke {Effect0.ValueInt} <style=\"Blue\">Schw\xE4che</style>
+      beim letzten angreifenden Mystling."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 70619883288772610
+    m_Localized: 'Rundenbeginn: Erhalte {Effect0.ValueInt} <style="Blue">Ausweichen</style>.'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 30317001696157696
+    m_Localized: "Wenn <style=\"Blue\">angegriffen</style>: Erhalte {Effect0.ValueInt}
+      <style=\"Blue\">Zorn</style><br>Werde jede 4. Runde <style=\"Blue\">ungesch\xFCtzt</style>
+      (Erh\xF6he den erlittenen Schaden f\xFCr einen Zug um 100 % und erhalte anschlie\xDFend
+      <style=\"Blue\">Schw\xE4che</style> statt <style=\"Blue\">Zorn</style>)."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 32885125670838272
+    m_Localized: "Immunit\xE4t gegen <style=\"Blue\">Bet\xE4ubung</style>.<br>Kampfbeginn:
+      Erhalte {Effect1.ValueInt} <style=\"Blue\">Ausweichen</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 32885125670838273
+    m_Localized: "Immunit\xE4t gegen <style=\"Blue\">Bet\xE4uben</style>.<br>Rundenbeginn:
+      Beschw\xF6re 2 Phantome, wenn m\xF6glich.<br>Phantom <style=\"Blue\">kampfunf\xE4hig</style>:
+      Verliere {Effect3.ValueInt} <style=\"Blue\">LP</style> und erhalte {Effect2.ValueInt}
+      <style=\"Blue\">Zorn</style>. "
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 51448208810909700
+    m_Localized: 'Behalte <style="Blue">Schilde</style> zwischen Runden.<br>Wenn
+      <style="Blue">angegriffen</style>: Erhalte {Effect0.ValueInt} <style="Blue">Dornen</style>.'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 51448208810909701
+    m_Localized: "<style=\"Blue\">Kampfunf\xE4hig</style>: Wirke {Effect0.ValueInt}
+      <style=\"Blue\">Dornen</style> gegen alle Gegner f\xFCr jede \xFCberlebte Runde."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 51448208810909703
+    m_Localized: 'Karte gespielt: Heile {Effect0.ValueInt} Gesundheit.'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 61231874130952192
+    m_Localized: '<style="Blue">Verletzt</style>: Erhalte {Effect0.ValueInt}<style="Blue">Ausweichen</style>.'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 3202074980499499
+    m_Localized: "Karte gespielt: Erhalte {Effect0.ValueInt} <style=\"Blue\">St\xE4rke</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 28200547500761088
+    m_Localized: '<style="Blue">Verletzt</style>: Erhalte {Effect0.ValueInt} <style="Blue">Verwundbarkeit</style>
+      und wirke {Effect1.ValueInt} <style="Blue">Verwundbarkeit</style> auf den angreifenden
+      Mystling.'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 41240425125715968
+    m_Localized: "Immunit\xE4t gegen <style=\"Blue\">Bet\xE4ubung</style>.<br>Gesundheit
+      unter H\xE4lfte: Absorbiere ein hinteres Ei und erhalte {Effect2.ValueInt}
+      max. Gesundheit und {Effect1.ValueInt} <style=\"Blue\">Zorn</style> zu Beginn
+      der n\xE4chsten Runde."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 30026794803470336
+    m_Localized: 'Wenn <style="Blue">angegriffen</style>: Erhalte {Effect0.ValueInt}
+      <style="Blue">Mehrfachangriff</style>.'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 30026794803470337
+    m_Localized: "Gesundheit unter H\xE4lfte: Erhalte {Effect0.ValueInt} <style=\"Blue\">Permanenter
+      Mehrfachangriff</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 30026794803470339
+    m_Localized: 'Geht immer ganz nach vorn.<br>Kampfbeginn: Erhalte {Effect1.ValueInt}
+      <style="Blue">Schilde</style>.'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 29987945507266560
+    m_Localized: Diese Kreatur bewirkt {Action.Power} <style="Blue">Schaden</style>
+      bei <style="Blue">sich selbst</style>.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 53218264817410048
+    m_Localized: "Diese Kreatur f\xFChrt 3-mal einen <style=\"Blue\">Angriff</style>
+      gegen den vordersten Mystling aus und bewirkt {Action.Power} <style=\"Blue\">Schaden</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 41237795473268736
+    m_Localized: "Diese Kreatur f\xFChrt 6-mal einen <style=\"Blue\">Angriff</style>
+      gegen den vordersten Mystling aus und bewirkt {Action.Power} <style=\"Blue\">Schaden</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 33956972315353088
+    m_Localized: "Diese Kreatur f\xFChrt 10-mal einen <style=\"Blue\">Angriff</style>
+      gegen den vordersten Mystling aus und bewirkt {Action.Power} <style=\"Blue\">Schaden</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 21275692424437760
+    m_Localized: "Diese Kreatur f\xFChrt einen <style=\"Blue\">Angriff</style> gegen
+      den <style=\"Blue\">mittleren</style> Mystling aus und bewirkt {Action.Power}
+      <style=\"Blue\">Schaden</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 43809184386457600
+    m_Localized: Diese Kreatur bewirkt {Action.Power} <style="Blue">Schaden</style>
+      bei <style="Blue">allen</style> Kreaturen.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 40897011834232832
+    m_Localized: Diese Kreatur <style="Blue">explodiert</style>, nachdem sie angegriffen
+      hat.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 21275692445409280
+    m_Localized: "Diese Kreatur f\xFChrt einen <style=\"Blue\">Angriff</style> gegen
+      den Mystling mit der <style=\"Blue\">niedrigsten Gesundheit</style> aus und
+      bewirkt {Action.Power} <style=\"Blue\">Schaden</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 63760706464907264
+    m_Localized: Diese Kreatur <style="Blue">tut nichts</style>.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 28209715775348736
+    m_Localized: Diese Kreatur bereitet einen <style="Blue">Starken Angriff</style>
+      vor.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 76760452109836288
+    m_Localized: Wirke Ausweichen auf den vordersten Gegner.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 63320537472024576
+    m_Localized: Ziehe den <style="Blue">letzten Mystling</style> nach <style="Blue">vorne</style>.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 41266718798061568
+    m_Localized: Diese Kreatur tritt in eine andere <style="Blue">Phase</style> ein.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 3202074980499503
+    m_Localized: In Runde 4
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 3202074980499504
+    m_Localized: In Runde 5
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 3202074980499505
+    m_Localized: In Runde 6
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 14838014450671616
+    m_Localized: Fluch
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 14838014450671617
+    m_Localized: "1 Energiepunkt weniger n\xE4chste Runde."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 14838014450671618
+    m_Localized: "F\xFCge dem Deck 1 <style=\"Blue\">Fluchkarte</style> hinzu."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 14838014450671619
+    m_Localized: "Erh\xF6he die Energiekosten der n\xE4chsten gezogenen Karte."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 31416745155698688
+    m_Localized: "Erh\xF6he die Energiekosten der n\xE4chsten {Effect0.ValueInt}
+      gezogenen Karten."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 15098057276334080
+    m_Localized: Stiehl Mystbeeren vom Spieler.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 15107087159861248
+    m_Localized: "Reduziere das Kartenlimit des Spielers f\xFCr eine Runde."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 41634209193861120
+    m_Localized: "Alle in der n\xE4chsten Runde gespielten Karten sind ersch\xF6pft."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 28205321759563776
+    m_Localized: "Diese Kreatur wirkt <smallcaps><style=\"Blue\">Schw\xE4che</style></smallcaps>
+      auf <style=\"Blue\">sich selbst</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 18372613688598528
+    m_Localized: "Diese Kreatur wirkt <smallcaps><style=\"Blue\">Schw\xE4che</style></smallcaps>
+      auf den <style=\"Blue\">vordersten</style> Mystling."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 18372613688598529
+    m_Localized: "Diese Kreatur wirkt <smallcaps><style=\"Blue\">Schw\xE4che</style></smallcaps>
+      auf einen <style=\"Blue\">zuf\xE4lligen</style> Mystling."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 28218877917863936
+    m_Localized: Diese Kreatur wirkt <smallcaps><style="Blue">Verwundbarkeit</style></smallcaps>
+      auf <style="Blue">sich selbst</style>.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 18372613688598530
+    m_Localized: Diese Kreatur wirkt <smallcaps><style="Blue">Verwundbarkeit</style></smallcaps>
+      auf den <style="Blue">vordersten</style> Mystling.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 63320537492996096
+    m_Localized: Diese Kreatur wirkt <smallcaps><style="Blue">Verwundbarkeit</style></smallcaps>
+      auf den <style="Blue">letzten</style> Mystling.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 18385638579576832
+    m_Localized: Diese Kreatur wirkt <smallcaps><style="Blue">Verwundbarkeit</style></smallcaps>
+      auf <style="Blue">alle</style> Mystlinge.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 18386934791479296
+    m_Localized: Diese Kreatur wirkt <smallcaps><style="Blue">Verwundbarkeit</style></smallcaps>
+      auf den Mystling mit der <style="Blue">niedrigsten</style> Gesundheit.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 20988887249788928
+    m_Localized: "Diese Kreatur wirkt <smallcaps><style=\"Blue\">Verwundbarkeit</style></smallcaps>
+      auf einen <style=\"Blue\">zuf\xE4lligen</style> Mystling."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 18373772805480448
+    m_Localized: "Diese Kreatur <smallcaps><style=\"Blue\">bet\xE4ubt</style></smallcaps>
+      den <style=\"Blue\">vordersten</style> Mystling."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 18373772805480449
+    m_Localized: "Diese Kreatur <smallcaps><style=\"Blue\">bet\xE4ubt</style></smallcaps>
+      den <style=\"Blue\">mittleren</style> Mystling."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 29990354140864512
+    m_Localized: "Diese Kreatur <smallcaps><style=\"Blue\">bet\xE4ubt</style></smallcaps>
+      einen <style=\"Blue\">zuf\xE4lligen</style> Mystling."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 34099718414868480
+    m_Localized: "Diese Kreatur <smallcaps><style=\"Blue\">bet\xE4ubt</style></smallcaps>
+      <style=\"Blue\">alle</style> Mystlinge."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 51714386443706368
+    m_Localized: "Diese Kreatur wirkt <smallcaps><style=\"Blue\">S\xE4ure</style></smallcaps>
+      auf den <style=\"Blue\">vordersten</style> Mystling."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 51715039991767040
+    m_Localized: "Diese Kreatur wirkt <smallcaps><style=\"Blue\">S\xE4ure</style></smallcaps>
+      auf einen <style=\"Blue\">zuf\xE4lligen</style> Mystling."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 18372613688598531
+    m_Localized: "Diese Kreatur erh\xE4lt <smallcaps><style=\"Blue\">Ausweichen</style></smallcaps>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 18372613688598532
+    m_Localized: "Diese Kreatur erh\xE4lt <smallcaps><style=\"Blue\">Zorn</style></smallcaps>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 18372613688598533
+    m_Localized: Diese Kreatur wirkt <smallcaps><style="Blue">Zorn</style></smallcaps>
+      auf den <style="Blue">vordersten</style> Gegner.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 18372613688598534
+    m_Localized: Diese Kreatur wirkt <smallcaps><style="Blue">Zorn</style></smallcaps>
+      auf <style="Blue">alle</style> Gegner.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 18372613688598535
+    m_Localized: "Diese Kreatur erh\xE4lt <smallcaps><style=\"Blue\">Schilde</style></smallcaps>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 18372613688598536
+    m_Localized: "Diese Kreatur erh\xE4lt <smallcaps><style=\"Blue\">Dornen</style></smallcaps>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 18372613688598537
+    m_Localized: Diese Kreatur wirkt <smallcaps><style="Blue">Dornen</style></smallcaps>
+      auf den <style="Blue">vordersten</style> Gegner.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 18372613688598538
+    m_Localized: Diese Kreatur <style="Blue">heilt</style> <style="Blue">sich selbst</style>.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 18372613688598539
+    m_Localized: Diese Kreatur <style="Blue">heilt</style> den <style="Blue">vordersten</style>
+      Gegner.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 40919038213300224
+    m_Localized: "Diese Kreatur erh\xE4lt <smallcaps><style=\"Blue\">Lebensraub</style></smallcaps>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 51712258333548544
+    m_Localized: "Diese Kreatur wird f\xFCr eine Runde <smallcaps><style=\"Blue\">unzerst\xF6rbar</style></smallcaps>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 40937100899590144
+    m_Localized: Diese Kreatur nimmt eine <smallcaps><style="Blue">Schattengestalt</style></smallcaps>
+      an.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 40937100899590145
+    m_Localized: Diese Kreatur legt ihre <smallcaps><style="Blue">Schattengestalt</style></smallcaps>
+      ab.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 23882141503791104
+    m_Localized: <smallcaps><style="Blue">Verwunde</style></smallcaps> und bewirke
+      {Effect0.ValueInt} <style="Blue">Schaden</style>.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 23882141503791105
+    m_Localized: <smallcaps><style="Blue">Verwunde</style></smallcaps> den mittleren
+      Mystling und bewirke {Effect0.ValueInt} <style="Blue">Schaden</style>.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 23882141503791106
+    m_Localized: <smallcaps><style="Blue">Verwunde</style></smallcaps> den letzten
+      Mystling und bewirke {Effect0.ValueInt} <style="Blue">Schaden</style>.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 23882141503791107
+    m_Localized: <smallcaps><style="Blue">Verwunde</style></smallcaps> alle Mystlinge
+      und bewirke {Effect0.ValueInt} <style="Blue">Schaden</style>.
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 23882141503791108
+    m_Localized: "<smallcaps><style=\"Blue\">Verwunde</style></smallcaps> einen zuf\xE4lligen
+      Mystling und bewirke {Effect0.ValueInt} <style=\"Blue\">Schaden</style>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 28624890869432320
+    m_Localized: "Diese Kreatur geht f\xFCr {Effect0.ValueInt} Runden in <smallcaps><style=\"Blue\">Abwehrhaltung</style></smallcaps>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 28624890886209536
+    m_Localized: "Diese Kreatur ist f\xFCr {Effect0.ValueInt} Runde <smallcaps><style=\"Blue\">ungesch\xFCtzt</style></smallcaps>."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 30047564703277056
+    m_Localized: 'Diese Kreatur wirkt einen <style="Blue">Fluch</style>: <smallcaps><style="Blue">Stiehl</style></smallcaps>
+      {Effect0.ValueInt} Gold oder 1 Mystbeere.'
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  - m_Id: 30047428094795776
+    m_Localized: "Diese Kreatur wirkt einen <style=\"Blue\">Fluch</style>: Entferne
+      alle St\xE4rkungen vom vordersten Mystling."
+    m_Metadata:
+      m_Items:
+      - rid: 2105433060097654812
+  references:
+    version: 2
+    RefIds:
+    - rid: 2105433060097654812
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 3202074980499459
+        - id: 3202074980499460
+        - id: 3202074980499463
+        - id: 3202074980499466
+        - id: 3202074980499467
+        - id: 3202074980499468
+        - id: 3202074980499469
+        - id: 3202074980499470
+        - id: 3202074980499471
+        - id: 3202074980499472
+        - id: 3202074980499473
+        - id: 3202074980499474
+        - id: 3202074980499475
+        - id: 3202074980499477
+        - id: 3202074980499478
+        - id: 3202074980499479
+        - id: 3202074980499480
+        - id: 3202074980499481
+        - id: 3202074980499482
+        - id: 3202074980499483
+        - id: 3202074980499484
+        - id: 3202074980499485
+        - id: 3202074980499486
+        - id: 14838014429700096
+        - id: 18375964392235008
+        - id: 30040975212617728
+        - id: 30040975221006336
+        - id: 30040975221006339
+        - id: 30040975221006340
+        - id: 30040975221006341
+        - id: 30040975221006342
+        - id: 32864254604419072
+        - id: 33956972290187264
+        - id: 69187890315378688
+        - id: 30040975221006337
+        - id: 30040975221006338
+        - id: 70619883263606784
+        - id: 70619883288772608
+        - id: 22377819417944064
+        - id: 22377819430526976
+        - id: 30043252048601088
+        - id: 30043252048601089
+        - id: 28880172346318848
+        - id: 29987358854160384
+        - id: 29987358875131904
+        - id: 44089582999904256
+        - id: 44089583020875776
+        - id: 29987358875131905
+        - id: 41288302803886080
+        - id: 41288302829051904
+        - id: 30067048314904576
+        - id: 41239606510821376
+        - id: 51448208789938176
+        - id: 51448208810909696
+        - id: 51448208810909697
+        - id: 51448208810909698
+        - id: 51448208810909699
+        - id: 32864254625390592
+        - id: 41239606510821377
+        - id: 43421786716577792
+        - id: 32864254625390593
+        - id: 30040975221006343
+        - id: 30040975221006344
+        - id: 3202074980499495
+        - id: 32874378098188288
+        - id: 32875559818174464
+        - id: 32885125649866752
+        - id: 42678251386118144
+        - id: 42678251419672576
+        - id: 41288302829051905
+        - id: 41288302829051906
+        - id: 63368020864647168
+        - id: 28198348632694784
+        - id: 69187890344738816
+        - id: 28204206989058048
+        - id: 29980607761162240
+        - id: 70619883288772609
+        - id: 70619883288772610
+        - id: 30317001696157696
+        - id: 32885125670838272
+        - id: 32885125670838273
+        - id: 51448208810909700
+        - id: 51448208810909701
+        - id: 51448208810909703
+        - id: 61231874130952192
+        - id: 3202074980499499
+        - id: 28200547500761088
+        - id: 41240425125715968
+        - id: 30026794803470336
+        - id: 30026794803470337
+        - id: 30026794803470339
+        - id: 29987945507266560
+        - id: 53218264817410048
+        - id: 41237795473268736
+        - id: 33956972315353088
+        - id: 21275692424437760
+        - id: 43809184386457600
+        - id: 40897011834232832
+        - id: 21275692445409280
+        - id: 63760706464907264
+        - id: 28209715775348736
+        - id: 76760452109836288
+        - id: 63320537472024576
+        - id: 41266718798061568
+        - id: 3202074980499503
+        - id: 3202074980499504
+        - id: 3202074980499505
+        - id: 14838014450671616
+        - id: 14838014450671617
+        - id: 14838014450671618
+        - id: 14838014450671619
+        - id: 31416745155698688
+        - id: 15098057276334080
+        - id: 15107087159861248
+        - id: 41634209193861120
+        - id: 28205321759563776
+        - id: 18372613688598528
+        - id: 18372613688598529
+        - id: 28218877917863936
+        - id: 18372613688598530
+        - id: 63320537492996096
+        - id: 18385638579576832
+        - id: 18386934791479296
+        - id: 20988887249788928
+        - id: 18373772805480448
+        - id: 18373772805480449
+        - id: 29990354140864512
+        - id: 34099718414868480
+        - id: 51714386443706368
+        - id: 51715039991767040
+        - id: 18372613688598531
+        - id: 18372613688598532
+        - id: 18372613688598533
+        - id: 18372613688598534
+        - id: 18372613688598535
+        - id: 18372613688598536
+        - id: 18372613688598537
+        - id: 18372613688598538
+        - id: 18372613688598539
+        - id: 40919038213300224
+        - id: 51712258333548544
+        - id: 40937100899590144
+        - id: 40937100899590145
+        - id: 23882141503791104
+        - id: 23882141503791105
+        - id: 23882141503791106
+        - id: 23882141503791107
+        - id: 23882141503791108
+        - id: 28624890869432320
+        - id: 28624890886209536
+        - id: 30047564703277056
+        - id: 30047428094795776
