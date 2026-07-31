@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1960576706, guid: 8c920e92afd4214e620eb7d903094e08, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier:
+  TotalMessagesSubmitted: 0
+  TotalMessagesFailed: 0
+  DesignMessagesSubmitted: 0
+  DesignMessagesFailed: 0
+  QualityMessagesSubmitted: 0
+  QualityMessagesFailed: 0
+  ErrorMessagesSubmitted: 0
+  ErrorMessagesFailed: 0
+  BusinessMessagesSubmitted: 0
+  BusinessMessagesFailed: 0
+  UserMessagesSubmitted: 0
+  UserMessagesFailed: 0
+  CustomArea:
+  gameKey:
+  - c85253d81bed106cbb6455db0074d6dc
+  secretKey:
+  - e9fad8a7f80db03db6abcf310be02d8659ac2b81
+  Build:
+  - 1.0.1
+  SelectedPlatformOrganization:
+  - 
+  SelectedPlatformStudio:
+  - 
+  SelectedPlatformGame:
+  - 
+  SelectedPlatformGameID: ffffff/f
+  SelectedOrganization: 00000000
+  SelectedStudio: 00000000
+  SelectedGame: 00000000
+  NewVersion:
+  Changes:
+  SignUpOpen: 1
+  StudioName:
+  GameName:
+  OrganizationName:
+  OrganizationIdentifier:
+  EmailGA:
+  IntroScreen: 0
+  InfoLogEditor: 0
+  InfoLogBuild: 0
+  VerboseLogBuild: 0
+  UseManualSessionHandling: 0
+  SendExampleGameDataToMyGame: 0
+  InternetConnectivity: 0
+  CustomDimensions01:
+  - DifficultyLevel_0
+  - DifficultyLevel_1
+  - DifficultyLevel_2
+  - DifficultyLevel_3
+  - DifficultyLevel_4
+  CustomDimensions02: []
+  CustomDimensions03: []
+  ResourceItemTypes: []
+  ResourceCurrencies: []
+  LastCreatedGamePlatform: 0
+  Platforms: 02000000
+  CurrentInspectorState: 1
+  ClosedHints:
+  DisplayHints: 0
+  DisplayHintsScrollState: {x: 0, y: 0}
+  Logo: {fileID: 2800000, guid: 1ea373162ad144745915f7b312bbb538, type: 3}
+  UpdateIcon: {fileID: 2800000, guid: af37874b9dd69564daca9c3e2129d159, type: 3}
+  InfoIcon: {fileID: 2800000, guid: 514bb9bd7b8c29a409cd6d68ce0ccd11, type: 3}
+  DeleteIcon: {fileID: 2800000, guid: 6de88e4b1f3e2574bbfd2cee5793c4bb, type: 3}
+  GameIcon: {fileID: 2800000, guid: 98ae273e1248dc44c9306e96e0980f0c, type: 3}
+  HomeIcon: {fileID: 2800000, guid: 1260ef3b2ed9281458c6bb9f93d2e2ab, type: 3}
+  InstrumentIcon: {fileID: 2800000, guid: 547f7c47254f49944b0e743e649718e7, type: 3}
+  QuestionIcon: {fileID: 2800000, guid: 5f81b5a0cad64b945aa812e0a881cb7e, type: 3}
+  UserIcon: {fileID: 2800000, guid: a5f653dc77bac1b4ead35010eb3862e5, type: 3}
+  AmazonIcon: {fileID: 0}
+  GooglePlayIcon: {fileID: 0}
+  iosIcon: {fileID: 0}
+  macIcon: {fileID: 0}
+  windowsPhoneIcon: {fileID: 0}
+  UsePlayerSettingsBuildNumber: 0
+  SubmitErrors: 1
+  NativeErrorReporting: 0
+  MaxErrorCount: 10
+  SubmitFpsAverage: 0
+  SubmitFpsCritical: 0
+  IncludeGooglePlay: 1
+  FpsCriticalThreshold: 20
+  FpsCirticalSubmitInterval: 1
+  PlatformFoldOut: 01
+  CustomDimensions01FoldOut: 1
+  CustomDimensions02FoldOut: 0
+  CustomDimensions03FoldOut: 0
+  ResourceItemTypesFoldOut: 0
+  ResourceCurrenciesFoldOut: 0
